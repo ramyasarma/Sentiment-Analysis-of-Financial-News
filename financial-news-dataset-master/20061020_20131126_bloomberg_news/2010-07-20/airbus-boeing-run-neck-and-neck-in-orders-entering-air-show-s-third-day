@@ -1,0 +1,79 @@
+-- Airbus, Boeing Run Neck-and-Neck in Splitting Air-Show Orders
+-- Andrea Rothman
+-- 2010-07-20T23:01:00Z
+-- http://www.bloomberg.com/news/2010-07-20/airbus-boeing-run-neck-and-neck-in-orders-entering-air-show-s-third-day.html
+
+          
+          
+             Airbus SAS  and  Boeing Co.  enter the
+third day of the Farnborough Air Show today almost tied on new
+orders after racking up collective contracts for 243 jetliners
+with a value of more than $23 billion at list prices.  
+ Boeing won 121 orders worth $11.6 billion after  Steven Udvar-Hazy ’s Air Lease Corp. bought 54 737-800 single-aisle
+aircraft yesterday. Airbus has sales agreements for 122 jets
+valued at $11.7 billion, excluding 50 A320s ordered by Chile’s
+ LAN Airlines  and subject to confirmation.  
+ Boeing’s total omits three 787 Dreamliner planes bought by
+Royal Jordanian Airlines and 12 737-800 purchased by Dublin-
+based Avolon Leasing Group which had already been included in
+the U.S. company’s without the acquirers being disclosed.  
+ Orders at this year’s Farnborough event stand at more than
+three times the 78 announced at last year’s Paris Air Show, with
+which the U.K. event alternates, and further commitments are
+likely today. The tally trails the 373 firm orders announced by
+Airbus and Boeing in Farnborough in 2008.  
+ Boeing says it no longer hoards orders for air shows, and
+regards the events as useful for the level of contact with other
+manufacturers and airline customers.  
+ Contracts from leasing companies continue to outstrip those
+from airlines, with Air Lease’s 737 deal taking its order total
+to 105 single-aisle models, including 51 A320s. The lessor also
+has options for six more 737s.  
+ General Electric Co. ’s GECAS unit has bought 100 planes, 60
+of them Airbus narrow-bodies and the other 40 737s.  
+ Royal Bank of Scotland Group Plc ’s leasing unit is also set
+to buy planes, two people familiar with the negotiations say.  
+ Embraer Success  
+ Empresa Brasileira de Aeronautica SA , the world’s fourth-
+largest planemaker, also won orders for 50 regional jets
+yesterday worth almost $1.9 billion at list prices, trumping
+larger competitor  Bombardier Inc.   
+ Flybe, Britain’s biggest domestic airline, added 35 88-seat
+Embraer 175 planes worth $1.3 billion, while Air Lease said it
+would buy 15 larger E190 jets valued at $600 million.  
+ Including contracts announced yesterday, Embraer has won 55
+orders at the Farnborough show, compared with 9 for Bombardier,
+which failed to unveil a new buyer for its CSeries jet at the
+event after a deal with Qatar Airways Ltd. hit a snag on issues
+concerning engine maker Pratt & Whitney.  
+ To contact the reporters on this story:
+ Andrea Rothman  in Farnborough, England, via at   aerothman@bloomberg.net ;
+ Susanna Ray  in Farnborough, England, via 
+ sray7@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A Boeing Co. 787 Dreamliner airplane during the Farnborough International Airshow. Photographer: Simon Dawson/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

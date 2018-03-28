@@ -1,0 +1,68 @@
+-- Breaking the Price Barrier
+-- Jason H. Harper
+-- 2010-07-07T13:49:36Z
+-- http://www.bloomberg.com/news/2010-07-07/breaking-the-price-barrier.html
+
+          
+          
+             The new Lexus LFA
+stretches the Toyota line to the limit.  
+ The latest Lexus model starts at $375,000. Toyota Motor
+Corp., the same company that brings you the 51-mile-per-gallon
+Prius and the $13,000 Yaris, will also be producing the Lexus
+LFA, a 202-mile-per-hour, gasoline-evaporating supercar that
+competes with the $320,000 Ferrari 599 GTB. Talk about a broad
+family tree.  
+ I consider this as I walk around one of three drivable LFA
+prototypes in the world, which is sitting on a racetrack in
+southern New Jersey. The other two are in Japan and Europe.
+Until now, the $109,000 LS 600h L “executive sedan” hybrid was
+the most expensive Lexus.  
+ The LFA is no hybrid. It has beefy carbon-ceramic brakes,
+swollen performance tires and a 552-horsepower V-10 engine that
+will propel it to 60 mph (97 kilometers per hour) in less than
+four seconds.  
+ The LFA is a so-called halo car, designed to showcase the
+company’s hottest designs and highest performance standards.
+Only 500 LFAs will be built during a two-year run, with
+production scheduled to start in December. About 175 will be
+sold in the U.S.  
+ Behind the wheel, steering is precise if a bit light, and on my
+first lap around the track, I swing out too wide and rumble onto
+the extreme edge of a curb. Yet the LFA is beautifully weighted,
+a dancer on the balls of its feet, swiveling easily into tight
+corners. By the eighth lap, I feel comfortable.  
+ The new Lexus brings excitement to the Toyota line--if only for
+a very few customers. Prius and Yaris, meet your new brother.
+Family dinners are going to be more interesting.  
+ Jason H. Harper is in New York at  jason@jasonhharper.com   
+ #<535521.2245115.2.1.46.17993.25>#
+-0- Jul/07/2010 13:49 GMT
+  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     The LFA is designed to compete with the Ferrari 599. Photograph courtesy of Lexus  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

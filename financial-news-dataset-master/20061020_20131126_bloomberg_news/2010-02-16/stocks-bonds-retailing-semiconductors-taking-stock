@@ -1,0 +1,51 @@
+-- Stocks, Bonds, Retailing, Semiconductors: Taking Stock
+-- 
+-- 2010-02-16T22:43:55Z
+-- http://www.bloomberg.com/news/2010-02-16/stocks-bonds-retailing-semiconductors-taking-stock.html
+
+          
+          
+             Dorsey Farr of French Wolf & Farr 
+talks with Bloomberg's David Wilson about the stock and bond 
+markets. Craig Johnson of Customer Growth Partners LLC discusses
+retailers Wal-Mart Stores Inc. and J.C. Penney Co. Crawford Del 
+Prete of IDC talks about Hewlett-Packard Co. and Dell Inc., and 
+Daniel Berenbaum of Auriga USA LLC discusses Intel Corp. and 
+Micron Technology Inc. Bloomberg's Susan Antilla also speaks.  
+  (Source: Bloomberg)  
+ Running time 58:38  
+ -0- Feb/16/2010 22:43 GMT
+  
+          
+          
+
+
+  
+     
+       
+     
+     
+         Audio Download:  Stocks, Bonds, Retailing, Semiconductors 
+     
+ 
+
+
+ 
+     
+         Audio Download:  Stocks, Bonds, Retailing, Semiconductors 
+     
+         
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

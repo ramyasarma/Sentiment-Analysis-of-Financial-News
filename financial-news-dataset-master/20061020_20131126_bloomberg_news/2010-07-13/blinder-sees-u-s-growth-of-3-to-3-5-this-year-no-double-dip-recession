@@ -1,0 +1,53 @@
+-- Blinder Sees U.S. Growth of 3% to 3.5% This Year, No Double-Dip Recession
+-- Carol Massar
+-- 2010-07-13T19:51:52Z
+-- http://www.bloomberg.com/news/2010-07-13/blinder-sees-u-s-growth-of-3-to-3-5-this-year-no-double-dip-recession.html
+
+          
+          
+             Former Federal Reserve Vice Chairman
+ Alan Blinder  said the U.S. economy will probably grow 3 percent
+to 3.5 percent this year, less than his forecast in December for
+as much as 4 percent growth.  
+ “The data over the last couple of months have given
+pause,” Blinder, a Princeton University economist, said in an
+interview today on Bloomberg Television’s “Street Smart.” “I
+still doubt we will have a double dip” recession.  
+ In a December 2009 commentary in The Wall Street Journal,
+Blinder predicted the U.S. economy will expand 3 percent to 4
+percent this year. The economy grew at a 2.7 percent annual rate
+in the first quarter and will expand 3.1 percent for the year,
+according to the median forecast among 54 economists surveyed
+this month by Bloomberg News.  
+ To contact the reporters on this story:
+ Steve Matthews  in Atlanta at 
+ smatthews@bloomberg.net 
+ Carol Massar  in New York at 
+ cmassar@bloomberg.net ;  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Alan Blinder, professor of economics at Princeton University and former vice chairman of the U.S. Federal Reserve. Photographer: Brendan Hoffman/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

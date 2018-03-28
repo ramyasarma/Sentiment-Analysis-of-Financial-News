@@ -1,0 +1,58 @@
+-- Research In Motion Rises As Goldman Boosts Estimates
+-- Lu Wang
+-- 2007-08-20T20:31:14Z
+-- http://www.bloomberg.com/news/2007-08-20/research-in-motion-rises-as-goldman-boosts-estimates-update1-.html
+
+          
+          
+             Research In Motion Ltd. (RIM)  rose to a
+record after Goldman, Sachs & Co. boosted its subscriber
+estimates for the BlackBerry e-mail device and said the stock
+price didn't reflect the company's growth potential.  
+ ``We are still in the early days of wireless email adoption
+and RIM is aggressively expanding business opportunities in key
+ emerging markets ,'' Goldman analyst Brantley Thompson wrote in a
+note to investors.  
+ Thompson raised Research In Motion's share-price estimate by
+13 percent to $295 because the stock price reflects ``an overly
+bearish view'' that subscriber growth will slow after 2009.  
+ Research In Motion will sign up 1.375 million new users in
+the fiscal second quarter, helped by strong sales in the U.S. and
+international demand, Thompson said. That prediction was 19
+percent higher than his previous estimate of 1.35 million.  
+ Shares of Waterloo, Ontario-based Research In Motion
+advanced $15.47, or 7 percent, to $235.99 at 4 p.m. in Nasdaq
+Stock Market trading in  New York . The stock has climbed 85
+percent this year.  
+ To contact the reporter on this story:
+Lu Wang in New York at   lwang8@bloomberg.net   
+ To contact the editor responsible for this story:
+Chris Nagi at   chrisnagi@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Research In Motion Ltd.'s BlackBerry device is displayed for a photograph in Mumbai, April 19, 2007.  Photographer: Scott Eells/Bloomberg News
+  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

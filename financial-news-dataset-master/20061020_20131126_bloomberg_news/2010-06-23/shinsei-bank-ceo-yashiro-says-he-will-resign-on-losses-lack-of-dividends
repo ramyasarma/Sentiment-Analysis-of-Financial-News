@@ -1,0 +1,43 @@
+-- Shinsei Bank CEO Yashiro Says He Will Resign on Losses, Lack of Dividends
+-- Takahiko Hyuga
+-- 2010-06-23T01:37:58Z
+-- http://www.bloomberg.com/news/2010-06-23/shinsei-bank-ceo-yashiro-says-he-will-resign-on-losses-lack-of-dividends.html
+
+          
+          
+                  June 23 (Bloomberg) -- Masamoto Yashiro , Shinsei Bank
+Ltd.’s chief executive officer and president, said he and
+several other managing directors will step down to take
+responsiblity for the bank’s losses and lack of dividends.
+Yashiro spoke today at the company’s annual shareholders
+meeting.  
+ To contact the reporter on this story:
+Takahiko Hyuga in Tokyo at 
+ thyuga@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Shinsei Bank's shareholders entering the bank's headquarters in Tokyo  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

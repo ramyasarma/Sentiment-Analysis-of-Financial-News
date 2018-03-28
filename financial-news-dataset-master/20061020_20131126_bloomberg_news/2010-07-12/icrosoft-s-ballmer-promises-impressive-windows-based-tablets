@@ -1,0 +1,56 @@
+-- Microsoft's Ballmer Promises `Impressive' Windows-based Tablets
+-- Dina Bass
+-- 2010-07-12T20:13:48Z
+-- http://www.bloomberg.com/news/2010-07-12/microsoft-s-ballmer-promises-impressive-windows-based-tablets.html
+
+          
+          
+             Microsoft Corp.  Chief Executive
+Officer  Steve Ballmer  said partners are working on Windows-based
+tablet computers, reaffirming the software maker’s commitment to
+the form factor popularized by Apple Inc.’s iPad.  
+ “Over the course of the next several months, you will see
+a range of Windows 7-based slates that I think you’ll find quite
+impressive,” Ballmer said today at a Microsoft partner
+ conference  in Washington, D.C.  
+ Microsoft and computer-maker partners have been selling
+Windows-based slate devices since 2002 without broad consumer
+adoption. Last month, Apple said it sold 3 million iPads within
+80 days of its release. Computer makers like Taipei-based
+manufacturer Micro-Star International Co. complained Microsoft
+hasn’t yet provided them with a version of Windows that will
+allow them to compete with iPad.  
+ Ballmer also said shipments of the Windows operating system
+are growing at a rate of more than 18 percent.  
+ Microsoft, based in Redmond, Washington,  rose  56 cents to
+$24.83 at 4 p.m. New York time on the Nasdaq Stock Market.  
+ To contact the reporters on this story:
+ Dina Bass  in Seattle at 
+ dbass2@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Microsoft Corp. CEO Steve Ballmer speaks during a meeting in Singapore. Photographer: Munshi Ahmed/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

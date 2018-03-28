@@ -1,0 +1,50 @@
+-- Williams Sisters Defeated at Wimbledon Doubles Match by Vesnina, Zvonareva
+-- James Cone
+-- 2010-06-30T13:18:31Z
+-- http://www.bloomberg.com/news/2010-06-30/williams-sisters-defeated-at-wimbledon-doubles-match-by-vesnina-zvonareva.html
+
+          
+          
+             Top-seeded Serena and Venus Williams
+today lost their Wimbledon Ladies’ Doubles quarterfinal to
+Russia’s Elena Vesnina and Vera Zvonareva 6-3, 3-6, 4-6.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                                                 
+                     
+                     Enlarge image 
+                     
+                     
+                       Serena and Venus Williams  
+                       
+                         
+                           Matthew Stockman/Getty Images 
+                         
+                         Serena and Venus Williams during their Quarter Final doubles match against Elena Vesnina and Vera Zvonareva of Russia. 
+                       
+                     
+                                        
+           
+                     Serena and Venus Williams during their Quarter Final doubles match against Elena Vesnina and Vera Zvonareva of Russia. Photographer: Matthew Stockman/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

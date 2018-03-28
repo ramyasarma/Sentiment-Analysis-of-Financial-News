@@ -1,0 +1,134 @@
+-- Gizmodo Editor's Computers Seized Amid IPhone Flap
+-- Karen Gullo
+-- 2010-04-27T00:43:58Z
+-- http://www.bloomberg.com/news/2010-04-26/gizmodo-says-computers-seized-from-editor-who-covered-iphone-found-in-bar.html
+
+          
+          
+             Gizmodo.com, the technology blog,
+said law enforcement officials seized computers from the home of
+Jason Chen, a staff editor who wrote about a prototype for an
+Apple Inc. iPhone that had been left behind in a bar.  
+ On April 23, members of California’s Rapid Enforcement
+Allied Computer Team, an independent crime task force, “entered
+editor Jason Chen’s home without him present, seizing four
+computers and two servers,” according to a statement on
+Gizmodo’s site, which is owned by Gawker Media.  
+ After Gizmodo purchased the unreleased iPhone from the
+person who found it, investigators want to know whether Chen’s
+computers were used “as the means of committing a felony,”
+according to a published copy of the search warrant. Gawker
+asked police to return the machines, citing laws that protect
+online journalists from having newsroom equipment seized.  
+ “Under both state and federal law, a search warrant may
+not be validly issued to confiscate the property of a
+journalist,” Gawker Chief Operating Officer Gaby Darbyshire
+wrote in a letter to law enforcers posted at Gawker’s Web site.
+“We expect the immediate return of the materials that you
+confiscated.”  
+ The seizure revives debate over whether bloggers should be
+accorded the same status as reporters who work for traditional
+news outlets, said Nick Denton, founder and president of Gawker.  
+ “Are bloggers journalists?,” Denton asked in an e-mail. “I
+guess we’ll find out.”  
+ $5,000 Payment  
+ Gizmodo said it paid $5,000 for the device after it was
+left at a Redwood City, California, bar by an Apple engineer
+identified as Gray Powell. A patron who found the handset on a
+stool and realized it was an unreleased iPhone tried to contact
+Apple to return it, Gizmodo said, citing an interview with the
+unidentified finder.  
+ On April 19, Gizmodo gave back the phone after receiving a
+letter from Bruce Sewell, the company’s general counsel, asking
+for the return of a “device that belongs to Apple.”  
+ Law enforcement officials don’t plan to search Chen’s
+computers until they can determine the validity of Gawker’s
+claim about his status as a journalist, said Stephen Wagstaffe,
+chief deputy district attorney for San Mateo County, which has
+jurisdiction over Redwood City, about 25 miles south of San
+Francisco. That will happen in the coming days, he said.  
+ “What Gizmodo is saying has been addressed to us and is
+being looked at by us and the prosecutor assigned to the
+investigation,” Wagstaffe said in an interview today.  
+ Officer ‘Zeal’  
+ If Gizmodo succeeds in showing that the conduct was
+illegal under laws that shield journalists, including bloggers,
+from such searches, any gathered evidence couldn’t be used in a
+case against the iPhone finder, said Peter Scheer, an attorney
+and executive director of the First Amendment Coalition, a
+nonprofit public interest group.  
+ “In their zeal to get this information, they have made
+themselves extremely vulnerable,” Scheer said.  
+ Wagstaffe declined to say who or what initiated the
+investigation, which is being led by San Mateo County Sheriff’s
+Department detectives assigned to REACT, a task force that
+probes technology-related matters in Silicon Valley.  
+ Any probe may focus on allegations that the person who
+found the phone violated California theft laws, Wagstaffe said.  
+ Chen described the seizure in a six-paragraph letter posted
+on Gizmodo, which also published the search warrant inventory
+provided by REACT. Chen said police kicked in his door while he
+and his wife were out to dinner on April 23.  
+ Search  
+ “I noticed the garage door was half-open, and when I tried
+to open it, officers came out and said they had a warrant to
+search my house and any vehicles on the property ‘in my
+control,’” Chen said. “They then made me place my hands behind
+my head and searched me to make sure I had no weapons or sharp
+objects on me.”  
+ Chen said one of the officers in charge said the situation
+might be a “misunderstanding that could be cleared up if I
+answered some questions. I didn’t say anything in response.”  
+ The search warrant, posted on Gizmodo, gives authority to
+Detective Matthew Broad to seize property -- including
+computers, cameras and storage devices -- that may have been
+“used as the means of committing a felony.” The search
+pertained to the “sale of photographs of the prototype phone
+and/or the sale of the physical prototype of 4G Apple iPhone”
+and “research conducted on Apple employee Gray Powell,”
+including call records and contact lists.  
+ Apple declined to comment, said Steve Dowling, a spokesman
+for the Cupertino, California, company.  
+ According to the inventory list, police took away Chen’s
+Apple MacBook notebooks, iPad and iPhone, Dell Inc. desktop
+computer, digital cameras, a Motorola Inc. phone, flash and disk
+drives, a server computer, documents detailing his bank account
+and credit card information and one box of his business cards.  
+ To contact the reporters on this story:
+Connie Guglielmo in San Francisco at 
+ cguglielmo1@bloomberg.net ;
+Karen Gullo in San Francisco at 
+ kgullo@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          April 20 (Bloomberg) -- Apple Inc.’s next iPhone will feature a front-facing camera, metallic rim and boxier design, according to technology blog site Gizmodo.com, which said it obtained a prototype a company engineer had left at a bar in Redwood City, California. Gizmodo paid $5,000 for the device, disguised as the current 3GS model. Bloomberg's Deirdre Bolton reports. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

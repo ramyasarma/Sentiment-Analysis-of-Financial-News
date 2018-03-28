@@ -1,0 +1,89 @@
+-- Nasdaq-100 Index Posts Record Losing Streak as Microsoft, Apple Retreat
+-- Rita Nazareth
+-- 2010-07-03T04:00:53Z
+-- http://www.bloomberg.com/news/2010-07-03/nasdaq-100-index-posts-record-losing-streak-as-microsoft-apple-retreat.html
+
+          
+          
+             Technology companies are suffering
+some of the U.S. stock market’s biggest losses, sending the
+ Nasdaq-100 Index  to the longest losing streak in its 25-year
+history.  
+ The measure, which gets 63 percent of its value from
+computer-related companies such as Microsoft Corp. and Apple
+Inc., has declined 9.7 percent after slumping 10 consecutive
+days. Microsoft has tumbled 26 percent since peaking on April
+22, while Apple has fallen 9.9 percent in two weeks.  
+ “There is an orderly liquidation of equity positions by
+traders who are taking risk units off the table,” said  Kevin Caron , a market strategist at Stifel Nicolaus & Co. in Florham
+Park, New Jersey, whose clients have about $90 billion in
+assets. “Nasdaq is typically the home of high beta risk units.
+Makes perfect sense.”  
+ U.S. shares are experiencing the largest losses since the
+bull market began in March 2009, when the  Standard & Poor’s 500
+Index  sank to a 12-year low. The benchmark measure of U.S.
+equities has fallen in 9 out of the past 10 days as reports on
+consumer confidence, manufacturing, home sales and employment
+were weaker than economists surveyed by Bloomberg predicted,
+fueling concern the recovery is in peril. The S&P 500 fell 5
+percent since June 25, the biggest weekly loss since May.  
+ “We’re in a psychological bear market,” said  Robert Lutts ,
+president of Cabot Money Management in Salem, Massachusetts,
+which oversees $500 million. “The recent economic setback is
+significant,” and investors are bracing for companies to reduce
+forecasts in the next few weeks, he added.  
+ GDP, Profits  
+ Economists predict that U.S. gross domestic product will
+expand 3.2 percent this year and 2.9 percent in 2011, according
+to the median forecasts in a Bloomberg survey. Profit for
+companies in the  S&P 500  are projected to rise 32 percent to a
+combined $81.72 a share in 2010, according to estimates from
+more than 2,000 analysts tracked by Bloomberg.  
+ Barton Biggs , whose purchase of stocks in March 2009 gave
+Traxis Partners LLC a 38 percent gain last year, said concern
+the economy is about to contract prompted him to sell almost all
+his U.S. technology shares this week.  
+ “I’m worried that we could have not just a soft patch but
+a double dip which lasts two or three quarters, and where
+nominal GDP is only up 2 or 3 percent, and that’ll have a big
+effect on profits,” Biggs said in a Bloomberg Television
+interview yesterday. “It’ll scare everybody, and I’m afraid the
+market goes down another 10 or 15 percent if that happens.”  
+ When stocks rebound, technology shares may be the leaders,
+according to  James Paulsen , who helps oversee about $375 billion
+as chief investment strategist at Wells Capital Management in
+Minneapolis.  
+ Technology is “one of the first groups to go if you go
+into a downward trend,” he said. “It’s going to be one that’s
+going to come back if we turn the corner again.”  
+ To contact the reporters on this story:
+ Lu Wang  in New York at   lwang8@bloomberg.net ;
+ Rita Nazareth  in New York at 
+ rnazareth@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Steve Ballmer, chief executive officer of Microsoft Corp. Photographer: Jeff Holt/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

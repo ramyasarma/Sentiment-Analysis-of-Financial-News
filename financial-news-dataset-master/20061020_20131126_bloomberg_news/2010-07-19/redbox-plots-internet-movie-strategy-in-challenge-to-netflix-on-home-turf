@@ -1,0 +1,147 @@
+-- Redbox Plots Web Strategy in Challenge to Netflix
+-- Michael White
+-- 2010-07-19T20:03:20Z
+-- http://www.bloomberg.com/news/2010-07-19/redbox-plots-internet-movie-strategy-in-challenge-to-netflix-on-home-turf.html
+
+          
+          
+             Redbox , which became the fastest-
+growing U.S. video retailer with DVD kiosks and a $1-a-day
+rental price stores couldn’t match, is developing an online
+strategy to stay competitive with larger rival  Netflix Inc.   
+ The company, the biggest division of  Coinstar Inc. , may use
+a Web service to expand its library beyond the 200 or so titles
+crammed into each of its 24,000 or so DVD dispensers, President
+ Mitch Lowe  said in an interview from Redbox’s headquarters in
+Oakbrook Terrace, Illinois.  
+ “The way we look at it is, How can it help us deliver to
+our customers things we can’t do in our kiosks?” Lowe said.
+“What role might it play in expanding our selection?”  
+ The approach Redbox outlines in October will be designed to
+narrow the gap with Netflix, which offers more than 100,000
+titles by mail and 20,000 older films online. It may also help
+the company take more business from  Blockbuster Inc. , which is
+closing stores and recently skipped a debt payment.  
+ “It’s absolutely imperative for them to have a digital
+story,” said  Ralph Schackart , a New York-based analyst with
+Wiliam Blair & Co. “The question is, what will it look like?”  
+ The transition won’t be easy. Redbox may look to a
+technology company such as  Sonic Solutions Inc.  to obtain know-
+how, said Schackart, who expects shares of Bellevue, Washington-
+based Coinstar to perform in line with the broader market over
+the next 12 months.  
+ Online Imperative  
+ Convenience and a low price have created a winning formula
+for Redbox, which lets shoppers rent discs by swiping a credit
+or debit card.  Sales  from dispensers located in and outside of
+grocery and convenience stores surged 70 percent in the first
+quarter. Technicians in Redbox’s offices monitor the machines,
+which hold multiple copies of films and up to 630 DVDs, for jams
+and other troubles, making sure people don’t leave angry.  
+ At the same time, rivals led by Netflix are attracting
+millions of Web customers with larger selections and cutting out
+the need for stores.  
+ Redbox is losing some business as renters use kiosks to get
+new releases and go to Netflix for older, harder-to-find titles,
+said Lowe, who left Netflix in 2002. His former employer, based
+in Los Gatos, California, increased first-quarter  sales  by 25
+percent with its $8.99-a-month subscription for mail-order
+rentals and unlimited Web viewing.  
+ Steve Swasey , a Netflix spokesman, declined to comment on
+Redbox’s plans. More than half of the company’s 14 million
+customers used the Web to watch films on TVs or other devices.  
+ “Long before we had streaming we had a loved brand and we
+turned it into an even more loved brand with streaming with no
+additional cost,” Swasey said.  
+ Save Time, Money  
+ Redbox also faces competition from Apple Inc. and Best Buy
+Co., which sell movie downloads.  Wal-Mart Stores Inc. , the
+world’s largest retailer, bought the Vudu Inc. online
+entertainment service in February and Sears Holdings Corp., the
+largest department store owner, said on June 22 it plans to sell
+and rent movies online through an agreement with Sonic.  
+ An accord with Novato, California-based Sonic would spare
+Redbox the time and cost of negotiating Web rights with studios,
+Schackart said. Sonic technology is already in DVD players and
+TVs, and the company has rights to thousands of movies.  
+ “Sonic gives Redbox a digital olive branch with the
+studios,” Schackart said.  
+ Sonic provides technology and a library of about 20,000
+movie titles to clients including Best Buy and Sears, Chris
+Taylor, a company spokesman, said in an interview. He declined
+to say whether Sonic is in talks with Coinstar, which also won’t
+comment on the matter.  
+ Legal Battles Ended  
+ Redbox ended legal battles this year with three studios,
+ News Corp. ’s Fox, General Electric Co.’s NBC Universal and Time
+Warner Inc.’s Warner Bros., over access to DVDs. The studios
+agreed to sell discs to Redbox for rental after the movies had
+been in stores for 28 days.  
+ Walt Disney Co., Viacom Inc.’s Paramount Pictures, Sony
+Pictures Entertainment and Lions Gate Entertainment Corp. let
+Redbox offer DVDs when they become available for sale in stores.  
+ While North American DVD purchases tumbled the past three
+years, rentals are expanding and are projected to rise at an
+average rate of 2.7 percent to $9.97 billion by 2014, helped by
+higher-priced Blu-ray discs, Matthew Lieberman, an analyst with
+PricewaterhouseCoopers, said in an interview.  
+ The growth means Redbox will continue to attract consumers,
+Lowe said.  
+ Redbox, and its $1-a-night price, began in 2002 as a test
+by  McDonald’s Corp.  to lure diners into restaurants, according
+to the Redbox website. Coinstar invested three years later and
+bought out McDonald’s in 2009.  
+ Profit Outlook  
+ Before the affiliation with Coinstar, which also operates
+coin-counting machines and a money-transfer service, Redbox had
+trouble convincing retailers to accept the machines, Lowe said.
+The parent leveraged relationships from the placement of its
+coin-counting machines to win acceptance of the DVD kiosks.  
+ Coinstar is scheduled to report second-quarter  earnings  on
+July 29. Analysts project profit of 36 cents a share excluding
+some items, the average of six estimates compiled by Bloomberg,
+an increase from 23 cents a year earlier. Sales probably
+expanded 21 percent to $381.3 million, they estimate.  
+ Coinstar fell $2.44, or 5.2 percent, to $44.56 at 4 p.m.
+New York time in Nasdaq Stock Market  trading . The stock has
+gained 60 percent this year. Netflix, which today announced
+plans to start a streaming service in Canada this year, advanced
+51 cents to $118.90.  
+ With first-quarter sales of $263 million, Redbox is
+Coinstar’s largest division. On average, renters keep DVDs for
+two nights and spend $2 per movie, Lowe said. The company is
+testing video games and prices of as much as $1.75 a day for
+Blu-ray in some markets, Lowe said.  
+ Redbox expects demand for physical rentals to remain high.  
+ “The disc business has a great future,” Lowe said.
+“Especially with Blu-ray coming out. It extends the life.”  
+ To contact the reporter on this story:
+ Michael White  in Los Angeles at 
+ mwhite8@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A Redbox Automated Retail kiosk at a McDonald's restaurant. Source: RedBox via Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,54 @@
+-- Blue Samurais Beats Cameroon 1-0 in Soccer World Cup Match on Honda's Goal
+-- James Cone
+-- 2010-06-14T16:10:48Z
+-- http://www.bloomberg.com/news/2010-06-14/japan-beats-cameroon-1-0-in-soccer-world-cup-group-e-on-goal-by-honda.html
+
+          
+          
+             Keisuke Honda scored the only goal
+as Japan beat Cameroon 1-0 in Group E of soccer’s World Cup in
+Bloemfontein, South Africa, today.  
+ Honda’s close-range effort after 39 minutes gives Japan,
+playing in its fourth straight World Cup, an opening-match
+victory for a first time. Cameroon had never lost its opener.  
+ Both teams are aiming to progress beyond the group stage
+for a second time, with Cameroon reaching the quarterfinals in
+1990 and Japan making the round of 16 in 2002.  
+ Earlier, the Netherlands beat Denmark 2-0 in the same
+group. Defending champion Italy plays Paraguay in Group F later
+today.  
+ Honda received a cross from the right by Daisuke Matsui at
+the far post and struck the ball past goalkeeper Hamidou
+Souleymanou to secure Japan’s win. The country’s only previous
+World Cup victories came when it was co-host with South Korea
+eight years ago.  
+ To contact the reporter on this story:
+ James Cone  in London at 
+ jcone@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Keisuke Honda of Japan scores the first goal past Hamidou Souleymanou of Cameroon during the 2010 FIFA World Cup South Africa Group E match between Japan and Cameroon at the Free State Stadium in Mangaung/Bloemfontein, South Africa. Photographer: Ian Walton/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

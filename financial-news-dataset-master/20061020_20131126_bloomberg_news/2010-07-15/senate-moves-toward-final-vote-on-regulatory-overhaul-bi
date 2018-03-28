@@ -1,0 +1,57 @@
+-- Senate Moves Toward Final Vote on Regulatory-Overhaul Bill
+-- Alison Vekshin
+-- 2010-07-15T14:05:52Z
+-- http://www.bloomberg.com/news/2010-07-15/senate-moves-toward-final-vote-on-regulatory-overhaul-bill.html
+
+          
+          
+             The U.S. Senate will vote today to
+close debate on the financial-regulation bill, the last step
+before seeking final passage of the biggest rewrite of Wall
+Street rules since the Great Depression.  
+ Senate Majority Leader Harry Reid, a Nevada Democrat, said
+lawmakers will vote at about 11 a.m. Washington time on a
+procedural motion that would clear the path for final action as
+early as today. Senate approval would send the bill to President
+ Barack Obama  to be signed into law.  
+ “This bill is a response to the failure of our financial
+regulatory system to protect ordinary families from the
+consequences of others’ bad decisions,” Senate Banking
+Committee Chairman  Christopher Dodd , a Connecticut Democrat who
+helped write the bill, said yesterday on the Senate floor.  
+ Senate approval of legislation would represents a victory
+for Obama, who proposed the regulatory overhaul in response to
+the 2008 financial crisis that led the U.S. to provide $700
+billion in bailout funds for companies including New York-based
+insurer  American International Group Inc.   
+ The House of Representatives approved the bill on June 30.  
+ To contact the reporter on this story:
+ Alison Vekshin  in Washington at 
+ avekshin@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Senate Majority Leader Harry Reid, a Democrat from Nevada, speaks after the Democratic caucus meeting in Washington, D.C. Photographer: Andrew Harrer/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

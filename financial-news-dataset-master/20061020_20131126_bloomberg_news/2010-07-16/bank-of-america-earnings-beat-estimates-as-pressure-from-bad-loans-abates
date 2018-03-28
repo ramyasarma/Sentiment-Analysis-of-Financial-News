@@ -1,0 +1,38 @@
+-- Bank of America Earnings Beat Estimates as Pressure From Bad Loans Abates
+-- Bill Koenig
+-- 2010-07-16T11:00:49Z
+-- http://www.bloomberg.com/news/2010-07-16/bank-of-america-earnings-beat-estimates-as-pressure-from-bad-loans-abates.html
+
+          
+          
+             Bank of America Corp. reported a
+second-quarter profit of 27 cents a share.  
+ The average estimate of analysts surveyed by Bloomberg was
+a profit of 23 cents a share.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Bank of America Corp chief executive officer Brian T. Moynihan. Photographer: Chris Keane/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

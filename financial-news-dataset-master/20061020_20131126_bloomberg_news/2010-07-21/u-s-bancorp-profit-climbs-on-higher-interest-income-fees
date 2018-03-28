@@ -1,0 +1,59 @@
+-- U.S. Bancorp Profit Climbs on Higher Interest Income, Fees
+-- David Mildenberg
+-- 2010-07-21T11:04:29Z
+-- http://www.bloomberg.com/news/2010-07-21/u-s-bancorp-profit-climbs-on-higher-interest-income-fees.html
+
+          
+          
+             U.S. Bancorp , the fifth-biggest U.S.
+bank, posted a 63 percent increase in second-quarter profit as
+income from lending and fee-generating businesses grew after the
+purchase of failed lenders.  
+ Net income  advanced to $766 million, or 45 cents a share,
+from $471 million, or 12 cents, in the same period a year
+earlier, Minneapolis-based U.S. Bancorp said today in a
+statement. Twenty-seven  analysts  surveyed by Bloomberg had an
+average profit estimate of 38 cents a share. Profit in the year-
+earlier period included a $123 million accrual for a special
+assessment to the Federal Deposit Insurance Corp.  
+ Chief Executive Officer  Richard Davis ,52, has overseen the
+lender’s U.S.-assisted  purchases  of failed banks and thrifts,
+with more than 200 offices and assets topping $35 billion over
+the past two years. U.S. Bancorp’s return on assets and return
+on equity have  outpaced  nine other large U.S. banks since Jan.
+1, 2008, according to a May investor presentation.  
+ “Their FDIC-assisted acquisitions have been a nice strategy
+because there is favorable accounting and they bought them early
+in the cycle,”  Anton Schutz , president of Mendon Capital
+Advisors in Rochester, New York, said yesterday. His firm owned
+100,000 US Bancorp shares as of March 31.  
+ To contact the reporter on this story:
+ David Mildenberg  at 
+ dmildenberg@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     U.S. Bancorp Chief Executive Officer Richard Davis. Photographer: Andrew Harrer/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

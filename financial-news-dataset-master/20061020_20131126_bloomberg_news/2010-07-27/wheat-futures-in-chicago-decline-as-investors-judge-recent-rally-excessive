@@ -1,0 +1,69 @@
+-- Wheat Rises, Resumes Rally After Russia Says Grain Forecast May Fall Again
+-- Rudy Ruitenberg
+-- 2010-07-27T12:57:05Z
+-- http://www.bloomberg.com/news/2010-07-27/wheat-futures-in-chicago-decline-as-investors-judge-recent-rally-excessive.html
+
+          
+          
+             Wheat jumped in Paris and Chicago,
+rebounding from a decline after Russia said it may again cut
+its outlook for this year’s grain harvest because of a crop-
+damaging drought.  
+ September-delivery wheat rose 1.5 percent to $5.8875 a
+bushel on the Chicago Board of Trade at 2:14 p.m. Paris time,
+after falling 1.2 percent earlier today. Milling wheat for
+November delivery gained as much as 3.8 percent to 184.25 euros
+($240.10) a metric ton on NYSE Liffe in the French capital.  
+ The Russian grain harvest may be less than 80 million
+tons, Deputy Economy Minister  Andrei Klepach  said today, less
+than the current estimate for 85 million tons. The crop may
+fall below 70 million tons as yields decline because of the
+worst drought in at least a decade, researcher SovEcon said.  
+ “Russia remains the focus of all attention,” Bourges,
+France-based farm adviser  Offre et Demande Agricole  said on its
+website today. “The impact of the drought on production is
+still uncertain and the wheat market could still hold some
+upward surprises in reserve.”  
+ Paris milling wheat was at 180.75 euros in recent trading,
+after falling as much as 1.8 percent earlier. The November
+contract has risen 24 percent in Paris this month, while
+Chicago wheat has climbed 25 percent.  
+ Wheat prices in the European part of Russia rose 15
+percent to 4,850 rubles ($160.40) a ton by July 23 from a week
+ago on concern that drought may curb supply, SovEcon said on its
+website. Russia was the third-largest grower in the 2009-10
+season, according to the U.S. Department of Agriculture.  
+ Corn for December delivery rose 1.3 percent to $3.8275 a
+bushel in Chicago.  
+ November-delivery soybeans rose 0.6 percent to $9.715 a
+bushel.  
+ To contact the reporter on this story:
+ Rudy Ruitenberg  in Paris at 
+ rruitenberg@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Wheat is harvested using a combine harvester on a farm at Lipetsk, Russia. Source: Black Earth Farming via Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

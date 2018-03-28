@@ -1,0 +1,79 @@
+-- Amazon.com, Barnes & Noble Cut E-Book Reader Prices
+-- Matt Townsend
+-- 2010-06-21T21:59:32Z
+-- http://www.bloomberg.com/news/2010-06-21/amazon-cuts-kindle-price-to-189-boosting-price-war-with-barnes-noble.html
+
+          
+          
+             Amazon.com Inc. cut the price of its
+Kindle electronic reader 27 percent to $189, accelerating a
+price war with  Barnes & Noble Inc. , the bookstore chain that
+earlier announced a discount on its own e-book device, the Nook.  
+ The Kindle’s price was cut from $259, Seattle-based
+Amazon.com said in a statement. Earlier today, Barnes & Noble
+said the Nook, released last year for $259, will sell for $199.  
+ While vying with each other, Amazon and Barnes & Noble are
+also trying to stave off competition from Apple Inc., maker of
+the iPad, which features digital books as well as computing,
+video display and Web access.  
+ “Their sales have obviously been impacted by the iPad,”
+said  Charlie Wolf , a senior analyst at Needham & Co. in New
+York. “These price cuts are almost an act of desperation.”  
+ Borders Group Inc. , the second-largest U.S. bookstore
+chain, recently began selling e-readers for $119.99 to $149.99.
+U.S. sales of digital reading devices are projected to reach 5
+million units this year from 2.2 million in 2009, according to
+the Consumer Electronics Association, an industry trade group.  
+ Sales of digital books more than doubled to $27.4 million
+in April from a year earlier, while revenue from all forms of
+books rose 25 percent to $629.8 million, according to the
+Association of American Publishers.  
+ Amazon.com slipped $3.28 to $122.55 today in Nasdaq Stock
+Market trading. That left the shares down 8.9 percent this year.
+Barnes & Noble, based in New York, shed 54 cents to $16.53.  
+ Amazon’s Response  
+ Borders , the second largest U.S. bookstore chain, began
+selling Kobo Inc.’s e-reader in May for $149.99 and a device
+from Aluratek Inc. this month for $119.99.  
+ Amazon.com, the world’s largest online retailer, isn’t
+relying merely on price cuts to contend with Apple. In August,
+Amazon.com plans to introduce a thinner Kindle with a more
+responsive screen and a sharper picture, people familiar with
+the company’s plans said last month.  
+ Sony Corp. also sells  digital book readers  for $169.99,
+$199.99 and $349.99. Dan Walsh, a spokesman for Sony’s Reader
+business, declined to comment when asked about possible price
+changes.  
+ Barnes & Noble’s $199 e-reader includes access to an
+advanced wireless network. The company also offers a Wi-Fi only
+version for $149, according to today’s statement.  
+ To contact the reporter on this story:
+ Matt Townsend  in New York at 
+ mtownsend9@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Amazon cut the price of its Kindle, left, to $189 after Barnes & Noble said the Nook will sell for $199. Photographer: Daniel Acker/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

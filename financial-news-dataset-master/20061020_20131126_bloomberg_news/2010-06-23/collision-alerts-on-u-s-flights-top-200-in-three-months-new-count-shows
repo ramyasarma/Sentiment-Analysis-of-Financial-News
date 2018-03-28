@@ -1,0 +1,148 @@
+-- U.S. Air-Collision Alerts Top 200 Since New Monitoring Began
+-- John Hughes
+-- 2010-06-23T04:00:01Z
+-- http://www.bloomberg.com/news/2010-06-23/collision-alerts-on-u-s-flights-top-200-in-three-months-new-count-shows.html
+
+          
+          
+             Alarms sounded in the cockpits of a
+ Continental Airlines Inc.  plane carrying 100 people and a
+Gulfstream II business jet, warning the pilots that they were
+headed for a collision more than 24,000 feet over Maryland.  
+ The Continental pilot, bound for Newark, New Jersey, pushed
+down the Boeing Co. 737-800 to avoid a crash, the  National
+Transportation Safety Board  said. A controller’s error had put
+the planes within 300 feet of colliding, violating rules that
+aircraft remain at least 1,000 feet apart, the NTSB said.  
+ The Maryland  incident  on March 25 is among more than 200
+reports collected in the three months after the U.S. stepped up
+scrutiny of close calls in the air. While the safety board said
+most cases involved “no actual hazard,” it homed in on five
+incidents investigators said were serious and may have gone
+undetected without a disclosure rule that took effect March 8.  
+ The five events were “probably the biggest surprise” from
+the new monitoring, John DiLisi, the NTSB’s deputy director of
+aviation safety, said in an interview. “Aircraft got so close
+together that evasive action was required. This is the type of
+serious incident we should be immediately notified about.”  
+ The close calls in March, April and May have triggered
+Federal Aviation Administration investigations, said spokeswoman
+ Alison Duquette . The agency also formed a group with air-traffic
+controllers that met for the first time this month to examine
+possible changes in training or procedures, she said.  
+ “We take these incidents seriously,” said  Doug Church ,
+spokesman for the National Air Traffic Controllers Association,
+a Washington-based union for the control-tower workers. The rate
+for the most egregious violations of FAA separation standards
+rose to 3.31 per million controller commands in the eight months
+through May 31, up from 2.44 in the full year ending Sept. 30,
+2009, according to the agency.  
+ No Common Theme  
+ The FAA has found no common theme in the NTSB’s five
+incidents, Duquette said. Regulators are examining cockpit-alert
+reports with an industry-agency team that seeks safety
+improvements,  Peggy Gilligan , the FAA’s safety chief, told
+reporters June 15.  
+ The March 8  rule  requires that the NTSB be notified when
+cockpit alarms sound and crew action is needed to avoid a
+“substantial risk of collision.” The NTSB, which is
+independent of the FAA, investigates accidents and makes non-
+binding recommendations.  
+ Airlines Objected  
+ The board proposed the rule in 2008, after concluding it
+may not have been hearing about all near-collisions. Airlines,
+small-plane operators and pilots objected at the time that
+filing reports would be burdensome or unnecessary.  
+ In addition to the Continental  incident  above Worton,
+Maryland, the NTSB is investigating near collisions above
+Chicago; San Francisco; Burbank, California; and Anchorage,
+Alaska.  
+ An Empresa Brasileira de Aeronautica SA E135 operated by
+ AMR Corp. ’s American Eagle came within 300 feet of a King Air
+300 turboprop after takeoff April 21 from Chicago O’Hare
+International Airport, according to an NTSB  report . A cockpit
+alarm instructed the Eagle crew to take evasive action after an
+error in the control tower, the report found.  
+ Eight days later, a Bombardier Inc. CL-600-2B19 regional
+jet operated by  SkyWest Inc.  received an alert to take evasive
+action while turning at 1,500 feet to land at Burbank, an NTSB
+ report  said. A TV news helicopter was approaching head-on at
+1,200 feet, according to the report.  
+ ‘Cooperating Fully’  
+ Houston-based Continental is “cooperating fully” with the
+investigation, spokeswoman Christen David said. American Eagle
+shared internal reports with the board, said  Andrea Huguely ,
+spokeswoman for the Fort Worth, Texas-based carrier. SkyWest
+crews are trained in avoidance procedures and the incident
+“demonstrates that proficiency,” said  Marissa Snow , a
+spokeswoman for the St. George, Utah-based airline.  
+ The NTSB previously disclosed two probes triggered by the
+rule. In one case, a  US Airways Group Inc.  jet came within 100
+feet of a cargo plane in Anchorage, Alaska on May 21. In the
+other, a  UAL Corp.  United Airlines Boeing Co. 777-222 came
+within 200 feet of a small aircraft after takeoff March 27 from
+San Francisco.  
+ Pilots are alerted by an aircraft’s Traffic Collision and
+Avoidance System. The technology has been required by the
+government since 1993 after incidents such as a 1986 crash over
+ Cerritos, California , that killed 82 people. The devices are
+made by  Honeywell International Inc. ,  Rockwell Collins Inc.  and
+Aviation Communication & Surveillance Systems, a joint venture
+of  L-3 Communications Holdings Inc.  and  Thales SA.   
+ ‘Climb, Climb Now’  
+ The units use radio signals and the transponders of nearby
+aircraft to give pilots a cockpit display and a succession of
+warnings from a buzzer, a red light and aural commands to
+“descend, descend” or “climb, climb now.”  
+ Not all alerts signal a real risk of a collision because
+the devices can’t read the intent of pilots, said  Bill Voss ,
+president of the non-profit Flight Safety Foundation in
+Alexandria, Virginia. A pilot executing a pre-arranged plan to
+climb quickly through the path of crossing traffic may trigger
+an alert, even though there is no danger, he said.  
+ Airlines remain unhappy with the reporting requirement,
+said  David Castelveter , a spokesman for the Air Transport
+Association, which represents  Delta Air Lines Inc. , AMR’s
+American Airlines and United Airlines. Carriers may spend as
+many as 15 hours gathering information on an alert, duplicating
+data the FAA collects in voluntary programs, he said.  
+ “Why is the NTSB getting into the business of data
+collection?” Castelveter said. “It’s onerous and burdensome.”  
+ To contact the reporter on this story:
+ John Hughes  in Washington at 
+ jhughes5@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     The March 8 rule requires that the NTSB be notified when cockpit alarms sound and crew action is needed to avoid a “substantial risk of collision.” Photographer: Andrew Harrer/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     The air-traffic control tower stands over airplanes parked at their gates at O'Hare International Airport in Chicago. Photographer: Tim Boyle/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

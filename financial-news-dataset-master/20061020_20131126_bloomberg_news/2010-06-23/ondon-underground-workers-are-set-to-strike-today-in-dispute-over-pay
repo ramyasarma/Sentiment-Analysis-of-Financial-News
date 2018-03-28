@@ -1,0 +1,67 @@
+-- London Underground Workers Can Strike Today Over Pay, London Judge Says
+-- Colm Heatley
+-- 2010-06-23T13:39:49Z
+-- http://www.bloomberg.com/news/2010-06-23/london-underground-workers-are-set-to-strike-today-in-dispute-over-pay.html
+
+          
+          
+             London Underground maintenance
+workers can go on strike today after a U.K. judge refused to
+block the walkout.  
+ Judge Michael Tugendhat declined to grant an injunction
+sought by Tube Lines Ltd. to halt the strike, which is scheduled
+to start today at 7 p.m. in London. Tugendhat didn’t give his
+reasoning for the decision.  
+ About 1,000 workers are scheduled to stage two 48-hour
+stoppages today and again on July 14. The Piccadilly, Northern
+and Jubilee Lines will be the worst-affected.  
+ Charles Bear, the lawyer for Tube Lines Ltd., argued that
+the  National Union of Rail, Maritime and Transport Workers 
+supplied the company incorrect data on the number of workers in
+various positions that would participate in the strike.  
+ The union ‘is trying to bring the London Underground system
+to a halt as much as possible,” Bear said. “There is an
+obvious discrepancy” in the data.  
+ A new pay offer from  Tube Lines , which maintains and
+upgrades three London routes, will be considered by union
+representatives today, the RMT said before the ruling.  
+ London Underground said in a statement on its website
+before the court ruling that it planned to “operate a full
+service to customers across the whole network, including on the
+Jubilee, Northern and Piccadilly lines,” throughout the strike.  
+ “Safety is London Underground’s top priority and we would
+never run trains if it was not safe to do so,” a spokesperson,
+who wasn’t identified, said on the site.  
+ To contact the reporter for this story:
+ Lindsay Fortado  in London at 
+ lfortado@bloomberg.net .
+To contact the reporter on this story:
+ Colm Heatley  in Belfast at 
+ cheatley@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     About 1,000 London underground workers are scheduled to stage two 48-hour stoppages today and again on July 14. Photographer: Suzanne Plunkett/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

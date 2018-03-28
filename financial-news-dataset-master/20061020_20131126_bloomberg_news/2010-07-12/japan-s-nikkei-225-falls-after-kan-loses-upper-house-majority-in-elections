@@ -1,0 +1,81 @@
+-- Japanese Stocks Fall Amid Political Uncertainty; Mitsubishi UFJ Declines
+-- Satoshi Kawano
+-- 2010-07-12T06:19:14Z
+-- http://www.bloomberg.com/news/2010-07-12/japan-s-nikkei-225-falls-after-kan-loses-upper-house-majority-in-elections.html
+
+          
+          
+             Japan’s  stocks  fell for the first
+time in three days, led by banks amid political uncertainty
+after the ruling party lost control of the upper house in
+elections yesterday.  
+ Mitsubishi UFJ Financial Group Inc., Japan’s biggest bank
+by market value, dropped 2.1 percent. Ryohin Keikaku Co.,
+operator of the Mujirushi Ryohin retail chain, declined 4.4
+percent after posting profit declines. Gree Inc. sank 1.1
+percent after Mitsubishi UFJ Morgan Stanley Securities Co. cut
+its rating on the social-networking site operator.  
+ The  Nikkei 225 Stock Average  fell 0.4 percent to 9,548.11
+at the 3 p.m. close in Tokyo. The broader Topix index dropped
+0.4 percent to 857.70, with almost twice as many stocks
+retreating as advancing. Both gauges gained at least 0.5 percent
+earlier.  
+ “The results of yesterday’s election revealed instability
+in Japanese politics,” said  Masatsugu Okeya , a fund manager at
+Chiba-Gin Asset Management Co. “It’s likely investors are
+shifting funds to stocks that are dependent on overseas revenue
+from domestic stocks.”  
+ The Nikkei 225 rose 4.1 percent last week, the biggest
+weekly gain this year, as U.S. retail sales rose and the
+International Monetary Fund increased its forecast for global
+economic growth. Companies in the gauge trade at 17.8 times
+estimated earnings, compared with 13.2 times for the U.S.
+Standard & Poor’s 500 Index. Stocks in the U.S. gauge climbed
+0.7 percent on July 9, its fourth straight day of gains.  
+ To contact the reporters for this story:
+ Kana Nishizawa  in Tokyo at 
+ knishizawa5@bloomberg.net ;
+ Akiko Ikeda  in Tokyo at 
+ iakiko@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Naoto Kan, Japan's prime minister and president of the Democratic Party of Japan (DPJ), speaks during a news conference at the party's election center in Tokyo. Photographer: Haruyoshi Yamaguchi/Bloomberg  
+                   
+    
+
+                 
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 12 (Bloomberg) -- Martin Schulz, senior economist at Fujitsu Research Institute in Tokyo, talks with Bloomberg's Linzie Janis about Japan's politics and implications for the economy.
+     Japan’s Prime Minister Naoto Kan lost control of parliament’s upper house, undermining legislative efforts to cut the world’s largest public debt and creating the possibility of a third leadership change in a year. The ruling Democratic Party of Japan won 44 seats, compared with 51 for the opposition Liberal Democratic Party, according to results compiled by public broadcaster NHK. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

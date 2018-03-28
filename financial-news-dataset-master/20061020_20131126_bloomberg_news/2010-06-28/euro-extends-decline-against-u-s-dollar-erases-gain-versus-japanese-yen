@@ -1,0 +1,50 @@
+-- Euro Extends Decline Against U.S. Dollar, Erases Gain Versus Japanese Yen
+-- Daniel Tilles
+-- 2010-06-28T07:49:09Z
+-- http://www.bloomberg.com/news/2010-06-28/euro-extends-decline-against-u-s-dollar-erases-gain-versus-japanese-yen.html
+
+          
+          
+             The euro extended its drop against
+the dollar and erased a gain versus the yen.  
+ The 16-nation currency fell as much as 0.2 percent to
+$1.2349, before trading at $1.2352 as of 8:47 a.m. in London.
+The euro was at 110.38 yen, after rising to 110.82 yen.  
+ To contact the reporter on this story:
+Daniel Tilles in London at 
+ dtilles@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          June 28 (Bloomberg) -- Robert Rennie, head of currency research at Westpac Banking Corp., talks with Bloomberg's Linzie Janis from Sydney about the outlook for China's economy.
+     A Chinese government official said the nation’s pledge for a more flexible yuan will slow China's exports this year, adding to difficulties that include the European debt crisis and rising costs. Rennie also discusses the U.S. economy and global currency market. (Source: Bloomberg)
+  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

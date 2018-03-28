@@ -1,0 +1,95 @@
+-- New York Times Sticks to Ad Rates as News Corp.'s WSJ Starts N.Y. Edition
+-- Greg Bensinger
+-- 2010-04-23T21:18:10Z
+-- http://www.bloomberg.com/news/2010-04-23/new-york-times-sticks-to-ad-rates-as-news-corp-s-wsj-starts-n-y-edition.html
+
+          
+          
+             New York Times Co. said its
+namesake newspaper will stick to its advertising rates as the
+Wall Street Journal starts a new section on April 26 that
+focuses on New York City news.  
+ The Journal, owned by News Corp.’s Dow Jones unit, has been
+offering lower advertising prices to lure marketers in the New
+York area, Times Co. President Scott Heekin-Canedy said in an
+interview today.  
+ “We won’t get into a pricing war,” Heekin-Canedy said.
+“We’ll protect our turf, but we’re just not going there.” The
+Journal is “giving away pages and they’re deeply discounting,”
+he said, citing his newspaper’s advertisers.  
+ Newspapers have been losing print circulation as they raise
+prices and as more readers seek news on the Internet. The Times
+plans to charge some readers for accessing its Web site as soon
+as January, Heekin-Canedy said.  
+ Times Co., based in New York, lost 68 cents, or 5.5
+percent, to $11.61 at 4:01 p.m. in New York Stock Exchange
+composite trading. The shares have declined 6.1 percent this
+year. New York-based News Corp. gained 6 cents, less than 1
+percent, to $16.12 in Nasdaq Stock Market trading. Its shares
+have risen 18 percent this year.  
+ The Times will begin airing television commercials next
+week that highlight its hometown coverage with the tagline
+“There’s only one paper that covers New York like the New York
+Times, and that’s the New York Times,” Heekin-Canedy said.  
+ Rate Cutting  
+ “Competitors have been accusing each other of rate cutting
+since the beginning of time,” Michael Rooney, chief revenue
+officer of the Journal, said today in an e-mailed statement.
+Emily Edmonds, a Dow Jones spokeswoman, declined to comment
+further.  
+ “Can they take readership from us and can they take
+advertising from us?” Heekin-Canedy said. “The answer to both
+questions is no.”  
+ Average daily circulation for the New York Times slid 7.3
+percent to 927,851 in the six months through September,
+according to Audit Bureau of Circulations data. The Wall Street
+Journal, which counts subscribers to its for-pay Web site, added
+less than 1 percent to 2.02 million, while its print-only
+circulation dropped 2.4 percent to 1.62 million, ABC said.  
+ Later this year, Times Co. will introduce an app for Apple
+Inc.’s iPhone that displays features and advice about New York
+City nightlife and dining, Diane McNulty, a Times Co.
+spokeswoman, said today. She said the app’s details are still
+being worked out.  
+ Swing to Profit  
+ Times Co. yesterday said it swung to a first-quarter profit
+from a year earlier on the strength of cost cuts and rising
+digital advertising sales, while print advertising sales
+declined 12 percent. The Journal boosted print ad sales 25
+percent in its most recent quarter, Rooney said in the e-mail.  
+ Standard & Poor’s analyst Joseph Agnese raised his rating
+on Times Co. shares to “hold” from “sell,” citing an
+improving economy and ad sales market.  
+ “We’re very confident in our New York coverage,” Heekin-
+Canedy said. “There’s reason to believe that Journal readers
+might come over to the Times.”  
+ To contact the reporter on this story:
+Greg Bensinger in New York at 
+ gbensinger1@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A copy of the New York Times sits on display at a news stand in New York, on Nov. 10, 2009.  Photographer: Gino Domenico/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,83 @@
+-- Skilling, Black Get Partial Victories From Court
+-- Greg Stohr
+-- 2010-06-24T14:23:44Z
+-- http://www.bloomberg.com/news/2010-06-24/skilling-gets-partial-victory-at-u-s-supreme-court-over-enron-conviction.html
+
+          
+          
+             The U.S. Supreme Court gave  Jeffrey Skilling  a partial victory on his conviction for leading the
+ Enron Corp.  accounting fraud, ruling that he can’t be convicted
+of so-called honest services fraud. The court refused to order a
+new trial.  
+ In a related ruling, the court set aside the corporate
+fraud conviction of former Hollinger International Inc. Chairman
+ Conrad Black . The justices told a lower to reconsider the case.  
+ The justices said the law, which covers fraud schemes to
+“deprive another of the intangible right to honest services,”
+could be constitutionally applied only to cases involving
+bribery or kickbacks.  
+ The ruling raises questions about potentially hundreds of
+other convictions and pending prosecutions.  
+ The effect on Skilling’s 24-year sentence remains to be
+seen. His lawyers said before the ruling that a victory on the
+honest-services question would give them grounds to seek
+reversal of the rest of the conviction, while the government has
+said even his conspiracy verdict might not have to be
+overturned.  
+ Skilling, Enron’s former chief executive officer, was
+convicted on 19 counts, and the honest-services ruling directly
+concerns only one of those, for conspiracy to commit fraud.  
+ He was convicted in May 2006 alongside  Kenneth Lay , the
+former Enron chairman who died less than two months later. A
+federal appeals court upheld the conviction. Skilling is serving
+his sentence in a federal prison in Colorado.  
+ Favorite Tool  
+ The honest-services statute is a favorite tool of
+prosecutors in corruption cases. It is being used against former
+Illinois Governor  Rod Blagojevich , now in trial on an indictment
+that includes allegations that he tried to trade the U.S. Senate
+seat vacated by President  Barack Obama  for campaign cash or
+personal favors.  
+ The court rejected Skilling’s contentions that he couldn’t
+get a fair trial in Houston and that the trial judge who oversaw
+the case didn’t adequately explore indications that some jurors
+were biased against him.  
+ The case is Skilling v. United States, 08-1394.  
+ To contact the reporter on this story:
+ Greg Stohr  in Washington at 
+ gstohr@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Former Enron executive Jeffrey Skilling. Photographer: F. Carter Smith/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     In a related ruling the court set aside the corporate fraud conviction of former Hollinger International Inc. Chairman Conrad Black. Photographer: Tim Boyle/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

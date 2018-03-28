@@ -1,0 +1,45 @@
+-- First-Half Profit for China-Listed Companies Rises 50%, Securities Reports
+-- Bloomberg News
+-- 2010-08-01T23:34:53Z
+-- http://www.bloomberg.com/news/2010-08-01/first-half-profit-for-china-listed-companies-rises-50-securities-reports.html
+
+          
+          
+             China-listed companies posted a 50
+percent gain in net income in the first half, the Shanghai
+Securities News reported, citing 264 companies that have
+released earnings results as of July 31.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          Aug. 2 (Bloomberg) -- Sean Darby, chief Asian equity strategist at Nomura Holdings Inc. in Hong Kong, speaks with Bloomberg's Rishaad Salamat about China's stock market and economy.
+     China’s manufacturing grew at the slowest pace in 17 months in July as the government clamped down on property speculation and investment in energy-intensive and polluting factories. Darby also discusses China's currency policy. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

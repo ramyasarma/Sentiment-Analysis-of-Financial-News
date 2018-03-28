@@ -1,0 +1,69 @@
+-- Japanese Stocks Advance on New York Manufacturing Data; Mitsubishi Gains
+-- Masaki Kondo
+-- 2010-06-16T06:12:08Z
+-- http://www.bloomberg.com/news/2010-06-16/japanese-stocks-advance-on-new-york-manufacturing-data-mitsubishi-gains.html
+
+          
+          
+             Japanese  stocks  rose for a fifth day
+as growth in New York manufacturing, higher sales forecast for
+semiconductors and rising commodity prices boosted optimism a
+recovery in the global economy will boost corporate earnings.  
+ Canon Inc. , which gets 27 percent of its sales from the
+Americas, jumped 3.9 percent.  Advantest Corp. , the world’s
+largest maker of memory-chip testers, gained 2.5 percent after
+Taiwan Semiconductor Manufacturing Co.’s projection for global
+demand boosted U.S. chip shares.  Mitsubishi Corp. , a trading
+company that gets 41 percent of its sales from commodities,
+climbed 2.3 percent after prices for oil and metals rose
+yesterday.  
+ The  Nikkei 225 Stock Average  increased 1.8 percent to close
+at 10,067.15 in Tokyo. The broader  Topix index  rose 1.5 percent
+to 892.38 with all but one of its 33 industry groups gaining.
+Both gauges climbed for a fifth day, the longest streak of
+advances in at least five months.  
+ “The continuing improvement in earnings will drive down
+valuations even further, so there is little concern that the
+market will decline,” said  Naoki Fujiwara , a fund manager at
+Shinkin Asset Management Co., which oversees about $6 billion in
+Tokyo. “We are bullish on the U.S. economy.”  
+ The Topix advanced less than 0.1 percent yesterday as
+analysts’ ratings boosted shares of brokerages and automakers,
+outshining a credit-rating downgrade on Greece by Moody’s
+Investors Service. The gauge has fallen 11 percent from a 52-
+week high on April 15 on concern mounting government deficits
+will deter some European nations from shoring up their economies
+through spending.  
+ The slump has driven down the  average  price of shares in
+the Topix to 17.2 times estimated earnings, compared with 35.6
+times at the beginning of this year.  
+ To contact the reporter for this story:
+ Masaki Kondo  in Tokyo at 
+ mkondo3@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Pedestrians walk past an electronic board displaying the closing figure of the Nikkei Stock Average outside a securities firm in Tokyo. Photographer: Kimimasa Mayama/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

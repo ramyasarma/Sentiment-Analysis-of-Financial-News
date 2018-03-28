@@ -1,0 +1,66 @@
+-- UBS Withdraws Trade Recommendation Against Dollar, Citing Growth Surprise
+-- Mary Childs
+-- 2010-04-23T18:07:23Z
+-- http://www.bloomberg.com/news/2010-04-23/ubs-withdraws-trade-recommendation-against-dollar-citing-growth-surprise.html
+
+          
+          
+             UBS AG recommended that investors
+close short bets that the dollar will fall against the euro,
+pound, Australian dollar and yen.  
+ The eight-week moving average of the U.S. growth surprise
+index rose above the 1.5 standard deviation band, wrote Geoffrey
+Kendrick, a foreign-exchange strategist at UBS in London, in a
+research note today.  
+ “The dollar recommendation is closed,” Kendrick wrote. A
+short is a bet a currency will decrease.  
+ The Dollar Index, which IntercontinentalExchange Inc. uses
+to track the greenback against the euro, yen, pound, Canadian
+dollar, Swiss franc and Swedish krona, was headed for its first
+weekly increase this month, rising 0.7 percent to 81.366. It
+touched 82.074, the highest level since March 25.  
+ U.S. new-home sales increased 27 percent in March, the most
+since April 1963, the Commerce Department reported today. The
+median forecast of 77 economists in a Bloomberg News survey was
+for a 5.5 percent gain. Bookings for U.S. durable goods
+excluding transportation items increased 2.8 percent last month,
+exceeding the median forecast of a 0.7 percent advance.  
+ Investors who followed UBS’s recommendation on April 7
+would have lost 0.4 percent, according to the bank.  
+ The dollar advanced 0.8 percent against the yen and
+appreciated 0.2 percent versus the Australian dollar since UBS
+suggested shorting the greenback. The U.S. currency has dropped
+0.9 percent versus the pound and decreased 0.3 percent versus
+the euro during that period.  
+ UBS reiterated its recommendation that investors buy
+government, corporate and inflation-linked bonds.  
+ To contact the reporter on this story:
+Mary Childs in New York at 
+ mchilds5@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A relief sculpture hangs above the entrance to the UBS headquarters on Bahnhofstrasse in Zurich, on Feb. 9, 2010. Photographer: Reto Andreoli/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

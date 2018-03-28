@@ -1,0 +1,39 @@
+-- Gillard to Call an Australian Election Tomorrow for Aug. 28, ABC Reports
+-- Victoria Batchelor
+-- 2010-07-16T02:01:47Z
+-- http://www.bloomberg.com/news/2010-07-16/gillard-to-call-an-australian-election-tomorrow-for-aug-28-abc-reports.html
+
+          
+          
+             Australian Prime Minister Julia
+Gillard will call an election for Aug. 28, the Australian
+Broadcasting Corp. reported on its website. She will visit the
+governor general tomorrow, it reported without saying where it
+got the information.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Julia Gillard, Australia's prime minister, speaks at the Lowy Institute for International Policy, in Sydney. Photographer: Ian Waldie/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

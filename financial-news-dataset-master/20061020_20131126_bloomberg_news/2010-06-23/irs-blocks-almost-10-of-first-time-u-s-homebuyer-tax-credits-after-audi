@@ -1,0 +1,69 @@
+-- IRS Audits Block 10% of First-Time Homebuyer Credits
+-- John Gittelsohn
+-- 2010-06-23T16:47:38Z
+-- http://www.bloomberg.com/news/2010-06-23/irs-blocks-almost-10-of-first-time-u-s-homebuyer-tax-credits-after-audit.html
+
+          
+          
+             The Internal Revenue Service blocked
+almost 10 percent of U.S. claims for the first-time homebuyer
+tax credit after receiving erroneous or fraudulent filings,
+according to a  report  today.  
+ About $1.22 billion of the $12.6 billion in tax credits
+claimed through February were denied or frozen after audits, the
+report from the Treasury Department’s Inspector General for Tax
+Administration said. The IRS estimated that about 1.8 million
+taxpayers sought the benefit, which totals as much as $8,000,
+from the inception in April 2008.  
+ The claims in question included about $9.1 million from
+1,295 prison inmates, $18.8 million from people who bought homes
+before the law took effect and $134 million from situations
+where more than one filer said they bought the same house, the
+report said.  
+ “Although I am pleased that the fraud identified earlier
+does not continue, I am concerned about prisoners claiming the
+credit,” Representative  John Lewis , a Georgia Democrat, said in
+a statement today. “I am also disturbed by 67 people claiming
+the credit for a single address and millions of dollars claimed
+by people who purchased homes before the program started.”  
+ To receive the government incentive, buyers must have
+signed contracts by April 30 and complete deals by the end of
+this month. Filers seeking the credit totaled $18.7 billion at
+the end of April,  Bruce Friedland , an IRS spokesman in
+Washington, said in a telephone interview.  
+ Sales Boost  
+ The homebuyer tax credits helped revive housing sales,
+which fell to a record low annual pace of 4.53 million in
+January 2009, according to data from the National Association of
+Realtors dating back to 1999. The sales rate rose to as high as
+6.49 million in November, when the tax credit was originally
+scheduled to expire.  
+ Existing-home sales sank 2.2 percent from April to May, the
+Chicago-based NAR said yesterday.  New-home sales  plunged last
+month by 33 percent to the lowest level on record after the
+expiration of the tax credit, figures from the Commerce
+Department showed today in Washington.  
+ To contact the reporter on this story:
+ John Gittelsohn  in New York at 
+ johngitt@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

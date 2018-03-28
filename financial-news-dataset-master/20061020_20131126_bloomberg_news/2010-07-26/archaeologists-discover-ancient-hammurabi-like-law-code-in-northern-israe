@@ -1,0 +1,69 @@
+-- Archaeologists Find Ancient Hammurabi-Like Law Code in Israel Clay Tablet
+-- Alisa Odenheimer
+-- 2010-07-26T16:31:49Z
+-- http://www.bloomberg.com/news/2010-07-26/archaeologists-discover-ancient-hammurabi-like-law-code-in-northern-israel.html
+
+          
+          
+             Archaeologists have uncovered for
+the first time in Israel fragments of a law code that resemble
+portions of the famous Code of Hammurabi.  
+ The code was found on two fragments of a clay tablet, and
+is between 3,700 and 3,800 years old, the  Hebrew University of
+Jerusalem  said today in an e-mailed statement.  
+ The fragments “refer to issues of personal injury law
+relating to slaves and masters, bringing to mind similar laws
+in the famous Babylonian Hammurabi Code of the 18th century
+B.C. that were found in what is now Iran over 100 years ago,”
+the statement said. “The laws also reflect, to a certain
+extent, biblical laws of the type ‘a tooth for a tooth’.”  
+ The discovery opens an interesting avenue for
+investigation of a connection between Biblical law and the Code
+of Hammurabi, according to Wayne Horowitz of the Hebrew
+University Institute of Archaeology, who is preparing the law
+code fragments for publication. The style of the text is
+similar to that of the Hammurabi Code, he said.  
+ The tablet, written in Akkadian cuneiform script, was
+discovered in Hazor, in the north of Israel. Words that have
+been deciphered include “master,” “slave” and a word
+referring to bodily parts, apparently the word for “tooth.”  
+ The two fragments are the 18th and 19th cuneiform finds
+from the Hazor excavations, which now form the largest body of
+documents of cuneiform texts found in Israel. Previous
+documents found dealt with subjects including the dispatch of
+people or goods, a legal dispute, and a text of multiplication
+tables.  
+ The Hazor excavations are under the direction of Amnon
+Ben-Tor and Sharon Zuckerman of the Hebrew University. Previous
+excavations were directed at the site by Yigael Yadin in the
+1950s and 1960s.  
+ To contact the reporter on this story:
+ Alisa Odenheimer  in Jerusalem at 
+ aodenheimer@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A fragment of a clay tablet unearthed in Israel is shown in this archaeological photo. The tablet has fragments of a law code that resemble portions of the famous Code of Hammurabi. Source: Hebrew University of Jerusalem via Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

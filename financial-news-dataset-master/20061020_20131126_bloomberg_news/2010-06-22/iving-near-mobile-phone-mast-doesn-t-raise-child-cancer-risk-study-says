@@ -1,0 +1,69 @@
+-- Study: Mobile-Phone Mast Doesn't Raise Child's Cancer Risk
+-- Kristen Hallam
+-- 2010-06-22T23:01:00Z
+-- http://www.bloomberg.com/news/2010-06-22/living-near-mobile-phone-mast-doesn-t-raise-child-cancer-risk-study-says.html
+
+          
+          
+             Young children of women who, during
+pregnancy, lived near masts that transmit mobile-phone signals
+don’t have a higher risk of cancer, a U.K. study found.  
+ Researchers from  Imperial College London  reviewed
+information on almost 7,000 children younger than 5, including
+1,397 with cancer. They found no link between the mother’s
+exposure during pregnancy to a mobile-phone mast and the risk of
+cancers including leukemia and brain tumors, according to the
+study published today in the  British Medical Journal .  
+ The study is the largest of its kind, and the findings
+should put any reports of cancer clusters around mobile-phone
+towers into context, the researchers wrote. Doctors should tell
+patients not to worry about living near masts, said John
+Bithell, an honorary research fellow with the Childhood Cancer
+Research Group at  University of Oxford .  
+ “Moving away from a mast, with all its stresses and costs,
+cannot be justified on health grounds in the light of current
+evidence,” Bithell wrote in an accompanying editorial.  
+ The researchers identified the cancer cases from a U.K.
+patient database and determined the child’s address at birth.
+For each case, they found four children born around the same
+time and in the same area using a birth registry. They obtained
+data on the location and power of mobile-phone masts between
+1996 and 2001 from the four major phone operators in the U.K.:
+ Vodafone Group Plc , Telefonica SA’s O2,  France Telecom SA ’s
+Orange and Deutsche Telekom AG’s T-Mobile.  
+ The study was funded by the  U.K. Mobile Telecommunications
+Health Research Programme , a body set up to provide money for
+research into the possible health effects of mobile
+telecommunications. The organization is jointly funded by the
+U.K. Department of Health and the mobile telecommunications
+industry.  
+ To contact the reporter on this story:
+ Kristen Hallam  in London at 
+ khallam@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Researchers found no link between the mother’s exposure during pregnancy to a mobile-phone mast and the risk of cancers including leukemia and brain tumors. Photographer: Aaron Harris/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

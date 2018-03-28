@@ -1,0 +1,115 @@
+-- U.S. Exchanges Said to Seek Broader Scope for Trading Curbs
+-- Nina Mehta
+-- 2010-06-29T13:24:15Z
+-- http://www.bloomberg.com/news/2010-06-29/u-s-exchanges-said-to-seek-broader-scope-for-stock-trading-restrictions.html
+
+          
+          
+             U.S. stock exchanges will propose
+doubling the number of companies covered by a two-week-old test
+of trading curbs and expanding the  program  to include hundreds
+of exchange-traded funds, according to two people with direct
+knowledge of the matter.  
+ NYSE Euronext and Nasdaq OMX Group Inc. will ask the
+Securities and Exchange Commission to broaden circuit breakers
+triggered by 10 percent moves to Russell 1000 Index companies
+from those in the  Standard & Poor’s 500 Index , according to the
+people, who declined to be identified because the information
+isn’t public. More than 300 ETFs including the SPDR S&P 500 ETF
+Trust would be covered, one of the people said.  
+ Regulators are seeking to prevent declines in one or more
+securities from causing panic among investors, prompting a
+cascade of losses across markets. During the May 6 rout that
+erased $862 billion in value from U.S. equities in less than 20
+minutes, ETFs and companies such as Accenture Plc fell as much
+as 99 percent. The SEC and Commodity Futures Trading Commission
+said the plunge may have been fueled by curbs that applied on
+some venues and not others.  
+ “It makes sense to expand the pilot to ETFs and other
+stocks traded by a broad universe of investors,” said  Edward Johnsen , a partner in the securities regulation practice at law
+firm Winston & Strawn LLP in New York and former head of
+equities compliance at Deutsche Bank Securities, a unit of
+Deutsche Bank AG. “I’d expect the SEC to eventually add all
+National Market System securities so they’re all covered by the
+same rule and the same process.”  
+ NYSE, Nasdaq  
+ Securities in the National Market System are companies or
+ETFs listed on the New York Stock Exchange, NYSE Arca and NYSE
+Amex -- all owned by  NYSE Euronext  -- or  Nasdaq OMX ’s Nasdaq
+Stock Market. They can be traded on venues including public
+markets and private platforms known as dark pools.  
+ The SEC is testing the program that pauses trading for 5
+minutes in S&P 500 companies when their stock rises or falls at
+least 10 percent in less than 5 minutes after 9:45 a.m. New York
+time.  
+ John Heine , a spokesman for the SEC in Washington, declined
+to comment on the exchanges’ plans for the program, which lasts
+through December.  Eric Ryan , a spokesman at NYSE Euronext,
+declined to comment, as did  Robert Madden  of Nasdaq OMX.  
+ One Trigger  
+ The curbs have been triggered once: by  Washington Post Co. 
+when it surged 99 percent in less than one second on June 16.
+The orders, which drove it up to $929.18 from $462.84, prompted
+a five-minute halt. Later, the trades were canceled. Yesterday,
+New York-based NYSE Euronext and Nasdaq OMX voided orders that
+sent shares of Boeing Co., the Chicago-based aircraft maker
+that’s one of thirty Dow Jones Industrial Average stocks, down
+44 percent at 7:14 a.m. New York time.  
+ During the May 6 drop, almost 20,800 trades that were at
+least 60 percent away from the market price when the plunge
+began were later canceled. ETFs accounted for 70 percent of the
+securities with trades on May 6 that were later voided by
+exchanges. SEC Chairman  Mary Schapiro  said the SEC would
+continue to examine trading issues involving ETFs to determine
+why those securities were among the most affected that day.  
+ ETF Dislocations  
+ CME Group Inc. Chief Executive Officer  Craig Donohue  said
+June 22 that curbs on ETFs tracking a large portion of the
+market could cause dislocations given that their prices are
+derived from underlying baskets of stocks and are linked to
+equity-index futures, which may continue trading while the ETF
+is paused. CME, based in Chicago, runs the world’s biggest
+futures exchange.  
+ Donohue’s concern highlights the “need for more
+coordination between instruments that have similar types of
+exposure to the market but trade in different asset classes,”
+said  Adam Sussman , director of research at Tabb Group LLC, a
+financial services research firm in New York. “There needs to
+be coordination so liquidity pressure doesn’t just move from the
+equities market to the futures market,” he said.  
+ He endorsed the expansion of curbs beyond the S&P 500.  
+ “Most people want to see the circuit breakers more broadly
+applied so they’re not just for the most liquid stocks but also
+those that are less liquid,” Sussman said. “Some of the more
+dramatic price moves on May 6” were by less-traded companies,
+he added.  
+ To contact the reporter on this story:
+ Nina Mehta  in New York at 
+ nmehta24@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     U.S SEC Chairman Mary Schapiro makes opening remarks at a panel discussion in Washington. Photographer: Brendan Smialowski/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

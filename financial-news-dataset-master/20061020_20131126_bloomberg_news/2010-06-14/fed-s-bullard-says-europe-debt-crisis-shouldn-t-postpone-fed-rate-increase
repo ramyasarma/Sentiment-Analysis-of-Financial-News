@@ -1,0 +1,39 @@
+-- Fed's Bullard Says Europe Debt Crisis Shouldn't Delay a U.S. Rate Increase
+-- Chris Anstey
+-- 2010-06-14T06:36:13Z
+-- http://www.bloomberg.com/news/2010-06-14/fed-s-bullard-says-europe-debt-crisis-shouldn-t-postpone-fed-rate-increase.html
+
+          
+          
+             Federal Reserve Bank of St. Louis
+President James Bullard said the European debt crisis shouldn’t
+cause the U.S. central bank to postpone raising its benchmark
+federal funds rate.  
+ Bullard spoke to reporters today in Tokyo.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     James Bullard, president of the Federal Reserve Bank of St. Louis, speaks in Tokyo. Photographer: Tomohiro Ohsumi/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,50 @@
+-- Netanyahu Calls On Palestinians' Abbas to Enter Direct Mideast-Peace Talks
+-- Jonathan Ferziger
+-- 2010-07-01T18:46:40Z
+-- http://www.bloomberg.com/news/2010-07-01/netanyahu-calls-on-palestinians-abbas-to-enter-direct-mideast-peace-talks.html
+
+          
+          
+             Israeli Prime Minister Benjamin
+Netanyahu called on Palestinian Authority President Mahmoud
+Abbas to enter direct negotiations on a Middle East peace
+agreement, in remarks before a trip to Washington.  
+ “I’m ready anytime,” Netanyahu said at U.S. Ambassador
+James Cunningham’s residence near Tel Aviv late today. “Let’s
+not waste another 15 months before we sit down together.”  
+ Netanyahu has been in office for 15 months and hasn’t met
+with Abbas. The U.S. envoy George Mitchell is acting as a
+mediator between the sides in indirect talks.  
+ Turning to Iran, the Israeli leader praised sanctions
+passed by the U.S. Congress and said other countries should
+follow with similar steps over the Iranian nuclear program.  
+ To contact the reporter on this story:
+Jonathan Ferziger in Tel Aviv at 
+ jferziger@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Israel's Prime Minister Benjamin Netanyahu speaks during a meeting in his Jerusalem offices. Photographer: Jim Hollander/AFP/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

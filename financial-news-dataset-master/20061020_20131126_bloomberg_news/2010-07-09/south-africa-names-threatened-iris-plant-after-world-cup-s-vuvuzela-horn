@@ -1,0 +1,70 @@
+-- South Africa Names Threatened Iris After World Cup's Vuvuzela
+-- Carli Lourens
+-- 2010-07-09T22:00:45Z
+-- http://www.bloomberg.com/news/2010-07-09/south-africa-names-threatened-iris-plant-after-world-cup-s-vuvuzela-horn.html
+
+          
+          
+             South Africa named a newly
+discovered Iris plant after the vuvuzela, the plastic trumpet
+that became internationally recognized after both delighting and
+annoying millions of sports fans watching the soccer World Cup.  
+ The plant has funnel-shaped, pale yellow flowers and was
+discovered in the wine region near  Cape Town , the South African
+National Biodiversity Institute, said in an e-mailed statement.
+The plant was named “Moraea Vuvuzela” after the “noisy
+trumpet” that “captured the unique spirit” of Africa’s first
+Soccer World Cup, said Sanbi, as the institute is known.  
+ The monotonous, loud drone from thousands of the straight,
+horn-like vuvuzelas, which means “keep on blowing” in Zulu,
+drowned out traditional soccer songs from the start of the World
+Cup in Johannesburg on June 11.  
+ A blast from a vuvuzela can reach 127 decibels, making it
+louder than a chainsaw, and prompted some fans to call for the
+instrument to be banned. Thousands continued to use the vuvuzela
+as organizer FIFA ignored the calls.  
+ Blowing into the mouthpiece, the player’s lips open and
+close about 235 times a second, sending blasts of air down the
+tube, which excite resonance of the air in the cone, according
+to  New Scientist . The effect of playing many at the same time is
+“like the sound of a swarm of insects,” it said.  
+ While the horn is gaining popularity abroad and is being
+sold by U.K. supermarket chain  J. Sainsbury Plc , the plant’s own
+natural habitat is being transformed for vineyard cultivation,
+according to Sanbi.  
+ The flower is “critically endangered” in Sanbi’s view, it
+said. The  International Union for Conservation of Nature , based
+in Gland, Switzerland, is assessing the plant’s status and may
+add it to its  Red List  of endangered species, Sanbi said.  
+ Sanbi is responsible for assessing the conservation status
+of all South African species.  
+ To contact the reporters on this story:
+ Carli Lourens  in Johannesburg at 
+ clourens@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     The newly discovered iris species Moraea Vuvuzela. Photographer: Dr John Manning via Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

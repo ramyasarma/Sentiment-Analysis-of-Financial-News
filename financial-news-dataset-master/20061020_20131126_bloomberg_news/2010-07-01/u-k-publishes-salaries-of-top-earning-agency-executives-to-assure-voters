@@ -1,0 +1,59 @@
+-- U.K. Publishes Salaries of Top-Earning Agency Executives to Assure Voters
+-- Gonzalo Vina
+-- 2010-07-01T23:01:00Z
+-- http://www.bloomberg.com/news/2010-07-01/u-k-publishes-salaries-of-top-earning-agency-executives-to-assure-voters.html
+
+          
+          
+             The U.K. Cabinet Office published
+salary details of the highest earning executives at government
+agencies known as “quangos” in a bid to reassure voters as the
+coalition government drives through the biggest squeeze in
+spending since World War II.  
+ The 332 officials whose earnings were announced in London
+today include Robin Evans, chief executive of  British Waterways ,
+who earns as much as 234,999 pounds ($355,177) a year and  David Higgins , the chief executive of the Olympic Delivery Authority,
+whose salary is as much as 394,999 pounds.  
+ “We are absolutely committed to acting quickly on pledges
+in our coalition agreement to release information that will
+allow everyone to hold their politicians and public bodies to
+account,” Cabinet Office minister  Francis Maude  said in an e-
+mailed statement. “This will not only increase accountability,
+but will lead to more efficient public-service organizations.”  
+ Among others named are Andrew Haines, who earns as much as
+254,999 pounds as chief executive of the Civil Aviation
+Authority, and Alan Langlands, who earns as much as 234,999
+pounds as chief executive of the Higher Education Funding
+Council for England.  
+ At the end of May, the Cabinet Office published a list of
+172 civil servants who earn more than 150,000 pounds.  
+ To contact the reporters on this story:
+ Gonzalo Vina  in London at 
+ gvina@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Olympic Delivery Authority CEO David Higgins. Photographer: Daniel Hambury/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

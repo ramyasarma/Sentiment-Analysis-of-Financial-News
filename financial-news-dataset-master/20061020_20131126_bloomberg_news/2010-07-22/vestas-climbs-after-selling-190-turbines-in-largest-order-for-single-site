@@ -1,0 +1,94 @@
+-- Vestas Climbs After Winning Largest Wind Turbine Order
+-- Christian Wienberg
+-- 2010-07-22T11:50:30Z
+-- http://www.bloomberg.com/news/2010-07-22/vestas-climbs-after-selling-190-turbines-in-largest-order-for-single-site.html
+
+          
+          
+             Vestas Wind Systems A/S , the biggest
+maker of wind turbines,  climbed  in Copenhagen trading after
+winning its largest order for a single power-generation site.  
+ Vestas will supply 190 turbines of its V90-3.0 megawatt
+model to Terra-Gen Power LLC’s Alta Wind Energy Center near
+Tehachapi in California, the Randers, Denmark-based company said
+yesterday in a stock-exchange statement.  
+ The order is the fifth Vestas signed in the U.S. this year
+after winning no contracts in 2009 in the biggest wind-turbine
+market as the credit crunch squeezed financing for projects.
+Vestas is spending about $1 billion to expand production
+capacity in the U.S. where it competes with General Electric Co.
+over a market that Chief Executive Officer  Ditlev Engel  has
+described as having the world’s best wind resources.  
+ “This is an important order because it will help the
+market’s confidence in Vestas management,”  Stig Nymann , an
+analyst with Copenhagen-based Laan & Spar Bank A/S, said in an
+e-mail. “This order reduces the risk that Vestas will have to
+lower its full-year forecast in the next earnings report.”  
+ Vestas said it expects to book orders this year with a
+combined capacity of 8,000 to 9,000 megawatts, which means this
+deal would comprise up to 7.1 percent of its 2010 order intake.
+Vestas is due to report second-quarter earnings on Aug. 18.  
+ Analysts had expected that Vestas will fall short of its
+2009 sales forecast of 7 billion euros. The company will have
+revenue this year of 6.73 billion euros, according to the
+ average estimate  of 33 analysts surveyed by Bloomberg.  
+ Profit of 437 million euros is forecast for 2010, according
+to the Bloomberg survey.  
+ $770 Million Value  
+ Nymann, who has Vestas shares on his “focus list,” said
+the order announced late yesterday is worth more than 600
+million euros ($770 million).  
+ The stock rose as much as 5.7 percent, its biggest intraday
+jump since July 2, and traded 5.2 percent higher at 294.2 kroner
+at 13:40 p.m. local time. Vestas had lost 12 percent this year
+before today, 12th-best on the 88-member  WilderHill New Energy
+Global Innovation Index , which fell 22 percent.  
+ “It’s too early in our view to speak of a sustained
+recovery,”  Mario Kristl , an analyst at DZ Bank AG, said in a
+note today, repeating his “sell”  rating  on Vestas shares.  
+ The contract includes delivery and commissioning as well as
+a five-year service and maintenance agreement, Vestas said. The
+company will deliver 50 turbines by the end of this year and the
+rest in the first half of 2011.  
+ “When completed, it will be the largest wind farm we will
+have supplied turbines to in our 31-year history as well as the
+biggest in California,”  Martha Wyrsch , head of Vestas’s U.S.
+division, said in the statement.  
+ To contact the reporter on this story:
+ Christian Wienberg  in Copenhagen at 
+ cwienberg@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Vestas Wind Systems A/S 415-foot-tall wind turbines operate at the Sacramento Municipal Utility District 102 megawatt wind farm in Rio Vista, California. Photographer: Ken James/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     Vestas Wind Systems A/S CEO Ditlev Engel. Photographer: Daniel Acker/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

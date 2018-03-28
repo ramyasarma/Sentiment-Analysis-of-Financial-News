@@ -1,0 +1,78 @@
+-- U.S. Housing Market Recovery Dependent on Jobs Growth, Harvard Report Says
+-- Kathleen M. Howley
+-- 2010-06-14T04:00:01Z
+-- http://www.bloomberg.com/news/2010-06-14/u-s-housing-market-recovery-dependent-on-jobs-growth-harvard-report-says.html
+
+          
+          
+             Job growth will be the key factor in
+whether the U.S. real estate market can extend a  recovery  after
+the end of the federal homebuyer tax credit, according to a
+Harvard University study.  
+ High unemployment is fueling the foreclosure crisis and
+discouraging the household formation that drives property
+demand, according to the State of the Nation’s Housing report
+issued today by Harvard’s Joint Center for Housing Studies. The
+weak labor market resulted in people “doubling up,” or sharing
+residences, rather than buying their own home, the report said.  
+ “What happens with jobs will matter the most to the
+strength of the housing rebound,” said  Eric Belsky , executive
+director for the center in Cambridge, Massachusetts. “If
+employment growth surprises on the upside or downside, housing
+numbers could too.”  
+ The U.S. unemployment  rate  dropped to 9.7 percent last
+month from 9.9 percent in April, the Labor Department said June
+4. For all of 2010, it probably will be 9.6 percent, the highest
+for any year since 1983, according to the average estimate of 82
+economists polled by Bloomberg.  
+ The homebuyer tax  credit  of as much as $8,000 required
+buyers to have a signed contract by April 30 and close on a
+property by July 1. The credit resulted in 1 million additional
+home sales between February 2009, when it began, and its
+expiration this year, according to  Lawrence Yun , chief economist
+of the Chicago-based National Association of Realtors.  
+ Consumer confidence now needs to improve for the market to
+sustain itself, he said in an interview. The percentage of
+ consumers  who planned to buy a home in the next six months fell
+to 1.9 percent in May after touching a seven-month high of 2.8
+percent in March, the New York-based Conference Board said in a
+report last month.  
+ ‘Self-Fulfilling Prophecy’  
+ “It comes down to whether consumers perceive that the
+market has bottomed or if they continue to wait,” Yun said.
+“If they wait, it pushes the market down and becomes a self-
+fulfilling prophecy.”  
+ Mounting foreclosures are another headwind for a real
+estate recovery, according to the Harvard report. There were 2.1
+million loans in the  foreclosure  process in the first quarter,
+almost quadruple the number from three years ago.  
+ “The foreclosure trend is going to get worse before it
+gets better,”  Thomas Lawler , an independent housing consultant
+in Leesburg, Virginia, said in an interview. “The biggest risk
+for housing is that you’ll see more foreclosed homes hitting the
+market and not have an offsetting rebound in household formation
+triggered by a recovering jobs market.”  
+ To contact the reporter on this story:
+ Kathleen M. Howley  in Boston at 
+ kmhowley@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

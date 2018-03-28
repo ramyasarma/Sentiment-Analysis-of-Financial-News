@@ -1,0 +1,57 @@
+-- Wall Street Comparison Offends Las Vegas, Ensign Says
+-- Christine Harper
+-- 2010-04-27T18:24:29Z
+-- http://www.bloomberg.com/news/2010-04-27/wall-street-comparison-with-gaming-offends-las-vegas-senator-ensign-says.html
+
+          
+          
+             Most people in Las Vegas would
+“take offense” at being compared with Wall Street, according
+to the Nevada senator who represents the gambling capital.  
+ “In Las Vegas, most people know that the odds are stacked
+against them,” John Ensign, a Nevada Republican, said
+today at a Senate Permanent Subcommittee on Investigations
+hearing on Goldman Sachs Group Inc. “On Wall Street they
+manipulate the odds while you’re playing the game.”  
+ The panel was grilling current and former executives of
+Goldman Sachs today as senators probed the bank’s mortgage
+business and its role in the collapse of those markets.
+Lawmakers have likened Wall Street practices to a casino and
+said they lacked economic purpose.  
+ The gambling theme was raised earlier during the Washington
+hearing by Claire McCaskill, a Missouri Democrat, who joined
+senators including Chairman Carl Levin of Michigan who
+disparaged securities sold by Goldman Sachs as bets.  
+ “You are the bookie, you are the house,” McCaskill told
+the day’s first panel of witnesses. “You had less oversight
+than a pit boss in Las Vegas.”  
+ To contact the reporter on this story:
+Christine Harper in New York at 
+ charper@bloomberg.net ;  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Senator John Ensign, a Republican from of Nevada, right and Senator John McCain, a Republican from Arizona, listen during a hearing on Wall Street and the financial crisis in Washington, D.C., on April 27, 2010. Photographer: Andrew Harrer/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

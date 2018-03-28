@@ -1,0 +1,150 @@
+-- Apple Under Growing U.S. Pressure to Ease Software Limits
+-- Adam Satariano
+-- 2010-06-14T04:01:00Z
+-- http://www.bloomberg.com/news/2010-06-14/apple-under-pressure-to-ease-software-limits-as-jobs-s-influence-expands.html
+
+          
+          
+             Apple Inc. , under growing scrutiny
+from antitrust regulators, may have to loosen restrictions on
+software developers and music labels to avoid legal wrangling
+with the government and prevent damage to how its brand is
+perceived by the public, lawyers and analysts said.  
+ Federal Trade Commission officials are preparing to review
+allegations that Apple is trying to trammel rivalry in mobile
+advertising, people familiar with the matter said last week.
+Regulators were already weighing a probe of Apple’s treatment of
+Adobe Systems Inc., and the U.S. Justice Department has made
+preliminary inquiries into Apple’s behavior in the music market.  
+ The heightened scrutiny may prompt the company to give
+programmers more leeway in how they build applications for Apple
+products, said  Andrew Gavil , who teaches antitrust law at  Howard
+University  in Washington. The inquiries indicate government
+concern that Chief Executive Officer Steve Jobs may be trying to
+exert too much control over industries as varied as digital
+music, software development and mobile advertising.  
+ “Apple needs to be prepared that all of their actions will
+be put under a microscope,” said Michael Gartenberg, a partner
+at the Altimeter Group in San Mateo, California. “They need to
+make sure they don’t cross the line.”  
+ Apple spokesman Steve Dowling didn’t respond to a request
+for comment. FTC spokesman Peter Kaplan declined to comment.  
+ Apple, based in Cupertino, California, gained $3 to $253.51
+on the Nasdaq Stock Market on June 11, capping a  year-to-date 
+gain of 20 percent.  
+ Apple’s Advance  
+ As Apple enters new markets, it’s trying to maintain
+control not only over its  products  but also the applications
+made by third-party developers that run on those machines. For
+instance, it issues guidelines that limit the use of outside
+software in creating tools and games for its iPad tablet
+computer, or ads that appear in apps on the iPhone.  
+ While the company competes aggressively, it’s probably not
+violating antitrust laws, Gartenberg said.  
+ Still, problems arise if Apple gives the impression it’s
+trying to hamper competition, said Gavil at Howard University.  
+ The latest flap involves a set of instructions for
+developers building applications for use on Apple’s iPhone.
+Google Inc. unit AdMob said this week that the rules, if
+enforced, bar the use of Google and AdMob advertising software.
+The rules were proposed June 7.  
+ ‘Hamper Competition’  
+ “It does really look like these agreements are designed to
+hamper competition,” Gavil said. “The question really becomes,
+do they have any legitimate business justifications for that?
+It’s not hard to see how that can disadvantage a rival.”  
+ Omar Hamoui , founder of Google’s newly acquired AdMob
+mobile-ad service, wrote in a June 9  blog posting  that the
+prohibitions jeopardize the revenue AdMob gets from the iPhone
+and hurts software developers.  
+ Already, some programmers are shunning Google tools as they
+tailor apps for Apple products. Bill Predmore, president of  POP ,
+which builds mobile applications and ads for companies including
+Target Corp. and Microsoft Corp., said his company will avoid
+using AdMob until Google and Apple work out a solution.  
+ Antitrust enforcers in early May were said to be weighing
+an investigation of Apple after  Adobe Systems Inc.  complained
+that Apple is stifling competition by barring developers from
+using Adobe’s software to create applications for iPhones and
+iPads, people familiar with the matter said then.  
+ Three weeks later, the Justice Department was said to be
+looking at how Apple runs its iTunes digital music service.  
+ ‘Peek Under Hood’  
+ The inquiries may not yield the kinds of lawsuits that
+plagued Microsoft Corp. in the 1990s because Apple’s share of
+markets is smaller, Gavil said.  
+ Yet, the deeper the government probes, the more leverage it
+gains in shaping Apple’s behavior, said analysts at Baltimore-
+based Stifel, Nicolaus & Co. in a June 11 research note.  
+ “Every time a company comes before DOJ or the FTC, staff
+get to peek under the hood and acquire information that they can
+later connect with additional information to develop a theory of
+harm,” wrote Rebecca Arbogast and George Askew.  
+ FTC officials can issue a so-called consent decree that
+details the behavior a company needs to avoid, Gavil said.  
+ In some instances, a company will change tack before the
+government forces its hand, said Jonathan Potter, an attorney
+and former executive director of the  Digital Media Association .
+Apple is a board member of the trade group.  
+ ‘Lawyer Up’  
+ Any investigation “will be of concern and will obligate
+one to lawyer up, as they say on the TV cop shows, in a very
+significant way, and will cause at least consideration of one’s
+business practices,” said Potter, who’s based in Washington.  
+ In mobile advertising, Gavil said Apple may have to soften
+the rules that developers say prevent applications for Apple
+devices from using Mountain View, California-based Google or its
+AdMob unit to track and display advertising. Apple is preparing
+to start showing ads from its rival iAd network in July.  
+ “I can’t live on iAd alone,” said Greg Woock, CEO of
+ Pinger Inc. , a San Jose, California-based maker of a free
+texting app. “I need Google too.” He said his products
+generate 800 million ad views a month and only Google has enough
+ads available to fill that.  
+ Changes may also be in order in the way Apple operates in
+music, said Gregory Weston, founder of the  Weston Firm , a San
+Diego-based law firm that represents small businesses.  
+ As the top music retailer, Apple can press music companies
+to agree to terms. Apple has told some labels if they promote an
+album through Amazon.com Inc.’s “Deal of the Day” it won’t
+market the music as prominently on iTunes, a music industry
+executive who declined to be identified said last month.  
+ Meanwhile, as regulatory actions concerning Apple mushroom,
+the company’s days as a scrappy upstart that can compete as it
+sees fit may be ending, Gartenberg said.  
+ “This is the end of the age of Apple’s innocence, it will
+be harder and harder for them to maintain that image of the
+underdog,” he said. “They have achieved a certain degree of
+success, and with that success comes scrutiny.”  
+ To contact the reporter on this story:
+Dina Bass in Seattle at 
+ dbass2@bloomberg.net ;
+Adam Satariano in San Francisco at 
+ asatariano1@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Apple Inc. CEO Steve Jobs demonstrates the FaceTime video call functionality of the iPhone 4 during his keynote address at the Apple Worldwide Developers Conference in San Francisco. Photographer: David Paul Morris/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,75 @@
+-- New York Grid Operator Orders Power Cuts as Hot Weather Strains Capacity
+-- Christopher Martin
+-- 2010-07-06T21:12:53Z
+-- http://www.bloomberg.com/news/2010-07-06/new-york-city-may-get-record-power-demand-as-temperature-set-to-break-100.html
+
+          
+          
+             The New York Independent System
+Operator, which controls the state’s power grid and market,
+ordered cuts to customers that participate in demand reduction
+programs as hot weather drove consumption near the record high.  
+ Power demand rose to 33,450 megawatts as of 4:22 p.m., even
+after the grid operator asked some commercial customers in the
+city, representing about 400 megawatts, to reduce usage until 7
+p.m., said  Ken Klapp , a spokesman.  
+ Without those cuts from “interruptible customers” that
+get a discount on electricity bills for participating, use today
+may have surpassed the 33,939-megawatt record  reached  on Aug. 2,
+2006. Demand on Long Island hit an all-time high.  
+ Consolidated Edison Inc. , which supplies more than 3.2
+million customers in New York and its suburbs, also asked
+customers to conserve energy by turning off lights and
+appliances as temperatures reached a record 103 degrees
+Fahrenheit (39 Celsius) this afternoon.  
+ More than 4,000 customers in the five New York boroughs had
+lost electricity service as the hot weather strained grids, Con
+Ed said on its  website . The utility expected to restore most of
+them by 7 p.m.  
+ $250 a Megawatt-Hour  
+ Wholesale electricity in the city reached $185.94 a
+megawatt-hour as demand surged, and on Long island climbed to
+$250, according to the grid operator. The average price for
+utilities such as Con Ed was $100.85 at 4 p.m. local time.  
+ Power demand on Long Island reached a record 5,815
+megawatts as of 4:30 p.m., topping the previous high of 5,792 on
+Aug. 3, 2006, according to Vanessa Baird-Streeter, a spokeswoman
+for the Long Island Power Authority. She said 3,700 customers
+lost power because of the heat.  
+ Connecticut Light & Power reported on its website that
+19,382 customers were without power as of 4:05 p.m. local time.
+Most of them are in Stamford, where a substation failed,
+according to Mitch Gross, a company spokesman. The cause of the
+outage had yet to be determined.  
+ Gross said that electricity demand did not reach record
+highs in the utility’s service area.  
+ To contact the reporter on this story:
+ Christopher Martin  in New York at 
+ cmartin11@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A boy cools off in the Columbus Circle fountain in New York. Photographer: Andrew Harrer/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

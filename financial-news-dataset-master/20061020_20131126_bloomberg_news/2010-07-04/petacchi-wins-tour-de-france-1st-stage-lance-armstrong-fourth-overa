@@ -1,0 +1,59 @@
+-- Petacchi Wins Tour de France 1st Stage; Lance Armstrong Is Fourth Overall
+-- James Cone
+-- 2010-07-04T16:27:18Z
+-- http://www.bloomberg.com/news/2010-07-04/petacchi-wins-tour-de-france-1st-stage-lance-armstrong-fourth-overall.html
+
+          
+          
+             Italy’s  Alessandro Petacchi  won
+today’s opening stage of the Tour de France, seven years after
+his last success at cycling’s most prestigious race.  
+ The 36-year-old Lampre team rider, winner of four stages in
+2003, came first on today’s 223.5-kilometer (139-mile) stage
+from Rotterdam to Brussels after a series of crashes near the
+end ruled several contenders out of the sprint finish.  
+ Britain’s Mark Cavendish of the HTC-Columbia team was among
+sprinters who finished down the field after being involved in
+the pile-ups. Cavendish’s teammate Mark Renshaw of Australia was
+second, with Norway’s  Thor Hushovd  of Cervelo in third. Team
+RadioShack’s seven-time champion  Lance Armstrong  was 55th.  
+ Switzerland’s  Fabian Cancellara  of Team Saxo Bank, winner
+of yesterday’s prologue, retains the race leader’s yellow
+jersey. He leads Tony Martin of HTC-Columbia by 10 seconds, with
+David Millar of Garmin-Transitions 10 seconds further back.
+Armstrong is fourth.  
+ Defending champion Alberto Contador of Astana, a teammate
+of Armstrong last year, is sixth overall.  
+ Tomorrow’s second stage is a  201-kilometer ride  from
+Brussels to Spa. The 3,642-kilometer race ends on the Champs-
+Elysees in Paris on July 25.  
+ To contact the reporter on this story:
+James Cone in London at 
+ jcone@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Swiss rider Fabian Cancellara of team Saxo Bank retained the race leader's yellow jersey following stage one of the Tour de France. Photographer: Spencer Platt/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

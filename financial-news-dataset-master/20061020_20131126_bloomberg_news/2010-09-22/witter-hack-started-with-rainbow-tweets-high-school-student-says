@@ -1,0 +1,40 @@
+-- Twitter Hack Started With `Rainbow Tweets,' High School Student Says
+-- B y   A r i k   H e s s e l d a h l
+-- 2010-09-22T23:06:30Z
+-- http://www.bloomberg.com/news/2010-09-22/twitter-hack-started-with-rainbow-tweets-high-school-student-says.html
+A person in Australia, who claims
+to be the center of an incident that impaired service on Twitter
+Inc.’s website for thousands of users, said he had no malicious
+intent when he disclosed a security weakness to others.  A Twitter user identifying himself as Pearce Delphin, a 17-
+year-old high school student in Melbourne, said in an e-mail
+interview that he saw the potential for trouble in the short
+messages of another user in Japan.  Delphin, whose Twitter moniker is ZZAP, said he analyzed
+the Japanese user’s “rainbow” code that let messages appear
+against backgrounds of red, yellow and purple, and found the
+flaw. “Instead of just changing the appearance of the tweet,
+you could actually execute commands within the users’ browser of
+whoever viewed the tweet,” he said.  As a test, Delphin said he created messages containing the
+Javascript command “onmousover,” which displayed the words
+“uh oh” when a mouse was dragged over it.  Hackers, who saw his demonstration model on Sept. 21,
+tweaked the code to direct people to pornography websites and to
+create malicious software, or “worms,” that copied themselves
+into the message stream of anyone mousing over them. “Within
+half an hour, I saw the first worms auto-retweeting scripts,”
+Delphin said.  He said he didn’t write malicious code himself.  Paul Mutton, a computer security researcher with Netcraft
+Ltd., a Bath, U.K.-based Web research firm, identified the
+security flaw and notified Twitter at 5:40 a.m. New York time on
+Sept. 21, “even before the first worms started appearing,”
+Mutton said in a telephone interview. The weakness was patched
+by 10 a.m., Twitter said on its website and in a blog post.  Flaw Reappears  Twitter said in the blog post that the security flaw was
+identified and repaired about a month before the incident. It
+resurfaced following a software update, the company said.  Graham Cluley  a security researcher with Sophos Plc, an
+Abingdon, U.K.-based computer-security firm, said this points to
+a longer-term concern for Twitter. Once security “holes” are
+fixed, “they have to remain fixed,” he said.  Cluley estimated that about 1 percent of Twitter accounts,
+or more than 1 million users, were affected. Carolyn Penner, a
+Twitter spokeswoman, couldn’t confirm the number of users
+affected, and declined to comment beyond the blog post.  “To Twitter’s credit, they fixed it very quickly,” Cluley
+said. “It could have been much worse.”  To contact the reporter on this story:
+ Arik Hesseldahl  in New York at 
+ ahesseldahl@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at   tgiles5@bloomberg.net . 

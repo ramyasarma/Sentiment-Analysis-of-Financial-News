@@ -1,0 +1,153 @@
+-- Regulatory Reports on May 6 Stock-Market Retreat: Side-by-Side Comparison
+-- B y
+-- 2010-10-01T20:37:43Z
+-- http://www.bloomberg.com/news/2010-10-01/regulatory-reports-on-may-6-stock-market-retreat-side-by-side-comparison.html
+The U.S. Securities and Exchange
+Commission and Commodity Futures Trading Commission released
+their joint report today on the May 6 stock market crash that
+briefly erased $862 billion in value. The following compares
+questions raised in their preliminary report on May 18 with
+conclusions published today.  The “large fundamental trader” described in today’s report
+is Waddell & Reed Financial Inc., an Overland Park, Kansas-based
+mutual-fund company, according to two people familiar with the
+matter.  On futures selling by a large trader:  May 18: “CFTC staff identified the top ten most active
+accounts by gross volume between 2 p.m. and 3 p.m. Of those ten,
+nine trading accounts executed trades on both the long and short
+side of the market. For these trading accounts, there was a
+relative balance of activity between the long and short sides of
+the market. One out of the top ten trading accounts only entered
+orders to sell. That trader entered the market at around 2:32
+p.m. and finished trading by around 2:51 p.m. The trader’s short
+futures position represented on average, nine percent on the
+volume traded during that period. The trader sold on the way
+down and continued to do so even as the price level rose.”  Oct. 1: “This large fundamental trader chose to execute
+this sell program via an automated execution algorithm that was
+programmed to feed orders into the June 2010 E-Mini market to
+target an execution rate set to 9 percent of the trading volume
+calculated over the previous minute, but without regard to price
+or time. The execution of this sell program resulted in the
+largest net change in daily position of any trader in the E-Mini
+since the beginning of the year (from January 1, 2010 through
+May 6, 2010). ... On May 6, when markets were already under
+stress, the Sell Algorithm chosen by the large trader to only
+target trading volume, and neither price nor time, executed the
+sell program extremely rapidly in just 20 minutes.”  On liquidity in the market for E-mini futures:  May 18: “During the 30-minute period from 2:30 p.m. to 3
+p.m., trading volume was about 10 times the average daily
+trading volume for the same intraday time period calculated over
+the prior 30 days. High trading volume by itself can be
+interpreted as an indicator of improved liquidity. However, ...
+high trading volume was accompanied by significant volatility of
+trading volume. This suggests a dislocation of market liquidity,
+with high volume fluctuations at the same time that orders are
+executed deep into the limit order book. Consequently, liquidity
+indicators based on the characteristics of the limit order book
+may provide additional information about the liquidity dynamics
+during 2:30 p.m. to 3 p.m. on May 6.”  Oct. 1: “The combined selling pressure from the Sell
+Algorithm, HFTs and other traders drove the price of the E-Mini
+down approximately 3 percent in just four minutes from the
+beginning of 2:41 p.m. through the end of 2:44 p.m. During this
+same time cross-market arbitrageurs who did buy the E-Mini,
+simultaneously sold equivalent amounts in the equities markets,
+driving the price of SPY also down approximately 3 percent.  “Still lacking sufficient demand from fundamental buyers or
+cross-market arbitrageurs, HFTs began to quickly buy and then
+resell contracts to each other - generating a ‘hot-potato’
+volume effect as the same positions were rapidly passed back and
+forth. Between 2:45:13 and 2:45:27, HFTs traded over 27,000
+contracts, which accounted for about 49 percent of the total
+trading volume, while buying only about 200 additional contracts
+net.  “At this time, buy-side market depth in the E-Mini fell to
+about $58 million, less than 1 percent of its depth from that
+morning’s level. As liquidity vanished, the price of the E-Mini
+dropped by an additional 1.7 percent in just these 15 seconds,
+to reach its intraday low of 1,056. This sudden decline in both
+price and liquidity may be symptomatic of the notion that prices
+were moving so fast, fundamental buyers and cross-market
+arbitrageurs were either unable or unwilling to supply enough
+buy-side liquidity.”  On ETFs:  May 18: “The data suggests that ETFs as a class were
+affected more than any other category of securities. Trades in
+securities issued by ETFs appear to have accounted for nearly 70
+percent of the securities in which trades were broken on May 6.
+... A relatively large number of ETFs, approximately 160,
+experienced lows during the day approximately 100 percent lower
+than the May 5 close. ... A significant number of ETFs also
+experienced less extreme, but still notable lows of between 35
+percent and 100 percent relative to their corresponding May 5
+close.”  Oct. 1: “Extreme volatility in component stocks makes it
+very difficult to accurately value an ETF in real-time. When
+this happens, market participants who would otherwise provide
+liquidity for such ETFs may widen their quotes or stop providing
+liquidity (in some cases by using stub quotes) until they can
+determine the reason for the rapid price movement or pricing
+irregularities. A large majority of ETF market makers with whom
+we spoke, and particularly those that value underlying stocks as
+part of their normal market making activities, paused their
+market making for considerable periods of time starting at about
+2:45 p.m. on May 6. We believe this is one of the reasons
+equity-based ETFs were disproportionately affected by the
+extreme price volatilities of that afternoon. We further note
+that ETFs that do not derive their value from the prices of
+domestic equity securities were not disproportionately
+affected.”  On NYSE liquidity replenishment points:  May 18: “We continue to analyze the distribution of broken
+trades across markets to determine whether differences in market
+structure may have had an impact. Because NYSE pauses or slows
+trading in volatile periods when a LRP is triggered, this likely
+explains why NYSE had no broken trades on May 6. Some have
+suggested that LRPs exacerbated price volatility on May 6 by
+causing a net loss of liquidity as orders were routed to other
+trading venues for immediate execution rather than wait on the
+LRP mechanism. If accurate, this potentially could cause some
+NYSE securities to decline further than the broad market
+decline. Others believe that the LRP mechanism served to attract
+additional liquidity that helped soak up some the excess selling
+interest in these securities on May 6.”  Oct. 1: “Participants did not report they had difficulty
+routing or felt their orders were ‘trapped’ as a result of LRP
+events.  “However, a number of market participants told us that the
+fact so many LRPs were being triggered further underscored the
+severity of market conditions as they were unfolding, and that
+this additional ‘evidence’ played into their decisions to reduce
+liquidity, pause trading, or withdraw from the markets.  “Though market participants told us they were able to route
+their orders as needed, it is nevertheless possible that
+residual liquidity could have been trapped on NYSE during the
+LRP events, and that this liquidity could have absorbed some of
+the sell pressure of securities with the most severe price
+dislocations. In this regard, we note that over 80 percent of
+the 326 securities having broken trades were not listed on NYSE
+and therefore not subject to the LRP events. For those listed on
+NYSE we found 42 of the 56 stocks for which broken trades
+occurred on other exchanges were, in aggregate, subject to 180
+LRPs lasting 10 seconds or longer.”  On liquidity providers in the stock market:  May 18: “Another interesting question remains as to whether
+electronic liquidity providers pulled back during the relevant
+timeframe. At approximately 2:40 p.m. on May 6, prices declined
+rapidly across many trading venues and products. The activities
+of electronic liquidity providers are important subjects for
+analysis. These proprietary trading firms have come to be the
+dominant type of liquidity provider in the U.S. equity markets.
+Consequently, we are analyzing their activities on May 6. As
+noted above, we are in the process of obtaining and reviewing
+the order book data of exchanges and ECNs. We have, in the
+meantime, obtained other data from the exchanges concerning the
+activity of their top ten liquidity providing firms from 2 p.m.
+to 3 p.m. We continue to analyze these data to assess the
+activity of these liquidity providing firms.”  Oct. 1: “Whenever data integrity was questioned for any
+reason, firms temporarily paused trading in either the offending
+security, or in a group of securities. As a firm paused its
+trading, any liquidity the firm may have been providing to the
+market became unavailable, and other firms that were still
+providing liquidity to the markets had to absorb continued order
+flow. To the extent that this led to more concentrated price
+pressure, additional rapid price moves would in turn trigger yet
+more price-driven integrity pauses.  “Some firms experienced their own internal system capacity
+issues due to the significant increase in orders and executions
+they were initiating that afternoon, and were not able to
+properly monitor and verify their trading in a timely fashion.
+When that occurred, trading was paused and sometimes halted for
+an extended period of time.  “Another reason cited for withdrawing from the market was a
+belief that trades in individual securities at prices
+representing a 10 percent or greater short-term move would later
+be canceled, leaving a firm inadvertently and excessively long
+or short the market. We note that this particular concern was
+not necessarily due to uncertainty in whether or not a trade was
+going to be canceled, but rather the belief that they were
+indeed going to be canceled.”  To contact the editor responsible for this story:
+Nick Baker at +1-212-617-5919 or  nbaker7@bloomberg.net .
+ 

@@ -1,0 +1,63 @@
+-- BP Reports Highest Oil-Capture Rate Yet
+-- Jim Polson
+-- 2010-06-17T15:04:50Z
+-- http://www.bloomberg.com/news/2010-06-17/bp-reports-highest-oil-capture-rate-from-well-since-spill-began-april-20.html
+
+          
+          
+             BP Plc captured 18,600 barrels of
+oil from its leaking Gulf of Mexico well yesterday, a 78 percent
+increase from the previous day and the most since the spill
+began in April.  
+ About 21 percent of the oil was burned aboard the Q4000, a
+floating rig connected to the wellhead that began operations
+early yesterday, BP said in a statement posted today on its
+ website . The rest was stored aboard the Discoverer Enterprise, a
+drillship that’s been collecting oil since June 4, BP said.  
+ The amount of oil funneled from the well remains a fraction
+of the 35,000 barrels to 60,000 barrels a day that a government-
+led scientific team estimated is leaking. A fire aboard the
+drillship temporarily halted recovery two days ago.  
+ BP, based in London, plans to increase the recovery rate to
+28,000 barrels a day next week and to 53,000 barrels a day by
+June 30, said U.S. Coast Guard Admiral  Thad Allen , the national
+incident commander. Allen spoke today during a conference call
+with reporters.  
+ BP rose as much as 32.8 pence, or 9.7 percent, to 369.8
+pence in London, the biggest intraday gain since November 2008.
+ The company  yesterday agreed to fund a $20 billion escrow
+account to compensate spill victims, scrapped dividends this
+year and pledged asset sales to assure financial stability while
+it copes with spill costs.  
+ The spill began after the Deepwater Horizon drilling rig
+exploded April 20 and sank two days later, killing 11 workers.  
+ To contact the reporter on this story:
+ Jim Polson  in New York at 
+ jpolson@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Ships and drilling rigs surround the Discoverer Enterprise. Photographer: Bob Laura/U.S. Coast Guard via Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

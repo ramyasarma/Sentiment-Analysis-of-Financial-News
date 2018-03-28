@@ -1,0 +1,84 @@
+-- BP May Attempt `Static Kill' of Well Before Aug. 1
+-- Jim Polson
+-- 2010-07-29T19:37:40Z
+-- http://www.bloomberg.com/news/2010-07-29/bp-may-attempt-permanent-plugging-of-gulf-well-before-aug-1-allen-says.html
+
+          
+          
+             BP Plc  may move up the schedule for
+its effort to permanently plug the Gulf of Mexico well that
+caused the largest oil spill in U.S. history, National Incident
+Commander Thad Allen said.  
+ The so-called static kill attempt, which would involve
+pumping mud into the top of the well and perhaps sealing it with
+cement, can begin before Aug. 1 if preparations advance
+smoothly, Allen  said today at a press conference in New Orleans.  
+ Since capping the well July 15, London-based BP has
+ monitored  the well’s pressure and checked the seabed around it
+for leaks that might erupt into another gusher. Government
+scientists have reached a consensus that there are no leaks and
+none will be triggered by the static kill, Allen said.  
+ “Pressure has slowly risen, and it’s risen in a pattern
+that’s consistent with a well with integrity,” Allen said. “We
+feel it’s safe to go ahead.”  
+ BP  rose  10.95 pence, or 2.7 percent, to 413.45 pence in
+London trading. It has risen 30 percent this month after losing
+almost half its value during the first nine weeks of the spill.  
+ BP still needs to confirm the damaged well is plugged by
+intercepting it from the bottom and inserting additional cement
+as needed, Allen said. The company is preparing to insert a
+final 2,000 feet (610 meters) of steel piping before the static
+kill attempt can begin. Lines that will inject mud into the well
+from the top also need to be connected securely, Allen said.  
+ Louisiana Talks  
+ Talks with officials in Louisiana, the state hardest hit by
+the pollution, began today on how to redirect the response once
+all threat of a further spill ends and no more oil can be
+skimmed from the surface, Allen said.  
+ According to the government, 360 miles (579 kilometers) of
+Louisiana’s shores were polluted by oil as of yesterday, of the
+total 625 miles of tarred coastline.  
+ Louisiana’s parish presidents will be consulted on the use
+of idled fishing boats for tasks such as oil monitoring and
+recovery of boom laid to prevent oil from entering marshes and
+bays, Allen said. They’ll also be consulted on when the cleanup
+effort can stop, he said.  
+ The disaster began April 20, when the Deepwater Horizon
+drilling rig, which BP leased from  Transocean Ltd. , exploded and
+caught fire, causing it to sink and killing 11 workers. The well
+gushed from 35,000 barrels to 60,000 barrels of oil a day, a
+team of government and academic scientists estimated June 10.  
+ Scientists expect to narrow the range of that estimate “in
+a week or so” using data gleaned from the pressure readings of
+the sealed well and collected during the static kill, Allen
+said.  
+ To contact the reporter on this story:
+ Jim Polson  in New York at 
+ jpolson@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Thad Allen, U.S. Coast Guard National Incident Commander. Photographer: Derick E. Hingle/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

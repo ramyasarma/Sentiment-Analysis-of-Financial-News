@@ -1,0 +1,81 @@
+-- Funds Provide Inadequate Disclosure on Derivatives, SEC Says
+-- Jesse Westbrook
+-- 2010-08-02T20:47:59Z
+-- http://www.bloomberg.com/news/2010-08-02/mutual-funds-provide-inadequate-disclosure-on-use-of-derivatives-sec-says.html
+
+          
+          
+             U.S. regulators said mutual funds
+aren’t telling investors enough about why they use derivatives,
+with some funds providing “generic” disclosures and others
+failing to explain how the products affect performance.  
+ Regulators said they are concerned that the use of
+derivatives has increased in the mutual-fund industry without
+shareholders comprehending the risks or investment strategies.
+Some funds offer information that “may not be consistent with
+the intent” of required registration forms, the Securities and
+Exchange Commission wrote in a July 30  letter  to the  Investment
+Company Institute , the industry’s biggest trade group.  
+ The SEC also raised concerns about “abbreviated”
+disclosures that give investors a false sense of security about
+how much funds rely on derivatives.  
+ “While more abbreviated disclosures could lead some
+investors to believe that a fund’s exposure to derivatives is
+minimal, we have observed that some funds employing this type of
+disclosure, in fact, appear to invest significantly in
+derivatives,” wrote  Barry Miller , an associate director in the
+SEC’s division of investment management.  
+ As a result of the inadequate disclosures, investors may
+not know which products are used to generate profits, Miller
+said in the letter. He advised all funds that use derivatives to
+“assess the accuracy and completeness” of their disclosures.  
+ Working with Members  
+ The ICI “is reviewing the SEC staff’s letter on
+derivatives-related disclosures,” said Rachel McTague, a
+spokeswoman for the Washington-based group. “We will work with
+our members to ensure that they understand and comply with their
+disclosure obligations.”  
+ Derivatives are securities whose value is linked to assets
+such as stocks, bonds or commodities. Congress last month
+ increased regulation  of the products after transactions tied to
+the U.S. housing market were blamed for triggering the financial
+crisis and the near-collapse of companies including  American
+International Group Inc.   
+ Regulators have previously said they were particularly
+focused on leveraged and inverse exchange-traded funds, which
+rely on swaps to amplify profits or post inverse returns to an
+index. Such strategies enable funds to get around restrictions
+on borrowing implemented under the 1940 Investment Company Act.  
+ The SEC announced in March it wouldn’t approve new ETFs
+that make significant use of derivatives until the agency
+completes an examination of the practice. While the review is
+ongoing, the SEC’s Miller said the agency wanted to inform the
+industry of some of its initial observations.  
+ “We believe these observations may give investment
+companies immediate guidance to provide investors with more
+understandable disclosures,” Miller wrote in his letter to
+ Karrie McMillan , the ICI’s general counsel.  
+ To contact the reporter on this story:
+ Jesse Westbrook  in Washington at 
+ jwestbrook1@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

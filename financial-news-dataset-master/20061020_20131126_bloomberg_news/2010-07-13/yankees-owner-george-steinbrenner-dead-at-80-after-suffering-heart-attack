@@ -1,0 +1,59 @@
+-- George Steinbrenner, New York Yankees Owner, Dies at 80
+-- Michael Sillup
+-- 2010-07-13T13:58:41Z
+-- http://www.bloomberg.com/news/2010-07-13/yankees-owner-george-steinbrenner-dead-at-80-after-suffering-heart-attack.html
+
+          
+          
+             George Steinbrenner , the principal
+owner of the New York Yankees, died today at age 80 in Tampa,
+Florida, his family confirmed in an e-mailed statement.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     New York Yankees principal owner George Steinbrenner who is said to have died this morning, aged 80. Photographer: Joe Tabacca/Bloomberg  
+                   
+    
+
+                 
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                     July 13 (Bloomberg) -- George Steinbrenner, principal owner of the New York Yankees, died early today in Tampa, Florida, after suffering a massive heart attack.  Bloomberg's Michele Steele reports. (Source: Bloomberg)  
+                   
+    
+
+                 
+           
+                            
+                     
+                     New York Yankees owner George Steinbrenner talks to the press during the 1989 season in New York. Stephen Dunn/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

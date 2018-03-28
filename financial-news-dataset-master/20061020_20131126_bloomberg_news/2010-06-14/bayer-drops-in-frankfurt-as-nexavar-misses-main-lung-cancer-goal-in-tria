@@ -1,0 +1,38 @@
+-- Bayer Drops in Frankfurt as Nexavar Misses Main Lung Cancer Goal in Trial
+-- Angela Cullen
+-- 2010-06-14T07:03:32Z
+-- http://www.bloomberg.com/news/2010-06-14/bayer-drops-in-frankfurt-as-nexavar-misses-main-lung-cancer-goal-in-trial.html
+
+          
+          
+             Bayer AG fell as much as 1.1 percent
+in Frankfurt trading after the German drugmaker said its Nexavar
+cancer drug missed the main goal in a trial for lung cancer
+patients.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     The logo of Bayer AG is seen on a smokestack at the company's plant in Leverkusen, Germany. Photographer: Wolfgang von Brauchitsch/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

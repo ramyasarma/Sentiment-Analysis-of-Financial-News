@@ -1,0 +1,88 @@
+-- Stock Bears Outnumber Bulls for First Time Since April '09
+-- Caroline Dye
+-- 2010-07-14T16:47:19Z
+-- http://www.bloomberg.com/news/2010-07-14/stock-bears-outnumber-bulls-for-first-time-since-april-09.html
+
+          
+          
+             The level of bullish sentiment about
+the U.S. stock  market  fell below the level of bearishness for
+the first time since April 2009, according to a survey of
+newsletter writers.  
+ The proportion of bullish publications tracked by  Investors 
+Intelligence trailed bearish ones by 2.2 percentage points,
+declining to 32.6 percent, the lowest level since March 2009.
+Individuals’ optimism about equities also fell to its lowest
+level since March 2009, 21 percent, according to a survey last
+week by the American Association of Individual Investors. The
+Standard and Poor’s 500 Index has  rallied 7 percent  from July 2
+through yesterday.  
+ Some analysts regard investor sentiment as a contrarian
+indicator and believe increased pessimism is a sign the market
+is poised to rebound.  Barton Biggs , the hedge-fund manager who
+was among the first investors to turn bullish at the start of
+the bull market in 2009, said July 2 that he slashed his equity
+holdings in half that week. The S&P 500 has rallied every day
+since then.  
+ “It swings a little too much to one side, and we have a
+rally,”  Peter Boockvar , an equity strategist at Miller Tabak &
+Co.in New York, said in an interview.  
+ The Investor Intelligence survey is typically a lagging
+indicator, said  Michael Burke , co-editor at New Rochelle, NY-
+based Investors Intelligence.  
+ “Probably next week people will get a little more
+bullish,” he said in an interview. “We’re in the earnings
+season now, and that’ll make people a little more optimistic.”  
+ The following are results from Investors Intelligence’s
+analysis of investment newsletters for July 7 through yesterday.  
+
+ 
+             This Week  Last Week  Comments
+Bullish *      32.6%      37.0%    Lowest level since March 2009
+Bearish #      34.8%      34.8%    Stays at highest in 12 months
+Correction &   32.6%      28.2%    Biggest jump since January
+
+     * The bullish reading fell to 22.2 percent in October 2008,
+the lowest since November 1988.
+     # The bearish reading fell to 15.6 percent in December
+2009, the lowest since April 1987. It rose to 54.4 percent in
+October 2008, the highest since December 1994.
+     & The correction reading rose to 39.8 percent in February
+2010, the highest since September 1983.
+ 
+ To contact the reporter on this story:
+ Caroline Dye  in New York at 
+ cdye@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 14 (Bloomberg) -- Nicholas Bloom, a professor of economics at Stanford University, talks with Bloomberg’s Julie Hyman about the outlook for U.S. stocks and the global economy. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

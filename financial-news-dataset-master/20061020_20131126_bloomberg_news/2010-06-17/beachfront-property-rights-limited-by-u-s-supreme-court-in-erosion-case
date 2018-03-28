@@ -1,0 +1,83 @@
+-- Beach Property Rights Limited by U.S. Supreme Court
+-- Greg Stohr
+-- 2010-06-17T15:25:41Z
+-- http://www.bloomberg.com/news/2010-06-17/beachfront-property-rights-limited-by-u-s-supreme-court-in-erosion-case.html
+
+          
+          
+             The  U.S. Supreme Court , in a defeat
+for Florida beachfront property owners, upheld a state program
+that fights erosion by adding sand along the shoreline and
+creating strips of public beach.  
+ The  ruling  today highlighted divisions over privacy rights
+even as the justices voted 8-0 to reject the landowners’ claim
+that the program unconstitutionally deprives them of their
+private beaches.  
+ The justices split in their reasoning, hinting at future
+clashes over the scope of the constitutional protection against
+the taking of private property without compensation. Four
+justices said that courts, like other government officials,
+violate that clause when they extinguish what previously had
+been an established property right.  
+ “It would be absurd to allow a state to do by judicial
+decree what the takings clause forbids it to do by legislative
+fiat,” Justice  Antonin Scalia  wrote for himself, Chief Justice
+ John Roberts  and Justices  Samuel Alito  and  Clarence Thomas .  
+ Four other justices --  Anthony Kennedy ,  Sonia Sotomayor ,
+ Ruth Bader Ginsburg  and  Stephen Breyer  -- said the high court
+didn’t need to reach that question to resolve the Florida case.
+Kennedy and Sotomayor suggested they didn’t read the
+Constitution to prohibit so-called judicial takings.  
+ “It is unclear whether the takings clause was understood,
+as a historical matter, to apply to judicial decisions,”
+Kennedy wrote for the pair.  
+ Justice  John Paul Stevens , who owns oceanfront property in
+Florida, didn’t take part in the ruling.  
+ Florida Law  
+ Under Florida law, oceanfront property owners traditionally
+own the beach up to the mean high-water mark, while the
+submerged land beyond that is state property.  
+ In ruling against the landowners, the Florida Supreme Court
+said for the first time that beachfront property owners don’t
+necessarily have the right to be in direct contact with the
+water.  
+ Scalia said that ruling didn’t eliminate any settled right
+under Florida law.  
+ “The takings clause only protects property rights as they
+are established under state law, not as they might have been
+established or ought to have been established,” he wrote in
+section of his opinion joined by all the participating justices.  
+ During arguments in December, several justices said they
+worried that landowners might find their once-private beaches
+filled with food vendors, amusement parks, portable toilets and
+raucous college students holding spring break parties.  
+ Other justices pointed to protections in Florida law that
+give landowners a right of access to the water and bar permanent
+structures on the new strips. The law also guarantees that
+affected property won’t be reduced in size by erosion.  
+ The case is Stop the Beach Renourishment v. Florida
+Department of Environmental Protection, 08-1151.  
+ To contact the reporter on this story:
+ Greg Stohr  in Washington at 
+ gstohr@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,38 @@
+-- Yahoo! Second-Quarter EPS 15c, Est. 14c
+-- Steven Fromm
+-- 2010-07-20T20:05:42Z
+-- http://www.bloomberg.com/news/2010-07-20/yahoo-second-quarter-eps-15c-est-14c.html
+
+          
+          
+             Yahoo! Inc. reported second-quarter
+earnings of 15 cents a share.  
+ The average estimate of analysts surveyed by Bloomberg was
+for a profit of 14 cents a share.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Carol Bartz, president and chief executive officer of Yahoo! Inc. Photographer: Daniel Acker/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

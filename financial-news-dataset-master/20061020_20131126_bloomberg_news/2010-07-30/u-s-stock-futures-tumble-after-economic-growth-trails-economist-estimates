@@ -1,0 +1,56 @@
+-- U.S. Stock-Index Futures Tumble After Economic Growth Trails Estimates
+-- Michael P. Regan
+-- 2010-07-30T12:32:55Z
+-- http://www.bloomberg.com/news/2010-07-30/u-s-stock-futures-tumble-after-economic-growth-trails-economist-estimates.html
+
+          
+          
+             U.S. stock-index futures tumbled
+after the government said the economy grew at a 2.4 percent
+annual rate in the second quarter, trailing economists’ 
+estimates and adding to concern the recovery is slowing.  
+ Futures on the Standard & Poor’s 500 Index expiring in
+September lost 0.8 percent to 1,087.4 at 8:31 a.m. in New York.
+Dow Jones Industrial Average futures sank 79 points, or 0.8
+percent, to 10,330.  
+ The S&P 500 has climbed 6.9 percent in July, the biggest
+monthly advance in a year, as second-quarter earnings topped
+estimates at about 77 percent of its companies that have
+reported so far, according to Bloomberg data.   
+ The gauge has fallen 0.1 percent so far this week after
+consumer confidence slumped more than forecast, orders for
+durable goods unexpectedly decreased and the Federal Reserve
+said economic growth has slowed in some areas.   
+ Today’s report on gross domestic product showed the economy
+has grown for a fourth straight quarter after shrinking for five
+of the previous six. The S&P 500 slid to a 12-year low of 676.53
+on March 9, 2009, as the U.S. economy was on its way to a 6.4
+percent contraction for the first quarter of that year, its
+worst since 1982. The index has rebounded 63 percent since then.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A trader works on the floor of the New York Stock Exchange in New York. Photographer: Jin Lee/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

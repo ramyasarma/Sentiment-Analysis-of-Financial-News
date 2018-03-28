@@ -1,0 +1,59 @@
+-- Spirit Airlines, Striking Pilots Agree on Contract
+-- Mary Schlangenstein
+-- 2010-06-16T21:06:46Z
+-- http://www.bloomberg.com/news/2010-06-16/spirit-air-pilots-reach-tentative-contract-deal-to-end-strike-union-says.html
+
+          
+          
+             Spirit Airlines Inc. and its pilots
+reached a tentative contract agreement that may end the first
+strike at a U.S. passenger airline since 2005, the union for the
+employees said.  
+ Flight operations, which have been suspended since June 12,
+will resume June 18, the carrier said on its  website.  The pilots
+won’t return to work until contract language and some additional
+details are resolved, Doug Baj, spokesman for the  Air Line
+Pilots Association , said in an e-mail, without giving specifics.  
+ Pilots at the closely held carrier walked off the job after
+three years of negotiations failed to result in a contract.
+Talks resumed yesterday, and the pending accord was reached
+today.  
+ “We expect to update you later today with further news
+that will be positive,” Baj said.  
+ Misty Pinson , a spokeswoman for Miramar, Florida-based
+Spirit, didn’t immediately respond to an e-mail or telephone
+call seeking comment. The airline is owned by private equity
+firms Indigo Partners LLC and Oaktree Capital Management LLC.  
+ A strike by mechanics at Northwest Airlines Corp. in 2005
+was the last major work stoppage at a U.S. passenger carrier
+before the Spirit walkout.  
+ To contact the reporter on this story:
+ Mary Schlangenstein  in Dallas at 
+ maryc.s@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Carl Crawley, right, helps rebook passenger Aurea Comas on a flight to San Juan, Puerto Rico, at the Spirit Airlines counter at Detroit-Wayne County International Airport in Romulus, Michigan. Photographer: Jeff Kowalsky/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,49 @@
+-- Greece Sells 1.95 Billion Euros of 13-Week Bills at 4.05%, Government Says
+-- Andrew Davis
+-- 2010-07-20T09:19:06Z
+-- http://www.bloomberg.com/news/2010-07-20/greece-sells-1-95-billion-euros-of-13-week-bills-at-4-05-government-says.html
+
+          
+          
+             Greece sold 1.95 billion euros of
+13-week bills at a yield of 4.05 percent, the debt agency said
+today. Investors bid 3.85 times the amount of securities
+offered.  
+ To contact the reporter on this story:
+Andrew Davis in Rome at 
+ abdavis@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 20 (Bloomberg) -- Gary Jenkins, head of credit research at Evolution Securities Ltd., talks about sovereign bond sales in Europe and the outlook for bond investments.
+     Jenkins speaks with Maryam Nemazee on Bloomberg Television's 
+"Countdown." (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

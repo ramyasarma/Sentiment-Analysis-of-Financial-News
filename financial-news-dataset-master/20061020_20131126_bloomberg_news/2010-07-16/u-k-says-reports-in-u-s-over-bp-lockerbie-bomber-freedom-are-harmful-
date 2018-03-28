@@ -1,0 +1,47 @@
+-- BP, Libya Inaccuracies in U.S. Are `Harmful,' U.K.'s Washington Envoy Says
+-- Robert Hutton
+-- 2010-07-16T11:20:18Z
+-- http://www.bloomberg.com/news/2010-07-16/u-k-says-reports-in-u-s-over-bp-lockerbie-bomber-freedom-are-harmful-.html
+
+          
+          
+             The British ambassador to the U.S.,
+Nigel Sheinwald, said “inaccuracies” in reports about links
+between BP Plc and the release last year of Lockerbie bomber
+Abdelbasset Al-Megrahi were “harmful to the U.K.”  
+ “I am troubled by the claims made in the press that
+Megrahi was released because of an oil deal involving BP, and
+that the medical evidence supporting his release was paid for by
+the Libyan government.” Sheinwald wrote yesterday in a letter
+to Senator John F. Kerry, chairman of the Senate Committee on
+Foreign Relations. “Both of these allegations are untrue.”  
+ To contact the reporter on this story:
+Robert Hutton in London at 
+ rhutton1@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Freed Lockerbie bomber Abdelbaset Ali Mohamet al-Megrahi.Photographer: Mahmud Turkia/AFP/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

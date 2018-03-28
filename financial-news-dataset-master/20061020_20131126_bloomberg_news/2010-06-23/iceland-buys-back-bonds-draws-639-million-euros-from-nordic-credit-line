@@ -1,0 +1,53 @@
+-- Iceland Buys Back Bonds, Draws 639 Million Euros From Nordic Credit Line
+-- Tasneem Brogger
+-- 2010-06-23T00:00:00Z
+-- http://www.bloomberg.com/news/2010-06-23/iceland-buys-back-bonds-draws-639-million-euros-from-nordic-credit-line.html
+
+          
+          
+             Iceland bought back bonds due in
+2011 and 2012 and drew on a bilateral credit facility to boost
+foreign currency reserves.  
+ The Treasury repurchased 160 million euros ($196 million)
+of bonds due 2011 and 32 million euros in notes due in 2012, the
+central bank said in an e-mailed statement late yesterday.  
+ Iceland has also drawn 639 million euros from a bilateral
+credit line agreed with the Nordic countries and Poland, the
+bank said in the same statement. The funds drawn will be used to
+boost the country’s foreign currency reserves, it said.  
+ The bank announced on June 16 it was inviting offers to
+repurchase about 300 million euros in bonds due over the next
+two years as it tries to reduce the island’s reliance on
+external funding. The decision to draw on the bilateral credit
+line offsets the impact of the bond repurchase on the island’s
+reserves.  
+ To contact the reporter on this story:
+Tasneem Brogger in London at 
+ tbrogger@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     The logo of the central bank of Iceland is displayed at their headquarters in Reykjavik. Photographer: Arnaldur Halldorsson/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

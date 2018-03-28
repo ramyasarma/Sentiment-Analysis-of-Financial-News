@@ -1,0 +1,52 @@
+-- PBOC Adviser Says Can Consider Small Yuan Depreciation, Securities Reports
+-- Bloomberg News
+-- 2010-07-29T23:06:44Z
+-- http://www.bloomberg.com/news/2010-07-29/pboc-adviser-says-can-consider-small-yuan-depreciation-securities-reports.html
+
+          
+          
+             Chinese central bank adviser Zhou
+Qiren said the nation can consider a small yuan depreciation to
+help stabilize export growth, the China Securities Journal
+reported today.  
+ The central bank has already indicated that there won’t be
+one-time adjustments in the value of the yuan, showing that
+adjustments of the exchange rate will be long-term and have
+fluctuations, Zhou was cited as saying.  
+ To contact the reporter on this story:
+Jian Guo Jiang in Shanghai at 
+ jjiang@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 30 (Bloomberg) -- Nigel Chalk, the International Monetary Fund's mission chief to China, talks with Bloomberg's Susan Li about the outlook for the country's currency and central bank monetary policy. 
+     People’s Bank of China officials said "that with a benign inflation outlook there was less need for higher nominal interest rates at this point," the IMF said in a statement yesterday after annual consultations with the Chinese government. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

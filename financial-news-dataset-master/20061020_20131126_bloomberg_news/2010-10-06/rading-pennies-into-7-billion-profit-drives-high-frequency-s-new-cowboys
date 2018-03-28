@@ -1,0 +1,330 @@
+-- Trading Pennies Into $7 Billion Drives High-Frequency’s Cowboys
+-- B y   K a m b i z   F o r o o h a r
+-- 2010-10-06T04:01:00Z
+-- http://www.bloomberg.com/news/2010-10-06/trading-pennies-into-7-billion-profit-drives-high-frequency-s-new-cowboys.html
+A cowboy-hat-wearing robot with
+“Sell” emblazoned across its chest adorns a wall-length mural
+in the lounge of RGM Advisors LLC in Austin,  Texas . Another
+robot, with “Buy” on it, wobbles toward a green  Wall Street 
+sign as two machines tote spark-emitting high-speed cables.  “We explained to a local artist that we wanted a mural
+that represented our business, and he came up with the design,”
+RGM Chief Executive Officer Richard Gorelick says in an airy
+16th-floor office that calls to mind a Scandinavian design firm
+rather than a company that trades hundreds of millions of shares
+a day, Bloomberg Markets magazine reports in its November issue.  As a cue to RGM’s staff of 120 mainly scientists, software
+developers and information technology graduates that their job
+is to eke out a fraction of a cent profit on each of those
+trades, five stone urns in the lobby are stuffed with pennies.  “It’s a lot easier for us to teach really smart scientists
+about markets and trading than to teach traders about
+programming,” Gorelick, 39, says.  High-frequency firms such as Gorelick’s are the rebellious
+new force in U.S. securities markets. Armed with algorithms and
+computers that shave milliseconds off the speed of a trade,
+programmers, math whizzes and even some former dot­commers like
+Gorelick have set up shop from Austin to  Chicago  to Red Bank,  New Jersey . These firms don’t analyze a company’s value or bet
+on financial news. They use computers to scour public and
+private markets for deviations from historical prices and leap
+on discrepancies, rather than betting on the value of a company,
+currency or commodity.  All About Speed  “Speed is now the defining characteristic of the market,”
+says  Adam Sussman , the New York-based director of research at
+ Tabb Group LLC , who has researched the role of high-frequency
+firms in financial markets.  Fast-paced trading played a role in the 10-minute U.S.
+stock market crash on May 6. The automatic execution of a sale
+of futures contracts valued at about $4.1 billion helped trigger
+the plunge, according to an Oct. 1 report by the U.S.  Securities
+and Exchange Commission  and Commodity Futures Trading
+Commission. The initial sales of the contracts led to a burst of
+trading among high-frequency firms, the report said.  Some high-frequency companies set themselves up as market
+makers, offering prices to buy and sell shares. Others exist
+specifically to profit from mismatches among stocks.  ‘Quick Killing’  Nanex LLC  says some activities are underhanded. Researchers
+at the Winnetka, Illinois, data firm have found instances in
+which thousands of quotes a second in a particular stock are
+fired and canceled immediately, overwhelming trading systems.
+This process has added the term “quote stuffing” to the
+lexicon.  “High-frequency traders are not interested in the
+fundamental worth of a company,” says George Feiger, CEO of
+ Contango Capital Advisors Inc. , a San Francisco money management
+firm with $2 billion in assets. “They are only interested in
+making a quick killing and moving on.”  Regulators are fumbling with how to rein in the HFT crowd
+and its computers that generate more than half of all U.S. stock
+trades each day. The SEC is looking into establishing and then
+enforcing a minimum time period, such as 50 milliseconds, that a
+quote to buy or sell a stock would have to remain valid,
+according to firms who have met with the SEC. Such a move could
+limit the number of cancellations. The SEC also is considering
+whether to require high-frequency firms to remain in a market,
+rather than pulling out when times get tough, to maintain a
+supply of stock.  ‘Wild Wild West’  Democratic Senator Ted Kaufman of  Delaware  wants the SEC to
+limit the number of quote cancellations. The SEC has proposed
+rules to monitor firms that trade more than 2 million shares a
+day.  Such changes assume that enforcers are as agile as high-
+frequency firms.  “Technological advances have outstripped our ability to
+regulate them,” says Andrew Lo, director of  Massachusetts
+Institute of Technology’s  Laboratory for Financial Engineering
+and chief scientific officer of quantitative-analysis hedge fund
+AlphaSimplex Group LLC. “It’s like the Wild Wild West.”  The burgeoning HFT industry has spawned legions of jeans-
+wearing techies who arm their machines to outwit rivals.
+Programmers write formulas to sniff out the buy and sell
+intentions of mutual funds and jump in ahead of them in a
+practice called gaming. Institutional investors use strategies
+such as iceberging: breaking a single large order into chunks,
+and leaving just a small order, or the tip, visible. The gamers,
+also called sharks, unleash small buy and sell orders to uncover
+the hidden ones.  May 6  The event that triggered the intense interest of regulators
+was the crash on May 6. The Dow Jones Industrial Average --
+already down about 350 points on concern that  Greece  would
+default on its 210 billion euro ($290 billion) debt -- nose-
+dived 600 points in less than 10 minutes. Just as quickly, it
+rebounded to finish the day 347 points lower. The plunge
+temporarily erased $862 billion from U.S. equities in the Dow’s
+biggest-ever intraday drop.  In a May 18 report, the SEC and  CFTC  said they’re focusing
+on six areas -- including whether declines in index futures and
+exchange traded funds may have created waves of share sales.  In the Oct. 1 report, the regulators said an unidentified
+firm set off the plunge by selling 75,000 contracts on the
+Standard & Poor’s 500 Index known as E-mini futures. Two people
+with knowledge of the findings identified the firm as Waddell &
+Reed Financial Inc., an Overland Park, Kansas-based mutual-fund
+company. The automated sales of the contracts created a flurry
+of trading among HFT firms, according to the report.  ‘Hot Potato’  “HFTs began to quickly buy and then resell contracts to
+each other, generating a ‘hot-potato’ volume effect as the same
+positions were rapidly passed back and forth,” according to the
+report. Between 2:45:13 and 2:45:27, “HFTs traded more than
+27,000 contracts, which accounted for about 49 percent of the
+total trading volume, while buying only about 200 additional
+contracts,” the report says.  The report is unlikely to end the debate over the role of
+high-frequency firms. “If there is a time advantage, there is a
+monetary advantage,” says Nanex founder Eric Scott Hunsader.  In a run-up to the crash, some high-frequency traders
+submitted and then canceled tens of thousands of buy and sell
+orders a second, overloading trading systems, Hunsader says. The
+SEC hasn’t accused any firm of quote stuffing and no firm has
+owned up to unleashing their computers on the day of the crash.  Quote Stuffing  Quote stuffing hasn’t gone away. On an average day, 15 to
+20 stocks get more than 5,000 quotes a second that never turn
+into a trade, Hunsader says.  “If the number of quote-stuffing incidences continues, one
+or more systems will get saturated,” he says.  After May 6, the SEC and CFTC sought advice from traders,
+investors, academics, exchange officials and HFT executives on
+what to do.  “This is truly the brave new world we are trying to
+regulate,” CFTC Commissioner Scott O’Malia says.  SEC Chairman  Mary Schapiro  said in a September speech to
+the  Economic Club of New York  that the agency may impose rules
+on high-frequency traders.  During the past decade, the SEC moved to lower trading
+costs and create competition between exchanges. Some SEC
+changes, such as electronic communications networks, automated
+computer trading systems that match buyers and sellers, have
+virtually eliminated traditional market makers -- the people who
+used to stand on the floors of exchanges and offer buy and sell
+prices for a stock. That has left market-making activity
+dominated by HFT firms with few rules to govern them.  Boost the Economy  “The function of the capital markets is to facilitate
+capital formation and boost the overall economy, not to assure
+the profitability of any group of market professionals,” says
+Daniel Gray, assistant director of the SEC’s division of trading
+and markets.  Proponents of high-frequency trading -- and the companies
+themselves -- say they lubricate the gears of capitalism, making
+markets more efficient and slashing trading costs.  “The equity market has created an intense and healthy
+competition in providing liquidity,” says Liam Connell, CEO of
+ Allston Trading LLC,  a Chicago high-frequency firm that deals in
+options, futures contracts and foreign exchange. “We’re ripping
+each other’s throats for fractions of a penny.”  $7.2 Billion Profit  They deny quote stuffing. In fact, most HFT firms say they
+slowed trading -- or shut down altogether -- as May 6 unfolded
+because they were unsure of whether the quotes they were seeing
+were accurate. Now some are balking at any requirement that
+would force them to remain in the market during such times.  For all of their impact, there aren’t all that many high-
+frequency traders. HFT firms, some with just a handful of
+employees, make up about 2 percent of the 20,000 hedge funds,
+brokers and mutual funds active in U.S. equities, according to
+Tabb Group.  Last year, they accounted for 60 percent of the daily U.S.
+stock market volume of 9.8 billion shares and about 40 percent
+of futures and foreign-exchange trading, according to Tabb.
+Their trading profit: about $7.2 billion in 2009, Tabb says. By
+contrast, just one investment bank,  Goldman Sachs Group Inc .,
+made $13.3 billion in net profit last year. Goldman traders
+generated more than $100 million on 17 separate days during this
+year’s second quarter.  Warp-Speed Trading  This warp-speed universe is eons away from the days when
+traders in colorful jackets convened at the premier trading
+marketplace, the  New York  Stock Exchange. Today, the Big Board
+is one of 11 U.S. exchanges that display quotes publicly. Two
+more are coming this month. More than 30 dark pools, which allow
+buyers and sellers to operate without showing their actions to
+others, and 200-plus venues operated by banks and brokerages
+match buyers and sellers privately.  Five years ago, almost 80 percent of the shares of NYSE
+companies were traded on that exchange. Today, the NYSE controls
+26 percent of the shares traded on its trading platforms.
+(Bloomberg LP, the parent of Bloomberg News, owns Bloomberg
+Tradebook, an ECN that operates a dark pool.)  On a broiling August afternoon in Austin, about 30 T-shirt-
+and jeans-wearing RGM engineers 1,700 miles (2,700 kilometers)
+away from Wall Street watch a map of network traffic flowing
+across major markets on a 52-inch (132-centimeter) screen. Long
+equations scribbled in red and blue markers decorate glass
+office dividers. Outside, shops sell “Keep Austin Weird”
+souvenirs.  Algorithmic Models  RGM’s researchers build models for all of the stocks,
+futures and options the company trades to continuously determine
+a fair price. To value oil giant  Chevron Corp ., a high-frequency
+program might monitor not only Chevron’s stock price but compare
+it with crude oil, a basket of oil company shares and  interest
+rates . Computers would monitor bid and ask spreads, the gap
+between the price that a buyer wants to receive and what a
+seller will pay, across all trading venues to gauge demand.  “High-frequency firms work to tighten the spreads,”
+Gorelick says. “If the price has moved away from fair value,
+traders try to push it back.” That means buying or selling,
+depending on the direction of the move.  Another strategy, called pairs trading, is based on the
+idea that prices of related stocks should be correlated. Soda
+rivals  Coca-Cola Co . and PepsiCo Inc. tend to fluctuate around
+the same news. When that relationship breaks down so that the
+price of one stock increases while the other falls, it means
+opportunities to profit.  Dot-Com Heritage  “Think of prices of different correlated instruments as
+being held by rubber bands,” Gorelick says. “Once these rubber
+bands get stretched, that’s how we make our money.”  High-frequency traders didn’t have their HFT acronym when
+Gorelick started  RGM  in 2001 with Robbie Robinette and Mark
+Melton, the R and M of the firm.  Gorelick, who has a law degree from  Georgetown University 
+in Washington, had been general counsel and later chief strategy
+officer for message board search and shopping-comparison website
+Deja.com Inc. After the technology bubble burst in 2000,
+Deja.com shelved its IPO plans and sold its shopping service to  EBay Inc . and its newsgroup search archives to  Google Inc .  “Not one of us was a trader,” Gorelick says. He met
+Robinette, a software developer, at Deja.com; Melton, who
+specialized in data mining and pattern recognition, was
+Robinette’s cycling buddy.  The three started a company to apply mathematical models to
+detect trading patterns. “We liked a business where solving
+difficult technical problems led very directly to business
+success,” Gorelick says.  ‘Three Guys From Texas’  The trio thought they could beat technical traders, who
+rely on charts to identify historical price patterns. They pored
+over trading books and wrote their first program. Gorelick
+headed to Wall Street to meet brokers. People didn’t understand
+what they were doing, he recalls.  “We were three guys from Texas, with no trading experience
+and little money,” Gorelick says over a Cobb salad lunch. “It
+probably looked pretty flaky.”  Finally, a New York day-trading firm let them open an
+account. The partners loaded their program, which looked at
+statistical relationships among stocks, on a Compaq computer.  “Our first day, we did four trades and made $17,”
+Gorelick says. “Our second day, we lost a few hundred dollars
+and had to make adjustments.” By the spring of 2002, their
+strategy was working well enough to allow them to rent offices
+and recruit programmers and researchers.  Rise of Computers  RGM was preceded by a line of firms conceived by computer-
+savvy mavericks. Portfolio insurance traders were the early whiz
+kids of the 1980s until they got blamed for the 1987 stock
+market crash, says Bernard Donefer, who ran Fidelity
+Investments’ electronic trading desk from 1996 to 2002 and is
+now a professor at  Baruch College  in New York.  In the 1990s, day traders using the Small Order Execution
+System, a computer network that automatically executed trades of
+up to 1,000 shares, were called the SOES bandits because they
+swooped in before market makers could update prices.  “It was not economical to use a human market maker when
+computers can do it much cheaper,” Donefer says.  SEC Innovations  The SEC paved the way for today’s high-frequency traders in
+1998. Then-Chairman Arthur Levitt authorized Regulation ATS,
+which spawned ECNs to match buyers and sellers. (Levitt is on
+the board of Bloomberg LP.)  The SEC ordered the introduction of decimalization in 2000,
+lowering the minimum spread between what a seller will accept
+and what a buyer wants to pay to a penny from an eighth of a
+dollar, or 12.5 cents. The SEC’s aim was to reduce the cost of
+trading for retail investors.  In the 1990s, if you had wanted to buy a share of  International Business Machines Corp ., the price would have been
+$129, $129.125, $129.25 and so on. Today, the gap between the
+buyer and seller of a popular stock is often around a penny.  In another attempt to make markets more democratic, the
+SEC’s Regulation NMS in 2007 stipulated that orders be posted
+electronically and immediately executed at the best price
+available nationally. The combination of lower spreads and
+greater competition sent traditional market makers fleeing.
+Market making on the NYSE moved to computer screens from
+exchange floors.  Fleeting Opportunities  “Opportunities that in the past would last three days now
+last only five minutes or less,” says Irene Aldridge, author of
+“High-Frequency Trading: A Practical Guide to Algorithmic
+Strategies and Trading Systems” (Wiley, 2009). “There is too
+much information for a human trader to process.”  Automation introduced normally staid institutional
+investors to the high-frequency world. For mutual funds that
+deal in blocks of stock, there’s always danger in having rivals
+detect a trade. Once a high-speed firm discovers a fund’s large
+buy order, HFT computers may instantly move to snap up the
+available stock on other exchanges, expecting to sell it to the
+institution at a higher price.  The massive volumes generated by HFT firms scouring various
+markets can also send false trading signals.  “I am not sure if the quote at any time accurately
+reflects the balance of supply and demand,” says Kevin Cronin,
+director of global equity trading at Atlanta-based mutual fund
+firm  Invesco Ltd ., which has $560 billion under management.  “I see a quote, and many times it disappears in an instant
+without anything trading,” adds Cronin, who spoke at the SEC
+hearing and wants the commission to restrict HFT activities.  HFT Backers  High-frequency trading has won supporters, even in the $12
+trillion mutual fund industry. George Sauter, chief investment
+officer at Vanguard Group Inc., the biggest U.S. mutual fund
+manager, with $1.4 trillion in assets, says HFT has lowered
+costs. Decimalization, the absence of middle­men and competition
+sparked by high-frequency traders have shrunk spreads.  “My transaction costs have fallen by 50 percent over the
+past 10 years,” says Sauter, who also spoke at the SEC hearing
+and disagrees with curbs on HFT. “You cannot throw out high-
+speed trading with the bath water.”  Institutions have to adapt to reality, says Jose Marques,
+who joined  Deutsche Bank AG  as global head of electronic equity
+trading this year from  Credit Suisse Group AG .  “We have gone from machines looking for patterns to
+machines looking for other machines looking for patterns,” says
+Marques, who fends off high-frequency players for the bank’s
+electronic trading clients.  Hide-and-Seek  “We take the very techniques the high-frequency crowd use
+to detect activity and use that knowledge to defend our
+clients,” he says. “If we make a trade and see prices start to
+move, we’ll stop trading. High-frequency players will lose
+interest and move on. At that stage, we resume our trading.”
+The aim is to keep trading without attracting attention.  It’s still a struggle to trade without being detected, says
+Henri Waelbroeck, research director at New York-based electronic
+brokerage Pipeline Financial Systems LLC.  “Over time, all algorithms will leave a signature, a
+footprint that could be read by others,” he says.  Manoj Narang became interested in faster trading when he
+suspected somebody was deciphering his trades. Narang, 40, an
+MIT graduate who’d worked for Goldman Sachs and Credit Suisse,
+was running a $200 million hedge fund above a Restoration
+Hardware store in Red Bank. He speculated that companies with
+similar strategies were firing off trades faster than he was.  ‘Taking Opportunities’  “Firms were jumping ahead of us in trades, taking
+opportunities,” says Narang, dressed in a blue T-shirt, jeans
+and a Yankees cap as about 25 people, mostly men in their 20s,
+work at computers in near silence. Narang measured his holding
+time in three or four days, not seconds or even minutes, and was
+missing out on profits.  Narang, who had founded  Tradeworx Inc.  to sell trading
+software in 1999 and had started his hedge fund in 2001, hired
+engineering and math graduates. He began a $5 million high-
+frequency operation in January 2009. Today, he trades as many as
+60 million shares a day, with an average holding time of 2
+minutes, compared with 10 minutes in the summer.  Narang walks to a whiteboard to explain one of his
+strategies. All he needs is the price relationship between two
+stocks. Once his computers detect that the price of one stock is
+moving more than others, the machines go into action. If the
+price of  Microsoft Corp . is rising, Tradeworx sells Microsoft
+shares and buys the SPDR S&P 500 ETF Trust.  “You don’t need to look at anything other than the price
+of Microsoft to determine if it is rich or cheap,” he says.  Low Risk, Low Reward  There are plenty of chances to scalp a penny or two. A
+fluctuation in Microsoft shares will change the price of
+Microsoft options, as well as indexes that track Microsoft and
+the Standard & Poor’s 500 futures contract. Narang’s machines
+sell the SPDR ETF fund and buy Microsoft, closing the trade for
+a profit.  “This is not a swing-for-the-fences strategy but a low-
+risk, low-reward operation,” he says.  The trick is to generate enough volume to make it a
+sustainable business. Allston’s Connell left behind 14 years on
+Wall Street to join the Chicago firm in 2004, a year after it
+was formed. A native of Dublin who, with his rumpled white shirt
+and steel-gray hair, resembles actor Dennis Quaid, Connell won a
+1988 U.S. Green Card lottery, a government program that offered
+permanent residency. He headed to Salomon Brothers Inc. in New
+York to set up fixed-income-trading systems.  Price Discrepancies  Connell says he quit Salomon in 1998 because he felt
+destined for a life in middle management. He joined Chicago-
+based Hull Trading Co., which was a pioneer in electronic
+trading in options and futures. Goldman Sachs bought Hull for
+$531 million in 1999, making him managing director for equities
+derivatives trading systems. He spent four years there, took a
+year off and then joined Allston.  Seated in an office in the Chicago Board Options Exchange
+building with the blinds drawn against the glaring August
+sunlight, Connell says his team constantly looks for ways of
+identifying price discrepancies.  One approach would be to look at a stock’s historical
+trading pattern and buy or sell whenever the stock moves out of
+its range. Another is comparing a stock’s movement to a basket
+of related stocks. By contrast, a traditional asset management
+firm may look at year-ahead earnings, price-earnings ratio and
+cash-flow expectations to determine fair value.  Without knowing anything about Goldman Sachs’s profit or
+cash flow, a firm could still make money trading the shares. To
+illustrate how this might be done, Connell shows a spreadsheet
+with two days of Goldman Sachs price movements.  Buy and Sell Spikes  He points out where sudden spikes go back to an average
+price. These spikes are most likely short-term discrepancies in
+buy and sell orders, he says. By selling when the stock rose
+sharply and buying when the price fell sharply, a firm could
+theoretically make a profit. A company could apply this rule to
+spreads between similar stocks or baskets of stocks, says
+Connell, who declines to discuss Allston’s strategies.  At RGM, Gorelick has the same reticence. When asked about
+profits, he’s tight-lipped.  “That’s one of the benefits of being a private company,”
+he says.  From RGM’s first operating day when it did four trades and
+made $17, it now trades hundreds of millions of shares a day. If
+it makes 0.1 cent to 0.2 cent a share, or 1 to 2 mil in industry
+parlance, that could mean $75 million to $150 million a year in
+revenue from its trades. With options, futures and foreign
+exchange, trading profit could top $200 million.  “We’re not Goldman Sachs, but this is a good business,”
+he says.  Genie Out of Lamp  Supporters and opponents agree on one thing: High-frequency
+trading is here to stay.  “You can’t put the genie back in the lamp,” says Tim Sargent, CEO of Quantitative Services Group LLC, a Naperville,
+Illinois, company that analyzes trading costs.  The trick for regulators will be to weave some magic of
+their own to keep financial markets humming without letting fast
+computers bent on quick profits get the upper hand.  To contact the reporter on this story:
+Kambiz Foroohar in New York at 
+ kforoohar@bloomberg.net ;  To contact the editor responsible for this story:
+Michael Serrill at   mserrill@bloomberg.net  

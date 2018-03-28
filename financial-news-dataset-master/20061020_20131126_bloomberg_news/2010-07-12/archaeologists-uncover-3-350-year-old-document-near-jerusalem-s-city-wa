@@ -1,0 +1,92 @@
+-- Archaeologists Uncover 3,350-Year-Old Document Near Jerusalem's City Wall
+-- Alisa Odenheimer
+-- 2010-07-12T02:00:00Z
+-- http://www.bloomberg.com/news/2010-07-12/archaeologists-uncover-3-350-year-old-document-near-jerusalem-s-city-wall.html
+
+          
+          
+             A tiny clay fragment dating from the
+14th century B.C., which was discovered outside Jerusalem’s Old
+City walls, contains the oldest written document found in the
+city, researchers say.  
+ The 3,350-year-old clay fragment was uncovered during
+sifting of fill excavated from beneath a 10th century B.C.
+tower, dating from the period of King Solomon in an area near
+the southern wall of the Old City, the  Hebrew University of
+Jerusalem  said today in an e-mailed statement. Details of the
+find appear in the current  Israel Exploration Journal .  
+ “The find, believed to be part of a tablet from a royal
+archive, further testifies to the importance of Jerusalem as a
+major city in the Late Bronze Age, long before its conquest by
+King David,” the statement said.  
+ The fragment, which is 2 centimeters (less than 1 inch) by
+2.8 centimeters in size and 1 centimeter thick, contains
+cuneiform, or wedge-shaped, symbols in ancient Akkadian. The
+fragment was likely part of a “royal missive,” according to
+Wayne Horowitz, a scholar of Assyriology at the Hebrew
+University  Institute of Archaeology .  
+ Tablets with diplomatic messages were routinely exchanged
+between kings in the ancient Near East, and it is likely that
+the fragment was part of such a message, Horowitz said in the
+statement. The symbols on the fragment include the words “you”
+“you were,” “later,” “to do” and “them,” according to
+the statement.  
+ City of David  
+ The oldest known written record previously found in
+Jerusalem was a tablet found in the Shiloah water tunnel in the
+City of David area from the 8th century B.C. reign of King
+Hezekiah. That tablet, celebrating the completion of the tunnel,
+is in a museum in Istanbul. The latest find predates the
+Hezekiah tablet by about 600 years.  
+ Excavations in the area were conducted by  Eilat Mazar  of
+the Hebrew University Institute of Archaeology. Funding for the
+project was provided by Daniel Mintz and Meredith Berkman of New
+York.  
+ The fragment found in Jerusalem is believed to be
+contemporary with some 380 tablets discovered in the 19th
+century at Amarna in Egypt in the archives of Pharaoh Amenhotep
+IV, or Akhenaten, who lived in the 14th century B.C. The
+archives include tablets sent to him by the kings who were
+subservient to him in Canaan and Syria. Among these are six that
+are addressed from Abdi-Heba, the Canaanite ruler of Jerusalem.  
+ The table fragment in Jerusalem is most likely part of a
+message from the king of Jerusalem, possibly Abdi-Heba, back to
+Egypt, Mazar said.  
+ To contact the reporter on this story:
+ Alisa Odenheimer  in Jerusalem at 
+ aodenheimer@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Wayne Horowitz, scholar of Assyriology at the Hebrew University Institute of Archaeology, with the excavated clay document. Source: Hebrew University of Jerusalem via Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     A clay fragment found by Hebrew University archaeologists in excavations outside Jerusalem's Old City walls.  Source: Hebrew University of Jerusalem via Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,61 @@
+-- Baltic Index May Retreat to April Level, Barclays Says: Technical Analysis
+-- Alistair Holloway
+-- 2010-06-16T06:29:47Z
+-- http://www.bloomberg.com/news/2010-06-16/baltic-index-may-retreat-to-april-level-barclays-says-technical-analysis.html
+
+          
+          
+             The  Baltic Dry Index , a measure of
+commodity-shipping costs that’s tumbled 28 percent during its
+longest losing streak this year, may decline further, according
+to technical analysis by Barclays Capital.  
+ The gauge fell to 3,020 points yesterday, extending a 13-
+day fall on speculation weaker Chinese construction may curb raw
+material demand. That may include iron ore, more of which is
+hauled at sea than any other dry-bulk commodity. The attached
+chart shows the index’s 200-day moving average of 3,164. It fell
+as low as 2,911 points in April, 3.6 percent less than now.  
+ “The market is running down to its lows from April,”
+ Philip Roberts , a technical analyst at Barclays Capital in
+London, said by phone. On June 14 it went “below its 200-day
+average, which is a bearish signal and suggests those lows are
+going to be tested again.”  
+ China is the biggest consumer of iron ore, used in
+steelmaking, as well as coal, copper and aluminum. Authorities
+there have moved to cool the property market. Property sales in
+Beijing, Shanghai and Shenzhen fell as much as 70 percent in May
+as developers delayed sales, Shanghai Securities News reported
+on June 1, citing data from the Beijing local government.  
+ In technical analysis, investors and analysts study charts
+of trading patterns and prices to predict changes in a security,
+commodity, currency or index.  
+ To contact the reporter on this story:
+ Alistair Holloway  in London at 
+ aholloway1@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A worker walks near a bulk carrier cargo ship docked at an iron ore transfer and storage center in Shanghai. Photographer: Qilai Shen/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

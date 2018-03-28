@@ -1,0 +1,114 @@
+-- Business Method Patents Limited by U.S. Supreme Court
+-- Susan Decker
+-- 2010-06-28T17:33:14Z
+-- http://www.bloomberg.com/news/2010-06-28/business-method-patents-curbed-by-u-s-high-court-in-hedging-strategy-case.html
+
+          
+          
+             The  U.S. Supreme Court  ruled against
+two men who sought to patent a system for hedging energy trades,
+while leaving the door open to allowing limited legal
+protections for registering business methods.  
+ The ruling in the so-called Bilski case was the first time
+in 29 years that the court voted on what types of innovations
+qualify for legal protection. While the decision was unanimous,
+the justices divided 5-4 in their reasoning, with the majority
+declining to bar all patents on methods of conducting business.  
+ “This is a victory for people in favor of broader patents
+generally, including software,” said patent lawyer  Edward Reines  of Weil Gotshal in California, who was watching the case.
+“The stakes are high, the technology is evolving rapidly and
+it’s really difficult to make all-purpose rules in this area.”  
+ The justices voting in the majority said there needs to be
+a flexible test for emerging technologies. The case drew record
+interest for a business dispute before the highest U.S. court,
+with  Microsoft Corp.  and  Morgan Stanley  among dozens of
+companies filing briefs. The fight split industries, dividing
+companies that rely on their own intellectual property from
+those aiming to head off expensive infringement lawsuits.  
+ The dispute involved Bernard L. Bilski and Rand A. Warsaw,
+founders of a Pittsburgh company that sells customized consumer
+energy products. The Supreme Court was reviewing a decision by
+the U.S. Court of Appeals for the Federal Circuit against Bilski
+that said methods can be patented only if they have some
+physical component, through either a connection to a machine or
+their power to transform an item into a different state.  
+ Rewording the Patent  
+ Writing for the Supreme Court, Justice  Anthony Kennedy  said
+the federal circuit’s standard was only a “useful and important
+clue” and isn’t the sole test that should be used in
+determining whether a process is eligible for a patent. He did
+say business methods “raise special problems in terms of
+vagueness and suspect validity.”  
+ The decision leaves it up to the federal circuit, which
+specializes in patent law, to create a more flexible test.  
+ Michael Jakes , the lawyer who represented Bilski and
+Warsaw, said it may just mean a rewording of the patent
+application to “make the claims less abstract.”  
+ “For most patent owners, it’s a very good decision,”
+Jakes, a lawyer at Finnegan Henderson in Washington, said in a
+telephone interview. “It eliminates the federal circuit’s very
+restrictive test and leaves open patents for things that are not
+physical” inventions.  
+ Abstract Idea  
+ Companies that argued that the lower court standard was too
+restrictive included  Bank of America Corp. ,  Medtronic Inc. ,
+Novartis Corp.,  Palm Inc.  and Accenture Plc. Small software,
+financial services and electronic commerce companies also backed
+broad patent rights.  
+ Those urging restrictions on method patents included
+Microsoft, Morgan Stanley,  Google Inc.  and  J.C. Penney Co.  The
+Obama administration also advocated a high standard for granting
+method patents, as did Bloomberg LP, the New York-based parent
+company of Bloomberg News.  
+ Patents can be granted for machines, articles of
+manufacture, compositions of matter, and processes. It is the
+definition of a “process” that was the subject of the dispute.  
+ Justice  John Paul Stevens , joined by justices  Ruth Bader Ginsburg ,  Steven Breyer  and  Sonia Sotomayor , said that “a claim
+that merely describes a method of doing business does not
+qualify as a process” that is eligible for a patent.  
+ “If business methods could be patented, then many business
+decisions, no matter how small, could be potential patent
+violations,” Stevens wrote. “Businesses would either live in
+constant fear of litigation or would need to undertake the costs
+of searching through patents that describe methods of doing
+business, attempting to decide whether their innovation is one
+that remains in the public domain.”  
+ The case is Bilski v. Kappos, 08-964.  
+ To contact the reporter on this story:
+ Greg Stohr  in Washington at 
+ gstohr@bloomberg.net ;
+ Susan Decker  in Washington at 
+ sdecker1@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          June 28 (Bloomberg) -- Bloomberg's Greg Stohr reports on the latest Supreme Court rulings, including one that said Congress violated the Constitution when it set up an auditing board under the 2002 Sarbanes-Oxley law. In other decisions, the high court rejected the Justice Department's bid for as much as $280 billion in tobacco company profits and put limits on business method patents. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

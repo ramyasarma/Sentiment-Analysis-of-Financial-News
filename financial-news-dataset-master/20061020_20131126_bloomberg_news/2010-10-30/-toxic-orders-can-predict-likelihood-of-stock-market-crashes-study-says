@@ -1,0 +1,114 @@
+-- `Toxic' Orders Can Predict Likelihood of Stock Market Crashes, Study Says
+-- B y   N i n a   M e h t a
+-- 2010-10-30T04:01:00Z
+-- http://www.bloomberg.com/news/2010-10-30/-toxic-orders-can-predict-likelihood-of-stock-market-crashes-study-says.html
+A formula for measuring how fast the
+best-informed traders increase their share of market volume may
+help regulators prevent crashes such as the May 6 plunge,
+according to a study from researchers at hedge fund Tudor
+Investment Corp. and Cornell University.  The team developed a gauge that identifies the likelihood
+of market makers curtailing their activity, which can cause a
+rapid drop in prices.  Marcos Lopez de Prado  of Tudor and
+Cornell’s David Easley and  Maureen O’Hara  say the metric,
+similar to risk-management techniques used at some trading
+firms, may help regulators monitor for potential catastrophic
+shifts in liquidity.  Regulators are trying to prevent another rout like May 6,
+when a 20-minute drop briefly erased $862 billion from the value
+of U.S. equities. A transaction in Standard & Poor’s 500 Index
+futures overwhelmed computer-driven firms that bought the
+contracts, producing a flurry of “hot potato” trading followed
+by an evaporation of buy orders as investors lost faith in data,
+the Securities and Exchange Commission and Commodity Futures
+Trading Commission said in an Oct. 1 report.  “The measure would have been able to anticipate two hours
+in advance there was a high probability of a liquidity-induced
+event on May 6,” said Lopez de Prado, head of high-frequency
+futures at Tudor. “It measures order toxicity, or the
+probability the market is going to have persistent order
+imbalances that are going to damage market makers.”  Statistical Models  One of the statistical measures Greenwich, Connecticut-
+based Tudor uses to monitor risks in its high-frequency trading
+is based on O’Hara and Easley’s research, Lopez de Prado said.
+The new gauge the three developed after May 6 is called volume-
+synchronized probability of informed trading, or  VPIN .  While no system can predict stock crashes, any research by
+O’Hara, whose specialty is market microstructure, “must be
+taken seriously,” said  Paul Wilmott , owner of Wilmott.com, a
+website for quantitative finance that has 80,000 members.  “You can create lots of toy models, meaning simple models,
+to explain phenomena such as price movements, but they aren’t
+necessarily predictive,” Wilmott said. “Think of these models
+as being like an early warning indicator. Just like predicting a
+hurricane, you may know something’s on the way, but you don’t
+know where or when it will hit.”  Market Structure  The married Cornell couple are experts in market structure
+who have spent 20 years studying how changes in the make-up of
+orders on exchanges affects prices. Easley is chairman of the
+economics department and O’Hara is a finance professor at
+Cornell in Ithaca, New York. Before joining Tudor in 2008, Lopez
+de Prado was a partner at PEAK6 Investments LP in Chicago and
+head of quantitative equity research at  UBS AG  in Zurich.  “This could help market makers by measuring the
+probability they’re receiving toxic flow,” or orders from
+traders who are more informed about short-term price movements,
+Lopez de Prado said. “By providing a metric, they can regulate
+the way they operate and avoid dramatic decisions,” such as
+exiting the market. A futures contract on the gauge could enable
+them to manage their risk the way traders use the  Chicago Board
+Options Exchange Volatility Index , or VIX, to hedge against
+volatility, he said.  Tudor filed for a patent on VPIN on Oct. 15, according to
+Steve Evans, a partner and director of the hedge fund’s 46-
+person systems trading group, where Lopez de Prado works. Evans,
+who also manages the $1.4 billion Tudor Tensor managed futures
+strategy and a portion of the firm’s flagship Tudor BVI Global
+Funds, declined to say how VPIN influenced Tudor’s activity or
+profitability on May 6. He said that while Tudor uses some high-
+frequency trading techniques, that’s not one of the firm’s
+primary investment strategies.  Informed Trading  VPIN offers a measure of informed trading “suited for a
+hyper-volume informational world,” said O’Hara, who is also
+chairman of New York-based  Investment Technology Group Inc. 
+Since informed traders usually buy or sell at the same time more
+often than other participants, market makers tend to lose more
+money when order imbalances increase, causing them to curb their
+activity, she said. The paper about the May 6 crash is one of
+three the authors wrote related to VPIN.  “These are good papers that present interesting, precise
+ideas that can add to our understanding” of how informed
+trading affects liquidity providers, said  Aaron Brown , chief
+risk officer of AQR Capital Management LLC, a Greenwich,
+Connecticut-based hedge fund. “What’s missing is an empirical
+study linking elevated levels of toxic trading to the withdrawal
+of market liquidity.”  Forecasting Selloffs  Brown also questioned whether the tool was capable of
+forecasting selloffs such as the one on May 6.  “Liquidity providers monitor order imbalances in much more
+sophisticated ways than the authors, and use the analysis in
+their strategies,” Brown said. “It’s hard to believe you can
+predict flash  crashes  using a measure less sophisticated than
+the market participants have, given that the participants are
+trying to avoid being victimized by crashes.”  The VPIN gauge measures the imbalance of buy and sell
+orders to overall volume over periods that vary based on how
+much trading occurs, Easley said. Tracking imbalances relative
+to the intensity of trading instead of set periods -- what the
+paper calls trade time as opposed to clock time -- is a variant
+of existing models adjusted for high-frequency strategies.  “Informed flow is very hard to define,” said D. Keith
+Ross Jr., chief executive officer of PDQ Enterprises LLC, a
+Glenview, Illinois-based firm that operates a dark pool, or
+private network that matches orders without publishing quotes.
+“It can only be defined after the fact, based on its impact.”  Ross, a former chief executive officer of Chicago-based
+market maker Getco LLC, added that the paper presents an
+“elegant idea, but it might not be practicable.”  VIX Swings  VPIN has shown it can predict changes in the VIX, which
+reflects investor expectations about near-term price moves based
+on trading in options on the  Standard & Poor’s 500 Index , O’Hara
+said. The VIX doesn’t predict VPIN, making the measure a tool
+that provides new information to the market, she said.  Algorithms, or strategies that break larger orders into
+smaller pieces and execute them gradually, could also be
+tailored to trade differently as the VPIN rises, avoiding risks
+caused by diminishing liquidity, O’Hara said. Regulators for
+their part could use the measure to identify when markets are at
+risk of a liquidity-induced crisis and slow down trading to
+forestall further problems, Lopez de Prado said.  “This would be much more effective than a circuit
+breaker,” he said. U.S. stock markets and the Securities and
+Exchange Commission instituted curbs in June that briefly halt
+trading in a security when its price moves rapidly. “That stops
+the infection after the infection is already widespread,” he
+said. “VPIN is more dynamic and gradual.” It allows firms to
+track problems and respond to changes more quickly, he said.  High-frequency strategies now help facilitate the majority
+of trading volume in U.S. stocks and are proliferating in
+futures markets.  In this environment, “a period of illiquidity could pose
+real challenges when markets are fragmented and difficult,”
+O’Hara said. “Liquidity risks are non-trivial.”  To contact the reporter on this story:
+ Nina Mehta  in New York at 
+ nmehta24@bloomberg.net .  To contact the editor responsible for this story:
+Nick Baker at   nbaker7@bloomberg.net . 

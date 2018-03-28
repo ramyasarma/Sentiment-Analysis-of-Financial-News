@@ -1,0 +1,60 @@
+-- Fed Rules to Limit Credit-Card Late Fees, Require Review of Interest Rates
+-- Margaret Collins
+-- 2010-06-15T20:07:33Z
+-- http://www.bloomberg.com/news/2010-06-15/fed-rules-to-limit-credit-card-late-fees-require-review-of-interest-rates.html
+
+          
+          
+             The U.S. Federal Reserve approved
+rules to protect credit-card holders from unreasonable late-
+payment fees and to require issuers to review interest-rate
+increases.  
+ The Fed’s  rules  prohibit credit-card issuers from charging
+consumers more than $25 for paying late unless the card holder
+has “engaged in repeated violations,” bans inactivity fees for
+not using the card, prevents multiple penalties on a single late
+payment and requires issuers that have increased rates since
+Jan. 1, 2009, to consider reducing those rates, according to a
+statement today.  
+ “The new rules require that late payment and other penalty
+fees be assessed in a way that is fairer and generally less
+costly for consumers,” said Federal Reserve Governor  Elizabeth Duke  in the statement. “Card issuers must also reevaluate
+recent interest rate increases and, if appropriate, reduce the
+rate.”  
+ President  Barack Obama  signed credit-card legislation in
+May 2009 to be implemented in three stages. Provisions of the
+law already in effect include giving consumers the right to
+reject rate increases within 45 days and to pay off balances at
+current rates. Companies also must mail bills 21 days before due
+dates, up from 14 days previously.  
+ Today’s provisions take effect on Aug. 22.  
+ “These new rules will provide greater protection,
+transparency and certainty for credit-card customers and the
+industry will work quickly and diligently to ensure that they
+are implemented by their effective date,” said Kenneth Clayton,
+senior vice president and general counsel for card policy at the
+American Bankers Association in Washington.  
+ To contact the reporter on this story:
+ Margaret Collins  in New York at 
+ mcollins45@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

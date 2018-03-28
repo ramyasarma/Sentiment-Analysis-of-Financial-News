@@ -1,0 +1,59 @@
+-- Hewlett-Packard Will Pay Former CEO Mark Hurd Severance of $12.2 Million
+-- Greg Chang
+-- 2010-08-06T21:36:43Z
+-- http://www.bloomberg.com/news/2010-08-06/hewlett-packard-to-pay-hurd-severance-of-12-2-million.html
+
+          
+          
+             Hewlett-Packard Co. said Mark Hurd,
+who is stepping down as chairman and chief executive officer,
+will receive a severance payment of $12.2 million.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          Aug. 6 (Bloomberg) -- David Garrity, principal at GVA Research LLC, discusses the outlook for Hewlett-Packard Co. after Chief Executive Officer Mark Hurd announced his resignation. 
+     Hurd resigned after an investigation found he had a personal relationship with a contractor who received pay from the company that wasn’t business-related. Garrity talks with Pimm Fox on Bloomberg Television's "Taking Stock." (Source: Bloomberg)  
+                   
+    
+
+                 
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          Aug. 6 (Bloomberg) -- Aaron Rakers, an analyst at Stifel Nicolaus & Co., talks with Bloomberg's Lizzie O'Leary and Matt Miller about today's resignation by Hewlett-Packard Co. Chief Executive Officer Mark Hurd and the outlook for the company.
+     Hurd resigned as CEO after an investigation found he had a personal relationship with a contractor who received pay from the company that wasn’t business-related. Chief Financial Officer Cathie Lesjak will take over as interim CEO. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

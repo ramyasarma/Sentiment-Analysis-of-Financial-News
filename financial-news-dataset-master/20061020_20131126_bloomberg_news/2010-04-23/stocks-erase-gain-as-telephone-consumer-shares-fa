@@ -1,0 +1,49 @@
+-- Stocks Erase Gain as Telephone, Consumer Shares Fall
+-- Michael P. Regan
+-- 2010-04-23T14:38:13Z
+-- http://www.bloomberg.com/news/2010-04-23/stocks-erase-gain-as-telephone-consumer-shares-fall.html
+
+          
+          
+             U.S. stocks erased gains as
+declines in telephone companies, drugmakers and consumer-staples
+providers offset advances in commodity producers and
+homebuilders.  
+ The Standard & Poor’s 500 Index slipped less than 0.1
+percent to 1,207.72 at 10:36 a.m. in New York after climbing as
+much as 0.4 percent. The Dow Jones Industrial Average rose 5.37
+points, or 0.1 percent, to 11,139.66.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          April 23 (Bloomberg) -- Michael O'Rourke, chief market strategist at BTIG LLC, talks with Bloomberg's Betty Liu, Adam Johnson and Jon Erlichman about corporate earnings and forecasts.
+     O'Rourke also discusses Federal Reserve monetary policy and investment strategy. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

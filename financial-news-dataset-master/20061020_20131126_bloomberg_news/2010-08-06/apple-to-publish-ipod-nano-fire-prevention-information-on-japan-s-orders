@@ -1,0 +1,80 @@
+-- Apple to Publish Nano Fire Fix on Orders From Japan
+-- Yoshinori Eki
+-- 2010-08-06T17:03:42Z
+-- http://www.bloomberg.com/news/2010-08-06/apple-to-publish-ipod-nano-fire-prevention-information-on-japan-s-orders.html
+
+          
+          
+             Apple Inc.  will comply with a
+government order and provide information to Japanese consumers
+on how to avoid the potential risk of some iPod Nano music
+players catching fire.  
+ The information, which focuses on obtaining and replacing
+the battery on first-generation iPod Nanos, will be posted in a
+prominent place on the company’s Japanese website in the next
+few days,  Tom Neumayr , an Apple spokesman, said today by
+telephone. The posting complies with the Japanese government’s
+demand for a consumer alert about the fire risk, Neumayr said.  
+ The world’s  most-valuable  technology company is responding
+to instructions from Japan’s Ministry of Economy, Trade and
+Industry. The ministry yesterday advised Apple’s Japanese unit
+to post the information, including a list of serial numbers of
+affected products, on the website and to e-mail it to consumers.
+The government asked Apple to report on its progress by Aug. 13.  
+ “IPods are incredibly well designed and safety is the
+highest priority for Apple,” Neumayr said. “We’ve worked
+closely with METI to make sure first-generation iPod Nano
+customers who are concerned with their battery have the latest
+information.”  
+ Six incidents have been reported to the Japanese government
+since 2008 in which the 2005-model device caught fire while
+being recharged, ministry spokesman Hiroshi Miyashita said last
+week.  
+ Apple, based in Cupertino, California, fell $2.75, or 1.1
+percent, to $258.95 at 12:49 New York time on the Nasdaq Stock
+Market. The shares had risen 24 percent this year before today.  
+ To contact the reporters on this story:
+ Arik Hesseldahl  in New York at 
+ ahesseldahl@bloomberg.net ;
+ Yoshinori Eki  in Tokyo at 
+ yeki@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                                                 
+                     
+                     Enlarge image 
+                     
+                     
+                       Apple  
+                       
+                         
+                           Antoine Antoniol/Bloomberg 
+                         
+                         The apple logo is seen at the Carrousel du Louvre in Paris. 
+                       
+                     
+                                        
+           
+                     The apple logo is seen at the Carrousel du Louvre in Paris. Photographer: Antoine Antoniol/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

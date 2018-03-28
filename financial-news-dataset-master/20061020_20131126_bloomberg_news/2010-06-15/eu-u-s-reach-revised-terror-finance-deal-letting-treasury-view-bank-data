@@ -1,0 +1,80 @@
+-- EU, U.S. Reach Revised Terror-Finance Deal Letting Treasury View Bank Data
+-- Jonathan Stearns
+-- 2010-06-15T13:30:34Z
+-- http://www.bloomberg.com/news/2010-06-15/eu-u-s-reach-revised-terror-finance-deal-letting-treasury-view-bank-data.html
+
+          
+          
+             European Union and U.S. negotiators
+reached a new agreement on transferring bank data to American
+counter-terrorism investigators, seeking to overcome a veto by
+EU lawmakers who want to protect privacy.  
+ European Commission President  Jose Barroso  said the revised
+accord, under which the EU would let the U.S. Treasury
+Department view records from the  Swift  money-transfer system,
+bolsters the protection of personal data. He urged approval by
+the European Parliament, which rejected the previous deal in
+February after saying its privacy provisions were inadequate.  
+ “This draft is compatible with the respect of fundamental
+rights,” Barroso told the 27-nation Parliament today in
+Strasbourg, France. “It is subject to strict compliance with
+safeguards on privacy and the protection of personal data.”  
+ The assembly’s veto of the earlier accord deprived the U.S.
+of its preferred tool for collecting European data under the
+Terrorist Finance Tracking Program created after the Sept. 11
+attacks. An EU-wide agreement spares the U.S. from having to
+seek bank data on a country-by-country basis and makes the
+transfers less politically controversial.  
+ The rejection four months ago nullified a preliminary
+agreement that was meant to be a precursor to a definitive deal.
+The new text drafted by the  commission , the EU’s executive arm,
+and the U.S. government would be the definitive accord, on which
+the Parliament plans to vote in July.  
+ Swift, with headquarters in Belgium and computer centers in
+the Netherlands and Switzerland, is one of the main conduits for
+the global financial system. The cooperative, formally called
+the Society for Worldwide Interbank Financial Telecommunication,
+relays money-transfer orders among 9,000 member banks and other
+financial institutions in more than 200 countries.  
+ To contact the reporter on this story:
+ Jonathan Stearns  in Strasbourg, France, at   jstearns2@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                                                 
+                     
+                     Enlarge image 
+                     
+                     
+                       EU, US negotiators reach new terror-finance accord  
+                       
+                         
+                           Jock Fistick/Bloomberg 
+                         
+                         European Commission President Jose Manuel Barroso. 
+                       
+                     
+                                        
+           
+                     European Commission President Jose Manuel Barroso. Photographer: Jock Fistick/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

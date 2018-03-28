@@ -1,0 +1,62 @@
+-- London's Heathrow Airport May Face Shutdown as Workers Demand Pay Increase
+-- Steve Rothwell
+-- 2010-07-16T15:00:59Z
+-- http://www.bloomberg.com/news/2010-07-16/heathrow-airport-may-face-shutdown-as-6-000-workers-demand-salary-increase.html
+
+          
+          
+             London’s Heathrow airport , the
+busiest in Europe, could be closed by strike action as the Unite
+union ballots more than 6,000 security staff, engineers and
+firefighters in a pay dispute with owner BAA Ltd.  
+ The vote, which includes workers at BAA’s London Stansted
+airport and terminals in Edinburgh, Glasgow and Aberdeen in
+Scotland and Southampton on England’s south coast, will run from
+July 23 to Aug. 12, Unite said in a statement today.  
+ Heathrow, the world’s second-busiest airport after Atlanta
+Hartsfield, has already been affected by walkouts this year
+after Unite called strikes by British Airways Plc cabin crew
+over staffing levels, pay and contract terms. At BAA, the union
+is seeking a raise after salaries were unchanged last year.  
+ “BAA staff have already accepted a pay freeze in 2009 to
+help the company, but they are not prepared to accept such a
+paltry offer this year,”  Brendan Gold , Unite’s national
+aviation officer, said in the statement. A deal can be reached
+if BAA is prepared to be “fairer and more realistic,” he said.  
+ BAA, based in London and owned by Spanish builder Ferrovial
+SA, said a proposed 1.5 percent pay raise is fair as passenger
+numbers have fallen following the recession and the grounding of
+flights after a volcanic eruption in Iceland in April.  
+ “We regret Unite’s decision, which will cause unnecessary
+concern for millions of our passengers and damage Britain’s
+reputation around the world,” BAA said in a statement today.  
+ To contact the reporter on this story:
+ Steve Rothwell  in London at 
+ srothwell@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Aircraft sit on the runway in this aerial view of Heathrow Airport. Photographer: Simon Dawson/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

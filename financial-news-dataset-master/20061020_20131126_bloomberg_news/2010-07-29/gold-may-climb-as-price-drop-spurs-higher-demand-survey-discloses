@@ -1,0 +1,70 @@
+-- Gold May Climb Next Week as Price Drop Spurs Higher Demand, Survey Shows
+-- Nicholas Larkin
+-- 2010-07-29T23:00:01Z
+-- http://www.bloomberg.com/news/2010-07-29/gold-may-climb-as-price-drop-spurs-higher-demand-survey-discloses.html
+
+          
+          
+             Gold may advance on speculation that
+recent price declines will spur increased physical and
+investment demand, a survey found.  
+ Nine of 22 traders, investors and analysts surveyed by
+Bloomberg, or 41 percent, said bullion will rise next week.
+Eight forecast lower prices and five were neutral. Gold for
+December delivery was down 2.1 percent this week at $1,166.60 an
+ounce at 11:11 a.m. yesterday on the Comex in New York.  
+ The metal has dropped 7.9 percent since climbing to a
+record $1,266.50 on June 21. Prices on July 28 slipped to a 12-
+week low of $1,159.30 as holdings in the  SPDR Gold Trust , the
+biggest gold-backed exchange-traded fund, dropped the most in
+more than two years. Physical demand for gold from India, China
+and the wider Asian region was “very visible” as prices
+declined this week, UBS AG said July 28.  
+ “Although gold has fallen sharply from the highs reached
+in June we believe gold will still head higher,” said  Walter de Wet , an analyst at Standard Bank Plc in London. “While we are
+seeing strong physical demand for gold already, we believe
+investment demand for gold will remain in place.”  
+ Bullion has fallen from its high on reduced European
+financial turmoil and on signs the global economy is rebounding.
+The euro yesterday climbed to a 12-week high against the dollar,
+while the MSCI World Index of equities this week advanced to the
+highest level since May 14. Gold is up 6.4 percent this year.  
+ The red bars on the attached chart are derived by
+subtracting bearish forecasts from bullish estimates, with
+readings below zero signaling that most respondents expect a
+decline. The green line shows the gold price. The data shown are
+as of July 23.  
+ The weekly gold survey that started six years ago has
+forecast prices accurately in 183 of 321 weeks, or 57 percent of
+the time.  
+ This week’s survey results:  Bullish : 9  Bearish : 8  Neutral : 5  
+ To contact the reporter on this story:
+ Nicholas Larkin  in London at 
+ nlarkin1@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Gold ingots at the Argor-Heraeus SA gold producing and refining plant in Mendrisio. Photographer: Adrian Moser/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

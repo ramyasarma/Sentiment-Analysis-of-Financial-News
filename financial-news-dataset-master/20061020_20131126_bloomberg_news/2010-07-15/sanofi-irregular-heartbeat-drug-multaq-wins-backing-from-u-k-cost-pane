@@ -1,0 +1,64 @@
+-- Sanofi's Multaq Wins Draft Recommendation From U.K. Health-Cost Agency
+-- Iona Craig
+-- 2010-07-15T23:01:00Z
+-- http://www.bloomberg.com/news/2010-07-15/sanofi-irregular-heartbeat-drug-multaq-wins-backing-from-u-k-cost-panel.html
+
+          
+          
+             Sanofi-Aventis SA ’s heart drug
+Multaq won the final draft recommendation of the U.K.’s National
+Institute for Health and Clinical Excellence, reaffirming a
+March decision supporting the limited use of the drug by the
+National Health Service.  
+ Multaq, used in the treatment of irregular heartbeats, was
+less effective than competing medication, though it had fewer
+side effects and a lower risk of early death, the agency, known
+as  NICE , said in an e-mailed statement.  
+ The agency advises the state-run National Health Service on
+the cost-effectiveness of medicines. Multaq, also called
+dronedarone, would cost 2.25 pounds ($3.46) a day compared with
+the generic drug amiodarone, which costs 5 pence, NICE said.
+Multaq should be considered “as a treatment option only in
+people who have additional cardiovascular risk factors such as
+diabetes or high blood pressure,” said Andrew Dillon, NICE’s
+chief executive officer, in the statement.  
+ Atrial fibrillation effects 46,000 people in the U.K. every
+year, according to NICE. Multaq was introduced as a safer
+alternative to amiodarone, which is associated with major liver
+and lung risks. Multaq has suffered several setbacks since 2003,
+when Sanofi halted clinical trials because more patients given
+the drug died than those taking placebo. Multaq was given Food
+and Drug Administration approval in the U.S. in July 2009, after
+an initial rejection in 2006.  
+ The NICE recommendation will go through a consultation
+process before final guidance is issued to the NHS, which NICE
+expects to do in August.  
+ To contact the reporter on this story:
+ Iona Craig  in London at   icraig2@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Sir Andrew Dillon, chief executive officer of the National Institute for Health and Clinical Excellence, NICE. Photographer: Graham Barclay/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

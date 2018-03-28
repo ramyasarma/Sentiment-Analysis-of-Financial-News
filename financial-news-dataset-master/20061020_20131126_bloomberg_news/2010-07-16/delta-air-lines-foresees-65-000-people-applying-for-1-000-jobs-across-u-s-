@@ -1,0 +1,60 @@
+-- Delta Air Expects 65,000 Applicants for 1,000 Job Openings
+-- Mary Jane Credeur
+-- 2010-07-16T15:16:01Z
+-- http://www.bloomberg.com/news/2010-07-16/delta-air-lines-foresees-65-000-people-applying-for-1-000-jobs-across-u-s-.html
+
+          
+          
+             Delta Air Lines Inc. , the world’s
+largest carrier, said it anticipates getting about 65,000
+applications for its 1,000 airport job openings as millions of
+Americans continue to look for work.  
+ The airline is hiring workers at its 25 biggest U.S.
+airports to help with planes that are flying with near-record
+percentages of seats filled and cope with weather disruptions,
+Chief Executive Officer  Richard Anderson  said today in a weekly
+recorded message to employees.  
+ The company often gets “many multiples” of applications
+when it has job openings, he said. Delta has about 81,000
+employees and previously said it plans to hire about 240 pilots.  
+ Delta is expanding its workforce as travel demand and fares
+increase, helping repair balance sheets and return the industry
+to profitability. The Atlanta-based carrier may report second-
+quarter  net income of $510 million  on July 19, based on the
+average of 5 analysts’ estimates compiled by Bloomberg.  
+ U.S. airlines employed 18,756 fewer workers in May than a
+year earlier, according to the federal Bureau of Transportation
+Statistics. The industry’s total workforce was 557,400 people
+for the month, the agency reported.  
+ The June unemployment rate was 9.5 percent for the U.S. and
+10 percent for  Georgia , according to government data.  
+ To contact the reporter on this story:
+ Mary Jane Credeur  in Atlanta at 
+ mcredeur@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A Delta Airlines jet takes off at the Greater Cincinnati Northern Kentucky Airport. Photographer: Tom Uhlman/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,78 @@
+-- Apache, Apple, BP, Cytec Industries, Gilead, Yahoo: U.S. Equity Preview
+-- Lu Wang
+-- 2010-07-21T04:00:00Z
+-- http://www.bloomberg.com/news/2010-07-20/apache-apple-bp-cytec-gilead-yahoo-u-s-equity-preview.html
+
+          
+          
+             Shares of the following companies
+may have unusual moves in U.S. trading. Stock symbols are in
+parentheses.  
+ Apache Corp.  (APA US): The oil and natural-gas producer
+agreed to buy  BP Plc  (BP US) assets in North America and Egypt
+for $7 billion and said it plans to sell 21 million shares.  
+ Apple Inc.  (AAPL US): The Cupertino, California-based
+company third-quarter profit that exceeded analysts’ estimates
+as customers began flocking to the new iPad tablet computer and
+latest version of the iPhone.  
+ Cytec Industries Inc.  (CYT US): The U.S. chemical
+manufacturer boosted its full-year forecast after second-quarter
+profit topped analysts’ estimates.  
+ Gilead Sciences Inc.  (GILD US): The world’s largest maker
+of AIDS drugs reduced its annual sales forecast after second-
+quarter earnings missed analysts’ estimates.  
+ Yahoo! Inc.  (YHOO US): The owner of the second-most popular
+U.S. Internet search engine reported second-quarter sales that
+missed analysts’ estimates as marketers devoted online
+advertising spending to rival sites.  
+ To contact the reporter on this story:
+ Lu Wang  in New York at   lwang8@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 20 (Bloomberg) -- Robert Doll, vice chairman and chief equity strategist at BlackRock Inc., the world’s largest asset manager, talks with Bloomberg's Susan Li about the outlook for the U.S. economy and stocks.
+     Doll, speaking from Princeton, New Jersey, also discusses his investment strategy for emerging market stocks, and China's economy. (Source: Bloomberg)  
+                   
+    
+
+                 
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 21 (Bloomberg) -- Philip Orlando, chief equity market strategist at Federated Investors Inc., talks with Bloomberg's Susan Li about his investment strategy for global stocks. 
+     Orlando, speaking from New York, also discusses the outlook for the U.S. economy and stock market. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

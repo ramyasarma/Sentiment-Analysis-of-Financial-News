@@ -1,0 +1,48 @@
+-- Oil Reverses Losses to Trade Above $72 as Dollar Weakens, Equities Rebound
+-- Clyde Russell
+-- 2010-07-06T06:35:55Z
+-- http://www.bloomberg.com/news/2010-07-06/oil-reverses-losses-to-trade-above-72-as-dollar-weakens-equities-rebound.html
+
+          
+          
+             Crude oil reversed losses to trade
+five cents higher at $72.19 a barrel in electronic trading on
+the New York Mercantile Exchange at 2:32 p.m. in Singapore.  
+ Oil recovered from a decline of as much as 1.5 percent as
+the dollar weakened and Asian equities rebounded from a one-
+month low as investors took the view valuations were attractive.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 6 (Bloomberg) -- Thomas Schroeder, managing director at Chart Partners Group Ltd., talks with Bloomberg's Rishaad Salamat about technical analysis of the oil market.
+     Speaking from Bangkok, Schroeder also discusses the outlook for U.S. and Asia-Pacific stocks, commodity demand and the Australian dollar. (Source: Bloomberg)
+  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

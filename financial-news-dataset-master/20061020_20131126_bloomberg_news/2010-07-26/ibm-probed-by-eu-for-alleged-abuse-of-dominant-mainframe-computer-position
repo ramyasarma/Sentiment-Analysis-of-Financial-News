@@ -1,0 +1,124 @@
+-- IBM Investigated by EU Regulator Over Mainframe Market
+-- Katie Hoffmann
+-- 2010-07-26T22:33:19Z
+-- http://www.bloomberg.com/news/2010-07-26/ibm-probed-by-eu-for-alleged-abuse-of-dominant-mainframe-computer-position.html
+
+          
+          
+             International Business Machines
+Corp. , the world’s biggest provider of computer services, is
+being investigated by the European Union over claims it abused
+its dominant position in the market for mainframe computers.  
+ The probe will review claims IBM linked sales of its
+hardware to its software for mainframe computers and that IBM
+discriminated against competing sellers of services for the
+computers, the Brussels-based  European Commission  said in a
+statement today. IBM said the probe was the result of a campaign
+by “proxies” of competitors led by  Microsoft Corp.   
+ The commission, the antitrust regulator for the 27-nation
+EU, said the probe is partially in response to a complaint by T3
+Technologies Inc., which Microsoft invested in. T3 makes
+software that transfers mainframe functions to servers that can
+run Microsoft’s Windows operating system.  
+ Even as IBM has shifted away from hardware to focus on
+software and services, the mainframe has remained of central
+importance to the company. Though IBM gets less than 4 percent
+of its revenue directly from selling mainframes, the machines
+help generate sales of software, services and financing.
+Altogether, the contribution is almost a quarter of IBM’s sales
+and 40 percent of its profits, Sanford C. Bernstein analyst  Toni Sacconaghi  wrote in a report today.  
+ IBM, based in Armonk, New York, said in a statement that
+“there is no merit to the claims being made by Microsoft and
+its satellite proxies.”  
+ Microsoft Probes  
+ “Certain IBM competitors which have been unable to win in
+the marketplace through investments in fundamental innovations
+now want regulators to create for them a market position that
+they have not earned,” IBM said.  
+ Frank Shaw , a spokesman for Redmond, Washington-based
+Microsoft, said in an e-mail that the company invests in startup
+companies such as T3 to give customers greater choice. The
+company isn’t a party to T3’s complaint against IBM, he said.  
+ “We do share T3’s belief that there needs to be greater
+openness and choice for customers in the mainframe market,”
+Shaw said. “Customers tell us that they want greater
+interoperability between the mainframe and other platforms.”  
+ IBM added 3 cents to $128.41 in New York Stock Exchange
+trading. Microsoft rose 29 cents to $26.10 in Nasdaq trading in
+New York.  
+ The EU has previously punished U.S. technology companies,
+including Microsoft, in antitrust cases. Last year, Intel Corp.
+was fined a record 1.06 billion euros ($1.37 billion) and
+ordered to stop using illegal rebates to thwart competitors.  
+ T3  
+ Microsoft last year settled an antitrust case with the EU
+over its Internet Explorer browser and has previously paid fines
+of 1.68 billion euros in EU probes.  
+ The case was triggered by T3 and another vendor, Turbo
+Hercules, and involves IBM’s alleged tying of mainframe hardware
+to its operating system, the commission said.  
+ T3, a company that builds mainframe computers and is
+mentioned in the CCIA’s report, made a similar complaint against
+IBM to the commission. Similar antitrust claims the company made
+against IBM in a New York court were dismissed in September.  
+ “We’re pleased that the commission has taken this
+important step,” said Dave Anderson, a lawyer representing T3.  
+ The second probe involves complaints of discriminatory
+behavior by IBM against competing suppliers of maintenance
+services for the computers.  
+ “The commission has concerns that IBM may have engaged in
+anti-competitive practices with a view to foreclosing the market
+for maintenance services,” the EU today said in a statement,
+“in particular by restricting or delaying access to spare parts
+for which IBM is the only source.”  
+ Newest Mainframe  
+ IBM began developing mainframe computers in the 1940s and
+1950s and is now among the few companies to offer the systems.
+The company announced its newest mainframe, the zEnterprise,
+last week. The model, up to 60 percent faster than its
+predecessor, uses IBM software to integrate it with smaller
+server computers.  
+ The company comes out with a new mainframe every two to
+three years. After the introduction of the last five models,
+sales in its services division, more than half its total
+revenue, rose an average of 3 percent, Deutsche Bank analyst
+ Chris Whitmore  wrote in a report. Excluding the 2008 update,
+which came during a recession, the boost is 9 percent.  
+ The mainframe, along with services and software growth,
+will help IBM raise total sales this quarter even with a
+currency impact, Chief Financial Officer  Mark Loughridge  said
+this month. Last week, IBM reported second-quarter sales that
+climbed 2 percent to $23.7 billion, with a $500 million hit from
+currency.  
+ To contact the reporters on this story:
+ Erik Larson  in London at 
+ elarson4@bloomberg.net ;
+ Katie Hoffmann  in New York at 
+ khoffmann4@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     IBM began developing mainframes in the 1940s and 1950s and is now among the few companies to offer the systems. Photographer: Daniel Acker/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

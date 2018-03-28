@@ -1,0 +1,39 @@
+-- Cuomo Subpoenas Prudential Financial, MetLife in Military Probe
+-- Greg Chang
+-- 2010-07-29T15:12:22Z
+-- http://www.bloomberg.com/news/2010-07-29/cuomo-subpoenas-prudential-financial-metlife-in-military-insurance-probe.html
+
+          
+          
+             New York Attorney General Andrew M.
+Cuomo said his office served subpoenas on Prudential Financial
+Inc. and MetLife Inc. that provide life insurance policies to
+members of the military as part of an investigation for
+defrauding military families.   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     New York Attorney General Andrew Cuomo. Photographer: Chris Hondros/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

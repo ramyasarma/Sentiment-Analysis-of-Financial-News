@@ -1,0 +1,88 @@
+-- Citigroup, JPMorgan Said to Have Sold AIG Protection to Goldman
+-- Jesse Westbrook
+-- 2010-07-23T18:10:48Z
+-- http://www.bloomberg.com/news/2010-07-23/citigroup-jpmorgan-said-to-have-sold-aig-failure-protection-to-goldman.html
+
+          
+          
+             Citigroup Inc.  and JPMorgan Chase &
+Co. are among the banks that sold  Goldman Sachs Group Inc. 
+protection against a failure of insurer  American International
+Group Inc. , said two people with knowledge of the transactions.  
+ Deutsche Bank AG, Credit Suisse Group AG and Morgan Stanley
+are also among banks that helped Goldman Sachs hedge against the
+risk of an AIG collapse, said the people, who declined to be
+identified because the contracts were private.  
+ Goldman Sachs has turned over a list of counterparties to
+the  Congressional Oversight Panel  and Financial Crisis Inquiry
+Commission, which are reviewing the use of taxpayer funds in
+financial bailouts, according to people with knowledge of the
+matter. Had AIG been allowed to fail in 2008, instead of
+receiving a government rescue that swelled to $182.3 billion,
+the banks may have had to make payments to Goldman Sachs.  
+ “AIG didn’t go down, and these banks didn’t have to pay
+out to Goldman for the protection they sold,” said  Ed Grebeck ,
+chief executive officer of Stamford, Connecticut-based debt-
+consulting firm Tempus Advisors and an instructor at New York
+University on derivatives.  
+ Lucas van Praag , a spokesman for New York-based Goldman
+Sachs, declined to comment.  Renee Calabro  of Deutsche Bank,
+Credit Suisse’s  Duncan King , Morgan Stanley’s  Mark Lake ,
+JPMorgan’s  Brian Marchiony  and Citigroup’s  Danielle Romero- Apsilos  had no comment.  
+ Mortgage-Linked Securities  
+ AIG’s rescue was designed to prevent a wider financial
+collapse. Banks including Goldman Sachs bought $62.1 billion in
+insurance on mortgage-linked securities from AIG. To protect
+itself against the possibility AIG would be unable to honor its
+obligations, Goldman Sachs bought credit-default  swaps  that
+would’ve paid out in the event of an AIG bankruptcy, Goldman
+Sachs Chief Financial Officer  David Viniar  has said.  
+ When asked in March 2009 which firms sold Goldman Sachs the
+protection, Viniar said it was “really all of the large
+financial institutions” in and outside the U.S.  
+ “That would be who you’d get protection from,” Grebeck
+said. “You’d go to big, highly rated counterparties like
+that.”  
+ Goldman Sachs got $12.9 billion after AIG’s rescue as
+bailout funds helped the insurer honor its contracts with Wall
+Street firms. The bank’s hedges against AIG were a reason
+Goldman Sachs wouldn’t accept anything less than full payment on
+the guarantees it purchased from the insurer, Viniar said last
+year, without indentifying the firms.  
+ “We want to know the identity of those parties, partly
+just to know where American taxpayer dollars went, but partly to
+assess Goldman’s claim,” said  Elizabeth Warren , chairman of the
+Congressional Oversight Panel, in a Senate hearing this week.
+“We cannot evaluate the credibility of their claim that they
+had nothing at stake one way or the other in the AIG bailout.”  
+ To contact the reporters on this story:
+ Hugh Son  in New York at   hson1@bloomberg.net ;
+ Jesse Westbrook  in Washington at 
+ jwestbrook1@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     The headquarters of American International Group Inc. in New York. Photographer: Daniel Acker/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

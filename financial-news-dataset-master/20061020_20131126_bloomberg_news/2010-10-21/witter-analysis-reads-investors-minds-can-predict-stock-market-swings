@@ -1,0 +1,54 @@
+-- `It's Like the Matrix:' Twitter May Help Read Investors' Minds
+-- B y   N i c k   G e n t l e
+-- 2010-10-21T10:22:23Z
+-- http://www.bloomberg.com/news/2010-10-21/twitter-analysis-reads-investors-minds-can-predict-stock-market-swings.html
+The millions of messages sent daily
+via Twitter Inc. can help predict moves in the Dow Jones
+Industrial Average by signaling  sentiment , researchers at 
+Indiana University and the University of Manchester said.  By scouring tweets for key words and analyzing them using
+an algorithm they developed to divine the mood of Twitterers,
+Johan Bollen, Huina Mao and Xiao-Jun Zeng said they were able to
+predict the daily up and down movements of the Dow during a
+period in 2008 with 87 percent accuracy. Now they are testing
+whether their results can be applied to real-time data.  “So far we have observed that some of the parameters may
+change over time but that our conclusion that Twitter mood data
+can predict fluctuations in the stock market will stand,” said
+Indiana University’s Bollen in an e-mail interview. “We feel
+that we have merely uncovered the tip of the proverbial
+iceberg.”  The research suggests that Twitter analysis could provide a
+cheap way to improve results of other computer models that use
+news events and other publicly available data to anticipate how
+investors will act. The data may even predict to some extent the
+magnitude of stock market moves, Bollen said.  “It feels a little like the Matrix,” said  Christian Kielland , a managing director at BTIG Hong Kong Ltd. “I
+definitely wouldn’t discount it. Without a doubt, sentiment and
+psychology are huge factors in trying to predict markets.”  Flash Crash  Automated programs that trade on information other than
+price have been blamed in part for the May 6 “flash crash”
+that wiped $862 billion off the U.S. market. A June 2 plunge in
+the shares of Diebold Inc. may also have been triggered when an
+item of year-old news was misinterpreted by the growing army of
+computers that search for financial information, analyze it and
+trade instantly without human involvement, market analysts said.  Bollen’s team outlined their findings in a paper published
+Oct. 14 on arXiv.org, an on-line journal. The team trawled
+through 9.9 million tweets using two tools, one called
+ OpinionFinder  which sorts messages into either positive or
+negative moods, and another from Google Inc., which classifies
+text into six mood dimensions: calm, alert, sure, vital, kind,
+and happy. While the OpinionFinder data was not very good at
+predicting stock market movements, one of the Google dimensions,
+calm, was excellent.  Mood Predicts Dow  “Changes of the public mood along these mood dimensions
+match shifts in the DJIA values that occur three to four days
+later,” the team said. “The aggregate of millions of tweets
+submitted to Twitter at any given time may provide an accurate
+representation of public mood and sentiment.”  Bollen said further research would be aimed at clarifying
+the relationships between the mood dimensions and to develop
+more formal models to predict how a change in the mood of
+Twitterers can influence the  Dow .  “With more and more information out there and available in
+the public space it makes sense for people to undertake this
+sort of Matrix building,” said BTIG’s Kielland “It would hold
+up better somewhere like the U.S. because a high proportion of
+people there are actively involved in the market. So when all
+those tweets are happening it’s more likely they are coming from
+someone who holds some stocks or other investments.”  To contact the reporter on this story:
+ Nick Gentle  in Hong Kong at 
+ ngentle2@bloomberg.net   To contact the editor responsible for this story:
+Darren Boey at   dboey@bloomberg.net . 

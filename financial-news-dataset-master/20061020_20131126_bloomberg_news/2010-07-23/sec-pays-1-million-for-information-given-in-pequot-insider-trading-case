@@ -1,0 +1,46 @@
+-- SEC Awards $1 Million for Information Provided in Pequot Case
+-- Gregory Mott
+-- 2010-07-23T19:13:39Z
+-- http://www.bloomberg.com/news/2010-07-23/sec-pays-1-million-for-information-given-in-pequot-insider-trading-case.html
+
+          
+          
+             The U.S. Securities and Exchange
+Commission said it will pay $1 million to two people who
+provided information and documents leading to civil penalties in
+the Pequot Capital Management Inc. insider-trading case.  
+ The SEC’s award to Glen Kaiser and Karen Kaiser of
+Southbury, Connecticut, was announced today in a statement on
+the agency’s website. The award is the largest paid by the SEC
+for information provided in connection with an insider trading
+case, the agency said.  
+ To contact the reporter on this story:
+Gregory Mott in Washington at 
+ gmott1@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     The headquarters building of the U.S. Securities and Exchange Commission (SEC) stands in Washington. Photographer: Joshua Roberts/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

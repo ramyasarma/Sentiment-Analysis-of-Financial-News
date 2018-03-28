@@ -1,0 +1,101 @@
+-- Swaps Show Higher Greek Debt Losses Than Stress Tests
+-- Abigail Moses
+-- 2010-07-08T07:48:35Z
+-- http://www.bloomberg.com/news/2010-07-07/greek-government-debt-losses-are-trading-at-three-times-stress-test-level.html
+
+          
+          
+             Credit markets are pricing in losses
+of about 60 percent on Greek bonds should the government
+default, more than three times the level said to be assumed by
+European banking regulators.  
+ Derivatives known as recovery swaps are trading at rates
+that imply investors would get back about 40 percent in a Greek
+default or debt restructuring. So-called stress tests designed
+to gauge banks’ strength will assume a loss, or haircut, of just
+17 percent on the bonds, according to two people briefed on the
+regulators’ talks before an official announcement.  
+ The  Committee of European Banking Supervisors  is overseeing
+the stress tests on the region’s banks, which are meant to
+assess the quality of their holdings and determine whether the
+lenders are viable. The committee is still weighing how much
+data to disclose and when, though the European Union has pledged
+to publish the results.  
+ “It might give some more confidence to the market, even
+though it’s probably less than what the market perceives as the
+risk,” said  Elisabeth Afseth , a strategist at Evolution
+Securities Ltd. in  London .  
+ Holders of recovery swaps agree to exchange a pre-set fixed
+rate for the actual amount received by bondholders following a
+default. The investor getting the fixed amount will benefit if
+the payment he receives is lower than the rate agreed.  
+ Chance of Default  
+ Credit-default swaps to insure $10 million of Greece
+government bonds for five years cost $892,000 annually, CMA
+DataVision prices show. That implies a 54 percent chance the
+southern European nation will default in that period, according
+to a standard pricing model published last year by the  International Swaps and Derivatives Association . Default
+probabilities are calculated from swap spreads and expected
+recovery rates.  
+ Default swaps on European corporate and bank bonds fell,
+signalling an improvement in investor perceptions of  credit
+quality .  
+ The Markit iTraxx Crossover Index of contracts on 50 mostly
+high-yield companies dropped 11.7 basis points to 547.5 as of
+8:45 a.m. in London, the lowest since June 23, according to
+Markit Group Ltd. The Markit iTraxx Financial Index of 25 banks
+and insurers fell 6 basis points to an almost two-month low of
+144, JPMorgan Chase & Co. prices show.  
+ The stress tests assume a haircut of 3 percent on banks’
+holdings of  Spain ’s sovereign debt, the people familiar with the
+negotiations said. Credit-default swaps tied to that country’s
+bonds fell 6.5 basis points to 245.5 yesterday, compared with
+the all-time high closing price of 274.5 on May 6, according to
+CMA.  
+ Derivatives are contracts with values derived from assets
+or events, including stocks, bonds, commodities, currencies,  interest rates  or the weather, and include credit-default swaps.  
+ Credit-default swaps pay the buyer face value in exchange
+for the underlying securities or the cash equivalent should a
+company fail to adhere to its debt agreements. A basis point on
+a contract protecting 10 million euros ($12.6 million) of debt
+from default for five years is equivalent to 1,000 euros a year.  
+ To contact the reporter on this story:
+Abigail Moses in London at 
+ Amoses5@bloomberg.net   
+ To contact the editor responsible for this story:
+Paul Armstrong at 
+ Parmstrong10@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 8 (Bloomberg) -- Jim Bianco, president of Bianco Research LLC, talks with Bloomberg's Susan Li about the outlook for U.S. stocks.
+     Bianco, speaking from Chicago, also discusses his investment strategy, stress tests for European banks, and the U.S. housing market. European Union regulators are carrying out stress tests on 91 banks, accounting for 65 percent of the area’s banking industry, to examine whether they can withstand a shrinking economy and a drop in government bond values. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

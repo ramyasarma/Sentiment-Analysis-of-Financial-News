@@ -1,0 +1,76 @@
+-- RadioShack Profit Rises 9% on Sales of Mobile Phones
+-- Chris Burritt
+-- 2010-07-29T13:57:49Z
+-- http://www.bloomberg.com/news/2010-07-29/radioshack-profit-rises-9-on-sales-of-mobile-phones-update1-.html
+
+          
+          
+             RadioShack Corp. , the consumer-
+electronics retailer, said second-quarter profit increased
+almost 9 percent, spurred by demand for mobile phones.  
+ Net income advanced to $53 million, or 41 cents a share,
+from $48.8 million, or 39 cents, a year earlier, Fort Worth,
+Texas-based RadioShack said today in a statement. The earnings
+per share were in line with the average of 16 analyst  estimates 
+in a Bloomberg survey.  
+ RadioShack, led by Chairman and Chief Executive Officer
+ Julian Day , spent more on marketing and boosted inventories of
+mobile devices. U.S. stores’ wireless sales including Sprint
+Nextel, T-Mobile and AT&T phones climbed 61 percent, blunting
+declines for digital converter boxes, netbooks, cameras and
+batteries.  
+ Sales rose 4.7 percent to $1.01 billion, slightly less than
+the average analysts’ projection of $1.02 billion.  RadioShack 
+climbed 69 cents, or 3.4 percent, to $20.88 at 9:38 a.m. in New
+York Stock Exchange composite trading. The shares have advanced
+7.7 percent this year.  
+ The company plans to expand a test selling wireless devices
+in kiosks at Target Corp., the second-largest U.S. discount
+retailer. Starting Aug. 15, it plans to set up Bullseye Mobile
+kiosks in most Target stores by mid-2011. The Minneapolis-based
+company operated 1,740 stores as of May 1.  
+ Added Inventory  
+ Inventory increased 12 percent to $646.2 million in the
+quarter, while selling, general and administrative expenses
+totaled $364.5 million, 8.6 percent higher than a year earlier.
+The company cut its full-year forecast for capital expenditures
+to $90 million to $110 million from as much as $120 million.  
+ Three private equity firms have backed away from pursuing
+RadioShack, three people with knowledge of the plans said last
+week. TPG Capital plans to drop out of bidding for the retailer,
+a person briefed on the talks said at the time. Blackstone Group
+LP, which had weighed a joint offer with TPG, is not likely to
+pursue RadioShack on its own, said another person.  
+ Bain Capital LLC, which had separately expressed interest,
+also has backed off, one person said last week. All three people
+asked not to be identified because the bidding process is
+private.  
+ To contact the reporter on this story:
+ Chris Burritt  in Greensboro, North Carolina, at   cburritt@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     RadioShack profit increased on demand for mobile phones. Photographer: Daniel Barry/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

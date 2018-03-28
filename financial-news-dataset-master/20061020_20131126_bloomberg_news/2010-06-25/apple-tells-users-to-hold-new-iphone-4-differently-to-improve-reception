@@ -1,0 +1,120 @@
+-- Apple: Hold New IPhone Differently to Fix Reception
+-- Crayton Harrison
+-- 2010-06-25T20:13:19Z
+-- http://www.bloomberg.com/news/2010-06-25/apple-tells-users-to-hold-new-iphone-4-differently-to-improve-reception.html
+
+          
+          
+             Apple Inc.  responded to complaints
+about reception on its new iPhone 4 by telling customers they
+should hold the device differently.  
+ “Gripping any mobile phone will result in some attenuation
+of its antenna performance, with certain places being worse than
+others depending on the placement of the antennas,”  Apple  said
+today in an e-mailed statement. “If you ever experience this on
+your iPhone 4, avoid gripping it in the lower left corner in a
+way that covers both sides of the black strip in the metal band,
+or simply use one of many available cases.”  
+ Yesterday’s introduction of the iPhone 4 was marred by
+criticism that signal strength diminishes when users cover the
+bottom-left corners with their palms. The iPhone has become
+Apple’s  top-selling  product since its 2007 debut, accounting for
+40 percent of sales last quarter.  
+ Chief Executive Officer  Steve Jobs  added a high-definition
+video camera, multitasking and video calling to the iPhone 4 to
+fend off competition from phones running  Google Inc. ’s Android
+operating system. It also has a stainless-steel band that’s
+designed to improve network reception.  
+ Customers have posted videos on the Internet demonstrating
+trouble with the iPhone 4’s new antenna.  
+ According to an e-mail exchange posted on the MacRumors.com
+website, Jobs called the matter a “non issue.” Users expressed
+disappointment with the response.  
+ ‘Really Awful’  
+ “I’m an  Apple  person going back a long time and have spent
+a small fortune on Apple stuff over the last few years,” said
+Patrick Coleman, 58, a senior systems administrator from
+Rockville, Maryland, who purchased two iPhone 4s. “It’s really
+awful when Jobs has this kind of attitude.”  
+ Shaw Wu , an analyst at Kaufman Bros. LP in San Francisco,
+doesn’t expect the antenna problem to lead to a product recall.  
+ “Most users have a case anyway to protect their iPhone,”
+he said in a report. He recommends buying Apple stock. “In the
+worst case, Apple provides a discount on the $29 iPhone 4 bumper
+case or includes one for free with an iPhone 4 purchase. Either
+way, we do not think this would have a material impact on our
+forecasts.”  
+ David Carey, vice president of technical intelligence at
+ UBM TechInsights , an Austin, Texas-based company that studies
+the engineering of electronic devices, said it’s not clear
+whether the antenna problem can be fixed with a software update
+or if it’s more structural.  
+ Software Solution?  
+ “There is a point where software can’t dig you out of a
+hole,” he said. Still, given the phone’s rigorous testing
+process, “it would strike me as surprising that they would have
+a permanent problem on their hands,” Carey said.  
+ The antenna matter didn’t stop analysts from increasing
+their projections.  Yair Reiner , an analyst at Oppenheimer & Co.
+in New York, estimated Apple sold 1.5 million iPhone 4s
+yesterday and said the company’s stock may reach $345 a share.  
+ “Apple continues to capture the attention and catalyze the
+passions of the American consumer in an unprecedented way,”
+Reiner said.  
+ Reviews of the device have been positive, with Bloomberg
+Businessweek’s  Rich Jaroslovsky  saying Apple has “brilliantly”
+created a “unified user experience” with its video calling,
+multitasking and high-definition video features.  
+ Apple  fell $2.30 to $266.70 at 4 p.m. New York time in
+Nasdaq Stock Market trading. The shares have gained 27 percent
+this year.  
+ The company said this week it’s delaying the release of
+white iPhone 4 models until the second half of July because of
+unexpected manufacturing challenges. Jobs unveiled the phone on
+June 7.  
+ Android Phones  
+ Apple, based in Cupertino, California, is facing increased
+competition from Android phone makers, such as  HTC Corp. , which
+rely on  Google ’s operating system. There are some 60 Android-
+based mobile phones.  
+ In the U.S., a 16-gigabyte model of the iPhone 4 costs
+$199, and a 32-gigabyte model is priced at $299. AT&T Inc., the
+exclusive U.S. carrier for the iPhone, said this month it will
+end unlimited data plans, an effort to manage the surge in
+demand caused by devices like the iPhone. The carrier has been
+criticized for dropped calls.  
+ Apple may sell more than 10 million iPhones in the quarter
+ending in September, said  Colin Gillis , an analyst at BGC
+Partners in New York.  
+ To contact the reporter on this story:
+ Adam Satariano  in San Francisco at 
+ asatariano1@bloomberg.net ;
+ Crayton Harrison  in New York at 
+ tharrison5@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Steve Jobs, chief executive officer of Apple Inc., demonstrates the iPhone 4. Photographer: David Paul Morris/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

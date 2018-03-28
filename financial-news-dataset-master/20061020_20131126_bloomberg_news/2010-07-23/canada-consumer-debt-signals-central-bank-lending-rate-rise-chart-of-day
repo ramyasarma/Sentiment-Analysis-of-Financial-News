@@ -1,0 +1,65 @@
+-- Canada Consumer Debt Signals Rate Increase: Chart of the Day
+-- Ilan Kolet
+-- 2010-07-23T04:00:01Z
+-- http://www.bloomberg.com/news/2010-07-23/canada-consumer-debt-signals-central-bank-lending-rate-rise-chart-of-day.html
+
+          
+          
+             Canadians are getting deeper into
+debt, fueling spending and increasing pressure on the Bank of
+Canada to raise interest rates even as growth slows.  
+ The CHART OF THE DAY shows how the ratio of household debt
+to disposable income in Canada is nearing U.S. levels, according
+to data from Statistics Canada, the Federal Reserve and the
+Bureau of Economic Analysis. The Canadian ratio rose to 1.46 in
+the first quarter from 1.09 in 2000. In the U.S., the ratio fell
+to 1.53 from a peak of 1.66 in 2008.  
+ “That has to be a concern to a central banker when you see
+that kind of debt growth,” said  Derek Holt , a Toronto-based
+economist at  Bank of Nova Scotia’s  Scotia Capital unit. “Those
+who are assuming the bank can’t possibly get a sizeable jump on
+the Fed I think are ignoring the fact that the monetary policy
+cycles in both countries are fundamentally different.”  
+ Bank of Canada Governor  Mark Carney , who raised his key
+interest rate for a second month to 0.75 percent on July 20,
+yesterday said the levels of indebtedness in the two countries
+are starting to “cross over” and he urged Canadians to
+consider their capacity to service debts as interest rates rise.  
+ “Debt can’t grow to the sky,” Carney said. “Rates are
+extraordinarily low. That won’t always be the case, and people
+and financial institutions should manage their affairs such that
+individuals can carry debt at more normal costs of interest.”  
+ The central bank on July 20 trimmed its Canada growth
+forecast for this year to 3.5 percent from 3.7 percent.  
+ To contact the reporter on this story:
+ Greg Quinn  in Ottawa at 
+ gquinn1@bloomberg.net ;
+ Ilan Kolet  in Ottawa at   ikolet@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+     
+         
+             Chart:  Canadians Pile on Debt as Americans Pare Back
+         
+     
+         
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

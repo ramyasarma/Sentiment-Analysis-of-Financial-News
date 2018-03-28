@@ -1,0 +1,58 @@
+-- Infineon Said to Weigh Options for Its Mobile-Chip Unit
+-- Ragnhild Kjetland
+-- 2010-06-15T17:30:15Z
+-- http://www.bloomberg.com/news/2010-06-15/infineon-technologies-said-to-weigh-options-for-its-mobile-chip-business.html
+
+          
+          
+             Infineon Technologies AG  is weighing
+options for its mobile-chip unit that could include a sale,
+according to two people familiar with the matter.  
+ The chipmaker hired  JPMorgan Chase & Co.  and opened a data
+room for potential buyers to review its books, according to one
+of the people, who declined to be identified because the
+situation is private.  
+ Infineon’s wireless solutions business had 917 million
+euros ($1.13 billion) in sales last year, or about 30 percent of
+the Neubiberg, Germany-based company’s total revenue. Mobile-
+phone chip-manufacturing capacity is becoming more important as
+devices such as  Apple Inc.’s  iPhone drive demand for the
+specialized components.  
+ JPMorgan’s role was earlier reported by Financial Times
+Deutschland.  
+ While Infineon has a leading position in industrial chips,
+“it is a small player in the mobile-phone chip market,” which
+has lower margins, UniCredit Bank analyst  Guenther Hollfelder 
+said in a note to clients today.  
+ JPMorgan’s London-based spokeswoman  Sarah Oppler  declined
+to comment, as did Infineon spokesman  Christian Hoenicke .  
+ To contact the reporter on this story:
+ Matthew Campbell  in Paris at 
+ mcampbell39@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Infineon’s wireless solutions business had 917 million euros ($1.13 billion) in sales last year, or about 30 percent of the Neubiberg, Germany-based company’s total revenue. Photographer: Guenter Schiffmann/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

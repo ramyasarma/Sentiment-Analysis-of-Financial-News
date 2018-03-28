@@ -1,0 +1,50 @@
+-- Sweden's Borg Sees `A Lot of Opposition' to Proposed Tax on Transactions
+-- Francine Lacqua
+-- 2010-09-07T05:44:08Z
+-- http://www.bloomberg.com/news/2010-09-07/sweden-s-borg-sees-a-lot-of-opposition-to-proposed-tax-on-transactions.html
+
+          
+          
+             Swedish Finance Minister Anders Borg
+said there is “a lot of opposition” among his European
+colleagues to a proposed tax on financial transactions.   
+ “It will make the markets less liquid,” Borg said in an
+interview with Bloomberg Television today in Brussels. “We
+should go for a banking levy instead of a transaction tax.”   
+ To contact the reporter on this story:
+Francine Lacqua in Brussels at 
+ flacqua@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          Sept. 7 (Bloomberg) -- Swedish Finance Minister Anders Borg talks about European Union efforts to tighten national budget deficit controls and the prospects for a proposed transaction tax on financial institutions.
+     He speaks with Francine Lacqua in Brussels on Bloomberg Television's "Countdown" before a meeting of EU finance ministers. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

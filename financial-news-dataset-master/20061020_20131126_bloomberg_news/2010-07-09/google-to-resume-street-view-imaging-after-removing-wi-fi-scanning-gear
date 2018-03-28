@@ -1,0 +1,92 @@
+-- Google to Resume `Street View' Imaging After Removing Wi-Fi Scanning Gear
+-- Robert Fenner
+-- 2010-07-09T08:22:35Z
+-- http://www.bloomberg.com/news/2010-07-09/google-to-resume-street-view-imaging-after-removing-wi-fi-scanning-gear.html
+
+          
+          
+             Google Inc. , the world’s largest Web-
+search provider, is poised to resume dispatching cars in four
+markets to collect imagery for its Street View mapping service
+after it removed gear that scanned private information.  
+ Street View driving will restart in Ireland, Norway, South
+Africa and Sweden next week, with its fleet of cars no longer
+collecting Wi-Fi information, Google said on its European Public
+Policy blog. More countries will be added in time, it said.
+Google began driving in San Francisco recently, said  Jessica Powell , a Tokyo-based spokeswoman.  
+ Google is being investigated in Europe and the U.S. after
+the company said in May that it had mistakenly gathered wireless
+Internet data while photographing residential streets worldwide.
+The Internet-search provider today apologized to its Australian
+users and agreed to assess the impact on privacy resulting from
+its collection of information.  
+ “They had a hiccup over the wireless data, and I would say
+that’s blown over for the time being,”  Sam Hart , a media
+analyst at Charles Stanley in London, said by phone. “I think
+it was more of a one-off than anything that will really impact
+them over the longer term.”  
+ Google, whose Street View service allow users to click on
+maps to see 360-degree views of roads, is entangled in
+regulatory disputes in several countries related to online
+searches, advertising and maps. The Mountain View, California-
+based company said June 4 it will provide French, German and
+Spanish authorities with data that was inadvertently collected
+from wireless networks.  
+ More Time  
+ Google wants more time before resuming Street View driving
+in countries where the company is subject to ongoing
+investigations and outstanding questions that still need
+answering, Powell said in an e-mail.  
+ “We decided to start driving in countries where we have
+largely resolved our regulatory issues,” she said.  
+ Google has agreed to consult Australia’s privacy regulator
+about any “significant” new products in the country during the
+next three years, Privacy Commissioner Karen Curtis said on her
+office’s  website  today. Curtis said she was “satisfied that any
+collection of personal information would have breached” the
+nation’s privacy laws.  
+ The commissioner said the existing law constrained her from
+imposing any sanction in such cases and added the regulator
+supports government plans to adopt tougher rules for breaches of
+privacy.  
+ “This was a mistake for which we are sincerely sorry,”
+Google said on its Australian blog. “Maintaining people’s trust
+is crucial to everything we do and we have to earn that trust
+every single day. We are acutely aware that we failed badly.”  
+ To contact the reporter on this story:
+ Robert Fenner  in Melbourne 
+ rfenner@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 8 (Bloomberg) -- David Drummond, chief legal officer of Google Inc., discusses the company's data-gathering activities and China strategy. 
+     Drummond spoke yesterday at the Aspen Ideas Festival in Aspen, Colorado. Bloomberg's Erik Schatzker reports. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

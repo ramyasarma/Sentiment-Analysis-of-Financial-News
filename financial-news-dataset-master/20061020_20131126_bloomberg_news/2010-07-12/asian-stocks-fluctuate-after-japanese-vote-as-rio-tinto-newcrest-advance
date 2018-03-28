@@ -1,0 +1,70 @@
+-- Asian Stocks Fluctuate After Japanese Vote as Rio Tinto, Newcrest Advance
+-- Satoshi Kawano
+-- 2010-07-12T00:40:02Z
+-- http://www.bloomberg.com/news/2010-07-12/asian-stocks-fluctuate-after-japanese-vote-as-rio-tinto-newcrest-advance.html
+
+          
+          
+             Asian  stocks  fluctuated as gains by
+resource companies overshadowed declines in Japan after the
+ruling Democratic Party of Japan lost control of the upper house
+in elections yesterday.  
+ Rio Tinto Group, the world’s third-largest mining company,
+advanced 0.6 percent in Sydney and  Newcrest Mining Ltd. ,
+Australia’s No. 1 gold producer, climbed 0.8 percent after metal
+prices climbed.  Mitsubishi UFJ Financial Group Inc. , Japan’s
+biggest bank by market value, fell 0.7 percent and Canon Inc.,
+the world’s biggest camera maker, decreased 1 percent in Tokyo.  
+ “Signs of recovery in the commodities market show that
+investors’ concerns about a global double dip are easing,” said
+ Tomochika Kitaoka , a senior strategist at Mizuho Securities Co.
+in Tokyo. “The unexpectedly small number of seats won by the DPJ
+may prompt investors to take a wait-and-see approach.”  
+ The  MSCI Asia Pacific Index  fell 0.1 percent to 116.05 as
+of 9:27 a.m. in Tokyo, with about as many shares advancing as
+declining.  
+ Japanese Prime Minister Naoto Kan’s loss of control of
+parliament’s upper house undermines his administration’s ability
+to pass legislation to cut the world’s largest public debt and
+creates the possibility of a third leadership change in a year.  
+ Futures on the  Standard & Poor’s 500 Index  fell 0.1 percent.
+The gauge rose 0.7 percent in New York on July 9 amid optimism
+about earnings reports and a rally in metals prices.  
+ The  London Metal Exchange Index  of six metals jumped 1.6
+percent on July 9. Copper futures for September delivery climbed
+1.3 percent in New York, on increasing speculation that global
+growth will be resilient and metals demand will gain. Gold
+futures for August delivery advanced 1.1 percent on July 9, the
+most since June 17. Crude-oil futures rose 0.9 percent.  
+ To contact the reporters for this story:
+Nicolas Johnson in Tokyo at 
+ nicojohnson@bloomberg.net ;
+ Satoshi Kawano  in Tokyo at 
+ skawano1@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Naoto Kan, Japan's prime minister and president of the Democratic Party of Japan (DPJ), speaks during a news conference at the party's election center in Tokyo. Photographer: Haruyoshi Yamaguchi/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

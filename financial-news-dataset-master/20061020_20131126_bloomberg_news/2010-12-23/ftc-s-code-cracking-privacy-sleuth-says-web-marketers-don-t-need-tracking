@@ -1,0 +1,93 @@
+-- FTC’s New Code-Cracker Says Web Marketers Don’t Need Tracking
+-- B y   S a r a   F o r d e n
+-- 2010-12-23T05:00:01Z
+-- http://www.bloomberg.com/news/2010-12-23/ftc-s-code-cracking-privacy-sleuth-says-web-marketers-don-t-need-tracking.html
+Internet marketers may be able to
+persuade consumers to provide better data about themselves
+voluntarily than companies collect by tracking Web behavior, the
+ Federal Trade Commission ’s new technology chief says.  Edward Felten , known for cracking the music industry’s
+digital-copyright protection code, was hired by FTC Chairman
+ Jonathan Leibowitz  to help determine how user privacy can be
+protected in the $26 billion online advertising industry, which
+collects Web-surfing habits to deliver personalized ads.  Felten, 47, a professor of computer science and public
+affairs at Princeton University in Princeton, New Jersey, will
+be the agency’s first chief technology officer. He starts full-
+time Jan. 1.  If advertisers ask consumers what they want directly,
+“that information may be more accurate than what the company
+has deduced about the user,” Felten said in an interview at the
+FTC’s Washington office. “And the user may have a higher
+comfort level deciding what information to provide rather than
+worrying about what inferences might be made from what they’ve
+gathered.”  Growth of the online advertising industry, led by companies
+such as  Microsoft Corp. , Google Inc.,  Yahoo! Inc.  and  AOL Inc. ,
+is at stake as advocacy groups and regulators question how
+information about the online behavior of consumers is collected,
+analyzed and distributed.  ‘Feasible Options’  A privacy report issued by the FTC on Dec. 1 urged creating
+a do-not-track option. It would let consumers block their
+browsing habits from marketers.  Felten is studying the workings of such blocking
+mechanisms, including a tracking-protection option offered in
+Microsoft’s Explorer 9 browser released Dec. 7 and Google’s
+advertising-preferences manager. A group of researchers at
+Stanford University in Palo Alto, California, also has developed
+a way for browsers to notify websites that a visitor doesn’t
+want information collected.  “These are feasible options,” Felten said. “The question
+of what is best is something we are still discussing. I don’t
+get the sense the FTC is in a rush to mandate a unified
+system.”  Felten, who reports directly to FTC Chairman Leibowitz, won
+a challenge in 2001 from the music industry’s Secure Digital
+Music Initiative Foundation, which asked researchers to test the
+“digital watermarks” that secured music files to discourage
+copying and distribution of pirated material.  Code-Cracker  The watermarks are inaudible messages hidden in music that
+provide copyright information to MP3 players and recorders. The
+devices won’t copy music with the security code.  Felten cracked the code, and when he said he would make the
+results public, the foundation threatened to sue him. His
+findings were eventually published under an agreement with the
+foundation, Felten said. He also discovered security flaws in
+electronic voting machines.  Felten’s expertise was welcomed by  Jeff Chester , executive
+director of the Washington-based  Center for Digital Democracy ,
+an advocacy group for online consumer protection.  “For years, online marketers have tried to pull the wool
+over the eyes of the FTC,” Chester said in an interview. “Now
+the FTC has a one-person truth squad who understands the techno-
+babble.”  Internet tracking uses strings of text called cookies that
+a website stores on the user’s computer hard drive. The cookie
+can collect information including the person’s unique computer-
+identification number, terms used for searches and names of
+websites visited. The data can be combined with demographic and
+purchasing information to create profiles of people that are
+sold to businesses to target ads for specific products and
+services.  ‘Nothing Sinister’  Marketers say they can do a better job of delivering
+relevant advertisements if they know the individual’s interests.  Reduced consumer trust might hamper the industry’s growth,
+whose revenue is forecast to increase 74 percent to $40 billion
+by 2015 from $23 billion in 2009, according to Brian Wieser,
+director of industry analysis at Magna Global, a unit of
+ Interpublic Group of Cos. , a New York-based owner of advertising
+agencies.  “Marketers are already working overtime to approach
+consumers directly,” said Stuart Ingis, a partner at Venable
+LLP in Washington, which is advising a coalition that represents
+more than 5,000 advertisers led by the  Direct Marketing
+Association  and the  American Association of Advertising
+Agencies .  “Being able to identify people’s interests efficiently
+through the Web and serve them ads accordingly benefits
+consumers and is crucial to the development of the Internet,”
+Ingis said in an interview. “There is nothing sinister about
+it.”  Closer Look  The online advertising coalition introduced a self-
+regulating initiative in October to let consumers opt out of
+being tracked across the Internet by clicking on an icon.  “There are alternatives between tracking and a dumbing
+down” that results in the same ads being seen by everyone,
+according to Felten. Marketing based on an individual’s
+interests can be valuable to both consumers and companies if
+done in ways that make people comfortable, he said.  The administrations of Bill Clinton and George W. Bush
+didn’t place constraints on Internet data collection in order to
+encourage development of the online economy. Now regulators and
+lawmakers are taking a closer look at what rules are needed.  The Commerce Department issued a report Dec. 16 urging Web
+companies to work with the government and consumer groups to
+craft privacy measures to protect online users.  Felten, who says he likes to run and cook Mexican food in
+his spare time, is taking a leave of absence from Princeton to
+join the FTC. He also will advise the agency on upgrading its
+own technology knowhow as well as its cybersecurity activity and
+competition reviews of technology companies.  He’ll be spending less time writing his blog,  Freedom to
+Tinker , Felten said.  To contact the reporter on this story:
+ Sara Forden  in Washington at 
+ sforden@bloomberg.net   To contact the editor responsible for this story:
+Larry Liebert at 
+ lliebert@bloomberg.net  

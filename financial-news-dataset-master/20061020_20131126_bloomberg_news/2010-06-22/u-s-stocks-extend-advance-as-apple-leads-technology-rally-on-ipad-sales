@@ -1,0 +1,56 @@
+-- U.S. Stocks Extend Advance as Apple Leads Rally in Tech
+-- Michael P. Regan
+-- 2010-06-22T15:43:18Z
+-- http://www.bloomberg.com/news/2010-06-22/u-s-stocks-extend-advance-as-apple-leads-technology-rally-on-ipad-sales.html
+
+          
+          
+             U.S. stocks gained, led by
+technology companies, after  Apple Inc . said it sold 3 million
+iPads in 80 days.  
+ Apple jumped 1.8 percent to $275.04, which would be a
+record closing price.  
+ The Standard & Poor’s 500 Index increased 0.2 percent to
+1,115.53 at 11:41 a.m. in New York after slumping as much as 0.4
+percent earlier. The Dow Jones Industrial Average climbed 26.82
+points, or 0.3 percent, to 10,469.23.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                                                 
+                     
+                     Enlarge image 
+                     
+                     
+                       U.S. Stocks Extend Advance as Apple Leads Rally  
+                       
+                         
+                           Chris Ratcliffe/Bloomberg 
+                         
+                         Apple Inc. has sold 3 million iPad tablet computers in 80 days. 
+                       
+                     
+                                        
+           
+                     Apple Inc. has sold 3 million iPad tablet computers in 80 days. Photographer: Chris Ratcliffe/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

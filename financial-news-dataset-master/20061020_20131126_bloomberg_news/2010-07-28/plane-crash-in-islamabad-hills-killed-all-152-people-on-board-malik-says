@@ -1,0 +1,41 @@
+-- Plane Crash in Islamabad Hills Killed All 152 People on Board, Malik Says
+-- Khurrum Anis
+-- 2010-07-28T10:55:49Z
+-- http://www.bloomberg.com/news/2010-07-28/plane-crash-in-islamabad-hills-killed-all-152-people-on-board-malik-says.html
+
+          
+          
+             There were no survivors from the
+plane crash in Pakistan, Interior Minister Rehman Malik said on
+television. All 152 people, including 8 crew members, were
+killed, he said.  
+ To contact the reporter on this story:
+Khurrum Anis in Karachi at 
+ kkhan14@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A Pakistani man checks the lists of the passengers killed in a plane crash in The Margala Hills on the outskirts of Islamabad. Photographer: Asif Hassan/AFP/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

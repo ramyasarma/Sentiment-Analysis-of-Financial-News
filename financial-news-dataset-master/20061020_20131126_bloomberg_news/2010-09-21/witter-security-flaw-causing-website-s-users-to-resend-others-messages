@@ -1,0 +1,28 @@
+-- Twitter Hurt by Security Flaw After Site Is Attacked
+-- B y   A r i k   H e s s e l d a h l
+-- 2010-09-21T23:33:55Z
+-- http://www.bloomberg.com/news/2010-09-21/twitter-security-flaw-causing-website-s-users-to-resend-others-messages.html
+Twitter Inc.’s website was impaired
+by a security flaw that caused people to unwillingly resend
+messages posted by other users and directed them to third-party
+sites, including ones that feature pornography.  Twitter subscribers described the flaw in posts on the
+site, and it affected the account of White House press secretary
+ Robert Gibbs . San Francisco-based Twitter said in  postings  that
+it identified an attack and “fully patched” it.  The flaw affected subscribers when they moved their mouse
+over infected short messages, or tweets, causing an embedded
+code to execute and creating messages that directed people to
+third-party sites, said  Graham Cluley , a consultant at  Sophos
+Plc , an Abingdon, England-based computer-security firm. It
+stemmed from a vulnerability that lets people post scripts -- a
+type of software code -- into tweets, he said.  “From time to time, I have no doubt that there will be
+those that want to gum up the system and things like that,”
+Gibbs said at his regular White House briefing today. “I don’t
+hesitate to continue to use it.”  Cluley said the vulnerability spread widely among Twitter
+users. “It’s a problem and it’s widespread. It’s like someone
+has just thrown gas over a fire,” he said. He estimated that
+100,000 people or more were affected.  People who use third-party client software to access
+Twitter, such as TweetDeck and Seesmic, were unaffected, he
+said. Origins of the attack aren’t yet known, he said.  To contact the reporter on this story:
+ Arik Hesseldahl  in New York at 
+ ahesseldahl@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at   tgiles5@bloomberg.net . 

@@ -1,0 +1,71 @@
+-- Office Vacancy Rate in U.S. Climbs to 17-Year High as Jobs Recovery Slows
+-- Hui-yong Yu
+-- 2010-07-06T04:01:00Z
+-- http://www.bloomberg.com/news/2010-07-06/office-vacancy-rate-in-u-s-climbs-to-17-year-high-as-jobs-recovery-slows.html
+
+          
+          
+             Office vacancies in the U.S. rose to
+the highest level since 1993 in the second quarter as the
+sluggish economic recovery damps demand from corporate tenants,
+ Reis Inc.  said in a report.  
+ The vacancy rate climbed to 17.4 percent from 16 percent a
+year earlier and 17.3 percent in the first quarter, the New
+York-based research company said today in a statement. Effective
+rents, the amount tenants actually pay landlords, fell 5.7
+percent from a year earlier and 0.9 percent from the previous
+three months, according to Reis.  
+ Private employers made fewer hires in June than economists
+had forecast, reinforcing concerns the recovery will weaken, the
+Labor Department said July 2. The report capped a month of data
+signaling weakness in housing and a slowdown in manufacturing.
+Including government, payrolls fell for the first time this year
+because of a drop in federal census workers. The  jobless rate 
+declined to 9.5 percent from 9.7 percent in May as the labor
+force shrank.  
+ “Although occupancy continues to deteriorate, the rate of
+decline has clearly slowed,” said Ryan Severino, economist at
+Reis, in the firm’s report. Rents may turn positive later this
+year if the economy stabilizes, he said.  
+ A total of 7.7 million square feet (715,000 square meters)
+of office space was completed last quarter, one of the lowest
+addition levels since Reis began publishing quarterly data in
+1999, the firm said.  
+ Office  vacancies increased in 49 of 82 cities tracked by
+Reis, while effective rents fell in 60 markets. The growing
+number of cities with declining rents reflects concessions
+granted by landlords, Reis said.  
+ Washington, D.C., remained the city with the lowest office
+vacancy rate, at 10 percent, according to the firm. New York
+vacancies stayed at 11.7 percent. Detroit had the highest
+vacancy rate, at 26.3 percent, amid declining employment in the
+auto industry, Reis said.  
+ To contact the reporter on this story:
+ Hui-yong Yu  in Seattle at   hyu@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Office buildings stand in New York. Photographer: Daniel Acker/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

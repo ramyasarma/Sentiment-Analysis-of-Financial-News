@@ -1,0 +1,61 @@
+-- Bank of Ireland Said to Plan 750 Job Cuts Over Next Two Years on Savings
+-- Editors: [bn:PRSN=1] Dara Doyle []
+-- 2010-07-16T10:15:00Z
+-- http://www.bloomberg.com/news/2010-07-16/bank-of-ireland-said-to-be-planning-to-trim-750-jobs-over-next-two-years.html
+
+          
+          
+             Bank of Ireland Plc  plans to
+eliminate about 750 jobs over the next two years in its biggest
+cost-cutting initiative since its government rescue last year,
+according to two people with direct knowledge of the plans.  
+ The largest Irish lender by market value will reduce its
+workforce by about 5 percent through voluntary redundancies,
+said the people said, who declined to be identified before
+employees are told. The Dublin-based bank may announce the cuts
+as soon as today, the people said.  
+ Ireland’s government injected 3.5 billion euros ($4.5
+billion) into the bank last year as bad debts surged after the
+country’s decade-long property boom collapsed. The European
+Commission yesterday approved the lender’s restructuring plan,
+which includes a plan to dispose of New Ireland Assurance, its
+life and pensions division, Bank of Ireland Asset Management and
+ICS Building Society.  
+ The bank will continue existing pay freezes until a review
+in April, the people said. A further review is scheduled for
+December 2011, they added.  
+ Bank of Ireland had a total of 14,636 employees at the end
+of December, according to its annual report. About 2,200 people
+have left the lender since March 2008, mostly as a result of the
+lender not replacing employees as they left the group.  
+ For Related News and Information:
+Link to Company News: BKIR ID <Equity> CN <GO>
+Top Stories: TOP <GO>
+  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Pedestrians pass a branch of the Bank of Ireland in Dublin. Photographer: Crispin Rodwell/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

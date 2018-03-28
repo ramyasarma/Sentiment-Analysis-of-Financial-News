@@ -1,0 +1,92 @@
+-- Google Named in Criminal Filing by U.K. Privacy Group
+-- Erik Larson
+-- 2010-06-22T16:17:26Z
+-- http://www.bloomberg.com/news/2010-06-22/google-named-in-u-k-criminal-complaint-by-privacy-group-over-wifi-data.html
+
+          
+          
+             A U.K. privacy group asked London
+police to investigate whether  Google Inc.  should face criminal
+charges for collecting wireless Internet data from homes while
+photographing thousands of residential streets.  
+ Privacy International , which has received funding from the
+ European Parliament  and the American Civil Liberties Union, said
+today it formally asked London’s  Metropolitan Police  to
+investigate why Google gathered unsecured Wi-Fi data while
+scanning neighborhoods for its  Street View  service.  
+ “Police have commenced the investigation,” Privacy
+International Director  Simon Davies  said today in an interview.
+“The fraud squad has it at the moment. They’ll conduct the
+first level of investigation to determine the essential facts.”  
+ Google, whose images allow website users to click on maps
+to see 360-degree views of roads, is being investigated in
+Europe and the U.S. On June 4, the company said it would give
+European regulators data it mistakenly collected from unsecured
+wireless networks, while the U.S. Federal Trade Commission said
+last month it would look at Google’s data collecting.  
+ “This matter is now under consideration and it is yet to
+be determined what, if any, offenses may have occurred,” said a
+London police spokesman who declined to be identified. “The
+complaint alleges illegal access “to online activities
+broadcast over unprotected home and business Wi-Fi networks.”  
+ Crown Prosecution  
+ The police may choose to forward the complaint to Britain’s
+Crown Prosecution Service for further investigation, Davies
+said.  
+ “As we have said before, this was a mistake,” a Google
+spokeswoman who declined to be identified said in an e-mail
+today. “We are working with the relevant authorities to answer
+their questions and concerns.”  
+ Google, operator of the world’s largest search engine, last
+month halted operation of the vehicles that gather images by
+driving through neighborhoods with a camera and equipment for
+locating wireless data hubs.  
+ European governments including Germany, France and Spain
+began probes of Google after the Mountain View, California-based
+company said  last month  its cars had inadvertently recorded
+information from Wi-Fi networks while photographing roadsides.  
+ Australian Attorney-General  Robert McClelland  on June 6
+said complaints by members of the public had raised issues that
+required a police investigation.  
+ Google’s collection of the data was also the subject of a
+conference call among law enforcement officials from 30 U.S.
+states, Connecticut’s Attorney General  Richard Blumenthal  said
+earlier this month. Authorities in Italy, Canada, the Czech
+Republic and Hong Kong also raised queries about Street View.  
+ To contact the reporter on this story:
+ Erik Larson  in London at 
+ elarson4@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          June 21 (Bloomberg) -- Connecticut Attorney General Richard Blumenthal talks about a multi-state investigation into Google Inc.'s collection of data from wireless computer networks.
+     Google said last month it mistakenly gathered data from open wireless networks while it was capturing images of streets and houses for its Street View service, a product that lets users view photographs of an area online. Blumenthal speaks on Bloomberg Television's "In the Loop With Betty Liu." (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

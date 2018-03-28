@@ -1,0 +1,77 @@
+-- Facebook 2009 Revenue Said to Be as High as $800 Million
+-- Brian Womack
+-- 2010-06-18T18:31:12Z
+-- http://www.bloomberg.com/news/2010-06-18/facebook-web-site-s-2009-revenue-said-to-have-been-as-much-as-800-million.html
+
+          
+          
+             Facebook Inc., the world’s most
+popular social-networking service, had revenue of $700 million
+to $800 million in 2009, topping earlier projections, according
+to a person familiar with the matter.  
+ The company had expected to post at least $500 million in
+2009 sales, Facebook director  Marc Andreessen  said in July. The
+person who cited last year’s results declined to be identified
+because the numbers haven’t been public.  
+ With more than 500 million users, Facebook has become a
+magnet for advertisers such as  Starbucks Corp.  and Procter &
+Gamble Co. The Internet company last year doubled sales staff to
+cope with a rising tide of advertisers, which has more than
+quadrupled since 2009 began.  
+ Facebook, based in Palo Alto, California, has emerged as
+the largest U.S. site for display ads. Its market share rose to
+16 percent in the first quarter, from 11 percent in the fourth
+quarter, according to ComScore Inc. The site had 519.1 million
+users in April, up from 411 million in September, Reston,
+Virginia-based ComScore said.  
+ Facebook said in September that it was generating positive
+cash flow, a milestone that often means a company has high
+enough sales to cover operating expenses and capital spending
+requirements. The company said it reached that point earlier
+than expected.  
+ Jonathan Thaw , a spokesman for the company, declined to
+comment. Facebook’s 2009 revenue figure was reported earlier by
+Reuters.  
+ To contact the reporter on this story:
+ Brian Womack  in San Francisco at 
+ bwomack@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                                                 
+                     
+                     Enlarge image 
+                     
+                     
+                       Mark Zuckerberg  
+                       
+                         
+                           Kim White/Bloomberg 
+                         
+                         Mark Zuckerberg, founder and chief executive officer of Facebook, gives a keynote address at the annual F8 developer conference in San Francisco. 
+                       
+                     
+                                        
+           
+                     Mark Zuckerberg, founder and chief executive officer of Facebook, gives a keynote address at the annual F8 developer conference in San Francisco. Photographer: Kim White/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,93 @@
+-- Crude Oil Declines a Second Day on Concerns Recovery Stalling
+-- Rachel Graham
+-- 2010-07-26T12:46:02Z
+-- http://www.bloomberg.com/news/2010-07-26/oil-declines-from-near-11-week-high-on-concerns-global-recovery-stalling.html
+
+          
+          
+             Oil declined for a second day in New
+York on speculation that the global recovery may stall and crimp
+fuel consumption.  
+ Crude oil slipped from near its highest level in 11 weeks
+as European equity indexes declined. The U.S. economy probably
+expanded at a slower pace in the second quarter as the trade
+deficit swelled, economists said before reports this week.  
+ “We are bumping up against resistance again around $78,”
+said  Christopher Bellew , senior broker at Bache Commodities Ltd.
+in London. “It’s going to take better macroeconomic news or
+perhaps storm activity in the Gulf of Mexico to spring prices
+from their narrow trading range.”  
+ Oil for September delivery dropped as much as 90 cents, or
+1.1 percent, to $78.08 a barrel in electronic trading on the New
+York Mercantile Exchange. It was at $78.24 as of 1:44 p.m.
+London time. Brent crude for September settlement on ICE Futures
+Europe exchange was at $76.74 a barrel.  
+ On July 22, the New York contract settled at $79.30 a
+barrel, the highest level since May 5. Futures have gained 14.3
+percent in the past year.  
+ The Stoxx Europe 600 Index  fell 0.4 percent to 254.94 at
+1:27 p.m., having previously increased as much as 0.5 percent.  
+ Bank of America Merrill Lynch expects the correlation
+between crude oil and equity markets to weaken in the coming
+weeks, commodity strategist  Sabine Schels  said today at a press
+briefing in London.  
+ The crude oil market will start to focus “much more on
+fundamentals and much more on what OPEC is doing,” she said,
+referring to the Organization for Petroleum Exporting Countries,
+which accounts for roughly 40 percent of global supply.  
+ Contango to Flatten  
+ OPEC’s 11 members bound by quotas reduced supply by 0.5
+percent in June, according to data compiled by Bloomberg. That’s
+the biggest reduction since February 2009.  
+ The so-called contango structure in the New York futures
+market is likely to flatten, Schels said. This means there would
+be less of a discount on contracts nearest to delivery relative
+to longer-term shipments.  
+ “We expect continued flattening in the curve” in the next
+two or three months, potentially attracting investment in oil,
+Schels said. “We usually see flows tick up again as the curve
+flattens,” she said.  
+ Tropical Storm Bonnie dissipated near the U.S. Gulf Coast
+at the weekend, sparing refineries and offshore production
+operations. BP Plc vessels returned to work in the area to
+permanently plug a damaged well, the source of the largest oil
+spill in U.S. history.  
+ Hedge-fund managers and other large speculators increased
+their  net-long position  in New York crude futures to a three-
+week high, according to U.S. Commodity Futures Trading
+Commission data. Speculative long positions, or bets prices will
+rise, outnumbered short positions by 36,145 contracts in the
+week ended July 20, up 4.3 percent from a week earlier.  
+ -- Editors:  Raj Rajendran ,  Rob Verdonck .  
+ To contact the reporters on this story:
+ Grant Smith  in London at 
+ gsmith52@bloomberg.net 
+ Rachel Graham  in London 
+ rgraham13@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     An oil pump operates in an oil field. Photographer: Phil Weymouth/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

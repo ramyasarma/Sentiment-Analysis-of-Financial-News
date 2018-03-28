@@ -1,0 +1,84 @@
+-- Amazon.com E-Book Sales Exceed Hardcovers for First Time
+-- Joseph Galante
+-- 2010-07-19T22:28:06Z
+-- http://www.bloomberg.com/news/2010-07-19/amazon-com-says-kindle-sales-accelerated-last-quarter-e-books-pass-print.html
+
+          
+          
+             Amazon.com Inc., the largest
+Internet retailer, said growth in sales of its Kindle digital
+reader accelerated every month in the second quarter and that
+it’s selling more electronic books than hardcover editions.  
+ The pace of Kindle sales also has tripled since the company
+cut the price to $189 from $259, Amazon.com Chief Executive
+Officer  Jeff Bezos  said in a statement.  
+ Announced last month, the 27 percent price cut was aimed at
+helping Amazon.com fend off a threat from Apple Inc.’s iPad,
+which includes book reading tools. Amazon.com hasn’t disclosed
+ Kindle  sales since releasing the device in 2007, saying only
+that it has sold millions. Its release of growth figures may be
+aimed at quelling concern that the iPad has crimped Kindle
+demand, said  Dmitriy Molchanov , an analyst at Yankee Group.  
+ “There’s a real perception that the iPad has completely
+squashed the e-reader space and that’s really not the case,”
+said Molchanov, who’s based in Boston. “Amazon is doing really
+well and both companies can profit at the same time.”  
+ Amazon.com sold more than triple the number of Kindle books
+in the first half of the year as it did in the same period last
+year, Seattle-based  Amazon.com  said. More than 81 percent of its
+630,000 electronic books are $9.99 or less.  
+ “We’ve reached a tipping point with the new price of
+Kindle,” Bezos said in the statement. “Amazon.com customers
+now purchase more Kindle books than hardcover books --
+astonishing when you consider that we’ve been selling hardcover
+books for 15 years, and Kindle books for 33 months.”  
+ Amazon.com rose $1.45 to $119.94 today in Nasdaq Stock
+Market trading, trimming the year-to-date  decline  to 11 percent.  
+ Kindle Sales  
+ Apple said last month that it sold 3 million iPads in 80
+days after the device’s April 3 release date. Amazon.com will
+probably sell 3.7 million Kindles this year, bringing in $2.38
+billion in sales, according to estimates by Caris & Co. The
+figure assumes Kindle owners also purchase digital books.  
+ In the past three months, Amazon.com has sold 143 Kindle
+books for every 100 hardcover books, the company said. In July,
+sales of e-books accelerated to 180 sold for every 100 hardcover
+versions. Kindle book sales this year have also exceeded broader
+e-book sales growth, pegged by the  Association of American
+Publishers  at 207 percent through May, Amazon.com said.  
+ To fend off competition from Apple and Sony Corp., which
+also makes e-readers, this month Amazon.com released a version
+of its larger Kindle DX with sharper contrast and cut its price
+by more than $100. It plans to introduce an updated version of
+its smaller Kindle next month with a sharper screen as well,
+people familiar with the matter said in May.  
+ To contact the reporter on this story:
+ Joseph Galante  in San Francisco at 
+ jgalante3@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     "Amazon.com customers now purchase more Kindle books than hardcover books," CEO Jeff Bezos said. Photographer: David Paul Morris/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

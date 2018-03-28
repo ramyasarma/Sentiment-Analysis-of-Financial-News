@@ -1,0 +1,57 @@
+-- China, Taiwan Sign Trade, Intellectual-Property Protection Agreements
+-- Chinmei Sung
+-- 2010-06-29T06:42:47Z
+-- http://www.bloomberg.com/news/2010-06-29/china-taiwan-sign-trade-intellectual-property-pacts-after-yearlong-talks.html
+
+          
+          
+             China and Taiwan signed a trade
+agreement in the Chinese city of Chongqing today after more than
+a year of talks.  
+ The two sides also signed an agreement on intellectual-
+property protection at their fifth cross-Strait talks.  
+ To contact the reporter on this story:
+Chinmei Sung in Taipei at 
+ csung4@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Taiwan's president Ma Ying-jeou. Photographer: Maurice Tsai/Bloomberg  
+                   
+    
+
+                 
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          June 28 (Bloomberg) -- Kenneth DeWoskin, a director of Deloitte LLP's China Research and Insight Center, talks with Bloomberg's Rishaad Salamat about trade negotiations between China and Taiwan. 
+     Taiwan and China aim to sign three agreements in a sixth round of cross-strait talks that will be held later this year, Chiang Pin-kung, chairman of the Taipei-based Straits Exchange Foundation, said. Cross-strait negotiations resumed in 2008 after a nine-year halt during which former Taiwan president Lee Teng-hui described the talks as "state-to-state," a term Beijing rejected. China claims the self-ruled island as its territory and has threatened force to impose Taiwan’s unification with the mainland. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

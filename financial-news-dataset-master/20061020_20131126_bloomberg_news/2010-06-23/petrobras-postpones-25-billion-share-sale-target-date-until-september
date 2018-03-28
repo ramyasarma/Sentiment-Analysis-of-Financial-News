@@ -1,0 +1,39 @@
+-- Petrobras Postpones $25 Billion Share Sale by Two Months Until September
+-- Jessica Brice
+-- 2010-06-23T00:12:34Z
+-- http://www.bloomberg.com/news/2010-06-23/petrobras-postpones-25-billion-share-sale-target-date-until-september.html
+
+          
+          
+             Petroleo Brasileiro SA, Brazil’s
+state-controlled oil producer, said it delayed its target date
+to sell shares until September.  
+ Petrobras previously said it aimed to sell shares by the
+end of July.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     The Petrobras Building, headquarters of Petroleo Brasileiro SA, stands in Rio de Janeiro. Photographer: Rich Press/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

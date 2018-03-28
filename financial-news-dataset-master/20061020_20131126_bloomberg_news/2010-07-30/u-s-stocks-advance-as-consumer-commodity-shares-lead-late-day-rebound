@@ -1,0 +1,44 @@
+-- Stocks in U.S. Climb on Improving Consumer Confidence, Business Activity
+-- Michael P. Regan
+-- 2010-07-30T19:26:31Z
+-- http://www.bloomberg.com/news/2010-07-30/u-s-stocks-advance-as-consumer-commodity-shares-lead-late-day-rebound.html
+
+          
+          
+             U.S. stocks rose, extending the
+biggest monthly gain in a year for the Standard & Poor’s 500
+Index, as better-than-estimated data on consumer confidence and
+business activity tempered concern the economic rebound is
+slowing.  
+ The Standard & Poor’s 500 Index climbed 0.4 percent to
+1,105.93 at 3:25 p.m. in New York after tumbling as much as 1.2
+percent earlier. The Dow Jones Industrial Average rose 28.83
+points, or 0.3 percent, to 10,495.99 after losing as much as 120
+points  in the first half hour of trading.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A trader works on the floor of the New York Stock Exchange in New York. Photographer: Jin Lee/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

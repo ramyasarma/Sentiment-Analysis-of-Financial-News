@@ -1,0 +1,87 @@
+-- Rajaratnam, Chiesi Seek Order for Details of Charges (Correct)
+-- Bob Van Voris
+-- 2010-06-24T18:38:22Z
+-- http://www.bloomberg.com/news/2010-06-23/rajaratnam-chiesi-seek-court-order-for-detail-on-charges-separate-trial.html
+
+          
+          
+             (Corrects attribution of comment in 10th paragraph of story
+published June 23.)  
+ Raj Rajaratnam and Danielle S.
+Chiesi, co-defendants in the biggest hedge-fund insider-trading
+case, sought to force prosecutors to give them separate trials,
+drop some charges and provide more information about the
+charges.  
+ The pair appeared today before U.S. District Judge Richard
+J. Holwell in New York. Rajaratnam’s lawyer Robert H. Hotz urged
+the judge to compel prosecutors to disclose details of alleged
+insider trades in 31 stocks.  
+ “It’s been heralded as the biggest insider-trading case in
+history, but we don’t have the trades,” Hotz said.  
+ Rajaratnam, 53, and Chiesi, 44, are among more than 20
+people accused since October in overlapping criminal and civil
+insider-trading cases.  
+ Rajaratnam, co-founder of New York-based Galleon Group, is
+accused of using secret tips from corporate officials and hedge-
+fund executives including Chiesi to earn millions of dollars in
+illegal stock trades. The allegations involve trading shares in
+12 companies, including Intel Corp., International Business
+Machines Corp., Akamai Technologies Inc., Google Inc. and
+Advanced Micro Devices Inc.  
+ Motion to Strike  
+ John M. Dowd, another Rajaratnam lawyer, asked Holwell to
+strike what he said are new charges brought by prosecutors
+rather than by a grand jury as required by the U.S.
+Constitution.  
+ Assistant U.S. Attorney Reed Brodsky argued that the
+government was providing additional details of an existing
+conspiracy charge, not new charges.  
+ Lawyers for Rajaratnam and Chiesi told Holwell their
+clients should be tried separately, arguing that prosecutors
+have improperly joined their cases together.  
+ Another Rajaratnam lawyer, Terence Lynam, argued that only
+one of the seven counts in the indictment includes both
+Rajaratnam and Chiesi. Four counts implicate Rajaratnam only, he
+said. Two others are directed only at Chiesi.  
+ “The players aren’t the same, the dates aren’t the same,
+the stocks are completely different, and they have nothing to do
+with one another,” said James Keneally, a lawyer for Chiesi.  
+ Andrew Michaelson, one of the prosecutors, said the two
+defendants conspired together and that the separate counts are
+part of related schemes.  
+ The judge didn’t say when he will rule on the defense
+requests. He also said he will wait to rule on a request by
+Rajaratnam’s lawyers to postpone the Oct. 25 trial date.  
+ The criminal case is U.S. v. Rajaratnam, 1:09-cr-1184; the
+civil case is SEC v. Galleon Management LP, 09-cv-08811, U.S.
+District Court, Southern District of New York (Manhattan).  
+ To contact the reporter on this story:
+Bob Van Voris in U.S. District Court in Manhattan at
+   rvanvoris@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Raj Rajaratnam, co-founder of Galleon Group LLC, leaves federal court after a hearing in New York. Photographer: JB Reed/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

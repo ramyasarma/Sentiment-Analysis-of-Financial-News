@@ -1,0 +1,58 @@
+-- Alex, First Atlantic Hurricane, Idles 25% of U.S. Gulf Oil Output, 9% Gas
+-- Simon Lomax
+-- 2010-06-30T00:46:27Z
+-- http://www.bloomberg.com/news/2010-06-30/tropical-storm-alex-halts-25-of-gulf-oil-production-9-of-gas-u-s-says.html
+
+          
+          
+             Tropical Storm Alex has halted about
+25 percent of crude production in the Gulf of Mexico and 9
+percent of natural-gas output, the U.S. government said.  
+ Oil and gas producers report that three rigs and 28
+platforms have been evacuated because of the storm, the Bureau
+of Ocean Energy Management, Regulation and Enforcement said
+today in a  statement  on its website. Almost 396,000 barrels of
+daily oil output remain shut-in, along with 600 million cubic
+feet of gas.  
+ “Shutting-in oil and gas production is a standard
+procedure conducted by industry for safety and environmental
+reasons,” the agency, which is part of the U.S. Interior
+Department, said in the statement.  
+ The Gulf produced 1.6 million barrels of oil and an
+estimated 6.4 billion cubic feet of gas a day in March,
+according to the agency. The report on shut-in production is
+based on responses from 23 companies as of 12:30 p.m. New York
+time.  
+ The Gulf of Mexico hosts about 31 percent of U.S oil output
+and about 10 percent of gas production, according to the Energy
+Department.  
+ To contact the reporter on this story:
+ Simon Lomax  in Washington at 
+ slomax@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Tropical storm Alex is seen gaining speed off the coast of the Yucatan peninsula on June 25, 2010. Source: NOAA via Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

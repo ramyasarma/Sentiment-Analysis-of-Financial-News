@@ -1,0 +1,78 @@
+-- IBM Computer to Face ‘Jeopardy’ Champs for $1 Million
+-- B y   K a t i e   H o f f m a n n
+-- 2010-12-14T22:42:17Z
+-- http://www.bloomberg.com/news/2010-12-14/ibm-computer-to-match-wits-with-jeopardy-champs-in-1-million-showdown.html
+International Business Machines
+Corp.  will pit one of its computers against past champions of
+the “Jeopardy!” quiz show, more than a decade after another
+IBM machine defeated chess grandmaster  Garry Kasparov .  “Watson,” as the computer is called after IBM founder
+ Thomas J. Watson , will square off against  Ken Jennings  and Brad
+Rutter in a contest scheduled to air Feb. 14, said IBM
+researcher Dave Ferrucci in an interview. Jennings has the
+longest win streak in the show’s history and Rutter won more
+money than any other player.  “It’s going to be a close game,” said Ferrucci, an
+artificial intelligence expert who has headed the Watson
+project. “These guys are really good. I’m going to have to
+breathe deeply and count to 10 a lot.”  The three-contestant competition, the show’s usual number,
+will last three days and the winner will receive $1 million. The
+shows will be broadcast from IBM’s lab in Yorktown Heights, New
+York and air during the regular “Jeopardy” time slot.  The project builds on IBM’s work in the field of artificial
+intelligence, including the Deep Blue supercomputer that
+defeated world champion Kasparov in a 1997 match. About four
+years ago, executives at IBM, the world’s largest computer-
+services provider, decided to try another challenge that would
+generate public interest -- and this time with potential
+commercial appeal, said Ferrucci.  The main task: make computers understand questions in
+natural language, as opposed to the keyword searches common on
+ Google Inc. ’s website or  Microsoft Corp. ’s Bing. While computers
+can easily search databases, they have problems understanding
+context, innuendo and other subtleties common in most
+information, Ferrucci said.  How Watson Works  “The Holy Grail here is to create a technology that can
+understand what you’re asking, the way you’re asking it,” he
+said. “People want to do more with all the content we have.”  For the “Jeopardy” competition, Watson will receive each
+question through a typed entry at the same time host  Alex Trebek 
+reads the queries to Jennings and Rutter. The computer will scan
+a custom-made database for answers and then calculate its degree
+of confidence in an answer. If the confidence level exceeds a
+certain threshold, it will buzz and speak the answer out loud.  “Watson’s a big step toward artificial intelligence that
+directly affects people’s lives,”  Paul Saffo , managing director
+at investment adviser Discern Analytics in San Francisco, said
+in an interview. “It will have the intended effect -- this is
+going to absolutely capture people’s attention.”  King Kong  Ferrucci developed the technology for Watson with a team of
+about 20 other IBM scientists, including software engineers and
+computational linguists. They created their own database from
+journals, newspapers and other resources, rather than having the
+computer rely on the Internet. Then they developed algorithms
+that look for relevant information, depending in part on
+context. The computer runs on IBM’s Power 7 server system.  The project hit some snags. When asked to name the eighth
+Wonder of the World, Watson came back, with “emphatic
+confidence,” that the answer was King Kong -- which it found in
+a description of the movie and failed to recognize it as
+fiction. The computer also struggled with words with double
+meanings, like “cushion.”  “You could use ‘bad’ to mean bad, you could use ‘bad’ to
+mean good, you could mean ‘bad’ to mean cool, but there’s an
+intended meaning” Ferrucci said. “Language is ambiguous, it’s
+contextual, it’s tacit.”  Track Record  The computer was fine-tuned during more than 50 games
+against former “Jeopardy” contestants. Ferrucci declined to
+comment on Watson’s record from the games, saying that although
+Watson lost some games, the results gave IBM enough confidence
+to play on air against the two champions.  Jennings won 74 games in 2004 and 2005, setting the record
+for most consecutive games played. Rutter won the highest total
+ever by a single player, earning $3.26 million.  IBM, based in Armonk, New York, added $1.54 to $145.82 at
+4:15 p.m. in New York Stock Exchange composite trading. The
+shares  have climbed  11 percent this year.  The company spends about $6 billion a year, or 6 percent of
+its sales, on research and development. It gets about $1 billion
+from licensing fees.  The machine has started to generate interest from
+businesses, particularly in customer support and health care,
+Ferrucci said, declining to identify companies. The company is
+building prototypes for specific applications, including health
+care, he said, noting it would probably be at least three years
+before such a machine was used commercially.  There’s also potential for mobile devices, if a search is
+able to show more precise responses on the smaller screen. The
+technology, which only works in English, will be translated into
+multiple languages.  IBM has said that it will donate the $1 million to charity
+if Watson wins. Jennings and Rutter plan to give half of the
+proceeds to charity if they win.  To contact the reporter on this story:
+ Katie Hoffmann  in New York at 
+ khoffmann4@bloomberg.net   To contact the editor responsible for this story:
+Peter Elstrom at   pelstrom@bloomberg.net . 

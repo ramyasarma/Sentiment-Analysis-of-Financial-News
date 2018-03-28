@@ -1,0 +1,169 @@
+-- Goldman Sachs Pressed for Derivatives Data
+-- Shannon D. Harrington
+-- 2010-07-01T21:00:54Z
+-- http://www.bloomberg.com/news/2010-07-01/goldman-sachs-pressed-by-u-s-financial-crisis-panel-for-derivatives-data.html
+
+          
+          
+             Goldman Sachs Group Inc.  refused a
+request from the  Financial Crisis Inquiry Commission  to reveal
+how much it  makes  trading derivatives, saying the bank doesn’t
+separate the figure from other businesses.  
+ “Some other firms have provided us with that data when
+we’ve asked for it and Goldman Sachs hasn’t,” Commissioner
+ Brooksley Born  said today in Washington on the second day of a
+hearing investigating the role of derivatives in the 2008 credit
+crisis, which sparked the worst recession since the 1930s. “It
+makes one wonder why Goldman has the incentive or impetus to not
+release this information.”  
+ Banks including JPMorgan Chase & Co., the biggest
+derivatives dealer, have provided estimates to investors. The
+top five U.S. commercial banks, including Goldman Sachs,
+generated an estimated $28 billion in revenue from privately
+negotiated derivatives in 2009, according to company reports
+collected by the Federal Reserve and people familiar with banks’
+income sources.  
+ Goldman Sachs, the most profitable Wall Street firm in
+history, is being questioned about credit-default swap trades
+with  American International Group Inc. , the insurer bailed out
+by the U.S. government after AIG was unable to meet collateral
+demands from trading partners on the contracts. The swaps, used
+by Goldman Sachs and other banks to hedge against declines in
+the value of mortgage-linked debt, caused losses at AIG as
+housing prices collapsed.  
+ ‘It’s Integrated’  
+ Goldman Sachs Chief Financial Officer  David Viniar 
+testified today that the firm has no way of separating out its
+derivatives data from trading in cash securities.  
+ “We don’t have a separate derivatives business,” Viniar
+told the panel. “It’s integrated into the rest of our
+business.”  
+ Commissioner  Byron Georgiou  said he doubted Goldman Sachs
+was unable to provide the information.  
+ “When you tell us that you don’t know how much you make in
+your derivatives business, nobody here really believes it,”
+Georgiou told Viniar. “Nobody here believes that you don’t know
+how much money you’re making on the various aspects of your
+business, it doesn’t make any sense.”  
+ $49.1 Trillion  
+ Goldman Sachs held a gross amount of $49.1 trillion of
+derivatives contracts as of March 31, according to an Office of
+the Comptroller of the Currency report last month. The bank
+reported total trading revenue of $7.65 billion during the first
+quarter. That follows total trading revenue of $23.2 billion in
+2009, according to a filing with the Federal Reserve.  
+ “It’s kind of dangerous, don’t you think, to claim to the
+FCIC that you don’t know the profitability of a major line of
+business,” said  Craig Pirrong , a finance professor at the
+University of Houston. “How can you rationally allocate
+capital, for instance, if you don’t know the return to that
+capital?”  
+ Under a March 2008 amendment to derivatives accounting
+standards, companies are exempt from breaking out gains or
+losses on derivatives used as part of a trading book that also
+includes cash securities, if other information on the trading
+activities is provided, according to the Financial Accounting
+Standards Board’s  Statement No. 161 .  
+ Goldman Sachs is “definitely capable of providing the data
+that was asked for, but I can understand their fear of doing
+so,” said  Brian Yelvington , head of fixed-income strategy at
+broker-dealer Knight Libertas LLC in Greenwich, Connecticut, and
+a former credit swaps trader.  
+ Derivatives Revenue  
+ “There is a potential for such a number to vastly
+overstate the amount of profit or loss captured by a particular
+business because much of that business may be symbiotic with
+another,” Yelvington said. “They may have made money on the
+derivatives leg of a trade, for example, and lost it on the cash
+leg.”  
+ JPMorgan said in February 2009 that about 8 percent of its
+total revenue from 2006 to 2008 came from derivatives in its
+investment-banking unit, according to a presentation made to
+investors.  
+ That breakdown and revenue figures from regulatory filings
+imply that half of JPMorgan’s $31.2 billion in trading revenue
+those years came from derivatives, according to  Alexander Yavorsky , a senior analyst at Moody’s Investors Service in New
+York.  
+ ‘Highly Imprecise’  
+ “Reporting a revenue number, just the profit on
+derivatives without looking at cash positions associated with
+hedging those, is going to be a highly imprecise exercise,”
+Yavorsky said in an interview today.  
+ Goldman Sachs was subpoenaed by the commission last month
+after the New York-based firm sent more than a billion pages of
+documents to the panel, a shipment so sizable that panel members
+called it an attempt to hinder their probe.  
+ “We did not ask them to pull up a dump truck to our
+offices and dump a bunch of rubbish,” Chairman  Phil Angelides ,
+who previously served as California’s treasurer, said June 7.
+“This has been a very deliberate effort over time to run out
+the clock.”  
+ The commission, which will report its findings to Congress
+and President  Barack Obama  by December, said June 29 that the
+bank had been more responsive to information requests since
+being subpoenaed. Separately, Goldman Sachs faces a U.S.
+Securities and Exchange Commission fraud suit over sales of a
+mortgage-linked security. The bank has said the SEC suit is
+unfounded.  
+ Born’s Warning  
+ Born had warned in 1998, as chairman of the Commodity
+Futures Trading Commission, that the unregulated over-the-
+counter derivatives market posed a danger to the global
+financial system. She moved to address changes in how swaps
+based on interest rates, commodities or currencies were traded
+and was stopped by then-Federal Reserve Chairman  Alan Greenspan ,
+SEC Chairman  Arthur Levitt  and Treasury Secretary  Robert Rubin ,
+who all argued the market could regulate itself.  
+ Born said last year that the banks that caused the crisis
+were trying to stop the congressional overhaul of the market.  
+ “Special interests in the financial-services industry are
+beginning to advocate a return to business as usual,” Born said
+in May 2009 as she accepted a Profile in Courage award from the
+John F. Kennedy Library Foundation.  
+ To contact the reporters on this story:
+ Matthew Leising  in New York at 
+ mleising@bloomberg.net ;
+ Shannon D. Harrington  in New York at 
+ sharrington6@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A member of the Financial Crisis Inquiry Commission Brooksley Born. Photographer: Andrew Harrer/Bloomberg  
+                   
+    
+
+                 
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 1 (Bloomberg) -- Joshua Rosner, managing director at Graham Fisher & Co., talks about efforts to overhaul the U.S. financial regulatory system. 
+     Rosner speaks with Carol Massar and Matt Miller on Bloomberg Television's "Street Smart."  (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

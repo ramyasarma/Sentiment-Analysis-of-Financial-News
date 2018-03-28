@@ -1,0 +1,73 @@
+-- Taiwan Semiconductor Profit Rises 65% on Phone, Computer Component Demand
+-- Tim Culpan
+-- 2010-07-29T05:42:38Z
+-- http://www.bloomberg.com/news/2010-07-29/taiwan-semiconductor-profit-rises-65-on-phone-computer-component-demand.html
+
+          
+          
+             Taiwan Semiconductor Manufacturing
+Co. , the world’s largest custom manufacturer of chips, posted a
+65 percent increase in profit on rising demand for components in
+phones and computers.  
+ Second-quarter net income climbed to NT$40.3 billion ($1.3
+billion), from NT$24.4 billion a year earlier, the Hsinchu,
+Taiwan-based company said in a statement today. The average of
+19 analyst  estimates  compiled by Bloomberg was for profit of
+NT$36.5 billion.  
+ Taiwan Semiconductor, an electronics bellwether because it
+supplies companies including  Apple Inc.  and Sony Corp., has
+twice raised its 2010 outlook for the global chip industry. TSMC
+joins  Intel Corp.  and Samsung Electronics Co., the two largest
+chipmakers, in posting record profit from semiconductors as the
+global economy rebounds and consumers in emerging markets buy
+more electronic devices.  
+ “Shipments jumped in the second quarter, indicating strong
+end-market demand for consumer electronics during the
+traditional low season,”  Amigo Liu , who rates TSMC
+“outperform” at KGI Securities Co. in Taipei wrote in a report
+today before the announcement. “In the third quarter, shipments
+will continue to grow due to rising orders from major
+international handset manufacturers.”  
+ To contact the reporter on this story:
+ Tim Culpan  in Taipei at 
+ tculpan1@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                                                 
+                     
+                     Enlarge image 
+                     
+                     
+                       Morris Chang, chairman of TSMC  
+                       
+                         
+                           Maurice Tsai/Bloomberg 
+                         
+                         Morris Chang, chairman and chief executive officer of Taiwan Semiconductor Manufacturing Co. 
+                       
+                     
+                                        
+           
+                     Morris Chang, chairman and chief executive officer of Taiwan Semiconductor Manufacturing Co. Photographer: Maurice Tsai/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,96 @@
+-- BP Fixing New Cap Leak as It Prepares to Start Gulf Well Test
+-- Jim Polson
+-- 2010-07-15T04:01:00Z
+-- http://www.bloomberg.com/news/2010-07-15/bp-fixing-oil-leak-from-new-well-cap-as-it-prepares-for-gulf-pressure-test.html
+
+          
+          
+             BP Plc  said it will begin a pressure
+test of its gushing Gulf of Mexico well after fixing a leak that
+erupted while it was shutting off oil flow with a new
+containment cap.  
+ The leak was detected in a “choke line” leading from the
+stack of valves that makes up the cap installed July 12 on the
+Macondo well, BP said in a statement yesterday. BP said the leak
+had been “isolated” and was being repaired.  
+ Some of the flow of oil has been temporarily stopped after
+the company shut the top valve on the cap. London-based BP said
+it will gradually close all the valves to raise the pressure
+inside the well in six-hour intervals. The test will determine
+whether the containment cap can remain sealed without causing
+the well to burst open elsewhere.  
+ “This is an important test,” BP Senior Vice President
+ Kent Wells  told reporters on a conference call yesterday.
+“We’re proceeding with an overabundance of caution.”  
+ BP may require 48 hours of test data to determine whether
+it can safely seal the leak, which began after an April 20 rig
+explosion. The test required BP to delay some work on two relief
+wells, which it plans to use to permanently kill the gusher
+around the middle of August by filling it with cement.  
+ Delayed Again  
+ The procedure was previously postponed more than 24 hours
+after Energy Secretary  Steven Chu  and a team of experts said
+more analysis was needed, National Incident Commander  Thad Allen 
+said.  
+ The delay was necessary to avoid an “irreversible
+mistake” because improper test procedures pose a risk of
+cracking the well casing and causing oil and natural gas to
+erupt from the seabed, Allen said during a press conference
+yesterday. BP now has two remotely operated robots monitoring
+the seabed, Wells said.  
+ The first of the two relief wells is now about 4.5 feet
+(1.4 meters) from Macondo’s leaking bore, and the successful
+test may help guide the well-plugging procedure, Allen said.  
+ The Macondo well has been leaking as much as 60,000 barrels
+of oil a day, according to a government estimate, since the
+drilling-rig blast that killed 11 workers.  
+ BP lost 2.3 percent, or 9.35 pence, to close at 401 pence
+in London yesterday. BP reached a five-week high of 410.4 pence
+July 13.  
+ Stock Plunge  
+ The disaster at one point wiped out more than half of BP’s
+ stock value , forced the company to suspend its dividend, halted
+deep-water drilling in the U.S. and closed as much as 37 percent
+of the Gulf of Mexico to fishing as the oil spread. BP has
+pledged $20 billion to fund an account that will be used to pay
+damages claims related to the spill.  
+ The new cap has pressure-monitoring equipment that wasn’t
+available in May, when  BP  and the government abandoned efforts
+to seal Macondo from above. Without that equipment, operators
+wouldn’t know if shutting the valves forced oil and gas to
+rupture the well elsewhere, the company said earlier this week.  
+ “If all of a sudden, they have a pressure drop, they’re
+going to open that thing wide up and leave it alone,”  Don Van Nieuwenhuise , director of Petroleum Geoscience Programs at the
+ University of Houston , said in an interview. “A quick drop
+means a leak closer to the seabed, where oil and gas might work
+their way to the surface.”  
+ To contact the reporters on this story:
+ Katarzyna Klimasinska  in Houston at 
+ kklimasinska@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Oil gushes from a valve atop the failed blowout preventer at the BP Deepwater Horizon oil spill site in the Gulf of Mexico off the coast of Louisiana Source: BP Plc via Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

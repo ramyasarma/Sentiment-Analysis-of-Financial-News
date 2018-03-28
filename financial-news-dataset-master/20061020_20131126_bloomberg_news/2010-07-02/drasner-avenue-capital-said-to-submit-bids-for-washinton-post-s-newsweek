@@ -1,0 +1,69 @@
+-- Fred Drasner, Avenue Capital Said to Submit Bids for Newsweek
+-- Greg Bensinger
+-- 2010-07-02T04:01:00Z
+-- http://www.bloomberg.com/news/2010-07-02/drasner-avenue-capital-said-to-submit-bids-for-washinton-post-s-newsweek.html
+
+          
+          
+             Media executive  Fred Drasner  and
+investment firm Avenue Capital Group submitted separate offers
+to purchase Newsweek magazine ahead of yesterday’s deadline for
+final offers, according to two people close to the process.  
+ Drasner, a former executive at U.S. News & World Report and
+The New York Daily News, made his bid shortly before the 5 p.m.
+New York time deadline on Thursday, according to one of the
+people. Avenue Capital, which specializes in distressed assets,
+submitted a rival offer for the weekly magazine, which is being
+sold by  Washington Post Co. , the other person said.  
+ OpenGate Capital LLC, the private equity firm that in 2008
+bought TV Guide, said earlier it was interested in acquiring
+Newsweek.  Andrew Nikou , a managing partner at OpenGate, didn’t
+return phone calls yesterday seeking comment.  
+ Rima Calderon , a spokeswoman for  Donald Graham , chairman of
+the Washington Post Co., said the company “will not have
+anything to say for weeks” concerning the bidding process.  Tom Kuhn , managing director at investment bank Allen & Co., which
+was hired by Post Co. to manage the sale, declined to comment.  
+ Since 2007, Newsweek has lost $44 million on an operating
+basis, according to documents sent to prospective buyers that
+Bloomberg News reported on last month. Print advertising revenue
+plunged 39 percent to $70.3 million last year from $115.5
+million in 2008, the documents show.  
+ Newsmax Media Inc., a West Palm Beach, Florida-based
+publisher, issued a statement saying it had “made a serious bid
+to acquire Newsweek” but wouldn’t be a participant in the final
+bid process.  
+ Ritchie Capital Management LLC Chief Executive Officer
+ Thane Ritchie , who last year sought to buy Sun-Times Media Group
+Inc., also withdrew from the bidding process, the Wall Street
+Journal reported, citing a spokesman for Ritchie. Ritchie didn’t
+respond to e-mails seeking comment.  
+ To contact the reporter on this story:
+ Brett Pulley  in New York at 
+ bpulley@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Chairman of The Washington Post Co. Donald E. Graham. Photographer: Matthew Staver/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,57 @@
+-- Kan's Approval Rating Falls 9 Points to 50% in Japan, Asahi Survey Says
+-- Kazuyo Sawa
+-- 2010-06-20T22:25:19Z
+-- http://www.bloomberg.com/news/2010-06-20/kan-s-approval-rating-falls-9-points-to-50-in-japan-asahi-survey-says.html
+
+          
+          
+             Japanese Prime Minister Naoto Kan
+has an approval rating of 50 percent in an Asahi newspaper
+survey taken June 19-20, down 9 percentage points from June
+12-13. His disapproval rating rose 4 points to 27 percent.  
+ Support for Kan’s Democratic Party of Japan was 32 percent,
+down 8 percentage points. The support level for the opposition
+Liberal Democratic Party rose 1 point to 13 percent, the
+newspaper said.  
+ Forty-six percent of respondents said they would support an
+increase in the country’s consumption tax to 10 percent, while
+45 percent said they would oppose such a plan.   
+ The Asahi took the survey by telephone and obtained 1,025
+valid responses. The newspaper didn’t provide a margin of error.  
+ To contact the reporter on this story:
+Kazuyo Sawa in Tokyo at 
+ ksawa3@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                     June 21 (Bloomberg) -- Andrew Colquhoun, director at Fitch Ratings Asia-Pacific sovereign group, talks with Bloomberg's Rishaad Salamat about the outlook for Japan's credit rating and fiscal policy.
+     Colquhoun, speaking from Tokyo, also discusses China's shift in currency policy, and its implications for the nation's economy. The People’s Bank of China two days ago indicated it’s abandoning the 6.83 yuan peg to the dollar adopted during the global crisis to shield exporters. The central bank said while there’s no basis for “large scale” moves in the currency, the exchange rate will be allowed increased “flexibility.” (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

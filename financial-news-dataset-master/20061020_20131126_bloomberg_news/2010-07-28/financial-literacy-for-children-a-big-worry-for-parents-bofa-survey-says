@@ -1,0 +1,75 @@
+-- Financial Literacy for Kids a Big Worry for Parents, BofA Says
+-- Daria Solovieva
+-- 2010-07-28T12:47:46Z
+-- http://www.bloomberg.com/news/2010-07-28/financial-literacy-for-children-a-big-worry-for-parents-bofa-survey-says.html
+
+          
+          
+             Teaching children how to be
+financially savvy is almost as important as maintaining a close
+relationship with family, according to  Bank of America Corp.   
+ The Merrill Lynch Affluent Insights Quarterly, which
+surveyed 1,000 Americans in June with investable assets of at
+least $250,000, found that 51 percent cited “financial know-
+how” as the most important life lesson to share with their
+children. That compares with 54 percent who named maintaining
+ties to family, 26 percent who said choosing the right spouse
+and 11 percent who mentioned staying physically fit.  
+ “Cash and debt management, along with their children’s
+financial literacy, have become increasingly important to our
+clients as they juggle often competing financial demands while
+hoping to teach the next generation how to effectively manage
+their own money,”  Dean Athanasia , head of banking and the
+direct investment division for Bank of America Global Wealth and
+Investment Management, said in a statement.  
+ As uncertainty over jobs and long-term economic recovery
+increases, affluent investors are worried about rising college
+and retirement costs, the survey said. About 40 percent of
+respondents said they are concerned about the rising cost of
+college education and 46 percent are worried about their ability
+to preserve an inheritance for their children.  
+ The study, which was conducted by Princeton, New Jersey-
+based marketing  research firm  Braun Research, found that 70
+percent of respondents don’t think their retirement plan is
+adequate in providing for unexpected events or illness of a
+family member.  
+ Job Loyalty  
+ Retirement benefits are the No. 1 reason for loyalty among
+employers after compensation and promotions, with 60 percent
+citing those benefits as the main consideration in staying with
+their employer, the survey said.  
+ More employees are moving back their expected retirement
+dates, with 45 percent of affluent individuals planning to
+retire later than planned compared with 29 percent in January
+2010.  
+ When it comes to seeking financial advice, most affluent
+Americans turn to financial advisers and their spouses rather
+than their own parents. Almost 60 percent consult financial
+advisers or a spouse when contemplating a financial decision,
+while only 12 percent turn to their parents, the survey said.  
+ The survey was conducted for Merrill Lynch Global Wealth
+Management, a unit of the bank.  
+ To contact the reporters on this story:
+ Daria Solovieva  in New York 
+ dsolovieva@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

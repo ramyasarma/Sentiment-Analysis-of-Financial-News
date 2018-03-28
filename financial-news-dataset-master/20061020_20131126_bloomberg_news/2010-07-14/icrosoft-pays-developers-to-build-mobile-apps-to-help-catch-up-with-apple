@@ -1,0 +1,134 @@
+-- Microsoft Pays Mobile App Developers to Help It Catch Apple
+-- Adam Satariano
+-- 2010-07-14T20:21:51Z
+-- http://www.bloomberg.com/news/2010-07-14/microsoft-pays-developers-to-build-mobile-apps-to-help-catch-up-with-apple.html
+
+          
+          
+             Microsoft Corp.  is paying developers
+to build mobile applications for its Windows Phone 7 system to
+help it narrow a lead by rival products from  Apple Inc.  and
+ Google Inc.   
+ The company is providing financial incentives ranging from
+free tools and test handsets to funds for software development
+and marketing, said Todd Brix, a senior director at Microsoft
+who works with app developers. In some cases, Microsoft is
+providing revenue guarantees, and will make up the difference if
+apps don’t sell as well as expected, he said.  
+ Microsoft revamped its flagship mobile operating system to
+recoup market share lost to Google and Apple. To win consumers,
+the world’s largest software maker needs an  ample  supply of
+games, music and navigation apps when handsets with Windows
+Phone 7 reach stores later this year. Some developers may be
+reluctant to sign up before they know Windows Phone will lure
+enough customers, said  Kevin Burden , an analyst at ABI Research.  
+ “In no way do they want to say, ‘Trust us, there will be
+apps at some point,’” said Burden, who is based in Hopkinton,
+Massachusetts. “If that means paying developers, so be it. It’s
+a good strategy for them.”  
+ While Microsoft, based in Redmond, Washington, has used
+similar compensation programs for previous versions of its
+mobile operating system, it’s devoting a larger sum this time,
+Brix said. He declined to say how much Microsoft will spend.  
+ ‘Open for Business’  
+ “We are investing a lot to attract developers big and small
+to Windows Phone 7 to let them understand what the opportunity
+is and provide as many resources as we can to help them be
+successful on our platform,” Brix said. “We’re open for business
+and we want to work with them.”  
+ Microsoft needs a hit to turn around its mobile business,
+which Chief Executive Officer  Steve Ballmer  said this week
+“missed a generation.”  
+ Windows accounted for 6.9 percent of the worldwide
+smartphone-software market in the first quarter, from 10.8
+percent a year earlier, according ABI. Shipments of the iPhone
+rose to 15.8 percent, while Android handsets had 9.9 percent.  
+ At least four app makers have been approached by Microsoft
+and offered financial incentives in cash, assistance with
+development costs or revenue guarantees in exchange for having
+apps ready at or near the release of Windows Phone 7, said five
+people with knowledge of the matter. The people declined to be
+named because the incentive terms are confidential.  
+ Fewer Apps Than Apple  
+ Other mobile software makers use different approaches to
+entice programmers. Apple shares a portion of the revenue
+generated when consumers buy apps from its online store. With
+more than 51 million iPhones sold since its 2007 debut,
+Cupertino, California-based Apple hasn’t offered payments like
+Microsoft’s incentives to gain programs, the people said.  
+ Apple spokeswoman  Trudy Muller  declined to comment.  
+ Apple  has about 225,000 apps available for the iPhone,
+while devices that run on Google’s  Android  operating system have
+access to some 65,000.  
+ Microsoft is starting from scratch in amassing apps for
+Windows Phone 7. Its overhaul of the operating system was so
+complete that programs developed for older Windows-based phones
+won’t work on the new one. At the end of last year, Microsoft
+had only 246 apps, according to ABI.  
+ Microsoft  rose 31 cents to $25.44 at 4 p.m. New York time
+on the Nasdaq Stock Market. The shares have declined 17 percent
+this year.  
+ The company’s  deep pockets  and the likelihood it will keep
+investing in Windows Phone 7 mean Microsoft may have an easier
+time luring developers than a smaller company, Burden said.  
+ ‘Unproven Prospect’  
+ Developers expect Windows Phone 7 to be successful, three
+of the people said. Yet it’s difficult to get companies to build
+software for an operating system that doesn’t exist yet.  
+ “There’s absolutely less enthusiasm today for Windows Phone
+7 -- developers develop for the platform with largest number of
+users because that’s where they can make the most money,” said
+ Matt Rosoff , an analyst at Directions on Microsoft in Kirkland,
+Washington. “Windows Phone 7 is an unproven prospect. It
+definitely makes sense for Microsoft to prime the pump a little
+bit.”  
+ Last month, Microsoft scrapped an effort to sell its own
+phone, less than two months after the device debuted. Sales of
+the Kin social-networking phones fell short of the company’s
+expectations, a person familiar with the matter said then.  
+ To contact the reporters on this story:
+ Dina Bass  in Seattle at 
+ dbass2@bloomberg.netdbass 2@bloomberg.net ;
+ Adam Satariano  in San Francisco at 
+ asatariano1@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Microsoft Corp. CEO Steve Ballmer, speaks at the Microsoft Worldwide Partner Conference in Washington, D.C. Photographer: Joshua Roberts/Bloomberg  
+                   
+    
+
+                 
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 14 (Bloomberg) -- Bloomberg's Deirdre Bolton reports on the latest breaking news and top stories in today's Business Briefs. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

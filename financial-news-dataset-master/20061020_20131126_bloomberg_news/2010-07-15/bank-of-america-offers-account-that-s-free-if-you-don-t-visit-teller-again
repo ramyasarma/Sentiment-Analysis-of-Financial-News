@@ -1,0 +1,70 @@
+-- Bank of America Offers Account That's Free If You Don't Visit Teller Again
+-- David Mildenberg
+-- 2010-07-15T04:00:00Z
+-- http://www.bloomberg.com/news/2010-07-15/bank-of-america-offers-account-that-s-free-if-you-don-t-visit-teller-again.html
+
+          
+          
+             Bank of America Corp.  has a novel
+way to lure more customers: Free checking accounts for folks who
+never again enter the bank.  
+ The bank, the  largest  in the U.S. by assets, is introducing
+an account on Aug. 6 that won’t include a monthly fee or minimum
+balance requirement unless the customer wants to use a teller or
+receive a monthly statement through the mail, said David Owen, a
+senior vice president for checking and debit at the Charlotte,
+North Carolina-based company. Visiting a branch to make a
+deposit will trigger an $8.95 fee per month, he said.  
+ Bank of America has tested the program in Georgia for eight
+months with a third of new customers selecting the account, Owen
+said in an interview yesterday. “It has had a much broader
+appeal than we initially thought,” he said.  
+ Bank of America is looking for more ways to make money from
+consumer banking amid a U.S. regulatory overhaul, which ratings
+company DBRS Inc. estimated may cut $1.9 billion from the
+lender’s annual debit-card and credit-card revenue. The Senate
+may vote as soon as this week on a bill that also establishes a
+consumer financial protection agency.  
+ Bank of America views the new account as different from the
+mid-1990s programs by First Chicago Corp. and other banks to
+levy $3 fees on people who dealt with tellers instead of
+automated teller machines. The banks later dropped the charges
+after criticism from customers.  
+ “This account is up to the customer and they can choose
+how they want to bank with us,” Owen said. “This is nothing
+like those early programs.”  
+ The bank has about 18,000 ATMs, including about 13,800 that
+print images of deposited checks. Account holders who need to
+deposit coins or have service-related questions won’t be charged
+a monthly fee, Owen said.  
+ To contact the reporters on this story:
+ David Mildenberg  in Charlotte at 
+ dmildenberg@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Brian T. Moynihan, chief executive officer of Bank of America Corp. Photographer: Chris Keane/Bloomberg  
+                      
+      
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

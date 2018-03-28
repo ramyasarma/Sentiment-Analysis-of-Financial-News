@@ -1,0 +1,129 @@
+-- Buy a Mobile Phone in San Francisco, Get a Label on Cancer Risk
+-- Rob Waters
+-- 2010-07-08T04:01:00Z
+-- http://www.bloomberg.com/news/2010-07-08/buy-a-mobile-phone-in-san-francisco-get-a-label-on-cancer-risk.html
+
+          
+          
+             Cigarette packs in the U.S. have been
+branded with government health warnings since 1965. Now San
+Francisco’s city government has brought warning labels to the
+Information Age, voting 10-1 to require that stores post the
+level of radio waves emitted by each mobile phone they sell.  
+ The city’s Board of Supervisors approved the ordinance June
+22, with some provisions taking effect Nov. 1. In passing the
+law, called the “Cell Phone Right-to-Know Ordinance,” San
+Francisco jumped into a murky minefield of dueling scientists
+and conflicting findings, Bloomberg Businessweek reports in its
+July 12 issue.  
+ There’s no scientific consensus on whether the kind of
+radiation exposure created by frequent mobile-phone use can lead
+to cancer, as many fear. The latest study to grapple with the
+issue, released last month by the World Health Organization,
+couldn’t find a conclusive link. That kind of uncertainty leaves
+consumer advocates asking for more clarity.  
+ “It totally makes sense to give consumers more
+information,” says Renee Sharp, a scientist with the
+Environmental Working Group in Oakland, California, which
+supports the measure. “We are not saying we know cell phones
+cause cancer.”  
+ A cell phone’s main source of radio frequency, or RF,
+energy is produced through the antenna. The closer the antenna
+is to the head, the higher the exposure, according to the
+National Cancer Institute.  
+ Last month’s WHO-supported study reported a “suggestion,”
+backed up by incomplete data, that the heaviest phone use may be
+tied to gliomas, the most common type of brain tumor and the one
+that claimed the life of Senator Edward Kennedy last year.  
+ Swedish Study  
+ A more worrying 2005 study from Sweden reported a possible
+link between brain cancers and mobile phone use. The researchers
+behind both studies caution that it can take years or decades of
+exposure to a cancer-causing agent for a tumor to appear, and
+because heavy cell phone use is a relatively new phenomenon,
+they need more time and data to study the issue.  
+ Furthermore, Mary McBride, a scientist at the British
+Columbia Cancer Agency and a co-author of the WHO report, says
+that most studies, including hers, excluded children, whose
+brains absorb more energy than adults and whose phone use has
+grown exponentially.  
+ The Federal Communications Commission currently regulates
+cell phone emissions based on the amount of radio frequency
+energy absorbed by the body during phone use, a metric called
+the “specific absorption rate.”  
+ The maximum SAR allowed under a 20-year-old standard is 1.6
+watts per kilogram of body weight, and anything under that is
+considered safe, at least by the FCC. The San Francisco
+ordinance will require sellers to post the SAR of each phone.  
+ Sowing Confusion  
+ That may confuse consumers, says John Walls, a spokesman
+for CTIA-The Wireless Association, a trade group in Washington,
+D.C. that represents Dallas-based AT&T Inc.; Nokia Oyj of Espoo,
+Finland, the world’s biggest maker of mobile phones; Seoul-based
+LG Electronics Inc. and New York-based Verizon Communications
+Inc. among mobile-phone companies. Posting the ratings may lead
+consumers to infer that phones with higher SAR numbers are more
+dangerous, he said.  
+ “As long as those devices meet or fall below the FCC
+standard, they are all considered safe. Period,” Walls said in
+a June 29 telephone interview.  
+ Consumers and activists think transparency can’t hurt.
+Ellie Marks, of nearby Lafayette, California, was pleased by San
+Francisco’s decision. Her husband, Alan, has a brain tumor she
+believes was caused by his frequent use of mobile phones. An
+early adopter, he got his first phone in 1987 and for two
+decades he used it more than 500 hours a year, mostly glued to
+his right ear, she said.  
+ Avoidable Risks  
+ In May 2008, he was diagnosed with a glioma in his right
+frontal lobe. Since then Ellie Marks has become an advocate for
+educating customers about what she calls the avoidable risks of
+mobile phones, testifying before Congress as well as the
+California and Maine state legislatures. In each case, measures
+to provide information on the radio frequency emissions of
+phones were defeated.  
+ Now that she’s tasted victory in San Francisco, though, she
+says she’ll keep pushing. Next up: the city of Burlingame,
+California, population 28,000, where Councilman Michael
+Brownrigg plans to introduce a bill modeled on the one passed by
+its neighbor to the north.  
+ Marks may soon find herself back before Congress, too. On
+June 30, Representative Dennis Kucinich, a Democrat from Ohio
+and two-time candidate for U.S. president, announced he’ll
+introduce a right-to-know bill similar to San Francisco’s.  
+ The mobile phone industry, meanwhile, is expressing its
+displeasure with its wallet. After October, the CTIA says, its
+annual trade show will no longer grace San Francisco.  
+ “We thought the Board of Supervisors’ decision sent a very
+clear message,” Walls says. “We weren’t wanted in San
+Francisco.”  
+ To contact the reporter on this story:
+Rob Waters in San Francisco at 
+ rwaters5@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Last month’s WHO-supported study reported a 'suggestion,' backed up by incomplete data, that the heaviest phone use may be tied to gliomas, the most common type of brain tumor and the one that claimed the life of Senator Edward Kennedy last year. Photographer: Mannie Garcia/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

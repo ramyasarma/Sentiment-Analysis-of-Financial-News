@@ -1,0 +1,82 @@
+-- World Cup May Be `Yellow Card' for Tech Earnings, Goldman Says
+-- Jason Clenfield
+-- 2010-06-16T18:41:56Z
+-- http://www.bloomberg.com/news/2010-06-16/world-cup-may-be-yellow-card-for-technology-earnings-goldman-sachs-says.html
+
+          
+          
+             Too many customers watching the
+World Cup and too few buying software and computers means the
+soccer tournament may wind up a “yellow card” for earnings at
+U.S. technology companies,  Goldman Sachs Group Inc.  said.  
+ In the quarter coinciding with three of the past five World
+Cups, technology companies on the  Standard & Poor’s 500 Index 
+had their biggest earnings-per-share misses of the year,  Sarah Friar , a San Francisco-based Goldman Sachs analyst, wrote in a
+report this week. By contrast, the April-to-June period was the
+worst quarter in only three of the past 15 non-tournament years
+since 1990, she wrote.  
+ “World Cup-year second quarters appear more susceptible to
+missing consensus estimates,” she wrote. “With macro and
+currency concerns already weighing on technology stocks, some
+view the World Cup as another possible near-term negative.”  
+ The planet’s most popular sporting event kicked off last
+week and is expected to draw half a billion TV viewers globally
+by the time it ends July 11, according to  FIFA , soccer’s
+governing body. Even in the U.S., where the sport’s popularity
+lags behind American football and basketball, some 14.5 million
+people tuned in a match this week between the home team and
+England, according to estimates from ratings-company Nielsen Co.  
+ Other fans are using vacation days to attend the matches in
+South Africa. Average attendance per game has been 53,019, up
+from 52,167 at the same stage of the 2006 World Cup in Germany,
+FIFA spokesman  Nicolas Maingot  said at a news conference in
+Johannesburg this week.  
+ ‘Not Overwhelming’  
+ “Some impact is a possibility, though the likelihood is not
+overwhelming,” Friar said in the report. She  recommends  buying
+Microsoft Corp. and Oracle Corp. shares and rates SAP AG
+“neutral.”  
+ The worst performance for S&P 500 technology companies
+during a World Cup quarter in the past 20 years occurred in 1990
+when the tournament was held in Italy. More than 50 percent of
+the companies fell short of analysts’ average estimates,
+according to Friar’s report. The U.S.-hosted 1994 World Cup and
+the 2002 games in Japan and Korea also coincided with quarters
+that were worse than the rest of the year.  
+ For investors concerned about the impact, Friar notes that
+the round of 16 will fall at the end of the second quarter,
+while the later rounds take place at the beginning of the third
+quarter. The final is scheduled July 11.  
+ The  information technology sub-index  of the  S&P 500  has
+risen 3.7 percent since June 11, when the tournament started,
+while the broader index gained 2.6 percent.  
+ To contact the reporter on this story:
+ Jason Clenfield  in Tokyo at 
+ jclenfield@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     South African flags are waved as football fans cheer before the start of the first 2010 World Cup football match at Soccer City stadium in Soweto, suburban Johannesburg. Photographer: Roberto Schmidt/AFP/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

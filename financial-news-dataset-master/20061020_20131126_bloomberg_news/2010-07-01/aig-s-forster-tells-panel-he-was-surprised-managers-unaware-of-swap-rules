@@ -1,0 +1,119 @@
+-- AIG's Forster `Surprised' Supervisors Unaware of Collateral Rules on Swaps
+-- Sarah Frier
+-- 2010-07-01T16:58:36Z
+-- http://www.bloomberg.com/news/2010-07-01/aig-s-forster-tells-panel-he-was-surprised-managers-unaware-of-swap-rules.html
+
+          
+          
+             Andrew Forster , an executive of
+ American International Group Inc. ’s derivatives unit, said he
+was surprised that the insurer’s managers were unaware of
+collateral-posting requirements included in the contracts.  
+ “It’s a fairly standard feature of a derivative contract,
+so, to that extent, I’d be surprised,” Forster said today at a
+Financial Crisis Inquiry Commission hearing in Washington. “It
+was clear to me. I thought it was clear to them.”  
+ Steven Bensinger , AIG’s former chief financial officer, and
+ Elias Habayeb , former CFO of the division including the
+derivatives unit, told the panel they didn’t know of the
+provision until the third quarter of 2007, according to an FCIC
+document released yesterday.  Goldman Sachs Group Inc.  demanded
+$1.8 billion on July 27, 2007, saying the market value of the
+securities underlying credit-default swaps had declined.  
+ “I find it just stunning that you have such a deeply
+siloed risk management system and that the CFO, who was in
+charge of liquidity-risk management, would be unaware of
+contractual obligations to deliver collateral,” said FCIC
+Commissioner  Douglas Holtz-Eakin .  
+ Goldman Sachs was the first firm to demand collateral on
+the swaps tied to mortgage-linked assets, testified Forster, an
+executive vice president in charge of the AIG Financial Products
+trading desk. Subsequent collateral calls from Goldman Sachs and
+banks including Societe Generale SA fueled  losses  that forced
+New York-based AIG to seek a U.S. government bailout in 2008.  
+ ‘A Whole Bunch of Cash’  
+ AIG and Goldman Sachs disagreed on the value of assets
+covered by the swaps because a freeze in Wall Street trading in
+2007 for mortgage-related assets made it difficult to get
+pricing data, Forster said.  
+ “We don’t agree with their marks and are simply saying
+let’s use a third party and keep it friendly,” Forster wrote in
+an August 8, 2007  e-mail  to a Financial Products colleague.
+“What do they expect us to do -- just give them a whole bunch
+of cash because they are Goldman Sachs?”  
+ FCIC Chairman  Phil Angelides  called Goldman Sachs’s initial
+capital call a “stab in the dark” because the New York-based
+bank reduced its request to $1.2 billion from $1.8 billion by
+Aug. 2, 2007, according to the FCIC  documents . AIG posted $450
+million of collateral on Aug. 10, and Goldman Sachs said at the
+time that the funds were insufficient.  
+ ‘Not a Science’  
+ For “illiquid assets like this, it’s not a science, there
+is judgment involved,” Goldman Sachs CFO  David Viniar 
+testified. “We used our best estimate at all times of what the
+market was.”  
+ Robert Lewis , AIG’s chief risk officer, also didn’t know
+about the swaps’ collateral call provisions until after
+Goldman’s 2007 demand, according to the FCIC documents. When
+asked by FCIC staff if the provisions caused consternation
+within AIG, Lewis said, “I would say that’s an
+understatement.”  
+ AIG’s former Chief Executive Officer,  Martin Sullivan ,
+testified yesterday he was unaware in 2005 of the tripling of
+risk through derivatives at AIG Financial Products. AIG’s swaps
+tied to asset-backed securities surged to $54 billion in the 12
+months ended Dec. 31, 2005, Angelides said.  
+ “My first knowledge of the super senior credit-default
+swaps portfolio was sometime in 2007,” Sullivan, 55, said
+yesterday during the first day of the hearing.  
+ Sullivan, Obama  
+ Before 2007, Sullivan had received reports about the
+“totality” of the swaps unit without being alerted to the
+specific trades that later contributed to AIG’s near collapse,
+he said. He was ousted in 2008 as the firm’s writedowns mounted
+on bets that he previously said would be “manageable.”  
+ Angelides, who will report the commission’s findings to
+Congress and President  Barack Obama  in December, said Sullivan
+should have known more about risk at AIG.  
+ “We will probably debate on this panel many, many issues,
+but I do not think that the failure of leadership and effective
+management at AIG will be a matter of much debate,” Angelides
+said yesterday.  
+ AIG, once the world’s largest insurer, received a U.S.
+bailout designed to protect banks that bought more than $60
+billion in swaps from the firm. The FCIC is reviewing decisions
+that led to the insurer’s rescue as lawmakers seek to prevent
+another company from accumulating so much risk that its collapse
+could threaten global economic stability.  
+ To contact the reporters on this story:
+ Hugh Son  in New York at 
+ hson1@bloomberg.net ;
+ Sarah Frier  in New York at 
+ sfrier@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Andrew Forster, former senior vice president and chief financial officer of financial services with American International Group Inc.  Photographer: Andrew Harrer/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

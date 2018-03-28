@@ -1,0 +1,43 @@
+-- Citigroup Said to Pay $75 Million to Settle SEC Subprime Case
+-- Bill Koenig
+-- 2010-07-29T17:59:18Z
+-- http://www.bloomberg.com/news/2010-07-29/citigroup-agrees-to-pay-75-million-to-end-sec-probe-of-subprime-exposure.html
+
+          
+          
+             The U.S. Securities and Exchange
+Commission today accused Citigroup Inc. with misleading
+investors about the company’s exposure to subprime mortgage-
+related assets and also said Citigroup agreed to pay a $75
+million penalty.  
+ The SEC also accused one current and one former executive
+for their roles in causing Citigroup to make the misleading
+statements in an SEC filing. The information was in an e-mailed
+statement.   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Charles Prince, former chief executive officer of Citigroup Inc., during a hearing of the Financial Crisis Inquiry Commission in Washington, D.C. Photographer: Joshua Roberts/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,81 @@
+-- Micron Drops on Concerns About Unsold Inventory, Slow Pickup in Production
+-- Ian King
+-- 2010-06-29T20:24:18Z
+-- http://www.bloomberg.com/news/2010-06-29/micron-drops-on-concerns-about-unsold-inventory-slow-pickup-in-production.html
+
+          
+          
+             Micron Technology Inc. , the largest
+U.S. maker of computer memory, fell the most in 19 months on the
+Nasdaq on concern it has too many unsold chips and that output
+of other products isn’t increasing fast enough.  
+ Micron slid $1.35, or 13 percent, to $8.67 at 4 p.m. New
+York time in Nasdaq Stock Market  trading , the biggest drop since
+Dec. 1 2008, and the most of any stock in the Standard & Poor’s
+500 Index. The shares have lost 18 percent this year.  
+ While the company reported a third-quarter profit of $939
+million yesterday, helped by one-time accounting gains from the
+acquisition of Numonyx BV, that purchase also added inventory.
+Micron is also trailing rivals including Samsung Electronics Co.
+in ramping up production to take advantage of strong demand.  
+ “People are concerned about Numonyx and the $700 million in
+inventory,” said  Betsy Van Hees , an analyst at Wedbush
+Securities in San Francisco. She has an “outperform” rating on
+Micron stock and said she doesn’t own any shares.  
+ Micron , based in Boise, Idaho, makes dynamic random access
+memory, or DRAM, chips that provide the main memory in personal
+computers. The company also makes Nand flash memory chips used
+in portable music players like Apple Inc.’s iPod and in memory
+cards for digital cameras.  
+ Demand for those chips is still strong and inventory is
+lean, Chief Operating Officer  Mark Durcan  said late yesterday in
+an interview.  
+ “Demand is very robust in every segment,” he said.
+“Everyone essentially is asking for more than they can get right
+now.”  
+ Sales Gain  
+ Some investors were also disappointed by the relatively
+slow pace of Micron’s ability to increase output and take
+advantage of strong pricing, said  Daniel Amir , an analyst with
+Lazard Capital Markets in San Francisco. He recommends  buying 
+the shares and doesn’t own any himself.  
+ “You really don’t have growth in the DRAM business or the
+Nand,” he said. “It’s unfortunate.”  
+ Micron’s Durcan said that while his company is lagging the
+expansion plans of rivals this year, he will reverse that
+situation and increase market share next year.  
+ Micron completed its purchase last month of Rolle,
+Switzerland-based Numonyx, which makes a different type of flash
+chips for mobile phones. There is little competition in that
+market, meaning that Micron will likely be able to sell all of
+the inventory it acquired, said Wedbush’s Van Hees.  
+ To contact the reporter on this story:
+ Ian King  in San Francisco at 
+ ianking@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Micron Chief Operating Officer Mark Durcan said demand for the chips is still strong and inventory is lean. Source:Micron via Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

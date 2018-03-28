@@ -1,0 +1,82 @@
+-- Sony Trims E-reader Price as IPad Challenge Heats Up
+-- Mariko Yasu
+-- 2010-07-07T02:21:45Z
+-- http://www.bloomberg.com/news/2010-07-06/sony-says-it-reduced-prices-of-electronic-readers-by-as-much-as-50.html
+
+          
+          
+             Sony Corp.  cut prices of its e-
+readers in the U.S. for a second time since the introduction of
+Apple Inc.’s iPad in April intensified competition in the market
+for devices that can display digital books.  
+ The Japanese consumer-electronics maker lowered its Reader
+Daily Edition e-reader to $299 from $349 earlier this month and
+made smaller reductions on two other models, after trimming
+prices in May, Sony spokesman  Sean Yoneda  said by phone today
+from Tokyo.  
+ Sony is competing with  Amazon.com Inc. , the Seattle-based
+maker of the Kindle e-reader, and Barnes & Noble Inc., the No. 2
+U.S. bookstore chain, both of which have cut prices for their
+devices. The e-book makers are fending off competition from the
+iPad, a tablet computer with a color screen on which users can
+read digital books, watch videos and surf the Internet.  
+ E-reader sales will probably double this year to 6 million
+units, according to Forrester Research Inc. Kindle has about 60
+percent of the U.S. market, followed by Sony with 35 percent,
+the Cambridge, Massachusetts-based research firm estimates.  
+ Sony  dropped 2.3 percent to 2,306 yen as of the 11 a.m.
+trading break in Tokyo, compared with a 0.9 decline by Japan’s
+benchmark Nikkei 225 Stock Average.  
+ Amazon, the world’s largest online retailer, on July 1
+introduced an updated version of its larger Kindle with sharper
+contrast and a lower price than the previous model. The Kindle
+DX will sell for $379, down from $489, Seattle-based Amazon.com
+said.  
+ Sony in May said it plans to begin selling its e-readers in
+China, Japan and Australia this year, widening its challenge to
+Kindle. China is projected to be the biggest market for
+electronic-book readers by 2015, Sony said at the time.  
+ To contact the reporter on this story:
+ Mariko Yasu  in Tokyo at 
+ myasu@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Steve Haber, president of the Digital Reading division of Sony Electronics Inc., holds a Sony Reader Daily Edition e-book. Photographer: Daniel Acker/Bloomberg  
+                   
+    
+
+                 
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 7 (Bloomberg) -- Bloomberg's Scarlet Fu reports on the latest breaking news and top stories in today's Business Briefs. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

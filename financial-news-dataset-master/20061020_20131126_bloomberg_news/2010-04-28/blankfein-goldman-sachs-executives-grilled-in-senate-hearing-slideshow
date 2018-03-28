@@ -1,0 +1,110 @@
+-- Blankfein, Goldman Sachs Executives Grilled in Senate Hearing: Slideshow
+-- Nelson Ching
+-- 2010-04-28T02:19:16Z
+-- http://www.bloomberg.com/news/2010-04-28/blankfein-goldman-sachs-executives-grilled-in-senate-hearing-slideshow.html
+
+          
+          
+             To see more images from the
+hearing, click {1<GO>}  
+ To contact the photo editor responsible for this
+slideshow:  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Lloyd C. Blankfein, chairman and chief executive officer of Goldman Sachs Group Inc., is sworn in before a Senate Homeland Security and Governmental Affairs subcommittee hearing on Wall Street and the financial crisis in Washington, D.C. Photographer: Andrew Harrer/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     Senator Carl Levin, a Democrat from Michigan, chairs a Senate Homeland Security and Governmental Affairs subcommittee hearing on Wall Street and the financial crisis in Washington, D.C., on April 27, 2010. Photographer: Andrew Harrer/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     Daniel Sparks, former partner and head of mortgages with Goldman Sachs Group Inc., left to right, Joshua Birnbaum, former managing director of structured products group trading with Goldman, Michael Swenson, managing director of structured products group trading with Goldman, and Fabrice Tourre, executive director of structured products group trading with Goldman, are sworn in during a Senate Homeland Security and Governmental Affairs subcommittee hearing on Wall Street and the financial crisis in Washington, D.C., on April 27, 2010. Photographer: Andrew Harrer/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     Protestors hold signs depicting Lloyd C. Blankfein, chairman and chief executive officer of Goldman Sachs Group Inc., and Fabrice Tourre, executive director of structured products group trading with Goldman, during a Senate Homeland Security and Governmental Affairs subcommittee hearing on Wall Street and the financial crisis in Washington, D.C., on April 27, 2010. Photographer: Andrew Harrer/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     Craig Broderick, chief risk officer of Goldman Sachs Group Inc., appears on a television screen as traders work on the floor of the New York Stock Exchange in New York on April 27, 2010. Photographer: Daniel Acker/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     Fabrice Tourre, executive director of structured products group trading with Goldman Sachs Group Inc., takes his seat before a Senate Homeland Security and Governmental Affairs subcommittee hearing on Wall Street and the financial crisis in Washington, D.C., on April 27, 2010. Photographer: Joshua Roberts/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     Fabrice Tourre, executive director of structured products group trading with Goldman Sachs Group Inc., rubs his eyes while testifying during a Senate Homeland Security and Governmental Affairs subcommittee hearing on Wall Street and the financial crisis in Washington, D.C., on April 27, 2010. Photographer: Andrew Harrer/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     Lloyd C. Blankfein, chairman and chief executive officer of Goldman Sachs Group Inc., testifies at a Senate Homeland Security and Governmental Affairs subcommittee hearing on Wall Street and the financial crisis, in Washington, D.C., on April 27, 2010. Photographer: Chris Kleponis  
+                   
+    
+
+                 
+           
+                            
+                     
+                     Senator Carl Levin, a Democrat from Michigan, left, speaks with Senator John McCain, a Republican from Arizona, during a Senate Homeland Security and Governmental Affairs subcommittee hearing on Wall Street and the financial crisis in Washington, D.C., on April 27, 2010. Photographer: Joshua Roberts/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     Lloyd C. Blankfein, chairman and chief executive officer of Goldman Sachs Group Inc., leaves a hearing on Wall Street and the financial crisis in Washington, D.C., U.S., on April 27, 2010. Photographer: Joshua Roberts/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

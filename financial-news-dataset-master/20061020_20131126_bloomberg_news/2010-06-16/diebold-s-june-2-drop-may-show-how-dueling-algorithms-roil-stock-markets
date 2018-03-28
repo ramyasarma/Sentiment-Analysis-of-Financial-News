@@ -1,0 +1,215 @@
+-- Diebold's June 2 Drop May Show How `Dueling Algorithms' Roil Stock Markets
+-- Jesse Westbrook
+-- 2010-06-16T15:35:45Z
+-- http://www.bloomberg.com/news/2010-06-16/diebold-s-june-2-drop-may-show-how-dueling-algorithms-roil-stock-markets.html
+
+          
+          
+             Just as a June 2 meeting with
+investors was starting, Diebold Inc. Chief Executive Officer
+ Thomas Swidarski  saw his company’s share price plummet more than
+30 percent in six seconds.  
+ As Swidarski and his colleagues tried to figure out what to
+say at their meeting, the price shot back up. By the end of the
+day, more than 6 million shares of the Canton, Ohio-based maker
+of ATM machines had traded, about 11 times the usual volume. The
+stock closed at $29.08, 3 percent higher than its opening.  
+ The plunge is under review by U.S. regulators, according to
+people with direct knowledge of the investigation. It may have
+occurred when a shred of  Diebold  news bounced into the growing
+network of computer programs that search out financial
+information, analyze it and trade instantly without human
+involvement, market analysts said. The incident highlights
+concerns about high-speed trading like those surrounding the May
+6 selloff that erased $862 billion from the stock market in less
+than 20 minutes.  
+ “The days when humans traded with humans have long since
+been replaced by my computer trades with your computer,” said
+ James Angel , a finance professor at Georgetown University in
+Washington. “What we see here are dueling algorithms. Some
+algorithm triggers, the stock falls, the other investors look
+and say that’s old news and start buying.”  
+ Diebold’s  June 2 freefall started after the Securities and
+Exchange Commission announced that the company would pay $25
+million to settle allegations of fraudulent accounting. The
+accord was old news; a year earlier Diebold had announced it
+agreed in principle to pay that amount to end the investigation
+of its discontinued practice of recording some sales before
+machines were delivered. The SEC on June 2 also filed suit
+against three former Diebold executives.  
+ Six Seconds  
+ At 12:22 p.m., Diebold plunged $8 in six seconds to $18.26,
+according to Bloomberg data. The stock recovered and by 12:23
+p.m. was trading above $25.  
+ Company spokesman  Michael Jacobsen  said Diebold is
+considering whether and how to investigate the plunge.  
+ While regulators haven’t ruled out the possibility that the
+Diebold trades were executed manually, they are racing to catch
+up with an industry that executes transactions by the
+millisecond.  
+ The SEC, staffed mainly with attorneys and accountants, is
+adding statisticians and former hedge-fund employees to its
+ranks. Last month, the agency proposed a $4 billion system to
+track unusual market events and suspicious trades in real time.  
+ The agency is “worried about the innocent bystanders,”
+said  Terrance Hendershott , an associate professor of finance at
+the University of California at Berkeley’s Haas School of
+Business. “Everyone wants to believe that when they send their
+order in, they are going to get the fair price.”  
+ Historical Events  
+ Use of software to analyze and trade within milliseconds on
+news from press releases, headlines and news stories has taken
+off in the past three years, said Timothy Sargent, chief
+executive officer of Naperville, Illinois-based  Quantitative
+Services Group LLC . The software is based on algorithms that
+process historical data, events or keywords that have pushed
+stock prices up or down in the past.  
+ “There is a parsing activity to look at the flavor of the
+words chosen,” said Sargent, whose company sells research to
+institutional investors. “Obviously, there will be negative
+words and positive words.”  
+ News Corp.’s  Dow Jones,  Thomson Reuters Corp.  and Bloomberg
+LP supply news for algorithmic trading. Bloomberg LP is the
+parent company of Bloomberg News.  
+ ‘Arms Race’  
+ Temporary price fluctuations have led some firms to install
+software that looks to profit by buying at the low point of a
+swing. Pipeline Trading Systems LLC assists institutional
+investors in implementing algorithms that aim to identify the
+end of a selloff, said  Fred Federspiel , the company’s founder.  
+ “It’s an arms race between institutional traders who are
+moving positions driven by portfolio managers and traders who
+are deploying these tools to figure out which direction to trade
+a particular stock,” said Federspiel, who earned a doctorate in
+nuclear physics from the University of Illinois in Champaign and
+previously worked at  Los Alamos National Laboratory in New
+Mexico . “If one party comes to this interaction without a well-
+programmed machine on their side, they are likely to lose a lot
+of money.”  
+ Traders don’t care if algorithms occasionally misinterpret
+data as long as computers keep mistakes to a minimum, said
+Sargent of Quantitative Services Group.  
+ “The dollars and the money to be made being right a
+majority of the time is enough to pursue these strategies,” he
+said. “We are going to get these glaring circumstances, but for
+every one of those, there are a number of trades where it works
+very well.”  
+ Circuit Breakers  
+ To respond to the May 6  crash , the SEC and exchanges are
+implementing curbs on a trial basis to halt trading of  Standard
+& Poor’s 500  Index stocks when their prices rise or fall 10
+percent in less than five minutes. The circuit-breaker test,
+which is scheduled to last through Dec. 10, will pause trading
+for five minutes to let market participants assess news about
+the company and submit new buy and sell orders.  
+ While Diebold isn’t listed on the S&P 500, SEC Chairman
+ Mary Schapiro  said last week that she plans to “rapidly”
+expand the six-month pilot program to “thousands” of
+additional companies.  
+ Investigations  
+ Trading specialists and enforcement attorneys at the SEC
+and the Financial Industry Regulatory Authority are examining
+what triggered the Diebold trades and whether the selloff could
+have resulted from manipulation or inside information, according
+to people familiar with the matter who spoke on condition of
+anonymity because the probes aren’t public. NYSE Arca and  Nasdaq
+OMX Group Inc. , which reviewed the trades for misconduct and
+pricing errors, determined they should stand.  
+ Four hundred twenty-seven trades occurred in Diebold below
+$23 on June 2 covering about 113,600 shares, according to
+Bloomberg data. All of the trades took place on electronic
+venues such as Nasdaq Stock Market and Bats Exchange. No
+transactions occurred on the New York Stock Exchange for 70
+seconds starting at 12:22 p.m.  
+ Diebold CEO Swidarski was on the road that day with another
+company official to speak with investors, according to a person
+with direct knowledge of the trip.  
+ NYSE spokesman  Ray Pellecchia  said a so-called liquidity
+replenishment point was triggered in Diebold that switched
+electronic trading to automated auctions overseen by humans.
+Other trading venues don’t use the curbs.  
+ On May 6, liquidity replenishment points caused sell orders
+to flow to other platforms. The SEC and Commodity Futures
+Trading Commission said in a May 18 report that they are
+analyzing the LRP system to determine whether it exacerbated the
+crash.  
+ ‘On the Lookout’  
+ The Diebold plunge is not the first to be reviewed by
+regulators. News reports in March said the SEC is also examining
+why  Dendreon Corp.’s  shares fell 69 percent in less than two
+minutes in April 2009. Minutes after trading was halted, the
+Seattle-based drug developer said its Provenge cancer treatment
+extended the lives of men in a clinical study, spurring a rally
+of more than 130 percent after hours.  
+ “We’re constantly on the lookout for aberrational
+trading,” said  Scott Friestad , an associate director in the
+SEC’s enforcement division, declining to comment on any
+particular case. “When we find trading that looks suspicious,
+it’s our normal practice to take steps to determine whether any
+improper conduct occurred.”  
+ Diebold’s sudden spike in trading may have hurt investors
+who used so-called market orders and stop-loss orders, said
+Hendershott, who researches electronic markets and does
+consulting for firms that engage in high-frequency trading.  
+ Stop-Loss Orders  
+ A client placing a market order is requesting that a broker
+buy or sell a stock as quickly as possible at any price. During
+the Diebold plunge, a broker who received a market order when
+shares traded for $22.73 might not have executed the transaction
+until shares sold for $18.99 less than one second later. The
+client would have lost more than 16 percent of the investment,
+only to see the stock immediately recover.  
+ A stop-loss order tells a broker to sell shares for a
+client at a specific price to cap losses. Trading in Diebold may
+have triggered stop-loss orders, adding to the downward
+momentum.  
+ “If people think the market is rigged or does all these
+weird things, why would they have any faith that they will ever
+get their money back,” Hendershott said. “Why would people
+choose to put money in the markets to help firms grow and raise
+capital?”  
+ To contact the reporters on this story:
+ Joshua Gallu  in Washington at 
+ jgallu@bloomberg.net ;
+ Jesse Westbrook  in Washington at 
+ jwestbrook1@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                                                 
+                     
+                     Enlarge image 
+                     
+                     
+                       Diebold CEO Thomas Swidarski  
+                       
+                         
+                           Diebold Inc. via Bloomberg 
+                         
+                         Minutes before a June 2 meeting with investors, Diebold CEO Thomas Swidarski saw his company's share price plummet more than 30 percent in six seconds. 
+                       
+                     
+                                        
+           
+                     Minutes before a June 2 meeting with investors, Diebold CEO Thomas Swidarski saw his company's share price plummet more than 30 percent in six seconds. Source: Diebold Inc. via Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

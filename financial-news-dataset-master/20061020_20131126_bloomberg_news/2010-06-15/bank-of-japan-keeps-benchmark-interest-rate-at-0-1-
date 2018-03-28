@@ -1,0 +1,40 @@
+-- Bank of Japan Keeps Benchmark Overnight Interest Rate Unchanged at 0.1%
+-- Mayumi Otsuma
+-- 2010-06-15T03:56:13Z
+-- http://www.bloomberg.com/news/2010-06-15/bank-of-japan-keeps-benchmark-interest-rate-at-0-1-.html
+
+          
+          
+             The Bank of Japan kept the benchmark
+overnight lending rate at 0.1 percent today, the central bank
+said in a statement in Tokyo.  
+ To contact the reporter on this story:
+Mayumi Otsuma in Tokyo at 
+ motsuma@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Bank of Japan Governor Masaaki Shirakawa speaks during a news conference at the central bank's headquarters in Tokyo. Photographer: Kiyoshi Ota/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

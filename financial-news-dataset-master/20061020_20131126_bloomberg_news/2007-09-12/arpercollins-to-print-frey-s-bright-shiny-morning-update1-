@@ -1,0 +1,52 @@
+-- HarperCollins to Print Frey's `Bright Shiny Morning'
+-- Don Jeffrey
+-- 2007-09-12T22:03:56Z
+-- http://www.bloomberg.com/news/2007-09-12/harpercollins-to-print-frey-s-bright-shiny-morning-update1-.html
+
+          
+          
+             News Corp. (NWSA) 's HarperCollins said it
+acquired the North American rights to ``Bright Shiny Morning,''
+a novel by author James Frey, who admitted his best-selling
+memoir was partly fabricated.  
+ HarperCollins will publish the book in 2008, the New York-based publisher said today in a statement.  
+ Frey's 2003 memoir, ``A Million Little Pieces,'' was
+revealed by the Smoking Gun Web site to be partly made up, after
+ Oprah Winfrey  promoted it on her television show. Frey faced an
+angry Winfrey on the show after the news came out.  
+ News Corp. Class A shares fell 5 cents to $21 at 4:28 p.m.
+in  New York  Stock Exchange composite  trading . They have fallen
+2.2 percent this year.  
+ To contact the reporter on this story:
+Don Jeffrey in New York at 
+ djeffrey1@bloomberg.net   
+ To contact the editor responsible for this story:
+ Jennifer Sondag  at 
+ jsondag@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A file photo of James Frey taken outside a cafe in New York on March 24, 2003. News Corp.'s HarperCollins said it acquired the North American rights to ``Bright Shiny Morning,'' a novel by author James Frey, who admitted his best-selling memoir was partly fabricated. Photographer: Gino Domenico/AP via Bloomberg News  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

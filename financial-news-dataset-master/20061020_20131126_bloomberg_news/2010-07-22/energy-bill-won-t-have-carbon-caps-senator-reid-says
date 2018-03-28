@@ -1,0 +1,45 @@
+-- Energy Bill Won't Have Carbon Caps, Senator Reid Says
+-- Simon Lomax
+-- 2010-07-22T18:34:38Z
+-- http://www.bloomberg.com/news/2010-07-22/energy-bill-won-t-have-carbon-caps-senator-reid-says.html
+
+          
+          
+             U.S. Senate Democrats won’t include
+carbon dioxide limits for power plants or a renewable
+electricity mandate in energy legislation to be taken up as
+early as next week, Senate Majority Leader Harry Reid said.  
+ The legislation will deal with offshore oil and gas
+drilling regulations, energy-efficiency programs, and incentives
+for natural gas-fueled vehicles, Reid, a Nevada Democrat, told
+reporters today in Washington.  
+ To contact the reporter on this story:
+Simon Lomax in Washington at 
+ slomax@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Senate Majority Leader Harry Reid of Nevada. Photographer: Jay Mallin/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

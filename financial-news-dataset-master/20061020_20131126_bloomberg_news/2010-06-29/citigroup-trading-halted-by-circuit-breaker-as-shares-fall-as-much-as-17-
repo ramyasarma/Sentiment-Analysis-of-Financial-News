@@ -1,0 +1,137 @@
+-- Citigroup Recoups Loss After Circuit Breaker Ends
+-- Nina Mehta
+-- 2010-06-29T19:58:49Z
+-- http://www.bloomberg.com/news/2010-06-29/citigroup-trading-halted-by-circuit-breaker-as-shares-fall-as-much-as-17-.html
+
+          
+          
+             A 17 percent plunge in  Citigroup
+Inc.  today triggered a five-minute trading pause, making the
+bank the second company halted by the two-week-old circuit-
+breaker program created to prevent market panics.  
+ The order that caused the slump, 8,820  shares  of Citigroup
+that crossed for $3.3174 at 1:03:51 p.m. in New York, was
+canceled, according to data compiled by Bloomberg. The stock
+changed hands for $3.80 when trading resumed, compared with
+yesterday’s close of $4, as U.S. stocks posted the biggest
+losses in three weeks.  
+ Regulators are seeking to prevent declines in one or more
+securities from causing  volatility  to snowball, prompting a
+cascade of losses across markets. During the May 6 rout that
+erased $862 billion in value from U.S. equities in less than 20
+minutes, ETFs and companies such as Accenture Plc fell as much
+as 99 percent. The Securities and Exchange Commission and
+Commodity Futures Trading Commission said the plunge may have
+been fueled by curbs that applied on some venues and not others.  
+ “It’s great that the circuit breaker picked it up and
+stopped everything, but how is an order that size allowed to
+print so far below where it’s trading?” said  Alec Levine , an
+options strategist at Wallachbeth Capital LLC in New York. “If
+you did that for every stock you could effectively shut down the
+stock market.”  
+ Doubling the Program  
+ The SEC is testing the program that pauses trading for five
+minutes in S&P 500 companies when their stock rises or falls at
+least 10 percent in less than five minutes after 9:45 a.m. New
+York time. U.S. stock exchanges are about to propose doubling
+the number of companies covered by the trading curbs and
+expanding the  program  to include hundreds of exchange-traded
+funds, two people with direct knowledge of the matter said.  
+ “I’m happy those mechanisms are in place,” said  Mark Bronzo , an Irvington, New York-based fund manager at Security
+Global Investors, which oversees $23 billion. “Sometimes a
+stock gets down and not on a lot of volume. It smoothes out some
+of the volatility.”  
+ Washington Post Co.’s 99 percent surge on June 16 also
+triggered the circuit breakers. Boeing Co.’s 44 percent decline
+yesterday didn’t because it happened before 9:45 a.m. New York
+time. Citigroup spokeswoman  Danielle Romero-Apsilos  declined to
+comment.  
+ ‘Mayhem’  
+ “The system seems to have worked smoothly,” said  Stephen Carl , head equity trader at Williams Capital Group LP in New
+York. “The question will be: How will the system work if there
+is a scenario of ‘mayhem,’ with all indices and sectors and
+stocks trading through thresholds?”  
+ NYSE Euronext and Nasdaq OMX Group Inc. will ask the SEC to
+broaden circuit breakers triggered by 10 percent moves to
+Russell 1000 Index companies from those in the  S&P 500 ,
+according to two people familiar with the matter, who declined
+to be identified because the information isn’t public. More than
+300 ETFs including the SPDR S&P 500 ETF Trust would be covered,
+one of the people said.  
+ “It makes sense to expand the pilot to ETFs and other
+stocks traded by a broad universe of investors,” said  Edward Johnsen , a partner in the securities regulation practice at law
+firm Winston & Strawn LLP in New York and former head of
+equities compliance at Deutsche Bank Securities, a unit of
+Deutsche Bank AG. “I’d expect the SEC to eventually add all
+National Market System securities so they’re all covered by the
+same rule and the same process.”  
+ NYSE, Nasdaq  
+ Securities in the National Market System are companies or
+ETFs listed on the New York Stock Exchange, NYSE Arca and NYSE
+Amex -- all owned by  NYSE Euronext  -- or  Nasdaq OMX ’s Nasdaq
+Stock Market. They can be traded on venues including public
+markets and private platforms known as dark pools.  
+ John Heine , a spokesman for the SEC in Washington, declined
+to comment on the exchanges’ plans for the program, which lasts
+through December.  Eric Ryan , a spokesman at NYSE Euronext,
+declined to comment, as did  Robert Madden  of Nasdaq OMX.  
+ During the May 6 drop, almost 20,800 trades that were at
+least 60 percent away from the market price when the plunge
+began were later canceled. ETFs accounted for 70 percent of the
+securities with trades on May 6 that were later voided by
+exchanges. SEC Chairman  Mary Schapiro  said the SEC would
+continue to examine trading issues involving ETFs to determine
+why those securities were among the most affected that day.  
+ Dislocations  
+ CME Group Inc. Chief Executive Officer  Craig Donohue  said
+June 22 that curbs on ETFs tracking a large portion of the
+market could cause dislocations given that their prices are
+derived from underlying baskets of stocks and are linked to
+equity-index futures, which may continue trading while the ETF
+is paused. CME, based in Chicago, runs the world’s biggest
+futures exchange.  
+ Donohue’s concern highlights the “need for more
+coordination between instruments that have similar types of
+exposure to the market but trade in different asset classes,”
+said  Adam Sussman , director of research at Tabb Group LLC, a
+financial services research firm in New York. “There needs to
+be coordination so liquidity pressure doesn’t just move from the
+equities market to the futures market,” he said.  
+ He endorsed the expansion of curbs beyond the S&P 500.  
+ “Most people want to see the circuit breakers more broadly
+applied so they’re not just for the most liquid stocks but also
+those that are less liquid,” Sussman said. “Some of the more
+dramatic price moves on May 6” were by less-traded companies,
+he added.  
+ To contact the reporters on this story:
+ Jeff Kearns  in New York at 
+ jkearns3@bloomberg.net ;
+ Nina Mehta  in New York at 
+ nmehta24@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Citigroup CEO Vikram Pandit speaks during The New York Forum in New York. Photographer: Daniel Acker/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

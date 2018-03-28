@@ -1,0 +1,86 @@
+-- Hulu Promotes Paid Online HD Service on Samsung TVs
+-- Andy Fixmer
+-- 2010-06-28T20:10:38Z
+-- http://www.bloomberg.com/news/2010-06-28/hulu-promotes-9-99-a-month-online-tv-service-on-new-samsung-hd-tv-sets.html
+
+          
+          
+             Hulu LLC , the television website
+controlled by three U.S. broadcast networks, began promoting its
+yet-to-be-announced paid online service on Samsung TVs.  
+ A Samsung 6500 series LED television, purchased June 25 at
+a  Best Buy Co.  store in New York, invited buyers to subscribe to
+a high-definition Hulu Plus service for $9.99 a month.  
+ “More episodes, more seasons, more shows,” the on-screen
+offer stated. The service couldn’t be accessed immediately and a
+software update on June 26 removed the offer.  
+ Christina Lee , a spokeswoman for Los Angeles-based Hulu,
+declined to comment. Customers were asked to submit an e-mail
+address and enter a referral code at a Web link that wasn’t
+active. A trial offer included 21 video clips.  
+ Owned by  Walt Disney Co. ’s ABC,  General Electric Co. ’s NBC
+and  News Corp. ’s Fox network, Hulu is working with consumer-
+electronics companies to gain a bigger audience by making its
+Web-based programming more widely available on TVs.  
+ Sony Corp.  is close to an agreement to offer Hulu’s paid
+service on its PlayStation 3 game console, two people with
+knowledge of the talks said last week. Hulu also is in talks
+with CBS Corp., Viacom Inc. and Time Warner Inc. to add their TV
+shows to the website’s subscription service, people with direct
+knowledge of the discussions said.  
+ The site, which now lets computer users watch shows for
+free and gets its revenue from advertising, is seeking to expand
+the ways viewers access its programming, as well as add new
+shows to attract paying subscribers.  
+ Disney, based in Burbank, California, fell 26 cents to
+$33.22 at 4 p.m. in New York Stock Exchange composite  trading .
+GE, based in Fairfield, Connecticut, rose 9 cents to $15. New
+York-based  News Corp.  gained 10 cents to $12.67 in Nasdaq Stock
+Market trading.  
+ Private-equity firm Providence Equity Partners Inc. is also
+an investor in the website.  
+ To contact the reporters on this story:
+ Sarah Rabil  in New York at 
+ srabil@bloomberg.net ;
+ Andy Fixmer  in Los Angeles at 
+ afixmer@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                                                 
+                     
+                     Enlarge image 
+                     
+                     
+                       Hulu.com CEO Jason Kilar  
+                       
+                         
+                           Armando Arorizo/Bloomberg 
+                         
+                         Hulu.com CEO Jason Kilar attends a panel discussion in Los Angeles. 
+                       
+                     
+                                        
+           
+                     Hulu.com CEO Jason Kilar attends a panel discussion in Los Angeles. Photographer: Armando Arorizo/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,105 @@
+-- Spaghetti, Robbers, Waterfall Enliven Paris Arts Extravaganza
+-- Jorg von Uthmann
+-- 2010-07-12T23:01:00Z
+-- http://www.bloomberg.com/news/2010-07-12/spaghetti-robbers-waterfall-enliven-paris-arts-extravaganza.html
+
+          
+          
+             Parisians fail to grasp that their
+city is no longer the arts capital of the world and that the
+new stars of the market are American, British or German.  
+ The latest effort to redress that sorry state of affairs
+is an exhibition, a joint venture of the French government and
+the city of Paris at the  Palais de Tokyo , whose east wing is
+occupied by the municipality’s Musee d’Art Moderne and the
+west wing by the state’s Site de Creation Contemporaine.  
+ Some 40 artists or artistic teams, none older than 40,
+have been selected among 800 candidates. Three-quarters are
+French; the others are foreigners working in Paris.  
+ The title, “Dynasty,” is misleading: This isn’t a
+populist show seeking to endear itself to a soap-opera-
+addicted, middlebrow public. Many of the items are esoteric.  
+ Not that accessible works are missing. At the entrance,
+you are greeted by Theo Mercier’s 3-meter-high giant sculpted
+from spaghetti. In the next room, you find Guillaume Bresson’s
+paintings of a robbery in an underground car park: They are
+based on staged photos, yet the poses recall old masters.  
+ The many canvases disprove the conventional wisdom that
+the days of painting are numbered. Some are influenced by
+graffiti, some by comics, others by  Anselm Kiefer .  
+ A stuffed hyena demonstrates that  Damien Hirst’s  golden
+touch hasn’t gone unnoticed on the other side of the Channel.  
+ Frozen Waterfall  
+ A huge installation by the Taiwan-born Yuhsin U. Chang,
+titled “Dust at the Palais de Tokyo,” looks like a frozen
+waterfall gushing out of the wall. It’s one of the many works
+arriving with a philosophical -- or, as Benoit Maire puts it,
+“post-conceptual” -- underpinning.  
+ Maire’s bronze sculpture of a nose is accompanied by
+texts expounding his “aesthetics of difference.”  
+ To fully grasp the meaning of “The Coming Race,” a
+series of photographs by Alain Della Negra and Kaori
+Kinoshita, you have to attend their lectures. The people in
+the pictures represent “a new mankind, polymorphous,
+telepathic and capable of perceiving invisible worlds,”
+according to the press material.  
+ The most original of the conceptual works, “Truce:
+Strategies for Post-Apocalyptic Computation” by Robin Meier
+and Ali Momeni, was inspired by the discovery that male
+mosquitoes adapt the pitch of their humming to that of their
+mates during copulation: Three live insects hum along with a
+traditional Indian song.  
+ Vibrant Scene  
+ The organizers make no attempt to present the various
+styles and techniques as the germ of a new School of Paris.
+Nor do they give the bewildered visitor much help: Each artist
+appears in both wings, not the best way to facilitate the
+understanding of his or her work. The catalog is a mess.  
+ So you’ll have to follow your own instinct. What you’ll
+discover is a young scene, sometimes pretentious, often
+bizarre, yet vibrant -- proof that there is still fire under
+the ashes of a glorious past.  
+ “Dynasty” runs through Sept. 5 at the Palais de Tokyo.
+Information:  http://www.mam.paris.fr  or +33-1-5367-4000. The
+sponsors of the show include  Fondation Total .  
+ ( Jorg von Uthmann  is a critic for Muse, the arts and
+leisure section of Bloomberg News. The opinions expressed are
+his own.)  
+ To contact the writer on the story:
+ Jorg von Uthmann  in Paris at
+ uthmann@wanadoo.fr .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     "Untitled" (2010) by artist Raphaelle Ricol. The work is on display in "Dynasty" at the Palais de Tokyo, Paris, through Sept 5. Source: Musee d'Art Moderne de la Ville de Paris via Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     "The Coming Race" (2010), a photograph by Alain Della Negra and Kaori Kinoshita. The work is part of  "Dynasty," an exhibition that runs at the Palais de Tokyo, Paris, through Sept 5. Source: Musee d'Art Moderne de la Ville de Paris via Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

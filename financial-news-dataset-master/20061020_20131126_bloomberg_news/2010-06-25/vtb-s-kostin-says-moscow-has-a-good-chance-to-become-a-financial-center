@@ -1,0 +1,47 @@
+-- VTB's Kostin Says Moscow Has a `Good Chance' to Become a Financial Center
+-- Maria Ermakova
+-- 2010-06-25T08:53:04Z
+-- http://www.bloomberg.com/news/2010-06-25/vtb-s-kostin-says-moscow-has-a-good-chance-to-become-a-financial-center.html
+
+          
+          
+             Moscow has a “good chance” to
+become an important regional financial center, VTB Group
+Chairman Andrei Kostin said. “Moscow won’t replace London” as
+the financial center, Kostin said in a Bloomberg TV interview in
+London today. “The first target is to create a local regional
+financial center,” he added.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          June 25 (Bloomberg) --  Andrei Kostin, chief executive officer of Russia's VTB Group, talks about his plans for Russia's second-biggest lender.
+     He speaks with Andrea Catherwood on Bloomberg Television's "The Pulse." (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

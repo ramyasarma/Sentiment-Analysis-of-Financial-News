@@ -1,0 +1,63 @@
+-- Euro to Test Its Strongest Level Since May Versus Yen: Technical Analysis
+-- Lukanyo Mnyanda
+-- 2010-07-28T15:17:22Z
+-- http://www.bloomberg.com/news/2010-07-28/euro-to-test-its-strongest-level-since-may-against-yen-technical-analysis.html
+
+          
+          
+             The euro may advance about 4 percent
+against the yen after it breached a key price resistance level,
+according to Technical Alpha, a New-York based research company.  
+ The 16-nation euro may rally to between 117 and 118.80 yen
+over the next two months after closing above 113.85 yesterday,
+ James Stellakis , the company’s founder, wrote in an e-mailed
+report. The euro hasn’t traded stronger than 118.80 since May
+11, according to Bloomberg data.  
+ The close above 113.85 indicated “improving underlying
+demand for the cross,” Stellakis wrote. “Next resistance on
+the ichimoku chart comes in at the cloud top near 116.80 and
+117.80.”  
+ The euro traded at 113.96 yen as of 4:01 p.m. in London,
+from 114.24 yen yesterday. It strengthened earlier to 114.74
+yen, the most since May 18.  
+ A resistance level is an area where technical analysts
+anticipate orders to sell a security. An ichimoku chart analyzes
+the midpoints of historic highs and lows. A cloud is the area
+between the first and second leading span lines on the chart,
+and is used to show an area where buy or sell orders may be
+clustered.  
+ In technical analysis, investors and analysts study charts
+of trading patterns to forecast changes in a security,
+commodity, currency or index. Support is where buy orders may be
+grouped, and resistance is a level where sell orders may be
+gathered.  
+ To contact the reporter on this story:
+ Lukanyo Mnyanda  in London at 
+ lmnyanda@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Japanese yen notes and Euro notes. Photographer: Haruyoshi Yamaguchi/ Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,71 @@
+-- Consumers in U.S. Get Out From Under Debt Burden: Chart of the Day
+-- David Wilson
+-- 2010-07-02T14:43:29Z
+-- http://www.bloomberg.com/news/2010-07-02/consumers-get-out-from-under-debt-burden-lack-confidence-chart-of-day.html
+
+          
+          
+             American consumers have reduced their
+debt load so much that their reluctance to spend is mainly the
+result of a lack of confidence, according to  Thomas J. Lee ,
+chief U.S. equity strategist at JPMorgan Chase & Co.  
+ As the CHART OF THE DAY shows, a ratio of household
+financial obligations to disposable income fell in the first
+quarter to the lowest level in almost a decade, according to
+data compiled by the Federal Reserve. This  indicator  reflects
+payments on mortgages, home rentals, auto leases and consumer
+debt, homeowners’ insurance and property taxes.  
+ “Consumers are far less constrained today” than they were
+during the past few years, Lee wrote yesterday in a report. The
+first-quarter  ratio  was 17.4 percent, and he estimated that last
+quarter’s figure dropped to 17.1 percent.  
+ Readings exceeded 18 percent from 2005 through the second
+quarter of last year. The gauge peaked at 18.9 percent in the
+first three months of 2008.  
+ The Conference Board’s  index  of consumer sentiment also
+appears in the chart. Last month, the indicator dropped to 52.9
+from a revised 62.7 in May, led by declines in the regions most
+affected by the Gulf of Mexico oil spill. The earlier reading
+was the  highest  since April 2008.  
+ “The softness we are seeing in consumer spending is less
+driven by constraints on income or debt capacity, but rather due
+to weaker confidence,” Lee wrote. This means outlays are likely
+to rebound as sentiment stabilizes, in his view.  
+ (To save a copy of the chart, click here.)  
+ To contact the reporter on this story:
+David Wilson in New York at 
+ dwilson@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 2 (Bloomberg) -- Peter Cecchini, chief strategist at BGC Financial LP, talks about the U.S. economy and consumer credit.
+     Cecchini speaks with Pimm Fox on Bloomberg Television's "Taking Stock." (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

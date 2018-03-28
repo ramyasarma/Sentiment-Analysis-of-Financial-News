@@ -1,0 +1,68 @@
+-- Allergan Wins U.K. Clearance to Market Botox as Treatment for Migraines
+-- Shannon Pettypiece
+-- 2010-07-09T20:08:21Z
+-- http://www.bloomberg.com/news/2010-07-09/allergan-s-botox-wrinkle-smoother-wins-u-k-clearance-to-treat-migraines.html
+
+          
+          
+             Allergan Inc.  won regulatory
+clearance in the U.K. for its wrinkle-smoothing Botox, an
+injectable drug, to be used as a treatment for migraines.  
+ The approval is for patients who have headaches at least 15
+days a month, including migraines on 8 days, Irvine, California-
+based Allergan said today in a statement. Botox is a purified
+form of the poison botulinum.  
+ The approval was the first for Botox use in migraines, the
+company said. In the U.S., the Food and Drug Administration is
+likely to decide this month whether the product can be sold for
+migraines,  Aaron Gal , a Sanford C. Bernstein & Co. analyst in
+New York, said in May. The indication may add $1 billion in
+annual sales to Botox, which had  revenue  of $1.3 billion last
+year, he said.  
+ Allergan rose 91 cents, or 1.4 percent, to $65.49 at 4 p.m.
+in New York Stock Exchange composite trading. The shares
+increased 42 percent in the past 12 months.  
+ Botox is cleared for U.S. sale for indications including
+treatment for eye muscle spasms, and as a tool to eliminate
+wrinkles. Allergan also has permission from the U.K.’s Medicines
+and Healthcare Products Regulatory Agency for those indications.  
+ Patients with chronic migraines who took Botox had 7.8
+fewer days per month with any headaches, including migraines,
+compared with 6.4 fewer headache days on placebo, according to a
+company-funded study released last year. In a separate trial,
+patients getting Botox injections had 9 fewer days of headaches
+per month, compared with 6.7 fewer with a placebo.  
+ About 12 percent of people in the U.S. experience
+migraines, according to the  National Institutes of Health , in
+Bethesda, Maryland. The painful headaches last 4 to 72 hours,
+and symptoms include sensitivity to light, noise and odors.  
+ To contact the reporter responsible for this story:
+ Shannon Pettypiece  at 
+ spettypiece@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Botox is injected into smile wrinkles on the bridge of a patient's nose. Photographer: Jonathan Alcorn/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

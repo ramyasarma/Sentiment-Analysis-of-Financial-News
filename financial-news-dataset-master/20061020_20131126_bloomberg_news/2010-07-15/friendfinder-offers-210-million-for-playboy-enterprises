@@ -1,0 +1,43 @@
+-- FriendFinder Offers $210 Million for Playboy Enterprises
+-- Bill Koenig
+-- 2010-07-15T15:45:09Z
+-- http://www.bloomberg.com/news/2010-07-15/friendfinder-offers-210-million-for-playboy-enterprises.html
+
+          
+          
+             FriendFinder Networks Inc. said it
+has made a proposal to acquire Playboy Enterprises Inc. for $210
+million, more than a bid by Hugh Hefner, founder of Playboy and
+its namesake magazine.  
+ Hefner, 84, this week said he wants to take Playboy
+private, offering $5.50 apiece in cash for the Class A and Class
+B shares he doesn’t already own. That offer is valued at $123
+million.  
+ FriendFinder disclosed its bid in an e-mailed statement.-  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Playboy owner Hugh Hefner. Photographer: Gabriel Bouys/AFP/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

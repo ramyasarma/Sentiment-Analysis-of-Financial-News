@@ -1,0 +1,58 @@
+-- Qantas Accelerates Boeing 787 Delivery as Jetstar Adds Flights
+-- Robert Fenner
+-- 2010-07-14T01:11:48Z
+-- http://www.bloomberg.com/news/2010-07-13/qantas-airways-will-receive-first-eight-boeing-787-planes-from-mid-2012.html
+
+          
+          
+             Qantas Airways Ltd.,  Australia’s
+biggest airline, will take delivery of new Boeing Co. 787
+aircraft as much as two years earlier than planned, enabling its
+discount carrier to widen its network.  
+ The first eight aircraft from its 50-plane order will be
+delivered from mid-2012 and used by its Jetstar budget carrier,
+Sydney-based Qantas said in a statement today. The company
+earlier said the first deliveries would be in 2014.  
+ Qantas, the second-largest customer for the plane, will use
+the 787 to expand Jetstar’s international services to southern
+Europe and Asia. The timetable is conditional on Boeing meeting
+its production forecasts for the plane known as the Dreamliner,
+a two-engine jet that can travel more than 15,700 kilometers
+(9,750 miles) burning 20 percent less fuel than competitors.  
+ The 787 “will also be suitable for Qantas services into
+Asia, and even for high traffic routes on Qantas’ domestic
+network,” Chief Executive Officer  Alan Joyce  said in the
+statement.  
+ The arrival of the new planes will enable the company to
+retire its Boeing 767-300 ERs and transfer Jetstar’s Airbus SAS
+A330-200s to the Qantas-branded carrier.  
+ To contact the reporter on this story:
+ Robert Fenner  in Melbourne 
+ rfenner@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Qantas Airways Ltd. CEO Alan Joyce. Photographer: Ian Waldie/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

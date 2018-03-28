@@ -1,0 +1,43 @@
+-- Electronic Arts Said to Sell 15% Stake in Ubisoft
+-- Sarah Jones
+-- 2010-07-16T06:33:04Z
+-- http://www.bloomberg.com/news/2010-07-16/electronic-arts-is-selling-15-stake-in-ubisoft-entertainment-terms-show.html
+
+          
+          
+             Electronic Arts Inc. is selling a 15
+percent stake in Ubisoft Entertainment SA, Europe’s biggest
+video-game producer, according to terms obtained by Bloomberg
+News.  
+ UBS AG, the sole bookruner, is placing 14 million Ubisoft
+shares at a price range of 6.48 euros to market, the terms show.  
+ Electronic Arts is Ubisoft’s largest shareholder, according
+to Bloomberg Data. The shares fell 3.2 percent to 6.97 euros in
+Paris yesterday.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Ubisoft Entertainment SA chief executive Officer Yves Guillemot. Photographer: Antoine Antoniol/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

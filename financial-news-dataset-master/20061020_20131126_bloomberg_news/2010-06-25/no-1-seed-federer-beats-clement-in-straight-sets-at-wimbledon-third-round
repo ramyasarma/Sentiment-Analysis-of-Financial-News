@@ -1,0 +1,40 @@
+-- No. 1 Seed Federer Beats Clement in Straight Sets at Wimbledon Third Round
+-- Bob Bensch
+-- 2010-06-25T17:41:55Z
+-- http://www.bloomberg.com/news/2010-06-25/no-1-seed-federer-beats-clement-in-straight-sets-at-wimbledon-third-round.html
+
+          
+          
+             Top-seeded Roger Federer of
+Switzerland beat France’s Arnaud Clement in straight sets to
+advance to the fourth round at Wimbledon.  
+ Federer, seeking to tie Pete Sampras’s Open era record of
+seven men’s titles at the All England Club, won 6-2, 6-4, 6-2 on
+Centre Court.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Roger Federer of Switzerland celebrates winning his match against Arnaud Clement of France on Day Five of the Wimbledon Lawn Tennis Championships at the All England Lawn Tennis and Croquet Club on June 25, 2010 in London. Photographer: Hamish Blair/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

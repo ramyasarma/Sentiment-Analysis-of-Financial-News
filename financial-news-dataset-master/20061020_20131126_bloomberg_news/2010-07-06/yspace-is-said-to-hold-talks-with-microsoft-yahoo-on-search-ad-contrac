@@ -1,0 +1,77 @@
+-- MySpace Said to Hold Ad Talks With Microsoft, Yahoo, Google
+-- Dina Bass
+-- 2010-07-06T21:21:15Z
+-- http://www.bloomberg.com/news/2010-07-06/myspace-is-said-to-hold-talks-with-microsoft-yahoo-on-search-ad-contract.html
+
+          
+          
+             News Corp. ’s MySpace, seeking to
+replace a search advertising contract with  Google Inc.  that
+expires in August, has held talks with  Microsoft Corp.  and Yahoo
+Inc., according to a person familiar with the company’s plans.  
+ Any deal would carry a substantially lower price than the
+$900 million Google agreed to pay in 2006 to place search ads
+within the social-networking site, a second person with 
+knowledge of the discussions said. MySpace also remains in 
+talks with Google about extending their partnership, they said.  
+ MySpace has struggled to maintain ad revenue during an
+exodus of users to Facebook Inc. and the departure of key
+executives. Bought in 2005 for $580 million in cash, MySpace
+lost its status as the world’s top social-networking site in
+2008. News Corp. Chief Executive Officer  Rupert Murdoch  said
+last year that the site would fall short of traffic commitments
+to Google, lowering income on that deal by $100 million in 2009.  
+ “We’re currently talking to multiple providers across the
+many facets of search to bring our users the best possible
+search experience in a social environment,” said Tracy
+Akselrud, a spokeswoman for Beverly Hills, California-based
+MySpace, who declined to name specific companies.  
+ Microsoft is looking to boost users and ad revenue for its
+13-month-old Bing search engine, which claimed 12.1 percent of
+searches in the U.S., compared with Google’s 63.7 percent,
+according to data tracker ComScore Inc. Microsoft has forged a
+separate agreement to handle searches on  Yahoo ’s site
+-- a deal that’s scheduled to take effect by December.  
+ Pete Wootton, a spokesman for Redmond, Washington-based
+Microsoft, declined to comment on negotiations with News Corp.
+ May Petry , a spokeswoman for Yahoo in Sunnyvale, California, and
+ Jane Penner , a spokeswoman at Mountain View, California-based
+Google, also declined to comment.  
+ MySpace Co-President  Jason Hirschhorn  left in June,
+becoming the most recent high-level executive to depart the
+business. He had taken the co-president role in February, after
+ Owen Van Natta  stepped down as CEO.  
+ News Corp.’s discussions with Yahoo, Microsoft and Google
+were previously reported by the Wall Street Journal.  
+ To contact the reporters on this story:
+ Douglas  MacMillan in New York at 
+ Dmacmillan3@bloomberg.net ;
+ Dina Bass  in Seattle at 
+ dbass2@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     News Corp.'s MySpace last year fell short of traffic commitments to Google, lowering income on the deal by $100 million in 2009, News Corp.'s CEO Rupert Murdoch said. Photographer: Brendan Hoffman/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,57 @@
+-- Kuwait Sovereign Wealth Fund Said to Invest $800 Million in AgriBank's IPO
+-- Fiona MacDonald
+-- 2010-06-21T16:07:21Z
+-- http://www.bloomberg.com/news/2010-06-21/kuwait-sovereign-wealth-fund-said-to-invest-800-million-in-agribank-s-ipo.html
+
+          
+          
+             The Kuwait Investment Authority, the
+country’s sovereign wealth fund, will invest $800 million in
+Agricultural Bank of China Ltd.’s initial public offering, a
+person familiar with the transaction said.  
+ The fund had offered as much as $1 billion, a figure that
+was reduced to $800 million, said the person, who declined to be
+identified because the talks are private.  
+ The Qatar Investment Authority also agreed to invest $2.8
+billion in Agricultural Bank, China’s largest lender by number
+of customers, two people with knowledge of the matter said
+yesterday. The Chinese lender has allocated more than $5 billion
+for corporate investors such as QIA in the Hong Kong part of its
+IPO, the people said.  
+ Agricultural Bank is seeking to raise as much as $15
+billion in Hong Kong as part of what may be the world’s largest
+IPO, according to an e-mail sent to investors last week. The
+Beijing-based lender may sell as much as $28 billion of stock in
+Hong Kong and Shanghai combined, exceeding the $22 billion sale
+by Industrial & Commercial Bank of China Ltd. in 2006.  
+ Reuters reported the Kuwaiti fund’s talks earlier today.  
+ To contact the reporter on this story:
+Fiona MacDonald in Kuwait at 
+ fmacdonald4@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     An Agricultural Bank of China branch in Beijing. Photographer: Nelson Ching/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

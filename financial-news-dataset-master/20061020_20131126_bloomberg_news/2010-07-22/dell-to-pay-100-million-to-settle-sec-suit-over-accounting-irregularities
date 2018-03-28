@@ -1,0 +1,43 @@
+-- Dell to Pay $100 Million to Settle SEC Suit
+-- Steven Fromm
+-- 2010-07-22T19:52:40Z
+-- http://www.bloomberg.com/news/2010-07-22/dell-to-pay-100-million-to-settle-sec-suit-over-accounting-irregularities.html
+
+          
+          
+             The U.S. Securities and Exchange
+Commission said it sued Dell Inc. for failing to disclose
+material information to investors and using fraudulent
+accounting to make it falsely appear that the company was
+consistently meeting Wall Street earnings targets and reducing
+its operating expenses.  
+ Dell Inc. agreed to pay a $100 million penalty to settle
+the SEC’s charges, the SEC said. The information was disclosed
+in an e-mailed statement.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Michael Dell, chairman of Dell Inc. Photographer: Nelson Ching/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

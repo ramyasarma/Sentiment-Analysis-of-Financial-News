@@ -1,0 +1,53 @@
+-- Nokia Profit Falls More Than Analysts Estimated
+-- Vidya Root
+-- 2010-07-22T10:04:27Z
+-- http://www.bloomberg.com/news/2010-07-22/nokia-net-drops-more-than-estimated-40-on-competition-from-apple-google.html
+
+          
+          
+             Nokia Oyj, the world’s biggest maker
+of mobile phones, posted a steeper-than-expected 40 percent drop
+in second-quarter profit on competition from Apple Inc.’s iPhone
+and devices based on Google Inc.’s Android software.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Nokia's E72 mobile handset is held by a customer at a Phones 4u store in London. Photographer: Simon Dawson/Bloomberg  
+                   
+    
+
+                 
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 22 (Bloomberg) -- Christopher Nicholson, lead equity analyst at research firm Oraca Ltd., talks about the Nokia OYJ's strategy and management. 
+     He speaks on Bloomberg Television's "Countdown" with Francine Lacqua. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

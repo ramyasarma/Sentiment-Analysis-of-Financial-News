@@ -1,0 +1,64 @@
+-- Whitbread First-Quarter Sales Gain, Led by Premier Inn Budget-Hotel Chain
+-- David Altaner
+-- 2010-06-22T07:29:00Z
+-- http://www.bloomberg.com/news/2010-06-22/whitbread-says-first-quarter-sales-advance-led-by-premier-inn-hotel-chain.html
+
+          
+          
+             Whitbread Plc , the U.K. operator of
+the Costa Coffee chain, said fiscal first-quarter sales at
+outlets open at least a year rose 7.6 percent, led by the
+company’s Premier Inn budget-hotel chain.  
+ Total sales gained 14 percent in the 13 weeks ended June 3,
+the Dunstable, England-based company said today in a statement
+distributed by the Regulatory News Service. Whitbread said
+Premier was helped by increased marketing and a flexible-pricing
+plan that attracted more weekend customers.  
+ Whitbread is expanding Costa Coffee in Asia, the Middle
+East and Central Europe, as well as the U.K. Premier Inn is
+adding hotels in the U.K.  
+ “People are looking for value-for-money vacations in the
+U.K.,” Chief Executive Officer  Alan Parker  said on a conference
+call. “We’re looking to benefit from that trend.”  
+ Whitbread rose 57 pence, or 3.9 percent, to 1,535 pence at
+8:06 a.m. in London, after earlier gaining as much as 4.9
+percent. The shares have risen 8.8 percent this year, giving the
+company a market value of 2.7 billion pounds ($4 billion).  
+ Costa same-store sales gained 8.5 percent in the quarter
+and total revenue increased 27 percent. The company introduced a
+loyalty-card program in March.  
+ Whitbread added 55 Costa outlets during the quarter and
+plans 250 during the fiscal year.  
+ At Whitbread’s pub restaurants, which include Beefeater and
+Brewers Fayre, same-outlet revenue gained 3.6 percent, with
+total sales up 4.2 percent, the company said.  
+ To contact the reporter on this story:
+ David Altaner  in London at 
+ daltaner@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A pedestrian passes the company logo for the Premier Inn hotel at Tower Bridge, London. Photographer: Chris Ratcliffe/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

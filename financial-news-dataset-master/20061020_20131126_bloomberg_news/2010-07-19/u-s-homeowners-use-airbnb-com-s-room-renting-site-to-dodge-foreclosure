@@ -1,0 +1,143 @@
+-- Homeowners Use Room-Renting Site to Dodge Foreclosure
+-- Dan Levy
+-- 2010-07-19T04:01:00Z
+-- http://www.bloomberg.com/news/2010-07-19/u-s-homeowners-use-airbnb-com-s-room-renting-site-to-dodge-foreclosure.html
+
+          
+          
+             Nichelle Morant was on the verge of
+losing her three-unit house in Brooklyn, New York, earlier this
+year, after tenants renting the second and third floors lost
+their jobs and moved out.  
+ With bills mounting and foreclosure looming, Morant
+converted the space into a bed and breakfast. Using the San
+Francisco-based rental site  Airbnb.com  to take reservations, she
+was soon raking in $4,500 a month, enough to cover her mortgage.  
+ “This has been our stimulus package,” said Morant, a
+pastry chef, who lives with her family on the ground floor of
+the home. “We were going to lose our house.”  
+ For Airbnb -- along with Craigslist and rival rental sites
+like HomeAway.com Inc. -- the threat of foreclosures is bringing
+a surge of listings. Local  entrepreneurs  Brian Chesky and Joe
+Gebbia didn’t have that in mind when they conceived of Airbnb.
+They just wanted to take the hassle out of renting out a house,
+a spare room, or even just a couch.  
+ With U.S. unemployment near a 26-year high and foreclosures
+in their fifth year of increases, there’s no shortage of
+homeowners seeking relief. Using Airbnb presents risks, though.
+Renting rooms forces homeowners to share space with strangers,
+and amid a backlash from the lodging industry, there could be
+legal challenges.  
+ New York Law  
+ New York lawmakers passed a bill this month, backed by the
+ Hotel Association of New York City  and the Hotel and Motel
+Trades Council, banning rentals of less than 30 days in
+apartment buildings.  
+ The legislation is directed at larger multifamily dwellings
+in New York City and not individual homeowners. Still, there’s
+broader concern about unregulated rentals, said  Joe McInerney ,
+chief executive officer of the  American Hotel & Lodging
+Association  in Washington, which advocates for the industry.  
+ “What are the qualifications, what are the sanitary things
+that are going to be done, how are you going to make sure that
+noise is regulated, how are you going to make sure they’re not
+parking all over the place?” McInerney said. “You have to take
+a look situation by situation and area by area.”  
+ Morant, 37, sees short-term rentals as more of a solution
+than a problem. By converting part of her house into lodging for
+tourists, Morant has caught up on payments to her lender,  Wells
+Fargo & Co. , after falling more than three months behind. San
+Francisco-based Wells Fargo declined to comment on the pending
+New York legislation or Morant’s situation, said spokesman  Jason Menke .  
+ ‘So Many People’  
+ “We’ve made a huge contribution to saving a whole bunch of
+homes,” said Airbnb’s Chesky, who’s received more than 300 e-
+mails from customers that were on the brink of losing their
+residences. “There were so many people who just couldn’t pay
+their mortgage and couldn’t sell their home.”  
+ A tenth of all U.S. mortgages were delinquent in the first
+quarter, and more than half of all loans modified under federal
+relief programs went into default again within a year, according
+to the Office of the Comptroller of the Currency and the Office
+of Thrift Supervision. Bank seizures rose to a record 269,962 in
+the second quarter and more than 1 million properties are
+expected to be taken back by lenders this year, according to
+ RealtyTrac Inc.   
+ When Chesky and Gebbia came up with Airbnb in October 2007,
+they were roommates in need of some money. With a design
+conference coming to town, they rented out space in their house
+to attendees. From there, they saw a business opportunity and
+brought on one of Gebbia’s friends, Nathan Blecharczyk, to build
+the website for Airbnb.  
+ The closely held company was originally called AirBed &
+Breakfast, because Chesky and Gebbia offered their air mattress
+to the guests and served them breakfast. They later shortened
+the name to Airbnb.  
+ Startup Incubator  
+ In early 2009, the three founders -- all in their late-20s
+-- received an investment from  Y Combinator , an incubator for
+startups. Later in the year, they raised money from venture firm
+ Sequoia Capital .  
+ Airbnb is now used by homeowners in more than 5,700 cities
+in 148 countries. Revenue is doubling every three months, Chesky
+said, declining to give specific figures. The company charges an
+average fee of 10 percent to travelers and 3 percent to the
+homeowner.  
+ HomeAway , an Austin, Texas-based vacation rental company,
+uses a different model, charging homeowners an annual fee of
+$300 to list. The company is adding 15,000 new properties to its
+website each month, according to CEO  Brian Sharples . While few
+of HomeAway’s customers are at risk of foreclosure, about 20
+percent of those who have signed up this year are renting out
+their vacation home because of economic hardship, he said.  
+ ‘Pretty Scary’  
+ For Airbnb users like Lara Hawketts, the situation was
+dire. Hawketts was in jeopardy of missing loan payments before
+stumbling upon the site last year. She was relocated to
+Washington, D.C., from the U.K. in late 2008 by her employer, a
+technology consulting company. Two months later, the company
+decided not to expand its U.S. office because of the recession.
+Instead, it gave her six months of severance at half-pay.  
+ She was in the process of buying a house with a $2,700
+monthly mortgage.  
+ Hawketts found Airbnb from an ad on Craigslist. She
+immediately joined the site, and within days was getting
+inquiries. By charging about $115 a night, she’s earned more
+than $13,000 this year, covering most of her mortgage.  
+ “We’ve got bookings that span between now and 2011,” said
+Hawketts, who has taken a sales job that pays her half what she
+earned previously. “It’s worked out, but it was pretty scary at
+the time.”  
+ To contact the reporters on this story:
+ Ari Levy  in San Francisco at 
+ alevy5@bloomberg.net ;
+ Dan Levy  in San Francisco at 
+ dlevy13@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Nichelle Morant stands in front of her home in Bed-Stuy, Brooklyn. Photographer: Michael Nagle/San Francisco Chronicle via Bloomberg  
+                      
+      
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

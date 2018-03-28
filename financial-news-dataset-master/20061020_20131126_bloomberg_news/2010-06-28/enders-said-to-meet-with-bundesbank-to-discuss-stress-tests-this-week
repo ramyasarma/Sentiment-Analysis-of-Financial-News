@@ -1,0 +1,66 @@
+-- Lenders Said to Meet With Bundesbank to Discuss Stress Tests This Week
+-- Aaron Kirchfeld
+-- 2010-06-28T15:18:06Z
+-- http://www.bloomberg.com/news/2010-06-28/lenders-said-to-meet-with-bundesbank-to-discuss-stress-tests-this-week.html
+
+          
+          
+             The Bundesbank, Germany’s central
+bank, and financial regulator BaFin plan to meet with officials
+from the country’s largest lenders to discuss stress tests, said
+four people with knowledge of the matter.  
+ The meeting will take place on June 30, said the people,
+who declined to be identified because the information is
+private.  Deutsche Bank AG , Commerzbank AG and the largest state-
+owned lenders, known as Landesbanken, will take part in the
+meeting, two of the people said.  
+ European Union leaders pledged on June 17 to disclose the
+results of tests by the end of July showing how banks would
+perform under scenarios such as slower-than-forecast economic
+growth. Bundesbank President  Axel Weber  told German lawmakers
+that tests on European banks may be extended to 100 lenders,
+said  Hans Michelbach , the deputy finance spokesman in parliament
+for Chancellor  Angela Merkel ’s Christian Democratic bloc.  
+ Lawmakers from parliament’s Finance Committee met with
+Weber in Frankfurt on June 25, when he told them that the German
+banking industry is, on the whole, stabilizing, said Michelbach,
+who attended the meeting. The lawmakers also met separately with
+representatives of the European Central Bank, he said.  
+ Bundesbank, BaFin and the banks will discuss topics
+including the criteria, timing and number of participants, as
+well as how the results of the stress tests will be published,
+one of the people said. A Bundesbank official in Frankfurt
+declined to comment.  
+ The planned meeting between the Bundesbank and German
+banking officials was reported earlier today by the Financial
+Times Deutschland.  
+ To contact the reporters on this story:
+ Jann Bettinga  in Frankfurt at 
+ jbettinga@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A Landesbank Baden-Wuerttemberg logo is seen on the company's headquarters in Stuttgar. Photographer: Hannelore Foerster/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

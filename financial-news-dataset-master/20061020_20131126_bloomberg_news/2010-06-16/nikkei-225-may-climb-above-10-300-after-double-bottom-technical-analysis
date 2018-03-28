@@ -1,0 +1,58 @@
+-- Nikkei 225 May Climb Above 10,300 After Double Bottom: Technical Analysis
+-- Masaki Kondo
+-- 2010-06-16T03:36:59Z
+-- http://www.bloomberg.com/news/2010-06-16/nikkei-225-may-climb-above-10-300-after-double-bottom-technical-analysis.html
+
+          
+          
+             Japan’s  Nikkei 225 Stock Average  may
+surpass 10,300 after its chart formed a so-called double bottom,
+according to Mizuho Securities Co.  
+ The Nikkei 225 fell to as low as 9,395.29 on May 27 and
+rebounded to as high as 9,962.42 on June 4 before sliding to
+9,378.23 on June 9. As the average exceeded the June 4 high
+today, it formed a double bottom, suggesting a further advance,
+said  Yutaka Miura , a senior technical analyst at Tokyo-based
+Mizuho.  
+ “This double bottom is unusually clear and should be
+fairly valid,” he said. “For the Nikkei, 10,000 is a
+psychological resistance line. After exceeding that level, the
+average is gaining upward momentum and we can expect it to reach
+the 200-day moving average.”  
+ The  Nikkei 225 , whose 200-day moving average is 10,305,
+jumped 1.6 percent to 10,041.80 as of 12:30 p.m. in Tokyo today.  
+ The double-bottom form appeared between February and March.
+After the form was completed on March 8, the Nikkei 225 climbed
+7.1 percent to this year’s high of 11,339.30 on April 5.  
+ To contact the reporter for this story:
+ Satoshi Kawano  in Tokyo 
+ skawano1@bloomberg.net ;
+ Masaki Kondo  in Tokyo at 
+ mkondo3@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A pedestrian looks at an electronic stock board outside a securities firm in Tokyo. Photographer: Kimimasa Mayama/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

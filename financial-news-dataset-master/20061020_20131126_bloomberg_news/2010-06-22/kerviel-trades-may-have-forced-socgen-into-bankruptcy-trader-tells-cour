@@ -1,0 +1,79 @@
+-- SocGen Asks Court to Make Kerviel Repay $6 Billion After `Story of a Liar'
+-- Heather Smith
+-- 2010-06-23T23:01:01Z
+-- http://www.bloomberg.com/news/2010-06-22/kerviel-trades-may-have-forced-socgen-into-bankruptcy-trader-tells-court.html
+
+          
+          
+             Societe Generale SA  asked a French
+court to order  Jerome Kerviel  to pay it the 4.9 billion euros
+($6 billion) the bank lost in January 2008 unwinding 50 billion
+euros in unauthorized positions the former trader had taken.  
+ “This is the story of a liar, it is the story of a
+faker,”  Jean Veil , a lawyer for Societe Generale, told the
+court yesterday during the bank’s closing statement to judges.
+Kerviel “played like the bank was a casino.”  
+ Kerviel, 33, is on trial for abuse of trust, faking
+documents and hacking into the bank computers, creating fake
+hedges to mask the trades. He argued his superiors condoned his
+actions, lifting trading limits and “turning a blind eye” to
+questions. His actions were “professional mistakes,” not
+criminal offences, he said in a final statement June 22.  
+ Societe Generale, based in Paris, has victim status at the
+criminal trial that allows it to seek damages. In France,
+criminal trials precede civil claims and an acquittal would
+block any possible civil lawsuits.  
+ The bank “could have asked for more,” Veil said in
+closing arguments, listing items including interest and
+reputational harm.  
+ Francois Martineau , another Societe Generale lawyer, told
+the court yesterday that Kerviel’s story has changed since he
+was arrested more than two years ago and that his defense case
+“rests on a contradiction.”  
+ ‘Admitted Everything’  
+ First Kerviel “admitted everything, recognized
+everything,” Martineau said. “Then he changed his defense,”
+saying the bank should have known, then that his superiors
+actively knew, and ultimately saying they’d “encouraged him.”  
+ Daniel Bouton, the bank’s chief executive officer in 2008,
+yesterday told judges the trading loss was a “catastrophe.” He
+stepped down from the CEO role after leading Societe Generale’s
+5.5 billion-euro capital-raising campaign, and as chairman a
+year later.  
+ A group of five current and former Societe Generale
+employees sought damages from Kerviel totaling almost 92,000
+euros. Individual investors requested that their losses to be
+considered as well, asking for 10 euros on top of the lost value
+of their stakes in the bank.  
+ Kerviel faces as many as five years in jail and a criminal
+fine of 375,000 euros if found guilty.  
+ To contact the reporter on this story:
+ Heather Smith  in Paris at 
+ hsmith26@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Former trader for Societe Generale SA Jerome Kerviel, right, and his lawyer Olivier Metzner, arrive at the court house in Paris. Photographer: Antoine Antoniol/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

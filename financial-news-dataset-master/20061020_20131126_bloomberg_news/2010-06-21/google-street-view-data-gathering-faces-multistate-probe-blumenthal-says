@@ -1,0 +1,79 @@
+-- States Probe Google Data-Gathering, Blumenthal Says
+-- Karen Freifeld
+-- 2010-06-21T20:30:50Z
+-- http://www.bloomberg.com/news/2010-06-21/google-street-view-data-gathering-faces-multistate-probe-blumenthal-says.html
+
+          
+          
+             Connecticut Attorney General  Richard Blumenthal  said his office will lead a multistate investigation
+into Google Inc.’s unauthorized collection of personal data from
+wireless computer networks.  
+ Connecticut and states including Massachusetts and Illinois
+are demanding information on what Google calls the inadvertent
+gathering of data from wireless networks, such as e-mail and
+passwords, as it took pictures of streets and houses for its
+ Street View  service. The company’s response so far “raises as
+many questions as it answers,” Blumenthal said today.  
+ “The company must provide a complete and comprehensive
+explanation of how this unauthorized data collection happened,
+why the information was kept if collection was inadvertent and
+what action will prevent a recurrence,” he said.  
+ Blumenthal said last week that attorneys general and their
+representatives from more than 30 states discussed the company’s
+actions in a conference call. He said today he expects “a
+significant number of states” to participate in the
+investigation.  
+ “It was a mistake for us to include code in our software
+that collected payload data, but we believe we did nothing
+illegal,  Christine Chen , a Google spokeswoman, said today in an
+e-mail. “We’re working with the relevant authorities to answer
+their questions and concerns.”  
+ Illinois, Massachusetts  
+ The top legal officers of Illinois and Massachusetts said
+June 16 they sent a letter to Mountain View, California-based
+Google, the most popular search engine, asking for “detailed
+information” about the practice.  
+ Attorney General  Lisa Madigan  of Illinois said it is
+“disturbing” that Google collected the data since 2007.  
+ Blumenthal said the multistate investigation “will
+consider whether laws may have been broken and whether changes
+to state and federal statutes may be necessary.”  
+ He said he will specifically ask what data were collected;
+when, why and how it was done; and why accidentally collected
+data were saved.  
+ “Google needs to describe how code that intercepted and
+collected unencrypted data transmitted over WiFi networks was
+inserted into its software,” Blumenthal said in the statement.  
+ Google fell $11.47, or 2.3 percent, to $488.56 at 4:29 p.m.
+in NASDAQ Stock Market trading. The shares have risen 20 percent
+in the past year.  
+ To contact the reporter on this story:
+ Karen Freifeld  in New York
+at   kfreifeld@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Attorney General of Connecticut Richard Blumenthal holds a press conference in West Hartford, Connecticut. Photographer: Spencer Platt/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

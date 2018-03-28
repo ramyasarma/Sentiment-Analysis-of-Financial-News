@@ -1,0 +1,100 @@
+-- Foreclosed Homes Sell at 27% Discount as Supply Grows
+-- Dan Levy
+-- 2010-06-30T16:48:20Z
+-- http://www.bloomberg.com/news/2010-06-30/foreclosed-homes-in-u-s-sell-at-27-discount-as-distressed-supply-grows.html
+
+          
+          
+             Homes in the foreclosure process
+sold at an average 27 percent discount in the first quarter as
+almost a third of all U.S. transactions involved properties in
+some stage of  mortgage distress , according to  RealtyTrac Inc.   
+ A total of 232,959 homes sold in the period had received a
+default or auction notice or were seized by banks, RealtyTrac
+said in a report today. That’s down 14 percent from the fourth
+quarter and 33 percent from the peak a year earlier, the company
+said. The average price of a distressed property was $171,971,
+according to the Irvine, California-based data seller.  
+ “The discount will probably stay between 25 percent and 30
+percent as lenders carefully manage the number of new
+foreclosure actions in order to avoid flooding the market,”
+ Rick Sharga , RealtyTrac’s senior vice president for marketing,
+said in an interview.  
+ “We’re clearly creating more properties that will be sold
+at distressed prices than the market is absorbing,” Sharga
+said. There were more than 250,000 new bank seizures in the
+first quarter.  
+ The discount reflects the average sales price of homes in
+the foreclosure process compared with the average sales price of
+properties not in distress. About 31 percent of all U.S. sales
+in the quarter were of homes in some stage of foreclosure,
+RealtyTrac said.  
+ Rising Seizures  
+ Home  foreclosures  set a record for the second straight
+month in May, with increases in every state, as lenders stepped
+up property seizures, RealtyTrac said earlier this month. Bank
+repossessions climbed 44 percent from a year earlier and will
+probably set a record in the second quarter, the company said.  
+ Distressed sales totaled more than 1.2 million last year, a
+25 percent increase from 2008 and a more than four-fold rise
+from 2007, according to RealtyTrac.  
+ Such transactions accounted for 29 percent of all sales
+last year, up from 23 percent in 2008 and 6 percent in 2007. The
+average foreclosure discount was 25 percent in 2009, 22 percent
+in 2008 and 26 percent in 2007.  
+ A “normal” market would show foreclosures accounting for
+less than 2 percent of sales, Sharga said.  
+ Bank-owned properties  sold for an average 34 percent
+discount in the first quarter, up from 32 percent both in the
+previous quarter and a year earlier. Such properties accounted
+for 19 percent of all U.S. home sales, up from almost 16 percent
+in the fourth quarter and down from 21 percent in the first
+quarter of 2009, RealtyTrac data show.  
+ Short Sales  
+ Properties in default or scheduled for auction sold for an
+average discount of almost 15 percent, up from almost 14 percent
+in the previous quarter and down from 16 percent a year earlier.
+These homes are often sold in short sales, where lenders accept
+less than the outstanding loan amount for the property,
+RealtyTrac said. Sales of properties either in default or headed
+for auction accounted for 12 percent of all sales.  
+ The average price was $154,740 for bank-owned properties
+and $199,950 for homes in default or scheduled for auction,
+RealtyTrac said.  
+ “The competing forces will be bank-owned properties and
+short sales,” Sharga said. “The more short sales, the lower
+the average discount is likely to be.”  
+ Nevada  had the highest proportion of distressed sales of
+any U.S. state, with 64 percent of all transactions involving
+properties in mortgage distress.  
+ California ranked second, with such sales accounting for 51
+percent of all sales and  Arizona  was third at 50 percent.  
+ Discounts on distressed homes were highest in Ohio,
+Kentucky and  Illinois , where they sold for an average of at
+least 39 percent less than non-foreclosures.  
+ RealtyTrac sells default data from more than 2,200 counties
+representing 90 percent of the U.S. population.  
+ To contact the reporter on this story:
+ Dan Levy  in San Francisco at 
+ dlevy13@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

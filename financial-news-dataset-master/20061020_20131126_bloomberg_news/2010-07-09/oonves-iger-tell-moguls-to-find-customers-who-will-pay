@@ -1,0 +1,101 @@
+-- Moonves, Iger Tell Moguls to Find Customers Who Will Pay
+-- Sarah Rabil
+-- 2010-07-09T04:01:00Z
+-- http://www.bloomberg.com/news/2010-07-09/moonves-iger-tell-moguls-to-find-customers-who-will-pay.html
+
+          
+          
+             Media executives at Allen & Co.’s
+annual conference have a message for websites and device makers
+that want TV shows and films: Customers have to pay and new
+deals can’t cannibalize existing profits.  
+ “The overriding issue for all content-producing companies
+is whether we are getting paid fairly, and does that hurt your
+other businesses,”  CBS Corp.  Chief Executive Officer  Leslie Moonves  said in an interview at the Sun Valley, Idaho, event.  
+ CBS, owner of the most-watched TV network, is experimenting
+with outlets such as Google Inc.’s  YouTube  and its own  TV.com 
+site and considering more, Moonves said. The holdup is ensuring
+they don’t devalue existing businesses, he said. Device makers,
+website owners and Hollywood executives say consumers will buy
+new electronics and download more movies, TV shows, music and
+video games if they are able to do so with many products.  
+ “We’re looking for mass distribution under the most
+effective circumstances, which means reaching people in easy-to-
+use environments where we can create value and monetize,”  Walt
+Disney Co.  CEO  Robert Iger  said in Sun Valley this week.  
+ Disney, based in Burbank, California, already supplies
+movies and TV shows to users of  Apple Inc. ’s iPod, iPhone and
+iPad. Last week the company bought  Tapulous Inc. , a developer of
+music-related games for Apple products.  
+ Media companies are trying new ways to sell films, shows,
+music and games as viewers migrate to the Internet and mobile
+devices, and sales of older products such as DVDs tumble. Disney
+has developed technology that lets people who buy its programs
+access them on numerous products.  Time Warner Cable Inc.  and
+ Comcast Corp.  are developing services that let pay TV
+subscribers access watch on multiple devices.  
+ Google Ready  
+ Google  CEO  Eric Schmidt  said the owner of the world’s
+largest search engine is willing to meet the needs of media
+companies trying to figure out how to get the most money from
+their products.  
+ “All of the media companies will face the following
+choice: Do I go for a global market with advertising? Or do I go
+for a narrower more targeted market with a subscription?”
+Schmidt said at a press conference in Sun Valley. “It will
+eventually be a mixture of subscription and advertising. That’s
+a fine choice for them and we want to enable both.”  
+ Agreements take time because of complex ownership rights
+and concerns that new revenue sources won’t be sufficient,
+Schmidt said.  
+ “The fundamental problem is that there’s a revenue valley
+from the old model to the new model,” Schmidt said.  
+ Last week, the Los Angeles-based Internet video company
+Hulu LLC started a $9.99-a-month subscription service for new
+and old prime-time TV shows from Disney’s ABC, General Electric
+Co.’s NBC and  News Corp. ’s Fox. Programs can be viewed on
+computers, TVs and mobile devices.  
+ Wait-and-See  
+ Viacom Inc. , based in New York, wants to see how the
+service evolves before considering whether to provide shows, CEO
+ Philippe Dauman  said in an interview.  
+ The company pulled episodes of “The Daily Show with  Jon Stewart ” and “The Colbert Report” off of the ad-supported
+Hulu.com in March after its contract with the website expired.  
+ Dauman said it’s crucial for Viacom to continue testing new
+devices and outlets for its programs.  
+ “You don’t want to make a decision that will prove to be
+totally wrong not just for you but for building the marketplace
+for that particular product,” Dauman said. “If you start out
+the wrong way, it can snuff out the product.”  
+ To contact the reporters on this story:
+ Andy Fixmer  in Los Angeles at 
+ afixmer@bloomberg.net ;
+ Sarah Rabil  in New York at 
+ srabil@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Leslie Moonves, president and chief executive officer of CBS Corp. at the Allen & Co. Media and Technology Conference in Sun Valley. Photographer: Matthew Staver/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

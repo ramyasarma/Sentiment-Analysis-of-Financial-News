@@ -1,0 +1,38 @@
+-- George Steinbrenner Said to Have Died at Age 80, AP Reports
+-- Michael Sillup
+-- 2010-07-13T13:48:34Z
+-- http://www.bloomberg.com/news/2010-07-13/george-steinbrenner-said-to-have-died-at-age-80-ap-reports.html
+
+          
+          
+             New York Yankees principal owner
+George Steinbrenner died this morning after suffering a massive
+heart attack, the Associated Press reporting, citing a person
+close to the team. Steinbrenner turned 80 on July 4.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     New York Yankees principal owner George Steinbrenner who is said to have died this morning, aged 80. Photographer: Joe Tabacca/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

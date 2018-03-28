@@ -1,0 +1,85 @@
+-- Computer Worm May Be Targeting Iranian Nuclear Sites
+-- B y   A r i k   H e s s e l d a h l
+-- 2010-09-24T23:14:45Z
+-- http://www.bloomberg.com/news/2010-09-24/stuxnet-computer-worm-may-be-aimed-at-iran-nuclear-sites-researcher-says.html
+A computer worm that has infected
+industrial computers around the world may be part of a campaign
+targeting nuclear installations in Iran, computer-security
+researchers said.  The highest concentration of affected systems -- almost 60
+percent -- is in that country, according to data from  Symantec
+Corp. , the computer-security software maker. The worm’s
+sophisticated programming and ability to hide itself suggest it
+may have been built by a government-sponsored organization in a
+country such as the U.S. or Israel, said  Frank Rieger ,
+technology chief at GSMK, a maker of encrypted mobile phones.  He estimated that building the worm cost at least $3
+million and required a team of as many as 10 skilled programmers
+working about six months.  “All the details so far to me scream that this was created
+by a nation-state,” Rieger said in a telephone interview.
+Iran’s nuclear facilities may have been targets, said Rieger and
+ Richard Falkenrath , principal at the Chertoff Group, a
+Washington-based security advisory firm.  Iran, which has the world’s second-largest oil reserves, is
+under United Nations sanctions because it has refused to curtail
+uranium enrichment and the development of ballistic missiles
+that might carry a weapon. The country started a 1,000-megawatt
+nuclear-power reactor near the city of Bushehr in August.  ‘Hides in Windows’  “It is theoretically possible that the U.S. government did
+this,” Falkenrath said during an interview today with Bloomberg
+Television. “But in my judgment, that’s a very remote
+possibility. It’s more likely that Israel did it.”  A message left at the Israeli embassy’s press office wasn’t
+immediately returned. The U.S. Department of Homeland Security,
+which is studying the worm, hasn’t identified its origins, a
+spokeswoman said.  The worm initially infects computers running several
+editions of  Microsoft Corp.’s  Windows, including older versions
+such as Windows 2000, and recent ones such as Windows 7, using
+one of four vulnerabilities known only to the worm’s creators,
+said Liam O Murchu, manager of North American security-response
+operations for Mountain View, California-based Symantec.  “It hides in Windows and then tries to spread itself to
+other computers running Windows,” O Murchu said. An infected
+computer shows no ill effects and the worm ensures that no
+software crashes, which is unusual, he said.  Specific System  As it spreads, the worm searches for connections to a
+device known as a programmable logic controller, which helps
+link Windows computers and computerized industrial-control
+systems, converting commands sent from the Windows machine into
+a format the industrial machines can understand. The worm
+targets industrial software made by Munich-based Siemens AG,
+researchers said.  Once an industrial machine is infected, the worm lies
+dormant until certain conditions in the machine are met, O
+Murchu said. For example, when the temperature of a certain
+component gets hot, the worm might prevent a cooling system from
+functioning. What conditions the worm waits for are unclear, he
+said.  ‘It was designed to go after a specific system set up in a
+very specific way,” O Murchu said. “What we don’t yet know is
+where such a system exists in the real world.”  Siemens’ Software Fix  Symantec estimated in July that 14,000 individual computers
+connected to the Internet worldwide had shown signs of Stuxnet
+infections. The highest concentration -- 59 percent -- were in
+Iran; 18 percent were in Indonesia; 8 percent in India and less
+than 2 percent in the U.S.  Siemens learned of the worm in July and issued software
+within a week to detect and remove it, said  Alexander Machowetz ,
+a company spokesman in Erlangen, Germany. The fix was downloaded
+12,000 times, and 15 customers said they were affected.  No new cases of Stuxnet infections have been reported since
+the end of August, and Siemens was not able to determine the
+worm’s country of origin, Machowetz said.  The U.S. Department of Homeland Security has been running
+the worm on test systems to monitor its patterns since July,
+said  Amy Kudwa , a department spokeswoman.  ‘Preventing the Spread’  “The focus is one of mitigating and preventing the
+spread,” she said. “It is the first malware we have seen that
+specifically targets control systems.”  While the department hasn’t concentrated on tracking the
+origins, “we cannot validate the claims of attribution,” Kudwa
+said.  Microsoft teamed up with researchers at Symantec and at
+Kasperksy Lab, a Moscow-based antivirus software firm, to create
+a removal tool for Stuxnet, Jerry Bryant, group manager for the
+Redmond, Washington-based company’s response communications,
+said in a company blog post dated Sept. 13. Since then “the
+threat has gone way down from the spike we saw in early
+August,” Bryant wrote.  Symantec plans to publish more details from its analysis of
+the worm at the Virus Bulletin International Conference in
+Vancouver on Sept. 29.  There is historical precedent for cyber attacks by nation-
+states, according to a 2004 book by a former U.S. Air Force
+secretary.  Spies working for the U.S. Central Intelligence Agency
+inserted malicious software into computer-control systems for a
+Soviet natural-gas pipeline in Siberia, Thomas C. Reed wrote in
+“At The Abyss: An Insider’s History Of The Cold War.”  Ultimately the effort caused a massive explosion, said
+Reed, who was Air Force Secretary in the 1970s and later advised
+President  Ronald Reagan  on national security policy.  The Financial Times published a story on the worm
+yesterday.  To contact the reporter on this story:
+ Arik Hesseldahl  in New York at 
+ ahesseldahl@bloomberg.net   To contact the editor responsible for this story:
+Tom Giles at   tgiles5@bloomberg.net . 

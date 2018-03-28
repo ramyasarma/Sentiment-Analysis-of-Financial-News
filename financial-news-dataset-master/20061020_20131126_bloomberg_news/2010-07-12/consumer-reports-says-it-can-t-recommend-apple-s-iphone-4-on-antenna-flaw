@@ -1,0 +1,54 @@
+-- Consumer Reports Says It Doesn't Recommend Apple's IPhone 4
+-- Heather Burke
+-- 2010-07-12T15:27:12Z
+-- http://www.bloomberg.com/news/2010-07-12/consumer-reports-says-it-can-t-recommend-apple-s-iphone-4-on-antenna-flaw.html
+
+          
+          
+             Consumer Reports said its engineers
+have just completed testing Apple Inc.’s iPhone 4 and have
+confirmed that a hardware flaw is creating a reception problem.
+As a result, Consumer Reports said it has decided not to
+recommend the phone.  
+ The information was released in an e-mailed statement.   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A customer examines an Apple iPhone 4 at an Apple store in London. Photographer Rupert Hartley/Bloomberg  
+                   
+    
+
+                 
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 12 (Bloomberg) -- Consumer Reports said its engineers have just completed testing Apple Inc.’s iPhone 4 and have confirmed that a hardware flaw is creating a reception problem. As a result, Consumer Reports said it has decided not to recommend the phone. Bloomberg's Margaret Brennan, Sheila Dharmarajan and Scarlet Fu report. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

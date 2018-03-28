@@ -1,0 +1,44 @@
+-- Tiger Woods Switches Back to Former Putter for Final Round of British Open
+-- Bob Bensch
+-- 2010-07-18T12:24:00Z
+-- http://www.bloomberg.com/news/2010-07-18/tiger-woods-switches-back-to-old-putter-for-british-open-final-round.html
+
+          
+          
+             Tiger Woods switched back to his old
+putter for today’s final round of the British Open at St.
+Andrews.  
+ Woods changed to a Nike Method putter prior to the
+tournament in an effort to conquer the slower greens of the Old
+Course. He took 99 putts in his first three rounds, including 35
+yesterday, to fall 12 shots behind leader Louis Oosthuizen.  
+ Woods today returned to the Titleist Scotty Cameron putter
+which helped him win 13 of his 14 majors championships since
+1999.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Caddie Steve Williams gestures to Tiger Woods during the final round of St. Andrews .  Photographer: Warren Little/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

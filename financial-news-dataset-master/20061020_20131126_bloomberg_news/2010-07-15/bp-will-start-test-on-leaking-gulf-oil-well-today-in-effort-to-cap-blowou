@@ -1,0 +1,89 @@
+-- BP to Start Test on Leaking Gulf Oil Well Today
+-- Jim Polson
+-- 2010-07-15T16:48:59Z
+-- http://www.bloomberg.com/news/2010-07-15/bp-will-start-test-on-leaking-gulf-oil-well-today-in-effort-to-cap-blowout.html
+
+          
+          
+             BP Plc  plans to start a twice-
+delayed pressure test today to determine if it can safely seal
+its leaking oil well in the Gulf of Mexico.  
+ “We’ll start up sometime this morning or later today,”
+Senior Vice President for Exploration and Production  Kent Wells 
+said during a conference call with reporters. “We have a very,
+very intricate procedure we need to go through.”  
+ The test will determine if BP can stop the flow from the
+biggest U.S. oil spill in history, which erupted after an April
+20 explosion aboard the Deepwater Horizon drilling rig, killing
+11 workers. The well is spewing 35,000 to 60,000 barrels of oil
+a day, according to a U.S. government-led panel of scientists.  
+ The pressure test was delayed after the U.S. government
+raised concerns it might cause the well to burst open elsewhere.
+After getting necessary approvals, London-based BP halted the
+test yesterday because a leak developed when it began shutting
+off the flow to allow pressure to build up.  
+ Engineers today replaced the faulty valve assembly and are
+checking it for any new leaks, Wells said. After the leak was
+found, BP resumed piping oil from the leaking well to two ships
+on the surface, reducing spillage into the sea, Wells said. The
+ships collected 12,840 barrels of oil yesterday.  
+ BP is ready to start the well-pressure test, National
+Incident Commander  Thad Allen  said at a New Orleans press
+conference today. The test will last for at least six hours and
+as many as 48 hours, he said.  
+ Pressure Readings  
+ Low pressure during the first six hours will indicate a
+leak elsewhere, which would cause the test to stop and BP to
+resume recovering as much oil as possible thorough lines from
+the well to vessels on the surface of the Gulf, Allen said.  
+ High pressure readings, between 8,000 and 9,000 pounds per
+square inch, will show the oil is flowing through the wellbore
+drilled by the Deepwater Horizon. If the well withstands high
+pressure for two days, BP will reopen the valves, let the
+pressure drop, and run a seismic survey to check for any leaks
+before shutting the valves for good, Allen said.  
+ Being able to shut in the oil would help in the event a
+hurricane entered the area before BP permanently plugs the well,
+Allen said.  
+ The first of two relief wells to plug the well is about 100
+feet (30 meters) from intercepting the leak, Allen said.  
+ BP has been sending captured oil from the well to the Helix
+Producer I and Q4000 rig, which are capable of handling as much
+as 33,000 barrels a day.  
+ Connection of a third processing vessel, the Toisa Pisces,
+has been delayed to July 24 from July 19, because the problems
+with the pressure test interrupted installation of the lines
+that will connect it, Allen said.  
+ BP  gained  less than a pence to 401.75 pence at 4:35 p.m. in
+London trading. The shares have dropped 39 percent since the rig
+exploded.  
+ To contact the reporter on this story:
+ Jim Polson  in New York at 
+ jpolson@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Oil gushes from a valve atop the failed blowout preventer (BOP) at the BP Deepwater Horizon oil spill site in the Gulf of Mexico Source: BP Plc via Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

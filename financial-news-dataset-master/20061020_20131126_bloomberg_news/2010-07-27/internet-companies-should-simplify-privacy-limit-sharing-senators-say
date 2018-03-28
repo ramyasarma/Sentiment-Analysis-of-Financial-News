@@ -1,0 +1,80 @@
+-- Internet Firms Should Upgrade Privacy Policies, Lawmakers Say
+-- Jeff Bliss
+-- 2010-07-27T21:30:21Z
+-- http://www.bloomberg.com/news/2010-07-27/internet-companies-should-simplify-privacy-limit-sharing-senators-say.html
+
+          
+          
+             Internet companies should simplify
+their privacy policies and give computer users more power to
+limit sharing of personal information, U.S. senators said.  
+ Often online privacy policies aren’t read by consumers
+because they don’t understand them and don’t realize that
+websites are tracking their browsing, Senator  Mike Johanns , a
+Nebraska Republican, said today.  
+ “I don’t think this is what people are signing up for”
+when they use the Internet, Johanns said at a Senate Commerce,
+Science and Transportation Committee hearing.  
+ Lawmakers are considering whether legislation is needed
+following several recent web-privacy controversies.  Google Inc. ,
+owner of the world’s most popular search engine, has been
+criticized by U.S. lawmakers and European regulators for what
+the company said was inadvertent information gathering from
+unsecured wireless networks.  
+ Concerns about privacy helped land Facebook Inc. in the
+bottom 5 percent of a recent customer satisfaction survey. In
+May the company simplified privacy settings to make it easier
+for people to protect personal data after an outcry over the
+original settings.  
+ Senator  Jay Rockefeller , the commerce committee chairman,
+said Internet companies constantly track what sites consumers
+visit and which ads they click on.  
+ “Can consumers demand the same degree of anonymity on the
+Internet that they have in a shopping mall,” said Rockefeller,
+a West Virginia Democrat.  
+ Company Testimony  
+ Privacy executives at Google, Facebook, Apple Inc. and AT&T
+Inc. are scheduled to answer the committee’s questions later
+today.  
+ Companies should consider offering consumers a clear option
+on whether they are willing to share health and bank records,
+Federal Trade Commission Chairman  Jon Leibowitz  said.  
+ Without more clarity, there may be “more interest in
+Congress about more prescriptive rules,” he said.  
+ In prepared remarks, company officials said they are
+offering their customers more control over sharing personal
+information.  
+ “Users appreciate transparency and control,” said Alma
+Whitten, a Google privacy official. “If we fail to offer clear,
+usable privacy controls and strong security, our users will
+simply leave.”  
+ To contact the reporter on this story:
+ Jeff Bliss  in Washington 
+ jbliss@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Republican Senator Mike Johanns, of Nebraska poses for a photo in Washington. Photographer: Mandel Ngan/AFP/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

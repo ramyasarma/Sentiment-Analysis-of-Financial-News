@@ -1,0 +1,45 @@
+-- Airbus Says Chile's LAN Signs MOU for 50 `Eco-Efficient' A320 Family Jets
+-- Mike Gavin
+-- 2010-07-20T11:03:54Z
+-- http://www.bloomberg.com/news/2010-07-20/airbus-says-chile-s-lan-signs-mou-for-50-eco-efficient-a320-family-jets.html
+
+          
+          
+             European Aeronautic Defence and
+Space Company’s Airbus unit said LAN Airlines has signed a
+memorandum of understanding for 50 A320 family planes. The
+company commented in an e-mailed statement today.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 19 (Bloomberg) -- Tom Enders, chief executive officer of Airbus SAS, talks with Bloomberg's Rishaad Salamat about the outlook for aircraft orders this year and production of the company's A380 and A320 jets.
+     Airbus and Boeing Co. announced 189 orders on the first day of the Farnborough Air Show, more than double the total on day one of last year’s Paris event, as leasing companies returned to the market after the recession. Enders speaks on Bloomberg Television's "InBusiness With Margaret Brennan." (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

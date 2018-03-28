@@ -1,0 +1,74 @@
+-- Mortgage Rates on 30-Year U.S. Loans Fall to Record
+-- Prashant Gopal
+-- 2010-07-01T15:56:10Z
+-- http://www.bloomberg.com/news/2010-07-01/mortgage-rates-on-30-year-u-s-loans-slide-to-record-4-58-freddie-says.html
+
+          
+          
+             Mortgage rates  on 30-year U.S. loans
+slid to a record low for the second straight week, lowering
+borrowing costs for homebuyers as demand slumps.  
+ Rates for 30-year fixed loans sank to 4.58 percent in the
+week ended today from 4.69 percent last week, Freddie Mac said
+in a statement. The average 15-year  rate  fell to 4.04 percent,
+also a new low, the McLean, Virginia-based company said.  
+ The decline in mortgage rates, fueled by investor demand
+for government-supported bonds tied to housing loans, has failed
+to lift U.S. home sales after the April 30 end of a federal tax
+credit for buyers. Purchases are more dependent on consumer
+confidence and employment than rates, said  Cameron Findlay ,
+chief economist at Lendingtree.com in Irvine, California.  
+ The housing market “is not a rate discussion these days,”
+he said. “If you have an improvement in jobs, people have more
+disposable income and that will improve home sales.”  
+ Confidence among U.S. consumers fell in June more than
+forecast as Americans became distressed over the outlook for
+jobs. The Conference Board’s confidence index declined to 52.9
+last month from a revised 62.7 in May, according to a June 29
+report. The  unemployment rate  was at 9.7 percent in May,
+compared with a 26-year high of 10.1 percent in October.  
+ Home Sales Drop  
+ The number of contracts to buy previously owned homes
+plunged 30 percent in May from the prior month, the biggest
+decline in records dating to 2001, the National Association of
+Realtors said today. The report followed Commerce Department
+data last week showing a 33 percent slide in new home purchases.  
+ The tax credit, worth as much as $8,000, helped fuel a
+rebound in demand last year and was extended and expanded in
+November. The credit required buyers to sign contracts by the
+end of April and close by June 30. The House of Representatives
+voted this week to push the deadline for closing to Sept. 30.  
+ Mortgage rates have been declining since May as concern
+that a European debt crisis may spread pushed investors to the
+safety of Treasuries and government-supported bonds tied to home
+loans.  Yields  on Fannie Mae and Freddie Mac mortgage securities
+have fallen to the lowest level in more than a year.  
+ The Mortgage Bankers Association’s index of U.S. mortgage
+applications jumped 8.8 percent for the week ended June 25. The
+Washington group’s refinancing gauge climbed 13 percent to the
+highest level since May 2009, and purchases declined 3.3 percent
+to the second-lowest level since 1997.  
+ To contact the reporter on this story:
+ Prashant Gopal  in New York at 
+ Pgopal2@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,69 @@
+-- Commercial-Mortgage Bond Payments Fall Short as Property Values Decline
+-- Sarah Mulholland
+-- 2010-08-06T16:26:50Z
+-- http://www.bloomberg.com/news/2010-08-06/commercial-mortgage-bond-payments-fall-short-as-property-values-decline.html
+
+          
+          
+             Holders of commercial-mortgage backed
+securities have had $1.1 billion in interest withheld as
+plunging property values lead to reappraisals that eat into
+bondholders’ payments, according to data compiled by Bloomberg.  
+ The largest deficit is $57.8 million on a bond backed by a
+loan to finance properties owned by Extended Stay Inc., the
+hotel chain whose plan to exit bankruptcy was approved by a
+judge last month. The second largest is a $23.4 million
+shortfall on a $7.5 billion issue, commonly cited as a market
+barometer, sold by Goldman Sachs Group Inc. and Royal Bank of
+Scotland Plc in June 2007, Bloomberg data show.  
+ U.S. commercial property prices are down 39 percent from
+2007 peaks, according to Moody’s Investors Service, leading to
+lower valuations for owners struggling to make debt payments.
+When a borrower becomes delinquent, the property may be
+reappraised to determine its current value. For those properties
+worth less than the mortgage, the servicer stops payments beyond
+likely recoveries in the event of foreclosure, causing interest
+payments to junior bondholders to fall short.  
+ “Interest shortfalls are a symptom of rising delinquencies
+and the collateral problems that have been building over the
+past 18 months,” said  Richard Parkus , an analyst at Morgan
+Stanley in New York. “This is going to be a primary focus going
+forward.”  
+ At least $10 million of interest shortfalls have
+accumulated on 15 bonds, Bloomberg data show.  
+ To contact the reporter on this story:
+ Sarah Mulholland  in New York at 
+ smulholland3@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          Aug. 6 (Bloomberg) -- Commercial property deals have increased in the first half of 2010 as investors look to take advantage of lower prices for office, apartment buildings and hotels. U.S. commercial property prices are down 39 percent from 2007 peaks, according to Moody’s Investors Service, creating a potential investment opportunity in major markets such as New York and San Francisco, Bloomberg's Monica Bertran reports. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

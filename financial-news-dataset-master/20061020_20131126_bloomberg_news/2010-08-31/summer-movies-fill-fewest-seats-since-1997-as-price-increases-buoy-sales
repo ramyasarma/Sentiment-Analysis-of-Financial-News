@@ -1,0 +1,64 @@
+-- Summer Movie Attendance Falls to Lowest Since 1997
+-- Michael White
+-- 2010-08-31T04:00:01Z
+-- http://www.bloomberg.com/news/2010-08-31/summer-movies-fill-fewest-seats-since-1997-as-price-increases-buoy-sales.html
+
+          
+          
+             Summer movie attendance fell to the
+lowest level since 1997, while soaring ticket prices produced
+record revenue for Hollywood studios and theater owners.  
+ The number of tickets sold from the first weekend of May
+through the U.S. Labor Day holiday is expected to drop 2.6
+percent to 552 million,  Hollywood.com Box-Office  said yesterday
+in an e-mailed statement. That would be the lowest attendance
+since summer moviegoers bought 540.3 million tickets in 1997.  
+ “The movies just didn’t excite people the way they needed
+to,”  Paul Dergarabedian , president of Hollywood.com Box-Office,
+said in an interview. “When you raise prices and perceive that
+quality goes down, you have a major problem.”  
+ Summer box-office revenue will rise 2.4 percent to a record
+$4.35 billion in the U.S. and Canada as higher prices more than
+make up for the lower attendance, Hollywood.com estimates. The
+average ticket price will increase 5.1 percent to $7.88 from
+last year’s $7.50, the biggest gain since a 6.3 percent jump in
+2000, Hollywood.com said.  
+ Higher prices for 3-D movies including “Toy Story 3” and
+“Shrek Forever After” helped lift revenue. Theaters charge an
+extra $3 or more for three-dimensional showings. “Toy Story
+3,” from  Walt Disney Co. , is the year’s top film so far with
+$405.7 million in U.S. sales, according to  Box Office Mojo.com .  
+ Studios released seven sequels this summer, fewer than the
+10 that came out during the summer of 2009, according to
+Hollywood.com. This year, 13 films generated more than $100
+million in domestic ticket sales, down from 15 a year earlier.  
+ To contact the reporter on this story:
+ Michael White  in Los Angeles at 
+ mwhite8@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Animated characters from left, Jessie, Buzz Lightyear and Woody in "Toy Story 3." The film opens on June 18. Source: Disney/Pixar via Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

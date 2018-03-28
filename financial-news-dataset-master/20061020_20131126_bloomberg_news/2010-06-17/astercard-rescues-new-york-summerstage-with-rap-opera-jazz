@@ -1,0 +1,82 @@
+-- MasterCard Rescues New York SummerStage With Rap, Opera, Jazz
+-- Patrick Cole
+-- 2010-06-17T04:01:00Z
+-- http://www.bloomberg.com/news/2010-06-17/mastercard-rescues-new-york-summerstage-with-rap-opera-jazz.html
+
+          
+          
+             When the  SummerStage  free concert
+series lost soft-drink maker  Snapple  as its big sponsor,
+overseer David Rivel began thinking about cutbacks. Then he got
+a white knight with a flag to wave.  
+ MasterCard International Inc . stepped forward this year to
+offer a one-year sponsorship that allows it to plaster its name
+on posters and signs at SummerStage venues in all five of New
+York City’s boroughs.  
+ Cheryl Guerin, MasterCard’s senior vice president
+overseeing digital marketing in the U.S., declined to disclose
+the value of the sponsorship.  
+ “For us, it was the draw of SummerStage,” Guerin said in
+a phone interview. “It provides our cardholders with great
+priceless music and a cultural experience, and so it was a
+natural fit.”  
+ The MasterCard deal allowed SummerStage to unveil a menu of
+ more than 100 free concerts  and performances for its 25th
+anniversary, the largest lineup in the festival’s history. The
+program highlights musicians who got their start in New York.
+They include jazz pianist  McCoy Tyner  (June 23) and the  Alvin
+Ailey American Dance Theater  (July 23). Salsa master  Eddie
+Palmieri  and his fiery Latin jazz ensemble, La Perfecta II, will
+perform on June 22 at  Soundview Park  in the Bronx, the borough
+where he grew up.  
+ Rising opera stars  Susanna Phillips  and  Michael Fabiano 
+perform July 12 in a recital as part of the Metropolitan Opera’s
+Summer Recital Series.  
+ Phillips, a soprano who made her Met debut last season as
+Musetta in Puccini’s “La Boheme,” received the opera house’s
+fifth Beverly Sills Artist Award for young singers in April.  
+ New York’s Diversity  
+ “The lineup shows you the diversity of the music that
+comes out of New York,” said Rivel, executive director of the
+City Parks Foundation that manages SummerStage, in a phone
+interview.  
+ SummerStage has provided free music, dance, jazz and
+literary events to New York residents since its start in 1986.
+The program, which has a budget of $4.9 million this year,
+expects to attract more than 200,000 people, Rivel said.  
+ Foundations, corporations and individuals cover 90 percent
+of City Parks Foundation’s budget, which is about $10 million,
+he said.  
+ “We knew in a tough economy that the demand for our
+programs would even be greater,” Rivel said. “We’re not alone
+in all this. Some nonprofits are still struggling.”  
+ To contact the writer on this story:
+Patrick Cole in New York at 
+ pcole3@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     The crowd cheers at a SummerStage concert in New York. This year, MasterCard International Inc. replaced Snapple as the sponsor of the 25-year-old music series. This year's lineup features more than 100 free concerts in New York's five boroughs, ranging from salsa music to opera. Source: New York City Parks Foundation via Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

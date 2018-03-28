@@ -1,0 +1,76 @@
+-- Gulf Oil Workers Had Safety Concerns About Rig, NYT Reports
+-- Brian Swint
+-- 2010-07-22T09:59:17Z
+-- http://www.bloomberg.com/news/2010-07-22/gulf-oil-workers-had-safety-concerns-before-well-exploded-n-y-times-says.html
+
+          
+          
+             Workers on  Transocean Ltd .’s
+Deepwater Horizon oil rig that caught fire and sank in the Gulf
+of Mexico said conditions were unsafe on the platform, the New
+York Times reported.  
+ In one of two surveys carried out before the April 20
+accident that killed 11 and started the worst oil spill in U.S.
+history, Transocean employees said that they often “saw unsafe
+behaviors” and were concerned about reprisals if they reported
+problems,  the newspaper  said.  
+ BP Plc , the majority owner of the well that the rig was
+drilling, has taken most of the blame for the accident so far
+and is responsible for the cleanup.  Partners Anadarko Petroleum
+Corp.  and Mitsui Oil Exploration Co. are withholding payments of
+their share of the costs.  
+ Lloyds Register, which conducted the surveys on behalf of
+Transocean, said the reports were confidential and declined to
+make the documents available, according to spokesman Mark
+Stokes. Lloyds will cooperate fully with any official
+investigation, he said.  
+ Reliability  
+ The rig suffered from poor equipment reliability because
+drilling took priority over maintenance, the New York Times
+cited the survey as saying. A second report found the blowout
+preventer hadn’t been fully inspected since 2000 and that 26
+components and systems on the rig were in “bad” or “poor”
+condition, the paper reported.  
+ Transocean spokesman  Guy Cantwell  wasn’t immediately
+available for comment. The Times reported that a Transocean
+spokesman, who confirmed the existence of the reports, said most
+of the components in “poor” condition were minor and the
+blowout preventer had been inspected in the timeframe required
+by the manufacturers.  
+ Transocean employees onboard the Deepwater Horizon drilling
+rig when it exploded in the Gulf of Mexico have become the focus
+of a U.S. government probe into the cause of the fatal disaster,
+the Coast Guard reported this week. No one from BP, which leased
+the rig to drill the Macondo well, or from other companies
+involved in the work, has been named a party of interest,
+according to the website of the investigative panel.  
+ To contact the reporter on this story:
+ Brian Swint  in London at 
+ bswint@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     The Transocean Ltd. Deepwater Horizon oil rig. Source: Transocean Ltd. via Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

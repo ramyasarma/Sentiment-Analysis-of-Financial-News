@@ -1,0 +1,62 @@
+-- U.S.'s World Cup Opener Is Most-Watched Soccer Game for Team Since 1994
+-- Dex McLuskey
+-- 2010-06-14T01:50:15Z
+-- http://www.bloomberg.com/news/2010-06-14/u-s-s-world-cup-opener-is-most-watched-soccer-game-for-team-since-1994.html
+
+          
+          
+             The 1-1 draw with England in its
+opening game of the World Cup was the most-watched game for the
+U.S. national soccer team since 1994, ESPN said.  
+ The match, shown on ABC, averaged 13 million viewers, ESPN
+said yesterday in an e-mailed statement. The transmission
+attracted the biggest audience for any game at the tournament in
+South Africa so far, the broadcaster said.  
+ ESPN and ABC, owned by  Walt Disney Co. , have averaged 4.94
+million viewers through five games, more than double the figures
+for the corresponding fixtures in the 2006 World Cup, the
+statement said.  
+ The game against England had the most viewers since the U.S.
+played Brazil in the round of 16 at the 1994 World Cup, which
+was held in the U.S. Brazil won that game 1-0 on its way to
+winning the title for a fourth time.  
+ The U.S. earned a draw against England when goalkeeper
+ Robert Green  allowed  Clint Dempsey ’s shot to bounce off his
+hands and into the net five minutes before halftime. The goal
+canceled out  Steven Gerrard ’s fourth-minute strike.  
+ To contact the reporter on this story:
+ Dex McLuskey  in Dallas  at
+ dmcluskey@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          June 14 (Bloomberg) -- The 1-1 draw with England in its opening game of the World Cup was the most-watched game for the U.S. national soccer team since 1994, ESPN said. The match, shown on ABC, averaged 13 million viewers and attracted the biggest audience for any game at the tournament in South Africa so far, the broadcaster said. Bloomberg's Michele Steele reports. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

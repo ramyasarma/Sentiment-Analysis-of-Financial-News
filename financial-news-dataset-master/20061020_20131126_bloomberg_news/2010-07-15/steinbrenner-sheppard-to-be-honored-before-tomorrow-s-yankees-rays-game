@@ -1,0 +1,60 @@
+-- Tiger Woods Chasing Record-Matching Rory McIlroy at Open Golf
+-- Mason Levinson
+-- 2010-07-16T04:07:31Z
+-- http://www.bloomberg.com/news/2010-07-15/steinbrenner-sheppard-to-be-honored-before-tomorrow-s-yankees-rays-game.html
+
+          
+          
+             George Steinbrenner  and  Bob Sheppard 
+will be honored by the New York Yankees today prior to the
+team’s first game since they died.  
+ The Yankee Stadium tribute before the game against the
+Tampa Bay Rays will commemorate the lives of Steinbrenner, the
+team’s owner who died three days ago at the age of 80, and
+Sheppard, the former public-address announcer who passed away
+July 11 at 99, the team said in a news release.  
+ The Yankees have asked fans to be in their seats at 6:45
+p.m. for the ceremony, which will include a video tribute to
+Steinbrenner and a moment of silence for both men. Game time is
+7:05 p.m.  
+ Plans for further tributes for Steinbrenner and Sheppard,
+the team’s PA announcer from 1951 through 2007, will be revealed
+during today’s event.  
+ Another ceremony will be held tomorrow during the team’s
+Old-Timers’ Day. A video tribute to Sheppard will precede the
+introduction of more than 64 former Yankee players and coaches.
+There will also be a performance to recognize Sheppard during
+the seventh-inning stretch.  
+ The Yankees announced three days ago that patches
+commemorating Steinbrenner and Sheppard will be worn on team
+uniforms the rest of the season.  
+ To contact the reporter on this story:
+ Mason Levinson  in New York at 
+ mlevinson@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     George Steinbrenner. Photographer: Joe Tabacca/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

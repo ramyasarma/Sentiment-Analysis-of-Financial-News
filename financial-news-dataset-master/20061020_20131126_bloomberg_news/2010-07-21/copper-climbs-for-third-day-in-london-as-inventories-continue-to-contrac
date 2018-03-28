@@ -1,0 +1,66 @@
+-- Copper Jumps Most in Five Weeks as Freeport CEO Sees `Positive' Demand
+-- Anna Stablum
+-- 2010-07-21T18:28:48Z
+-- http://www.bloomberg.com/news/2010-07-21/copper-climbs-for-third-day-in-london-as-inventories-continue-to-contract.html
+
+          
+          
+             Copper prices rose the most in five
+weeks after Freeport-McMoRan Copper & Gold Inc., the world’s
+biggest publicly traded producer, said the metal’s outlook is
+“positive.”  
+ Physical markets for copper “are really stronger than
+economic indicators in the U.S.,” Freeport Chief Executive
+Officer  Richard Adkerson  said today. The company reported
+second-quarter profit that topped analyst estimates. Prices have
+dropped 7.6 percent this year on concern that slowing economic
+growth would erode demand.  
+ “We feel very, very positive about copper,” Adkerson said
+on a call with investors. “Our order books are filling up more
+strongly than they have in some time.”  
+ Futures for September delivery rose 9.15 cents, or 3
+percent, to $3.093 a pound on the Comex in New York. That’s the
+biggest gain for a most-active contract since June 14.  
+ Prices also climbed as copper  stockpiles  tracked by the
+London Metal Exchange shrank for a 24th straight session, the
+longest slide since July 2, 2009. Supplies are down 9.2 percent
+since June 17 to 417,625 metric tons.  
+ “The overall drawdown in stocks is foretelling of a better
+demand outlook,” said  Frank McGhee , the head dealer at
+Integrated Brokerage Services LLC in Chicago.  
+ Copper for delivery in three months added $219, or 3.3
+percent, to $6,860 a ton ($3.11 a pound) on the LME.  
+ Also on the LME, aluminum, nickel, tin, zinc and lead
+prices rose.  
+ To contact the reporters on the story:
+ Millie Munshi  in New York at 
+ mmunshi@bloomberg.net ;
+ Anna Stablum  in London at 
+ astablum@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Richard Adkerson, president and chief executive officer of Freeport-McMoRan Copper & Gold Inc. Photographer: Ramin Talaie/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,48 @@
+-- China's Central Bank Will Deposit 30 Billion Yuan at Commercial Lenders
+-- Bloomberg News
+-- 2010-07-12T06:05:09Z
+-- http://www.bloomberg.com/news/2010-07-12/china-s-central-bank-will-deposit-30-billion-yuan-at-commercial-lenders.html
+
+          
+          
+             China’s central bank will deposit 30
+billion yuan ($4.43 billion) with commercial lenders for six
+months from July 15, according to a statement posted to the
+People’s Bank of China’s website.  
+ To contact the reporter on this story:
+Zhe Huang in Beijing at 
+ zhuang37@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 12 (Bloomberg) -- Shen Jianguang, Greater China chief economist at Mizuho Securities Asia Ltd., talks with Bloomberg's Susan Li about the outlook for China's economy and exports.
+     China’s overseas sales jumped 43.9 percent in June from a year earlier to $137.4 billion and the trade surplus more than doubled to $20 billion, the highest level in eight months, the government said July 10. Shen, speaking in Hong Kong, also discusses China's real estate market and central bank monetary policy. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,74 @@
+-- Bentley Fetches Top Price at $1.5 Million Classic-Car Auction
+-- Scott Reyburn
+-- 2010-03-07T00:00:01Z
+-- http://www.bloomberg.com/news/2010-03-06/bentley-fetches-top-price-at-1-5-million-classic-car-auction.html
+
+          
+          
+             A 1950s Bentley was the top lot in a
+U.K. auction of classic cars last night that raised a total of 1
+million pounds ($1.5 million). Bidders were encouraged by
+vehicles with low estimates and avoided some with higher prices.  
+ The 1956 S1 Continental Sports Saloon made 166,500 pounds,
+against an estimate of 150,000 pounds to 180,000 pounds. The 120
+mph car had wind-tunnel-developed fastback coachwork by H.J.
+Mulliner and was bought by a U.K. collector bidding by phone,
+said auction house Bonhams, which held the sale in Oxford.  
+ “All the cars that had estimates that we were happy with
+did well,”  James Knight , the company’s London-based head of
+motoring sales, said in an interview. “It was a bit of a
+struggle when sellers wanted more. If you can offer cars with
+come-on estimates they generate much more interest.”  
+ Cars proved more resilient than other areas of the auction
+market during the economic slump, said dealers. Still, prices
+have fallen by an average of 20 percent since the end of 2007.
+Bonhams’s first U.K.-based car auction of 2010 had a total with
+fees in line with its low estimate. Eighty-seven percent of the
+52 offered cars found buyers, Bonhams said.  
+ Apart from the Bentley, no lot sold for more than 100,000
+pounds at an auction that tested the middle range of the
+classic-car market.  
+ The day’s other big sale was a 1989 Ford RS200 rally car
+with only 6,804 miles on the clock. The 350 bhp four-wheel-drive
+coupe -- part of the “Group B” classification of rally cars --
+sold for 87,300 pounds to another U.K.-based buyer, said
+ Bonhams . It was valued at 85,000 pounds to 95,000 pounds.  
+ The short-lived World Rally Championship for powerful
+“Group B” cars was held from 1982 until 1986, when the class
+was abandoned after a series of fatal crashes.  
+ A 1974 Porsche 911S 2.7-liter coupe, estimated at 24,000
+pounds to 28,000 pounds, was among seven lots that failed to
+sell.  
+ Last year, the event achieved a mid-estimate 968,493
+pounds, with all but one of the 40 offered cars finding buyers.  
+ ( Scott Reyburn  writes about the art market for Bloomberg
+News. Opinions expressed are his own.)  
+ To contact the writer on the story:
+ Scott Reyburn  in London at  sreyburn@hotmail.com .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A 1956 Bentley S1 Continental Sports Saloon. The car was expected to fetch between 150,000 pounds and 180,000 pounds at Bonhams's March 6 auction of classic cars in Oxford. It raised 166,500 pounds ($252,000). Source: Bonhams via Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

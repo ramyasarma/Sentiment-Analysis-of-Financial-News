@@ -1,0 +1,43 @@
+-- Toray to Supply $4.6 Billion in Fiber to Fast-Retailing Over Five Years
+-- Naoko Fujimura
+-- 2010-07-20T04:15:25Z
+-- http://www.bloomberg.com/news/2010-07-20/toray-to-supply-4-6-billion-in-fiber-to-fast-retailing-over-five-years.html
+
+          
+          
+             Fast-Retailing Co. and Toray
+Industries Inc. renewed a five-year agreement under which Toray
+supplies fiber and products to the clothing chain operator.  
+ The contract value is expected to reach 400 billion yen
+($4.6 billion) in the 2011-2015 period, the companies said in a
+release, an increase from 240 billion yen in 2006-2010.  
+ To contact the reporter on this story:
+Naoko Fujimura in ?? at 
+ nfujimura@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Akihiro Nikkaku , president of Toray Industries Inc., left, shakes hands with Tadashi Yanai, president of Fast Retailing Co. during a news conference in Tokyo. Photographer: Yoshikazu Tsuno/AFP/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,63 @@
+-- Turkish Stocks Rise to Record After Central Bank Cuts Inflation Forecast
+-- Seda Sezer
+-- 2010-07-27T08:47:12Z
+-- http://www.bloomberg.com/news/2010-07-27/turkish-stocks-rise-to-record-high-as-central-bank-cuts-inflation-outlook.html
+
+          
+          
+             Turkish  stocks  rose to a record
+after the central bank lowered its forecast for inflation this
+year, raising speculation the central bank will delay rate
+increases.  
+ The main ISE National 100 index increased 846.39, or 1.4
+percent, to 60,354.07 at 11:25 a.m. in Istanbul, the highest
+level since at least January 1990, according to data compiled by
+Bloomberg. Turkiye Garanti Bankasi AS and  Akbank TAS  led gains.  
+ Turkey’s central bank revised its forecast for year-end
+inflation to 7.5 percent from the 8.4 percent it predicted in
+April, Governor  Durmus Yilmaz  said at a news conference in
+Ankara today. The central bank foresees at “limited rise” in
+the benchmark interest rate next year, Yilmaz said.  
+ “Lower inflation means the central bank won’t raise
+interest rates, and banks will benefit from it this year,” said
+ Altug Dag , a trader at EFG Istanbul Securities. “Improved bank
+earnings expectations are also adding to gains.”  
+ The lira was little changed at 1.5141 per dollar. Bonds
+rose, sending the yields on Turkey’s two-year benchmark bonds
+down four basis points to 8.16 percent, according to an ABN Amro
+Holding NV  index .  
+ Turkish banks are expected to report second-quarter results
+by an Aug. 13 deadline. Garanti is expected to earn  910 million
+liras  in the second quarter, according to the average of eight
+estimates in a Bloomberg survey. Garanti reported a second-
+quarter profit of 765.1 million liras last year.  
+ To contact the reporter on this story:
+ Seda Sezer  in Istanbul at 
+ ssezer2@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Governor of the Central Bank of Turkey Durmus Yilmaz. Photographer: Dieter Nagl/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

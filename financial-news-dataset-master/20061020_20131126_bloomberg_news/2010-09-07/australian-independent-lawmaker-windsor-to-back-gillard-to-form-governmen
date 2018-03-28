@@ -1,0 +1,52 @@
+-- Australian Independent Lawmaker Windsor to Back Gillard to Form Government
+-- Iain Wilson
+-- 2010-09-07T05:09:33Z
+-- http://www.bloomberg.com/news/2010-09-07/australian-independent-lawmaker-windsor-to-back-gillard-to-form-government.html
+
+          
+          
+             Independent lawmaker Tony Windsor
+said he will support Prime Minister Julia Gillard as she seeks
+to form a government following the closest national election in
+70 years. Independent Robert Oakeshott is yet to say who he’ll
+back.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                                                 
+                     
+                     Enlarge image 
+                     
+                     
+                       Lawmaker Windsor Says He’ll Support Australian Labor Party  
+                       
+                         
+                           Stefan Postles/Getty Images 
+                         
+                         Rob Oakeshott and Tony Windsor. 
+                       
+                     
+                                        
+           
+                     Rob Oakeshott and Tony Windsor. Photographer: Stefan Postles/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

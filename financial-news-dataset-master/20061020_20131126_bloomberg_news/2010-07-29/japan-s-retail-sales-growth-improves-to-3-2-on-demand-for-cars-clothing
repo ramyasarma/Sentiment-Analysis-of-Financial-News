@@ -1,0 +1,105 @@
+-- Retail Sales Gain on Clothes, Cars, Supporting View Recovery is Intact
+-- Toru Fujioka
+-- 2010-07-29T02:24:51Z
+-- http://www.bloomberg.com/news/2010-07-29/japan-s-retail-sales-growth-improves-to-3-2-on-demand-for-cars-clothing.html
+
+          
+          
+             Japan’s  retail sales  growth
+improved in June after the biggest slowdown in more than a year,
+supporting the central bank’s assessment that the economic
+recovery is intact.  
+ Sales increased 3.2 percent from a year earlier, the sixth
+straight gain, led by demand for cars, gasoline and clothes,
+the Trade Ministry said today in Tokyo. The result matched the
+median estimate of 14 economists  surveyed  by Bloomberg News.  
+ The report adds to evidence that the economic rebound may
+last even as export growth slows.  Sentiment  among Japanese has
+increased every month this year as wages and job prospects
+improve, signaling household spending may withstand the expiry
+of government stimulus measures later this year.  
+ “Consumer spending will likely increase gradually, albeit
+at low levels,” said  Mika Ikeda , an economist at Nomura
+Securities Co. in Tokyo. The effects of government incentives
+to purchase durable goods “are wearing off,” she said.  
+ The  Nikkei 225 Stock Average  fell 0.5 percent at the 11
+a.m. lunch break in Tokyo after the Federal Reserve said U.S.
+growth was slowing in some areas, clouding the outlook for
+Japanese exporters.  
+ Last month’s retail improvement came after annual sales
+growth slowed 2 percentage points in May, the  worst
+deterioration  since February 2009. Hotter-than-usual weather
+spurred demand for drinks, ice cream and summer clothes, with
+temperatures in Japan’s eight major cities 1.4 degrees Celsius
+higher than the June average, the ministry said.  
+ Car Incentives  
+ Clothing and fabric sales climbed 5.3 percent from a year
+earlier. Car sales advanced 12.4 percent on government
+incentives that are scheduled to expire in September. Fuel
+receipts increased 8.4 percent.  
+ Retail sales  rose a seasonally adjusted 0.4 percent in
+June from May, when they declined 2 percent, the biggest drop
+in more than five years, today’s report showed.  
+ Bank of Japan board member  Hidetoshi Kamezaki  yesterday
+repeated the central bank’s view that the economy is likely to
+continue to recover gradually.  
+ Matsuya Co. , the department-store chain, is among
+retailers benefiting from an improving outlook for households.
+The company tripled its first-half net income outlook this
+month, citing higher-than-expected sales.  
+ Japanese  consumer confidence  climbed to the highest level
+since 2007 in June, driven by optimism about jobs and paychecks
+even as stocks tumbled on concern the global recovery will cool.
+The ratio of job openings to applicants in May was the highest
+in more than a year, and  wages  grew for a third month.  
+ ‘Marginal Boosts’  
+ “We’re already beginning to see some marginal boosts”
+from improvements in wages and the job market, said  Masamichi Adachi , a senior economist at JPMorgan Chase & Co. in Tokyo.  
+ Still, Adachi added that the spending rebound may stall at
+the beginning of next year after government incentives to buy
+electronic appliances expire in December. That will come just
+as the export slowdown becomes more pronounced as the global
+recovery moderates, he said.  
+ Nomura Holdings Inc., Japan’s biggest brokerage, this week
+cut its forecast for  growth  in Japan, citing a stronger yen and
+waning exports. The economy will expand 1.5 percent next fiscal
+year, less than the 2.1 percent Nomura predicted earlier.  
+ To contact the reporters on this story:
+ Aki Ito  in Tokyo at 
+ aito16@bloomberg.net ;
+ Toru Fujioka  in Tokyo at 
+ tfujioka1@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 28 (Bloomberg) -- Bloomberg's Courtney Donohoe reports on the performance of the U.S. equity market today.
+     U.S. stocks fell, sending the Standard & Poor’s 500 Index lower for a second day, after orders or durable goods unexpectedly decreased and the Federal Reserve said economic growth slowed in some areas. Bloomberg's Pimm Fox also speaks. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,39 @@
+-- Blankfein Says Wall Street Has `a Lot of Work to Do' to Regain Confidence
+-- Dan Reichl
+-- 2010-04-28T02:17:50Z
+-- http://www.bloomberg.com/news/2010-04-28/blankfein-says-wall-street-has-a-lot-of-work-to-do-to-regain-confidence.html
+
+          
+          
+             Goldman Sachs Group Inc. Chief
+Executive Officer Lloyd Blankfein said Wall Street firms have
+“a lot of work to do to regain the confidence of Main Street.”
+He spoke in a Bloomberg Television interview today after
+testifying before U.S. lawmakers in Washington.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Lloyd C. Blankfein, chairman and chief executive officer of Goldman Sachs Group Inc., speaks during an interview after testifying at a Senate Homeland Security and Governmental Affairs subcommittee hearing on Wall Street and the financial crisis, in Washington, D.C., on April 27, 2010. Photographer: Joshua Roberts  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

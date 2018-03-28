@@ -1,0 +1,69 @@
+-- Airline Challenge to Airport Congestion Pricing Is Rejected
+-- William McQuillen
+-- 2010-07-13T20:55:43Z
+-- http://www.bloomberg.com/news/2010-07-13/airlines-challenge-to-congestion-pricing-rejected-by-u-s-appeals-court.html
+
+          
+          
+             A U.S. appeals court rejected an
+airline industry challenge to a regulation letting airport
+operators charge more at busy times of the day to reduce delays.  
+ The U.S. Court of Appeals for the District of Columbia
+denied the petition by the carriers’ Washington trade group, the
+ Air Transport Association , which represents companies including
+ Delta Air Lines Inc . and  AMR Corp ., the owner of American
+Airlines. The carriers argued the July 2008 regulation by the
+Transportation Department was discriminatory and unreasonable.  
+ The “creativity” of regulators should be welcomed to
+alleviate flight congestion, the appeals court wrote.  
+ “It is entirely reasonable to expect an airline, and in
+turn its passengers, to pay a premium for the opportunity to
+arrive at a peak time,” the court wrote.  
+ When the regulation was put in place, then-Secretary of
+Transportation  Mary Peters  said it would encourage airlines to
+spread out flights to less-busy hours and use bigger planes and
+less crowded airports.  
+ In its challenge, the airlines also claimed the regulation
+wrongfully allowed state and local airport authorities to charge
+fees preempted by federal law and provided inadequate guidance
+to the airports on how the Department of Transportation would
+evaluate the reasonableness of the fees.  
+ The Air Transport Association said it is reviewing the
+decision.  
+ “We remain concerned about the threat of unreasonable and
+unjustified airport rates and charges and their potential
+adverse impact on the cost of air transportation,” the group
+said in an e-mailed statement.  
+ The case is Air Transport Association of America Inc. v.
+U.S. Department of Transportation, 08-1293, U.S. Court of
+Appeals for the District of Columbia (Washington).  
+ To contact the reporter on this story:
+ William McQuillen  in Washington at 
+ bmcquillen@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Transportation Secretary Mary Peters testify at a House of Representatives Committee in Washington. Photographer: Jamie Rose/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

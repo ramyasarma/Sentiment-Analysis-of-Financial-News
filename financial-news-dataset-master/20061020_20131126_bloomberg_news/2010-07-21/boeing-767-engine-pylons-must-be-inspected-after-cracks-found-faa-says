@@ -1,0 +1,63 @@
+-- FAA Orders Inspections of Pylons on Boeing 767 Jets
+-- John Hughes
+-- 2010-07-21T14:33:55Z
+-- http://www.bloomberg.com/news/2010-07-21/boeing-767-engine-pylons-must-be-inspected-after-cracks-found-faa-says.html
+
+          
+          
+             U.S. aviation regulators ordered
+inspections of 138  Boeing Co.  767 aircraft pylons that attach
+the engines to the wings to reduce the threat of cracking.  
+ Inspections must be conducted after 8,000 flights rather
+than 10,000 as now required, and the examinations must be done
+within 400 flights, or 90 days, whichever occurs later, the
+Federal Aviation Administration said today in a statement.  
+ Boeing, based in Chicago, said last month it was
+recommending more frequent pylon inspections after mechanics at
+AMR Corp.’s American Airlines discovered cracks on one jet.
+Pylon failure could cause an engine to fall from the wing where
+it is attached.  
+ As part of its  order , the FAA is requiring checks of pylon
+fittings after 400 flights instead of 1,500. The inspections
+will cost carriers about $47,000, according to the FAA.  
+ Three decades ago, damage to an engine pylon as it was
+reattached to a plane at American’s Tulsa, Oklahoma, maintenance
+facility contributed to the  crash  of an American DC-10 in
+Chicago on May 25, 1979, the National Transportation Safety
+Board determined.  
+ The crash occurred shortly after takeoff, killing all 271
+onboard and two on the ground. Sections of an engine pylon came
+off the plane, allowing the left engine to fall off, cutting
+critical control lines and causing the DC-10 to roll on its back
+before hitting the ground.  
+ To contact the reporter on this story:
+ John Hughes  in Washington at 
+ jhughes5@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Boeing said last month it was recommending more frequent pylon inspections after mechanics at
+AMR Corp.’s American Airlines discovered cracks on one jet.  Photographer: Donald R. Winslow/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

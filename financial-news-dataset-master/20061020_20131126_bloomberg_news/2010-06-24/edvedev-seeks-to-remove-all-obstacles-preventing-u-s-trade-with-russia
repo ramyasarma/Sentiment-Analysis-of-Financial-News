@@ -1,0 +1,55 @@
+-- Medvedev Seeks to Remove `All Obstacles' Preventing U.S. Trade With Russia
+-- Julianna Goldman
+-- 2010-06-24T18:27:23Z
+-- http://www.bloomberg.com/news/2010-06-24/medvedev-seeks-to-remove-all-obstacles-preventing-u-s-trade-with-russia.html
+
+          
+          
+             Russian President Dmitry Medvedev
+said he is encouraged by interest from U.S. companies to invest
+in Russian enterprises and hopes they will “actively partake”
+in an effort to establish a high-tech center outside Moscow.  
+ “We’re interested in removing all the obstacles” blocking
+trade with Russia, Medvedev said through a translator at a joint
+press conference with U.S. President Barack Obama at the White
+House.  
+ Before arriving in Washington, Medvedev toured Silicon
+Valley companies such as Cisco Systems Inc. in San Jose,
+California, and Apple Inc. in Cupertino, as part of his efforts
+to create a technology hub.  
+ Obama and Medvedev will meet with other leaders of Group of
+20 nations at a summit in Canada this weekend. The leaders of
+the world’s largest economies will focus on balancing the need
+for government spending to encourage growth against growing
+budget deficits.  
+ To contact the reporter on this story:
+Lyubov Pronina in Moscow at 
+ lpronina@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Russian President Dmitry Medvedev is on a three-day trip to Silicon Valley and
+Washington. Photographer: Johannes Eisele/AFP/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

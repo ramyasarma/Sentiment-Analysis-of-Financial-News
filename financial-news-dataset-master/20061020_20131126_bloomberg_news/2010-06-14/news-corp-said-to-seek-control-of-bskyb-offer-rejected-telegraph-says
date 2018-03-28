@@ -1,0 +1,68 @@
+-- BSkyB Spurns News Corp. Offer of $11.5 Billion
+-- Jonathan Browning
+-- 2010-06-15T06:53:54Z
+-- http://www.bloomberg.com/news/2010-06-14/news-corp-said-to-seek-control-of-bskyb-offer-rejected-telegraph-says.html
+
+          
+          
+             Rupert Murdoch-controlled  News Corp. 
+said it made an offer to take full control of satellite TV
+service  British Sky Broadcasting Plc .  
+ BSkyB, the U.K.’s biggest pay-TV provider, rejected the
+offer of 700 pence per share, it said today in a statement.
+News Corp.’s offer for the 61 percent  stake  of BSkyB that it
+doesn’t already own is valued at 7.8 billion pounds ($11.5
+billion), the New York-based company said in a statement. BSkyB
+has a  market value  of 10.5 billion pounds.  
+ News Corp., led by Chairman and Chief Executive Officer
+ Rupert Murdoch , could boost earnings and free cash flow by
+taking full control of BSkyB, BTIG LLC analyst  Richard Greenfield  wrote in a note to clients yesterday. Murdoch, 79,
+said on May 4 his company was evaluating how to use its $8.18
+billion in cash.  
+ BSkyB gained 14 pence to 600.5 pence yesterday in London
+and has advanced 6.9 percent this year.  
+ News Corp. recorded $176 million in earnings from its BSkyB
+stake in the quarter ended March 31, compared with a $7 million
+loss a year earlier. The satellite service’s operating profit
+increased with the addition of high-definition TV subscribers.  
+ News Corp. shares may benefit from full ownership of BSkyB
+by eliminating a discount in the stock that reflects the partial
+ownership,  Hale Holden , a Barclays Capital debt analyst, wrote
+in a May 25 report. The decline in the value of the British
+pound relative to the U.S. dollar may also have increased the
+likelihood of such a deal, he said.  
+ In December, News Corp. raised its stake in Sky Deutschland
+AG, Germany’s biggest pay-TV service, to more than 45 percent.  
+ News Corp., based in New York, fell 25 cents to $13.12 in
+Nasdaq Stock Market  trading . The Class A shares have fallen 4.2
+percent this year.  
+ To contact the reporters on this story:
+ Jonathan Browning  in London 
+ jbrowning9@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     News Corp. Chairman and CEO Rupert Murdoch is interviewed at the National Press Club in Washington. Photographer: Brendan Hoffman/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

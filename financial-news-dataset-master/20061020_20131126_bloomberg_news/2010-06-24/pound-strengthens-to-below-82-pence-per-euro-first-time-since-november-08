@@ -1,0 +1,48 @@
+-- Pound Strengthens to Below 82 Pence Per Euro First Time Since November '08
+-- Matthew Brown
+-- 2010-06-24T08:31:55Z
+-- http://www.bloomberg.com/news/2010-06-24/pound-strengthens-to-below-82-pence-per-euro-first-time-since-november-08.html
+
+          
+          
+             The pound strengthened to below 82
+pence per euro for the first time since November 2008.  
+ The British currency appreciated to 81.98 pence per euro
+before trading at 82.07 pence as of 9:31 a.m. in London.  
+ To contact the reporter on this story:
+Matthew Brown in London at 
+ mbrown42@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          June 24 (Bloomberg) -- Kathy Lien, director of currency research at online currency trader GFT Forex, talks with Bloomberg's Haslinda Amin about the European debt crisis and the outlook for the euro.
+     Lien, speaking from Sydney, also discusses the appointment of Julia Gillard as Australia’s prime minister and its implications for the nation's currency, China's yuan policy, and the outlook for the New Zealand and Canadian dollars. Lien spoke before Gillard was sworn in as prime minister.(Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

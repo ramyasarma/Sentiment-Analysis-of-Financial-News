@@ -1,0 +1,73 @@
+-- Intel, FTC in Discussions to Settle Antitrust Case
+-- Ian King
+-- 2010-06-22T00:18:43Z
+-- http://www.bloomberg.com/news/2010-06-22/intel-ftc-in-discussions-to-settle-antitrust-case.html
+
+          
+          
+             Intel Corp.  and the U.S. Federal
+Trade Commission filed a motion to suspend trial proceedings
+while the two work on a potential settlement of the government’s
+antitrust case against the chipmaker.  
+ Under the motion, the two parties would have until July 22
+to discuss an agreement, the Santa Clara, California-based
+company said today in a statement.  
+ The FTC sued  Intel  in December, accusing it of illegally
+using its dominant market position for a decade to “stifle
+competition and strengthen its monopoly.” The suit was filed
+after Intel settled a civil case with rival  Advanced Micro
+Devices Inc.  and was fined by the European Union.  
+ “This was a huge distraction for them,” said  Krishna Shankar , an analyst at ThinkEquity LLC in San Francisco. He
+recommends buying Intel shares. “You never know how these
+trials will go.”  
+ Intel accounts for more than 80 percent of global computer-
+processor sales -- dwarfing  AMD , its nearest competitor. The
+November settlement with AMD cost Intel $1.25 billion. That
+followed a record EU fine of 1.06 billion euros ($1.45 billion
+at the time).  
+ Nvidia Dispute  
+ Part of the FTC investigation concerned Intel’s legal
+dispute with graphics-chip maker Nvidia Corp., according to
+people familiar with the matter.  
+ “We remain hopeful that any settlement will recognize
+Intel’s history of impeding competition and innovation at the
+expense of the American consumer,”  Hector Marinez , a spokesman
+for Santa Clara-based Nvidia, said in an e-mail.  
+ Tom Beermann , a spokesman for Intel, declined to comment
+beyond the statement.  Mitchell Katz , an FTC spokesman, didn’t
+immediately return calls seeking comment.  
+ A possible settlement of the FTC case may force Intel to
+come to an agreement with Nvidia, Shankar said.  
+ Intel, the world’s largest computer-chip maker, fell
+21 cents to $21.19 at 4 p.m. New York time in Nasdaq Stock
+Market trading. The  shares  have gained 3.9 percent this year.  
+ To contact the reporter on this story:
+ Ian King  in San Francisco at 
+ ianking@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     The Intel Corp. logo is displayed at Intel's booth during the 2010 International Consumer Electronics Show (CES) in Las Vegas. Photographer: Daniel Acker/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

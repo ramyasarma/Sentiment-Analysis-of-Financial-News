@@ -1,0 +1,66 @@
+-- Europe Manufacturing, Services Expansion Slows, Indicating Recovery Easing
+-- Simone Meier
+-- 2010-06-23T08:14:46Z
+-- http://www.bloomberg.com/news/2010-06-23/europe-manufacturing-services-expansion-slows-indicating-recovery-easing.html
+
+          
+          
+             Growth in Europe’s  services and
+manufacturing   industries  slowed in June, adding to signs a
+European recovery is cooling.  
+ A  composite index  based on a survey of euro-area purchasing
+managers in both industries fell to 56 from 56.4 in May, London-
+based  Markit Economics  said today. Economists forecast a drop to
+55.8, the median of 13 estimates in a Bloomberg News survey
+showed. A reading above 50 indicates expansion.  
+ Rising  unemployment  is prompting consumers to hold back
+spending, leaving exports to lead the region’s  recovery  from the
+worst recession in six decades. European economic  confidence 
+unexpectedly worsened in May after concerns that the Greek
+deficit crisis is spreading clouded the growth outlook.  
+ “The PMI will probably continue to weaken over the coming
+months,” said  Costa Brunner , an economist at Natixis in
+Frankfurt. “We’re past the best in terms of global trade growth
+and we can’t expect much of a contribution from  consumer demand .
+The economic picture isn’t quite as positive anymore.”  
+ The euro was little changed against the dollar after the
+data, trading at $1.2287 at 9:08 a.m. in London, up 0.1 percent
+on the day.  
+ The euro-area economy is showing some signs of losing
+momentum.  Unemployment  unexpectedly rose in April to the highest
+in almost 12 years, and investors grew more pessimistic this
+month.  
+ An  index of services , which account for about 60 percent of
+the euro region’s gross domestic product, fell to 55.4 in June
+from 56.2 in the prior month, Markit said. A gauge of euro-area
+ manufacturing  declined to 55.6 from 55.8 in May.  
+ To contact the reporters on this story:
+ Simone Meier  in Zurich at 
+ smeier@bloombert.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Completed Renault Clio vehicles move along the production line at the Renault factory in Valladolid, Spain. Photographer: Markel Redondo/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

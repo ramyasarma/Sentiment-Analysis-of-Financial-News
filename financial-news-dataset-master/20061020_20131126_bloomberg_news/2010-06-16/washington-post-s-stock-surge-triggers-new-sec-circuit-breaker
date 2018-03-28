@@ -1,0 +1,118 @@
+-- Washington Post's Stock Surge Triggers New Circuit Breaker
+-- Kelly Bit
+-- 2010-06-17T04:01:00Z
+-- http://www.bloomberg.com/news/2010-06-16/washington-post-s-stock-surge-triggers-new-sec-circuit-breaker.html
+
+          
+          
+             Three equity orders that pushed
+ Washington Post Co.  shares up 99 percent in less than one second
+yesterday show why the Securities and Exchange Commission began
+a program this month to halt stocks during times of volatility.  
+ Trades  totaling 766 shares at $919.18 or $929.18 crossed on
+NYSE Euronext’s NYSE Arca platform at 3:07:30 p.m. in New York,
+data compiled by Bloomberg show. The stock changed hands for
+$462.84 prior to the jump. The orders, later canceled, triggered
+a five-minute halt under rules adopted after the  May 6 crash 
+erased $862 billion from U.S. stocks in less than 20 minutes.  
+ While the regulations didn’t prevent the erroneous orders
+from being placed, they may have kept more shares from being
+bought and sold at prices that would later have been voided,
+said Jefferies Group Inc.’s  Art Hogan . The SEC began its circuit
+breaker program last week to slow down trading when faulty data
+or panic may be influencing the market.  
+ “It’s a good idea to have a system in place to give people
+time to sort things out,” said Hogan, chief market analyst at
+New York-based Jefferies, a broker-dealer whose trading clients
+include pension funds and hedge funds. “Part of what you want
+to do is make sure things don’t dislocate as much as they did.
+If that’s the case, what happened with the  Washington Post  was
+fine today. We would like to see it rolled out on a broader
+basis in the next month or so and see how it works on a real
+difficult day.”  
+ The circuit breakers pause stocks in the Standard & Poor’s
+500 Index when they rise or fall 10 percent in five minutes or
+less. Following the halt,  Washington Post  fell to $453.25 from
+$929.18 and changed hands for $458.19 at 4 p.m. in New York. A
+total of 57,739 Washington Post shares changed hands today.  
+ May 6 Memory  
+ The Dow Jones Industrial Average plunged almost 1,000
+points on May 6. A May 18 report from the SEC and Commodity
+Futures Trading Commission gave six potential causes of the
+crash, including trading curbs that applied only at the New York
+Stock Exchange. Halts “will help reduce the likelihood of this
+type of unusual trading activity from recurring,” SEC Chairman
+ Mary Schapiro  said on June 2.  
+ The jump in Washington Post shares today shows that
+regulators have yet to find a way to prevent volatility that
+undermines trust in the stock market, said  Jeff Rubin , an
+analyst at Westport, Connecticut-based Birinyi Associates Inc.,
+the research and investment firm founded by  Laszlo Birinyi .  
+ “Today we received the first ‘proof’ of our belief that
+the new individual 10 percent stock circuit breakers would be
+ineffective at preventing days like May 6 or clearly erroneous
+trades from occurring,” Rubin wrote in a note to clients. “The
+new rule is not the correct cure for the disease as the majority
+of erroneous trades occur immediately following allowable trades
+and hence the stock is still allowed to trade well in excess of
+the 10 percent threshold.”  
+ Diebold Plunge  
+ A June 2 plunge in  Diebold Inc.  that erased 30 percent of
+its market value in six seconds is under review by U.S.
+regulators, people with direct knowledge of the investigation
+said. The stock slumped $8 in six seconds to $18.26 before
+recovering to above $25 a minute later, Bloomberg data show.  
+ Four-hundred twenty-seven trades occurred in  Diebold  below
+$23 totaling about 113,600 shares, according to Bloomberg data.
+All of them took place on electronic venues such as Nasdaq Stock
+Market and Bats Exchange.  
+ Delaware Senator  Ted Kaufman  said on CNBC yesterday that
+aberrant trading in Diebold and Washington Post isn’t good for
+the market.  
+ “Markets must be credible, or they’re no good,” said
+Kaufman, a Democrat. Extreme advances and declines for no
+apparent reason is “death by a thousand cuts,” he said.  
+ Other Methods  
+ The SEC is considering other methods such as pricing
+collars to prevent  orders  that could trade at levels
+significantly away from a stock’s price from entering markets,
+Schapiro said on June 14. She described collars available on
+Bats Exchange, which prevent market orders from trading at a
+price more than 50 cents or 5 percent worse than the best
+available bid or ask, as “quite intriguing.”  
+ “I’d say the circuit breaker worked,” said  Edward Wedbush , chief executive officer of Wedbush Securities Inc. in
+Los Angeles. “It was apparently a tiny item, an error trade,
+rather than reflective of large selling or buying demand from
+multiple sources, but the circuit breaker did its job.”  
+ To contact the reporters on this story:
+ Nina Mehta  in New York at 
+ nmehta24@bloomberg.net ;
+ Kelly Bit  in New York at 
+ kbit@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     The Washington Post building in downtown Washington. Photographer: Ken Cedeno/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

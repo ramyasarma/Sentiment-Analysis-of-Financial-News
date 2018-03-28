@@ -1,0 +1,58 @@
+-- New York Governor Paterson Presses Lawmakers for `Up-or-Down' Budget Vote
+-- Pete Young
+-- 2010-04-27T20:09:31Z
+-- http://www.bloomberg.com/news/2010-04-27/paterson-will-ask-new-york-lawmakers-for-up-or-down-vote-on-budget-plan.html
+
+          
+          
+             New York Governor David Paterson
+said he would ask state lawmakers for a “simple up-or-down”
+vote on his proposed executive budget for the year that began
+April 1.  
+ If they don’t pass the plan, Paterson said he would ask the
+Legislature to convene five days a week, instead of three, until
+they reach an agreement.  
+ “If the Legislature does not stay in Albany to pass a
+budget, I will be forced to consider all of my options at that
+time, including compelling them to stay,” Paterson said in a
+statement today.  
+ Paterson said he plans to ask for a one-day-a-week furlough
+of about 100,000 state workers to lower labor costs by $30
+million a week.  
+ New York, the third most-populous U.S. state, may sell
+cash-management notes or delay paying bills to cope with a cash
+shortage in the first week of June, Robert Megna, the state’s
+budget director, said today. Earlier this month, he said the
+state faced a $1 billion shortage in its cash balance.  
+ To contact the reporters on this story:
+Michael Quint in Albany, New York, at 
+ mquint@bloomberg.net ;
+Pete Young in New York at 
+ pyoung13@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     David Paterson, governor of New York, speaks to the media outside the White House in Washington, D.C., on Feb. 22, 2010. Photographer: Andrew Harrer/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

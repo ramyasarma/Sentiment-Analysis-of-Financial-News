@@ -1,0 +1,44 @@
+-- Former New York Giants Middle Linebacker Pierce Retires, Will Go to ESPN
+-- Jay Beberman
+-- 2010-07-08T14:22:23Z
+-- http://www.bloomberg.com/news/2010-07-08/former-new-york-giants-linebacker-antonio-pierce-retires-to-join-espn.html
+
+          
+          
+             Former New York Giants middle
+linebacker Antonio Pierce retired and will join ESPN as an
+analyst, the sports network and National Football League team
+said in a news release.  
+ Pierce, 31, was diagnosed with a bulging disc in his neck
+on Nov. 21 and missed the rest of the season. He was cut by the
+team in February.  
+ Pierce played nine years in the league and was defensive
+captain when the Giants beat the New England Patriots in the
+Super Bowl after the 2007 season.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Antonio Pierce will be joining ESPN as an analyst. Photographer: Jason Merritt/Getty Images for Cedars-Sinai  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

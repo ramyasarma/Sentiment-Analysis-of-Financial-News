@@ -1,0 +1,102 @@
+-- Experimental Solar Plane Attempts First Night Flight
+-- Jeremy van Loon
+-- 2010-07-08T16:26:16Z
+-- http://www.bloomberg.com/news/2010-07-07/deutsche-bank-sponsored-solar-powered-airplane-attempts-first-night-flight.html
+
+          
+          
+             An experimental airplane landed
+safely after flying through the night propelled entirely by
+12,000 solar cells and sunlight-powered lithium batteries.  
+ The HB-SIA carbon-fiber aircraft, flown by Andre Borschberg
+and weighing about as much as a mid-size car, touched down today
+at Payerne near Lake Neuchatel, Switzerland, at 9 a.m. local
+time, the Solar Impulse group  said .  
+ The flight was part of the project’s 100 million Swiss
+franc ($95 million) effort sponsored by  Deutsche Bank AG ,
+Germany’s biggest bank, to eventually pilot the first flight
+around the globe in an airplane using only solar energy. The
+seven-year project is led by the Swiss adventurer  Bertrand Piccard  and Borschberg, a 40-year flying veteran.  
+ The flight was “the most incredible one of my flying
+career, just sitting there and watching the battery charge level
+rise and rise thanks to the sun and then that suspense, not
+knowing whether we were going to manage to stay up in the air
+the whole night,” Borschberg, 57, said. “I have just flown
+more than 26 hours without using a drop of fuel and without
+causing any pollution!”  
+ The single-seat plane averaged 23 knots (26 miles per hour)
+making loops over lakes and Switzerland’s Jura Mountains. The
+next challenge will be for Solar Impulse to cross the Atlantic,
+then a five-stop, around-the-world flight set for 2013 using a
+second prototype about to begin construction this summer.  
+ New Credibility  
+ “Before yesterday morning, we didn’t have credibility,”
+Piccard, known for his record-setting 1999 balloon flight around
+the world, said on the group’s website. “It’s time to use this
+success to demonstrate in the political and economic world how
+we can use this clean technology.”  
+ The plane took to the air yesterday at 6:51 a.m., lifted by
+64-meter (210-foot) wings that about match the wingspan of an
+Airbus A340 airliner. It rose to almost 9,000 meters before
+sunset, powered by lithium batteries that made up 400 kilograms
+(880 pounds) of the plane’s 1,600-kilogram weight.  
+ Just before the aircraft landed this morning in clear skies
+at the Payerne field, Solar Impulse team staffer Lucas Chambers
+ wrote  on the company website: “The sun has risen here in
+Switzerland and Solar Impulse is now officially the first solar-
+powered aircraft to make it through an entire night.”  
+ It’s also “the end of an amazing night, the end of the
+longest and highest flight a solar-powered airplane has ever
+done.”  
+ Solar Impulse’s aviation feat was front-page news on the
+Zurich newspaper Blick am Abend with the headline “Victory of
+the Sun.” The project’s other main sponsors include Swatch
+Group AG’s Omega brand and Brussels-based  Solvay SA .  
+ To contact the reporters on this story:
+ Randall Hackley  in Zurich at 
+ rhackley@bloomberg.net 
+ Jeremy van Loon  in Berlin at 
+ jvanloon@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     The Solar Impulse HB-SIA solar-powered airplane flies during its maiden flight at Payerne Airport. Photographer: Charles Ellena/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     The solar panels and propeller of Solar Impulse HB-SIA are seen at Duebendorf Airport near Zurich. Photographer: Peter Frommenwiler/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     Flying veteran Andre Borschberg. Photographer: Peter Frommenwiler/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

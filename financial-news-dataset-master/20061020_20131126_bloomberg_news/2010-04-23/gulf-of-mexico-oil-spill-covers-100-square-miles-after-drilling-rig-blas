@@ -1,0 +1,83 @@
+-- Oil Spill From Rig Blast Is 10 Miles Wide
+-- Jim Polson
+-- 2010-04-23T12:37:49Z
+-- http://www.bloomberg.com/news/2010-04-23/gulf-of-mexico-oil-spill-covers-100-square-miles-after-drilling-rig-blast.html
+
+          
+          
+             An oil spill near the site where
+Transocean Ltd.’s Deepwater Horizon rig caught fire April 20 and
+sank yesterday has spread over an area of 100 square miles in
+the Gulf of Mexico and is drifting northeast toward shore.  
+ The spill measures 10 miles (16 kilometers) by 10 miles,
+about four times the area of Manhattan, and is comprised of a
+“light sheen with a few patches of thicker crude,” U.S. Coast
+Guard Lieutenant Commander Cheri Ben-Iesau said today. The Coast
+Guard’s search continues for 11 rig workers who are still
+missing, she said in a telephone interview.  
+ Aircraft hired by BP Plc, the oil producer that leased the
+Deepwater Horizon from Transocean, sprayed the spill with a
+chemical dispersant overnight, Ben-Iesau said. Eleven skimming
+vessels were collecting oil from the water’s surface, she said.
+The oil spill is about 43 miles south of Venice, Louisiana.  
+ “This certainly has the potential to be a major spill,”
+David Rainey, London-based BP’s vice president for Gulf of
+Mexico production, said yesterday at a press conference in New
+Orleans. An effort to close well valves on the sea floor using
+remote-operated vehicles will continue. BP hired a rig capable
+of drilling down to plug the well if necessary, he said.  
+ Michael O’Berry, a senior chief petty officer with the
+Coast Guard, said remote-operated vehicles found no new leakage
+from the well yesterday.  
+ Blowout  
+ The rig had burned for more than 24 hours after an
+explosion April 20 that Geneva-based Transocean said was caused
+by a so-called blowout, an unexpected surge in pressure that
+ejected petroleum at the top of the well.  
+ Of 126 workers aboard, 115 were rescued. If the missing
+workers died, it would be the deadliest U.S. offshore rig
+explosion since 1968, when 11 died and 20 were injured at a
+platform owned by Gulf Oil Corp., according to data from the
+Minerals Management Service. A 1987 helicopter crash aboard a
+Forest Oil Corp. platform killed 14 people.  
+ Royal Dutch Shell Plc shut its Nakika offshore oil platform
+and a pipeline in the Gulf of Mexico a mile away, as a
+precaution against the sunken Deepwater Horizon drifting into it
+and causing another spill, said Jill Davis, a company
+spokeswoman. Another, unidentified pipeline was shut nearby, the
+Coast Guard said.  
+ The Coast Guard throttled back its search for survivors to
+the cutter Coho overnight, Ben-Iesau said. Three aerial searches
+are planned today. Hope was fading that the 11 missing crew
+survived, Coast Guard Rear Admiral Mary Landry said at
+yesterday’s press conference.  
+ To contact the reporter on this story:
+Jim Polson in New York at 
+ jpolson@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Fire boats battle the fire at the off shore oil rig Deepwater Horizonin the Gulf of Mexico off the coast of Louisiana. Source: U.S. Coast Guard via Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

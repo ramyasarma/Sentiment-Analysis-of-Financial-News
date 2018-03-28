@@ -1,0 +1,53 @@
+-- California Car Club Seeks Pay-As-You-Drive Approval
+-- Inyoung Hwang
+-- 2010-06-29T21:48:39Z
+-- http://www.bloomberg.com/news/2010-06-29/california-automobile-club-applies-to-sell-pay-as-you-drive-car-insurance.html
+
+          
+          
+             Automobile Club of Southern
+California , a drivers’ group in the U.S. state with the most
+cars, submitted the second  application  to offer insurance in
+which motorists get discounts for traveling less.  
+ The filing for pay-as-you-drive coverage is being reviewed
+along with an earlier request by State Farm Mutual Automobile
+Insurance Co., California Insurance Commissioner  Steve Poizner 
+said today in an e-mailed statement.  
+ Pay-as-you-drive coverage allows companies to track miles
+traveled and other data about driving habits, to help set policy
+prices. Poizner, a Republican, approved the coverage in October.
+State Farm, the largest U.S. car insurer, was the first to apply
+in May.  
+ The program allows “insurers to offer plans based on more
+accurate mileage,” Poizner said in the statement. “People who
+choose to drive less will pay less for auto insurance.”  
+ To contact the reporter on this story:
+ Inyoung Hwang  in New York at 
+ ihwang7@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Republican Steve Poizner speaks during a meeting in Los Angeles. Photographer: David McNew/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

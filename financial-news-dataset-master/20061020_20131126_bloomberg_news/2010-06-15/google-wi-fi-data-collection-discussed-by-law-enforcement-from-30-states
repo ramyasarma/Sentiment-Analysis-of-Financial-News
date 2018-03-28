@@ -1,0 +1,87 @@
+-- Google Wi-Fi Data Collection Discussed by 30 States
+-- Joel Rosenblatt
+-- 2010-06-16T04:01:01Z
+-- http://www.bloomberg.com/news/2010-06-15/google-wi-fi-data-collection-discussed-by-law-enforcement-from-30-states.html
+
+          
+          
+             Google Inc. ’s collection of data via
+Wi-Fi networks was the subject of a conference call among law
+enforcement officials from 30 U.S. states, according to
+Connecticut Attorney General  Richard Blumenthal .  
+ “We’re looking to establish where, when, why, for how long
+and for what purpose there was this collection of information on
+wireless networks,” Blumenthal said yesterday in an interview.
+The call included representatives of the states’ attorneys
+general.  
+ The discussion reflects widening concern among law
+enforcement over the way  Google  handles user information. The
+company said last month it mistakenly gathered data from open
+wireless networks while it was capturing images of streets and
+houses for its Street View service, a product that lets users
+view photographs of an area online.  
+ Blumenthal has demanded that Mountain View, California-
+based Google inform his office of any data gathered from his
+state’s residents and businesses without permission, the
+attorney general said this month. Google owns the world’s
+largest  search engine .  
+ “This was a mistake, but we don’t believe we did anything
+illegal,” Google said in an e-mailed statement. “We’re working
+with the relevant authorities to answer their questions and
+concerns.”  
+ Illinois was among the states that joined in last week’s
+call led by Blumenthal.  
+ Illinois in Talks  
+ “We did participate in a conference call with other
+attorneys general regarding Google,” said Robyn Ziegler, a
+spokeswoman for Illinois Attorney General  Lisa Madigan .
+Additional information wasn’t immediately available, she said.  
+ The U.S. Federal Trade Commission said last month that it
+is reviewing Google’s data gathering. An Oregon judge has
+ordered the company turn over similar data collected in that
+state, including any e-mails, files or digital phone records,
+according to court documents.  
+ Also this month, Google said it was turning over to
+regulators in Germany, France and Spain data it mistakenly
+collected from unsecured Wi-Fi networks.  
+ Those countries are investigating Google’s data-gathering
+practices after the company said in May that its cars used to
+photograph roadsides for its Street View mapping service
+inadvertently recorded information.  
+ Prosecutors in the German city of Hamburg opened a criminal
+investigation. Authorities in Italy, Canada and the Czech
+Republic also have begun inquiries.  
+ The Oregon case is Vicki Van Valin v. Google, 10-00557,
+U.S. District Court, District of Oregon (Portland).  
+ To contact the reporters on this story:
+ Karen Freifeld  in New York at 
+ kfreifeld@bloomberg.net ;
+ Joel Rosenblatt  in San Francisco at 
+ jrosenblatt@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Visitors look at a Google street view car on display at the CeBIT technology fair. Photographer: Ralph Orlowski/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

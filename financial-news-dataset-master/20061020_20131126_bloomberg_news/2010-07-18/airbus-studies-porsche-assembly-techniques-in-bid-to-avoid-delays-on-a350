@@ -1,0 +1,127 @@
+-- Airbus Studies Porsche Assembly Techniques in Bid to Avoid Delays on A350
+-- Andrea Rothman
+-- 2010-07-18T22:01:00Z
+-- http://www.bloomberg.com/news/2010-07-18/airbus-studies-porsche-assembly-techniques-in-bid-to-avoid-delays-on-a350.html
+
+          
+          
+             Airbus SAS ’s head of operations,
+ Gerald Weber , is taking lessons from his former employers in the
+car industry to cut production time on the A350 model and avoid
+the years of delay the planemaker suffered on the A380 program.  
+ Weber, who has worked at  Daimler AG , said he helped cut
+back on customization of the wide-body jet, changed the way
+internal systems and the fuselage are combined and got
+designers, engineers and customers to cooperate from the
+aircraft’s inception to identify potential fixes.  
+ “Everyone is working more closely together on the A350,”
+Weber said in an interview at his Hamburg office overlooking the
+northern German city’s port entry. “On the A380, each team
+would design one part and then throw it over the fence.”  
+ Airbus is seeking to avoid the spiralling expenses of the
+A380 superjumbo, where production delays pushed development
+costs beyond $20 billion. The challenge of the A350 is to create
+Airbus’s first-ever fuselage from composites, a decision the
+company made after Boeing Co. opted for the material on its 787
+Dreamliner. Boeing had to postpone the plane’s entry into
+service five times.  
+ The composite material’s complexity is compounded by
+increasingly sophisticated electrical systems to accommodate in-
+flight communications and custom design requests by airlines,
+making it harder for jet makers to keep their design targets.  
+ First Delivery  
+ Airbus wants to deliver the first of its A350s to Qatar
+Airways Ltd. in 2013, and the Toulouse, France-based company has
+530 orders from 33 customers for the jet.  Boeing’s  787 performed
+its first flight to Europe yesterday for the Farnborough Air
+Show, which starts today.  
+ One change Airbus made on the A350 design was to pre-
+assemble the wiring and tubes for hydraulics, electronics, water
+and waste, air conditioning and oxygen outside into a so-called
+crown module and slot it into the fuselage rather than
+separately carrying every piece into the body. The process aims
+to shave as much as 20 percent off assembly time, Weber said.  
+ Airbus is studying the jet’s designs on a so-called mock-up
+of a fuselage section that includes some seats, electrical
+systems and sleeping compartments for the pilots, to complement
+the digital master plan. The A350 will be assembled in Toulouse,
+with the tail section coming from Spain, the wings coming from
+the U.K. and Germany providing large parts of the fuselage.  
+ Weber, who splits his work time between Hamburg, Toulouse
+and regional production centers in Germany, France and Spain,
+said he’s taken workers to study production at factories of
+ Porsche AG  and  Volkswagen AG . Airbus has put more than 2,000
+workers at its Hamburg facility through a so-called lean academy
+to let them study improved production processes.  
+ ‘Brutal’  
+ Among the lessons Airbus can learn from  carmakers  are lean
+manufacturing and standardization, Weber said. An A350 typically
+has more than 45,000 different brackets to fasten cables, a
+number Weber said he’d like to cut back to 5,000 eventually.  
+ “It’s a brutal act to drive engineers, they always want to
+be creative,” said Weber, who started his career as a toolmaker
+in southern Germany making components for the car industry.  
+ Airbus Chief Executive Officer  Tom Enders  has said the
+company will have to work hard to meet its deadlines on the
+A350, a challenge Weber attributed mainly to the lessons the
+company has to learn from working with composites. Airbus
+consumed some of its time plan after overhauling the plane’s
+design plan to include more of the lighter material, he said.  
+ “The decision was good to move to carbon fiber, you have
+to start and learn,” said Weber. “The tolerances of the parts
+are another risk ahead of us.”  
+ Reduced Customization  
+ To accelerate market introduction, Airbus has cut its
+flight test program on the A350 down to 12 months, from as long
+as 18 months on the A380, Weber said. While future risks remain
+on the composites structure, Weber said he’s confident the
+company can meet its 2013 delivery schedule on the A350.  
+ Delays in the aerospace industry are common. Airbus fell
+years behind on its A380 superjumbo after designers using
+different software systems led to miscalculations on cable
+lengths. Airlines’ requests for special features such as closed-
+off cabins, showers and special lighting further complicated
+production and prevented standardization.  
+ The A350, by contrast, will only feature a catalog of
+limited options from which customers can choose. The twin-jet
+plane aims to seat as many as 350 people, compared with as many
+as 300 on the 787. Weber said getting industrial production off
+the ground is the greater challenge than a jet’s first flight.  
+ “The problem is always the ramp-up,” Weber said.
+“Customization and ramp-up, that’s the devil.”  
+ For Related News and Information:
+Aircraft-order news: TNI ARO ORDER &lt;GO&gt;
+Boeing orders by year: FRAVBOGO &lt;Index&gt; HCP &lt;GO&gt;
+Airbus orders by year: FRAVABGO &lt;Index&gt; HCP &lt;GO&gt;
+Financial analysis: BA US &lt;Equity&gt; FA &lt;GO&gt;
+Brands and subsidiaries: BA US &lt;Equity&gt; RELS &lt;GO&gt;  
+ To contact the reporters on this story:
+ Andrea Rothman  in London via at 
+ aerothman@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     An employee cleans a model of an Airbus SA A350 airplane prior to the opening of the Farnborough International Airshow. Photographer: Simon Dawson/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

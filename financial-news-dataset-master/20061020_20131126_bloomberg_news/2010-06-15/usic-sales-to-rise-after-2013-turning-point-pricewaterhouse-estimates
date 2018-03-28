@@ -1,0 +1,80 @@
+-- Music Sales to Rise After `Turning Point' in 2013, Report Says
+-- Adam Satariano
+-- 2010-06-15T04:00:54Z
+-- http://www.bloomberg.com/news/2010-06-15/music-sales-to-rise-after-2013-turning-point-pricewaterhouse-estimates.html
+
+          
+          
+             Global music sales are approaching a
+turning point as revenue from digital outlets such as  Apple
+Inc. ’s iTunes overtake purchases of CDs, according to a
+PricewaterhouseCoopers report.  
+ Spending on recorded music will increase to $27.9 billion
+in 2014, from $26.4 billion last year, according to New York-
+based PricewaterhouseCoopers’s “Entertainment and Media Outlook
+for 2010-2014,” released today. Still, 2014 sales will be 19
+percent below their level in 2005, the report said.  
+ Music sales will turn around in 2013, according to the
+report, as record companies such as Vivendi SA’s Universal Music
+Group, Sony Music Entertainment and  Warner Music Group Corp. 
+develop new online services that generate advertising and
+subscription revenue. Growth in Asia Pacific and Latin America
+also will provide a boost as North American sales fall, it said.  
+ “We’re about to hit that turning point in the global music
+market,”  Stefanie Kane , a partner with PricewaterhouseCoopers,
+said in an interview. Digital sales will overtake physical
+purchases in 2011, the report said.  
+ Partnerships with mobile phone carriers will be a critical
+area of growth, Kane said. Integrating music services on
+smartphones such as Apple’s iPhone is expanding legal ways that
+people can buy music, she said.  
+ “You will see the record labels working more closely with
+the technology companies, with telephone companies and wireless
+distribution businesses, to try to figure out a model that’s
+what consumers are looking for,” Kane said.  
+ Declining Sales  
+ The firm’s outlook for rising digital sales contrasts with
+recent declines. Universal Music, the world’s largest record
+company, said in May that first-quarter sales fell 13.4 percent,
+including a 1.7 percent drop in digital purchases. Nielsen
+SoundScan said separately that U.S. purchases of digital tracks
+fell 1 percent in the first quarter.  
+ PricewaterhouseCoopers said new government anti-piracy
+programs -- in which people who repeatedly illegally download
+music, movies or other content lose their Internet access --
+also will help “stabilize the industry.”  
+ Digital purchases are forecast to rise to $17 billion in
+2014, from $8.1 billion in 2009, though the pace of growth is
+expected to slow, the group said. Physical sales will fall to
+$10.9 billion in 2014, down 66 percent from 2005, according to
+the report.  
+ To contact the reporter on this story:
+ Adam Satariano  in San Francisco at 
+ asatariano1@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A woman uses the itunes music application on an Apple iphone in London. Photographer: Chris Ratcliffe/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

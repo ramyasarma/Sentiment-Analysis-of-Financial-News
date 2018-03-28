@@ -1,0 +1,65 @@
+-- Trading of Noble Call Options Climbs to Two-Year High on Drilling Restart
+-- David Wethe
+-- 2010-06-25T20:23:08Z
+-- http://www.bloomberg.com/news/2010-06-25/noble-bullish-options-trades-jump-on-speculation-oil-exploration-to-resume.html
+
+          
+          
+             Trading of bullish  Noble Corp. 
+options jumped to a two-year high on speculation that the
+world’s third-largest oil drilling contractor will rally on a
+revised U.S. offshore drilling ban that allows more exploration.  
+ More than 42,000 calls to buy the stock changed hands,
+seven times the four-week  average  and 10 times the number of
+puts giving the right to sell shares. Geneva-based Noble gained
+2.9 percent to $29.28 in New York Stock Exchange trading to pare
+this year’s loss to 28 percent. The  most-active options  were
+July $30 calls, which rose 80 percent to $1.10 and accounted for
+almost three-quarters of call trades.  
+ “Our  analysts  have been checking and they have some
+confidence that the Interior Department will announce that
+developmental drilling is going to be allowed as part of the new
+iteration of the moratorium,” said  Tom Rinaldi , the energy desk
+strategist at Jefferies Group Inc. in New York. “Noble is one
+of the drillers with the most to gain from that.”  
+ U.S. Interior Secretary  Ken Salazar  said June 23 that the
+Obama administration may let certain deep-water drilling
+operations in the Gulf of Mexico resume during a six-month halt.
+Rules to be issued “will include the criteria under which it is
+appropriate to take a look at the lifting of the moratoria,”
+Salazar said at a Senate Appropriations Committee hearing.  
+ Larger rival Diamond Offshore Drilling Inc. climbed 3.1
+percent to $61.72, while call option volume was below average.
+Transocean Ltd. increased 2 cents to $49.77.  
+ To contact the reporters on this story:
+ Jeff Kearns  in New York at 
+ jkearns3@bloomberg.net ,
+David Wethe in Houston at 
+ dwethe@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Ken Salazar, U.S. secretary of the interior, testifies at a hearing of the Senate Environment and Public Works Committee. Photographer: Andrew Harrer/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

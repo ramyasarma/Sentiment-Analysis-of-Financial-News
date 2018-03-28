@@ -1,0 +1,82 @@
+-- Alberto Contador Keeps Tour de France Race Lead on Last Mountain Climb
+-- Alex Duff
+-- 2010-07-22T17:30:02Z
+-- http://www.bloomberg.com/news/2010-07-22/alberto-contador-maintains-tour-de-france-race-lead-on-last-mountain-climb.html
+
+          
+          
+             Alberto Contador  kept an eight-
+second lead in the Tour de France after matching closest rival
+ Andy Schleck  up the final mountain ascent of the race.  
+ Schleck won the stage by about a wheel’s length after the
+11.6-mile climb to the Col du Tourmalet at the end of stage 17,
+although he couldn’t cut the overall lead.  
+ There are two more flat stages and a time trial before the
+July 25 finish in Paris. Defending champion Contador is a time-
+trial specialist who beat Schleck by 1 minute, 45 seconds in the
+discipline over 25 miles last year.  
+ “I made a big step today that makes me more relaxed ahead
+of the time trial,” Contador, seeking a third Tour title in
+four years, told reporters. “But every day is a new story at
+the Tour and there’s a long way to Paris.”  
+ On the final climb, which was clouded in mist and lined
+with thousands of fans, Schleck attacked with six miles left and
+Contador immediately followed his wheel.  
+ Schleck turned to speak Contador as he rode. The Spaniard
+appeared not to reply.  
+ “I asked him to take his turn” at the front, Schleck
+said. “I wanted to be behind him so that I could attack but
+he’s very smart and he stayed on my wheel.”  
+ With just over two miles left, Contador moved ahead and
+built a lead of several meters, only for Schleck to pull back
+alongside him within seconds. Contador went back to tracking him
+for the rest of the climb.  
+ After they crossed the finish line, the pair embraced.  
+ Sanchez Crashes  
+ Spain’s  Samuel Sanchez , who’s third overall, finished 1
+minute, 32 seconds behind the leaders after crashing on a rain-
+soaked road early in the stage. Fourth-placed  Denis Menchov  was
+eight seconds further back today.  
+ Last year’s runner-up, Schleck is seeking to become the
+first Luxembourg winner of cycling’s premier race since Charly
+Gaul in 1958.  
+ “I know it’s going to be hard now to win this Tour,”
+Schleck said. “I tried everything I could but I couldn’t drop
+him.”  
+ French President  Nicolas Sarkozy  followed the stage in a
+race official’s car. At the summit, he shook hands and chatted
+with Contador, Schleck and seven-time champion  Lance Armstrong ,
+who’s competing at his last Tour.  
+ Armstrong finished in 17th place today, more than four
+minutes behind the leaders. He is 23rd of 171 riders in the
+overall standings.  
+ To contact the reporter on this story:
+ Alex Duff  on the Col du Tourmalet, France, via the London sports
+desk   aduff4@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Alberto Contador of Spain waits at the start of stage thirteen of the 2010 Tour de France from Rodez to Revel. Photographer: Bryn Lennon/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

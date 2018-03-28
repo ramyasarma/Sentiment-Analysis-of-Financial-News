@@ -1,0 +1,74 @@
+-- College Graduates' Debt Load May Outstrip Ability to Repay
+-- Janet Lorin
+-- 2010-04-26T14:00:00Z
+-- http://www.bloomberg.com/news/2010-04-26/college-graduates-debt-levels-may-outstrip-ability-to-repay-study-finds.html
+
+          
+          
+             Students, especially at for-profit
+universities, are leaving college in the U.S. with a debt load
+large enough to raise questions about the ability of many to
+repay loans, a  study  found.  
+ At for-profit colleges, 53 percent of the degree recipients
+in 2008 had education-related debt of $30,500 or more, compared
+with 24 percent at private nonprofit colleges and 12 percent at
+public schools, the New York-based  College Board  said in a
+report released today.  
+ Students graduating in 2008 faced jobs prospects reduced by
+the financial crisis and subsequent recession, the worst since
+the 1930s. Whether the students can earn enough to repay their
+loans is unclear, according to the study.  
+ “Too many students are borrowing more than they are likely
+to be able to manage,” wrote  Sandy Baum  and Patricia Steele,
+the study authors, who are policy analysts for the nonprofit
+College Board.  
+ About a third of all bachelor’s degree recipients didn’t
+borrow any money for college, according to the study. The report
+was based on the 2007-2008 academic year, which is the latest
+ available government data .  
+ Seventeen percent of bachelor’s degree recipients had loans
+of at least $30,500, enough to put them in the upper quarter of
+borrowers in terms of debt load.  
+ Of black bachelor-degree recipients, 27 percent had debt of
+$30,500 or more, the researchers said. That compared with 16
+percent of whites, 14 percent of Hispanics and 9 percent for
+Asians.  
+ “There is an urgent need for strengthening postsecondary
+financing policies and for better guidance and improved
+financial literacy for students before they borrow to finance
+their postsecondary education,” the study authors wrote.  
+ Repayment Terms  
+ While  new repayment  options on federal loans promise to
+help students cope with their debt, these choices don’t apply to
+private loans “taken by many students with high debt levels,”
+according to the report.  
+ The U.S. Department of Education’s income-based repayment
+plan limits the amount students are required to pay to no more
+than 15 percent of discretionary income, Baum said.  
+ The monthly payment is capped at an amount “intended to be
+affordable based on income and family size,” according to the
+department’s Web site. The payment will be lowered to no more
+than 10 percent in 2014 for new borrowers.  
+ To contact the reporter on this story:
+ Janet Lorin  in New York   jlorin@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

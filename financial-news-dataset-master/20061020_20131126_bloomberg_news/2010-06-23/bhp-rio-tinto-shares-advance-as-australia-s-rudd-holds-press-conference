@@ -1,0 +1,51 @@
+-- BHP, Rio Tinto Jump as Rudd Faces Challenge to His Leadership in Australia
+-- Nick Baker
+-- 2010-06-23T12:33:03Z
+-- http://www.bloomberg.com/news/2010-06-23/bhp-rio-tinto-shares-advance-as-australia-s-rudd-holds-press-conference.html
+
+          
+          
+             BHP Billiton Ltd . and  Rio Tinto Plc 
+shares advanced in U.S. trading as Australian Prime Minister
+ Kevin Rudd , who has proposed higher taxes on miners, said he
+faces a leadership challenge.  
+ BHP rose 2 percent to $69.52 and Rio Tinto climbed 3
+percent to $51.40 at 8:29 a.m. in New York.  
+ Rudd announced an additional tax on natural resource
+companies on May 2, and said on June 1 that the 40 percent rate
+is “right” because firms aren’t paying a fair amount. On June
+23, he said he’s seeking a “sensible and balanced” settlement
+with mining companies opposed to his plan for a 40 percent levy
+on the industry’s “super” profits.  
+ The prime minister said during a press conference today
+that some parts of his party no longer support him.  
+ To contact the reporter on this story:
+ Nick Baker  in New York at 
+ nbaker7@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Australia's prime minister Kevin Rudd said he faces a leadership challenge. Photographer: Pankaj Nangia/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

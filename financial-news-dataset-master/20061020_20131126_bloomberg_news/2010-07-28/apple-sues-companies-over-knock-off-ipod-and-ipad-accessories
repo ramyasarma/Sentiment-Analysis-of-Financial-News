@@ -1,0 +1,96 @@
+-- Apple Sues Over Knock-Off IPod and IPad Accessories
+-- Adam Satariano
+-- 2010-07-28T20:31:44Z
+-- http://www.bloomberg.com/news/2010-07-28/apple-sues-companies-over-knock-off-ipod-and-ipad-accessories.html
+
+          
+          
+             Apple Inc.  sued companies it said
+are selling unauthorized electronic accessories such as
+chargers, speakers and cables for the iPod music player, iPhone
+and iPad tablet computer.  
+ “Many are of inferior quality and reliability, raising
+significant concerns over compatibility with and damage to
+Apple’s products,” Apple said in the complaint, citing a user
+comment that a charger from one of the companies drained his
+iPod rather than replenishing the battery.  
+ The suit is an example of the tight grip Apple keeps on its
+products, including approval of accessories and applications.
+Apple has a program called “Made for iPod” under which
+manufacturers get a license to sell accessories for devices.
+Apple collects a royalty of 20 percent to 25 percent from each
+sale of a licensed accessory, according to  Shaw Wu , an analyst
+with Kaufman Bros. LP in San Francisco.  
+ “If you sell speakers for $100, Apple gets $20 to $25,”
+said Wu, who has a “buy” rating on Apple shares and doesn’t
+own them.  
+ In the complaint, Cupertino, California-based Apple said
+the unauthorized products are infringing as many as 10 patents
+and violating its trademarks.  
+ “They are trying to control all aspects of their
+devices,” said Mark Kesslen, chairman of the intellectual
+property group at Lowenstein Sandler PC, a law firm in New York.
+“They are using the various licensing agreements, partner
+agreements and brand management to make sure that it stays
+within their high standard.”  
+ Implied Endorsement  
+ Kesslen, who has represented clients seeking licensing
+agreements with Apple, said it’s trying to prevent unauthorized
+products from being marketed as endorsed by the company because
+these sales could harm its brand.  
+ The complaint, filed July 22 in federal court in San
+Francisco, identifies six sellers based in California and one in
+Washington and said Apple could name as many as 20 additional
+companies. Calls or e-mails to five of the named companies
+weren’t immediately returned, and contact information for two
+companies couldn’t be obtained.  
+ Apple’s policies drew attention from the U.S. Library of
+Congress this week, when it said in a periodic review of
+copyright laws that users could “jailbreak” their iPhones to
+download applications not authorized by the company.  
+ ‘Fine Line’  
+ “There is a very fine line” between maintaining control
+over its gadgets and anticompetitive behavior, Kesslen said.
+“You have to be very careful,” he said.  
+ In November, Apple sued a California company that it said
+was selling knockoff power adapters for the MacBook laptop
+computer. The accused company agreed to a court order that it
+stop selling the products.  
+ Apple sold 3.27 million iPads, 8.4 million iPhones and 9.41
+million iPods in the quarter ended June 26, the company said in
+its third-quarter earnings report on July 20.  
+ The case is Apple Inc. v. eForCity Corp., 10-3216, U.S.
+District Court for the Northern District of California (San
+Francisco).  
+ To contact the reporters on this story:
+ Susan Decker  in Washington at 
+ sdecker1@bloomberg.net ;
+ Adam Satariano  in San Francisco at 
+ asatariano1@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A customer tries out the new Apple Inc. iPhone 4 smart phone. Photographer: Hannelore Foerster/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

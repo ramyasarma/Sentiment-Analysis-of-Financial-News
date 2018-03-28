@@ -1,0 +1,57 @@
+-- McChrystal Reported Stripped of Command
+-- Julianna Goldman
+-- 2010-06-23T17:26:54Z
+-- http://www.bloomberg.com/news/2010-06-23/mcchrystal-said-to-be-stripped-of-afghanistan-war-command-after-comments.html
+
+          
+          
+             President Barack Obama ousted U.S.
+Army General Stanley McChrystal for belittling remarks about
+administration officials just over a year after he was entrusted
+with salvaging a losing war in Afghanistan, according to an
+administration official.  
+ McChrystal will be replaced by General David Petraeus, the
+official said.  
+ To contact the reporter on this story:
+Julianna Goldman in Washington at 
+ jgoldman6@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                                                 
+                     
+                     Enlarge image 
+                     
+                     
+                       General Stanley McChrystal stripped of command  
+                       
+                         
+                           Andrew Harrer/Bloomberg 
+                         
+                         General Stanley McChrystal meets with U.S. President Barack Obama. 
+                       
+                     
+                                        
+           
+                     General Stanley McChrystal meets with U.S. President Barack Obama. Photographer: Andrew Harrer/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

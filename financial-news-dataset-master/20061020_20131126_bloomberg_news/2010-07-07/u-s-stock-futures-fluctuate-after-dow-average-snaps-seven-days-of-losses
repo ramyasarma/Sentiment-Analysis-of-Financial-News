@@ -1,0 +1,42 @@
+-- U.S. Stock Futures Fluctuate a Day After Market Ceases Slide
+-- Michael P. Regan
+-- 2010-07-07T12:46:11Z
+-- http://www.bloomberg.com/news/2010-07-07/u-s-stock-futures-fluctuate-after-dow-average-snaps-seven-days-of-losses.html
+
+          
+          
+             U.S. stock-index futures fluctuated a
+day after the Dow Jones Industrial Average snapped a seven-day
+losing streak, its longest slump since the financial crisis of
+2008.  
+ Futures on the Standard & Poor’s 500 Index were unchanged
+at 1,024.2 at 8:44 a.m. in New York after slumping as much as
+0.8 percent earlier. Dow Jones Industrial Average futures
+slipped 3 points, or less than 0.1 percent, to 9,679.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A trader talks on a phone while working on the floor of the New York Stock Exchange in New York. Photographer: Jin Lee/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,81 @@
+-- Google Access in China Normal After Blockage Reported
+-- Brian Womack
+-- 2010-07-30T00:39:55Z
+-- http://www.bloomberg.com/news/2010-07-29/google-says-web-search-advertising-being-blocked-in-china.html
+
+          
+          
+             Google Inc.  said access to its
+website in China is working normally after earlier reporting
+that some services, including search, mobile and advertising,
+were fully blocked.  
+ “Because of the way we measure accessibility in China, it’s
+possible that our machines could overestimate the level of
+blockage,” the company said today in an e-mailed statement.
+“That seems to be what happened last night when there was a
+relatively small blockage. It appears now that users in China
+are accessing our properties normally.”  
+ Google’s initial report on its  website  raised concern that
+authorities in China might still be unsatisfied with how the
+company complies with local law. Google had also said at least
+two other services, including news and images, were partially
+blocked, while the Gmail e-mail service was fully or mostly
+accessible.  
+ Google had its Internet license renewed earlier this month
+after it stopped automatically sending Chinese users to its
+separate  Hong Kong  site. A conflict with China erupted in
+January after the company said it would no longer self-censor
+search results in the world’s largest Internet market.  
+ Zhang Feng, head of China’s Ministry of Industry and
+Information Technology’s communication development department,
+said last week the Google China website meets the nation’s
+regulations against online content deemed to be illicit.  
+ Google fell as much as 2.3 percent to $473.75 in  after-
+hours trading . The stock, down 22 percent this year, had gained
+64 cents to $484.99 during regular trading on the Nasdaq Stock
+Market.  
+ To contact the reporter on this story:
+ Brian Womack  in San Francisco at 
+ bwomack1@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     David Drummond, Google’s chief legal officer, told journalists in San Diego today that the company was looking into the cause and that it could be a technical glitch. Photographer: Andrew Harrer/Bloomberg  
+                   
+    
+
+                 
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 29 (Bloomberg) -- Bloomberg's Ari Levy talks about Google Inc.'s announcement that some of its services, including Web search, mobile and advertising, are being fully blocked in China.
+     Levy speaks with Pimm Fox on Bloomberg Television's "Taking Stock." (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

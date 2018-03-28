@@ -1,0 +1,64 @@
+-- Rand Set to Fall 6.4% Versus Dollar by July, Absa Says: Technical Analysis
+-- Garth Theunissen
+-- 2010-06-17T05:16:00Z
+-- http://www.bloomberg.com/news/2010-06-17/rand-poised-to-weaken-6-4-by-month-end-absa-predicts-technical-analysis.html
+
+          
+          
+             The rand is poised to weaken as much
+as 6.4 percent by the end of this month as concern Europe’s debt
+crisis will spread fuels risk aversion and encourages investors
+to sell higher-yielding assets, according to  Absa Group Ltd.   
+ South Africa’s currency is likely to decline to between
+7.90 and 8.10 per dollar by month-end as risk aversion pushes
+the currency toward its weakest levels reached in the past
+month, said  Judy Padayachee , a Johannesburg-based technical
+analyst at Absa, the nation’s largest retail bank and a unit of
+Barclays Plc. The rand gained 0.2 percent to 7.5829 yesterday.  
+ The rand has depreciated 5.1 percent from a 20-month high
+on April 7 as concern that Europe’s debt crisis will derail the
+global recovery prompted investors to dump higher-yielding
+assets. About $6 trillion has been erased from the value of
+global equities since its 2010 peak two months ago.  
+ “We have some risk aversion in the market right now and
+that will put the rand under pressure to weaken,” said
+Padayachee. “It’s been in an up-down, up-down consolidation
+pattern but with the risk aversion around it’s likely to move to
+the weaker levels within its range.”  
+ The rand, which fell to a six-month low of 8.08 per dollar
+in May, has recovered some losses after European Union
+governments approved a $1 trillion bailout for the most indebted
+countries and to backstop the euro. Moody’s Investors Service
+cut Greece’s credit rating four steps to junk on June 14, citing
+“substantial” risks to economic growth from austerity measures
+to meet budget deficit targets.  
+ To contact the reporter on this story:
+ Garth Theunissen  in Johannesburg 
+ gtheunissen@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     South Africa's currency a Rand note. Photographer: Alastair Miller/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

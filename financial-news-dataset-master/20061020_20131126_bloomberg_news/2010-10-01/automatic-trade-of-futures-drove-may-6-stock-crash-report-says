@@ -1,0 +1,194 @@
+-- Futures Sale Spurred May 6 Panic as Traders Lost Faith in Data
+-- B y   N i n a   M e h t a   a n d   W h i t n e y   K i s l i n g
+-- 2010-10-02T04:01:00Z
+-- http://www.bloomberg.com/news/2010-10-01/automatic-trade-of-futures-drove-may-6-stock-crash-report-says.html
+Declines in index futures convinced
+traders a “cataclysmic event” was pushing down equities on May
+6, leading them to abandon the market and triggering the biggest
+crash in a quarter century, federal regulators found.  A trader’s routine attempt to hedge losses helped set off a
+chain of events that sent the  Dow Jones Industrial Average  down
+as much as 998.50 points, according to a 104-page report
+released yesterday. Two people with knowledge of the findings by
+the Securities and Exchange Commission and Commodity Futures
+Trading Commission identified the firm as Waddell & Reed
+Financial Inc., an  Overland Park , Kansas-based mutual-fund
+company with about $68 billion in assets.  Five months after the plunge spurred calls in Congress for
+an overhaul of U.S. equities trading, yesterday’s report stopped
+short of giving fresh prescriptions for how to prevent another
+crash from happening. Instead, regulators honed their original
+findings to focus on how a single trade in the futures market
+bled into stocks, overwhelming human beings and computers alike
+before order was restored minutes later.  “Whether the liquidity providers were there or not, when
+you get this kind of snowball panic, it’s difficult to stop,”
+said Walter “Bucky” Hellwig, a Birmingham, Alabama-based
+senior vice president at BB&T Wealth Management, which oversees
+$17 billion. “That’s why the SEC is putting in some of these
+curbs and stops.”  Circuit Breakers  The crash that erased $862 billion from the value of U.S.
+equities in less than 20 minutes prompted exchanges to implement
+circuit breakers that pause trading in more than 1,300
+securities during periods of volatility. Uniform policies for
+canceling trades and eliminating stub quotes, or bids and offers
+at prices far away from the stock’s last sale, have also been
+proposed or adopted.  The report focused on the impact of tumbling futures on
+investor behavior. Market-making firms, concerned the data they
+were seeing was wrong or incomplete, reduced buying, while
+companies specializing in exchange-traded funds pulled out.
+Regulators placed less emphasis on the fragmented structure of
+U.S. equity exchanges, concluding high-frequency firms that have
+supplanted market makers as the main facilitators of trading on
+electronic venues acted like other participants after the
+selloff began.  According to yesterday’s document, a mutual-fund firm that
+wasn’t named sold 75,000 contracts on the Standard & Poor’s 500
+Index known as E-mini futures -- worth about $4.1 billion --
+using a computer program called an algorithm, which gave no
+regard to prices or the speed of its transactions. The seller
+was Waddell & Reed, two people familiar with the matter said.  ‘Absorbed Easily’  “We believe we were one of 250 firms engaging in E-mini
+trading during the period of the market selloff,” Waddell &
+Reed said in a statement in May. “We believe that trades of the
+size we initiated normally are absorbed easily in the market.”  Roger Hoadley, a spokesman for the company, said the
+statement was “still accurate and relevant.”  Lawmakers have asked if high-frequency firms that dominate
+electronic trading destabilized the market by withdrawing their
+liquidity when they were needed most. SEC Chairman  Mary Schapiro 
+said in September that regulators should examine increasing
+obligations for market makers that provide orders to buy and
+sell stocks.  Yesterday’s report “suggests our fragmented market system
+is even more vulnerable than we realized,” Senator Charles A. Schumer, a Democrat from  New York , said in a statement. “When
+one trade can wreak this much havoc, federal regulators need to
+seriously consider whether the costs of high-frequency trading
+outweigh the benefits. The SEC should seriously consider ways to
+slow things down when markets get volatile.”  Trading Algorithm  The biggest impact of high-frequency traders in the selloff
+came when the mutual fund began its initial sales of E-mini
+futures, the report said. Its trades were accompanied by a
+flurry of volume -- almost 140,000 contracts --among high-speed
+firms. The increased trading caused the firm’s chosen algorithm,
+programmed to align its orders with volume in the market, to
+sell more, the report said.  “Net holdings of HFTs fluctuated around zero so rapidly
+that they rarely held more than 3,000 contracts long or short on
+that day,” the report said. “Moreover, compared to the three
+days prior to May 6, there was an unusually high level of ‘hot
+potato’ trading volume -- due to repeated buying and selling of
+contracts -- among the HFTs,” it said. Between 2:45:13 p.m. and
+2:45:27 p.m. New York time, “HFTs traded over 27,000 contracts,
+which accounted for about 49 percent of the total trading
+volume, while buying only about 200 additional contracts net.”  Looking for Errors  As selling increased, some high-speed trading firms began
+assessing whether the rapid price moves were the result of
+erroneous data and how their systems were keeping up with the
+high volume of data, according to the report. They also sought
+to determine what impact the moves had on their risk and
+position limits and their profitability, and how the prospect of
+trades being canceled by exchanges would affect their holdings.  “A number of participants reported that because prices
+simultaneously fell across many types of securities, they feared
+the occurrence of a cataclysmic event of which they were not yet
+aware, and that their strategies were not designed to handle,”
+the report said. Some of these firms widened their quote
+spreads, or the difference between the price they were willing
+to pay for a security and the level at which they would sell.
+Others pared back the liquidity they were providing. “A
+significant number withdrew completely from the markets,” the
+report said.  CME Statement    CME Group Inc ., The Chicago-based owner of the world’s
+biggest futures market, disputed the role of the 75,000-contract
+trade in driving the market plunge. E-minis are a CME product.
+The trade represented 1.3 percent of total volume on May 6, and
+less than 9 percent of transactions at the time of execution,
+CME said in a statement.  “These hedging orders were entered in relatively small
+quantities and in a manner designed to dynamically adapt to
+market liquidity by participating in a target percentage of 9
+percent of the volume executed in the market,” CME said. “As a
+result of the significant volumes traded in the market, the
+hedge was completed in approximately 20 minutes, with more than
+half of the participant’s volume executed as the market rallied
+-- not as the market declined.”  ‘No. 1 Concern’  The SEC and CFTC said questions about the accuracy of the
+data they were receiving were the “No. 1 concern” of trading
+firms as the crash gained momentum. The rapid drop in the E-mini
+contract and among individual stocks triggered “data-integrity
+pauses” in the automated systems they use to trade, the study
+found. The programs look for unusually large price moves, and it
+didn’t matter that the swings they were observing were real.  The crash “was not caused by some automated trading
+strategy gone wild,”  Adam Sussman , director of research at New
+York-based Tabb Group LLC, wrote in a report sent to clients
+yesterday. “In fact, it would be reasonable to conclude that it
+was execution algorithms -- not high-frequency trading outfits -
+- that played a larger role as triggers.”  Because of the speed with which the algorithm was selling,
+market makers and other traders that help facilitate trading
+withdrew from the market or increased the spreads between their
+bid and offer prices, according to the SEC-CFTC report. High-
+frequency firms, “who normally both provide and take liquidity
+as part of their strategies, traded proportionally more as
+volume increased, and overall were net sellers in the rapidly
+declining broad market along with most other participants,”
+regulators said.  Five Hours  Only two sell programs in  E-mini futures  amounting to at
+least 75,000 contracts had occurred in the 12 months before May
+6, including one by the same firm, the report said. In that
+instance, it took the trader more than five hours to execute
+that many contracts.  Thirteen pages of the report examined the role of high-
+frequency traders in the evaporation of buy and sell orders
+following Waddell & Reed’s sale. While the computerized firms
+have been criticized in Congress and the press for being the
+first to pull out when losses started to snowball, regulators
+said that wasn’t always the case. The report cautioned against
+assuming all high-frequency firms use the same strategies,
+saying some are pure market makers, some proprietary traders,
+and some hybrids of both.  Stepping Away  The report said 6 of the 12 biggest high-frequency firms on  Nasdaq  and off-exchange venues scaled back after indexes hit
+their lows of the day, including 2 that stopped trading for the
+rest of the day. That compares with traditional market-making
+firms, which regulators said widened bid-ask spreads, reduced
+the number of shares provided or paused trading after price
+swings set off risk limits. Among traders specializing in ETFs,
+a “large majority” paused market making “for considerable
+periods” after volatility increased, according to the report.  “If you looked at the provision of the liquidity, there
+were a number of high-frequency traders that stood in the
+market,” said Kevin Cronin, the Atlanta-based global head of
+equity trading for Invesco Ltd., which has $573.8 billion in
+assets. “They stuck around, and that’s one of the things that
+kind of gets missed in this whole discussion.”  Schapiro is trying to protect investors in a fragmented
+U.S. stock market while maintaining liquidity -- the ease with
+which investors can buy and sell shares -- on venues dominated
+by firms that profit from computerized trading.  Shifting to Humans  While the report stressed the need to coordinate rules
+among equity venues in the U.S., it found that a system to slow
+down trading unique to the New York Stock Exchange didn’t have a
+direct impact on participants’ ability to buy and sell. More
+than 1,000 securities triggered liquidity replenishment points -
+- an NYSE system that switches from electronic trading to
+automated auctions overseen by humans -- that lasted more than 1
+second in the half hour starting at 2:30 p.m. on May 6, the
+report said. That compared with the daily average of 20 to 30.  Firms told regulators that their systems automatically
+adjust for slow quotes on the  NYSE Euronext  venue by routing to
+other exchanges. The agencies also noted that since 80 percent
+of the 326 securities with broken trades weren’t listed on NYSE,
+it’s unlikely that buy and sell orders “trapped” on the Big
+Board would have mitigated the selloff.  “Participants did not report they had difficulty routing
+or felt their orders were ‘trapped’ as a result of LRP events,”
+the study said. “However, a number of market participants told
+us that the fact so many LRPs were being triggered further
+underscored the severity of market conditions as they were
+unfolding, and that this additional ‘evidence’ played into their
+decisions to reduce liquidity, pause trading, or withdraw from
+the market.”  ‘Self-Help’  Declarations of “self-help” against NYSE Arca, which
+allow exchanges to ignore the best prices on that venue, by
+Nasdaq Stock Market and Bats Exchange didn’t exacerbate trading
+problems on May 6, the report found. Self-help is a mechanism
+exchanges use when a venue doesn’t respond to messages for 1
+second to avoid sending orders to a market that might be
+experiencing delays.  NYSE Euronext, which owns NYSE Arca, and  Nasdaq OMX Group
+Inc . are based in New York. Bats Global Markets has its
+headquarters in  Kansas City ,  Missouri .  The circuit breakers that pause securities when they rise
+or fall at least 10 percent within 5 minutes and a new order-
+cancellation process that applies to all stock venues have
+helped safeguard markets,  Bart Chilton , a CFTC commissioner,
+said in an interview yesterday on Bloomberg Television.  ‘Band-Aid Fixes’  “We’re safer today than we were on May 6,” he said. “We
+need to harmonize our rules and regulations. These are Band-Aid
+fixes.”  About $61 billion has been withdrawn from U.S. stock mutual
+funds since the beginning of May, the most during any five-month
+period since 2008, according to  data  compiled by the  Investment
+Company Institute , a Washington-based trade group. At the same
+time, about $116 billion was stashed in bond funds.  “Years down the line, this may happen again -- probably
+will,” said  Larry Peruzzi , senior equity trader at Cabrera
+Capital Markets Inc. in  Boston . “At least what we would learn
+is how do we protect the investor -- whether the circuit
+breakers, clear-defined rules. It’s a great first step in
+regaining the investor confidence.”  To contact the reporters on this story:
+Nina Mehta in New York at 
+ nmehta24@bloomberg.net ;
+Whitney Kisling in New York at 
+ wkisling@bloomberg.net .  To contact the editor responsible for this story:
+Nick Baker at   nbaker7@bloomberg.net . 

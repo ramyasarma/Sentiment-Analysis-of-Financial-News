@@ -1,0 +1,66 @@
+-- EMI Among Publishers Claiming Lime Wire Infringement
+-- Andrew M. Harris
+-- 2010-06-17T04:01:01Z
+-- http://www.bloomberg.com/news/2010-06-16/emi-is-among-eight-music-publishers-suing-lime-wire-for-copyright-breach.html
+
+          
+          
+             EMI Music Group Publishing  and
+Universal Music Publishing Group are among eight music
+publishers that sued file-sharing website Lime Wire LLC for
+copyright infringement on a “massive scale.”  
+ The suit was filed yesterday in Manhattan federal court,
+where a similar infringement case is pending against Lime Wire.
+In that case, members of the Recording Industry Association of
+America are seeking an order permanently shutting down the
+company and damages for copyright infringement. A trial is
+scheduled for January.  
+ “The songs that make their illegal venture lucrative don’t
+appear out of thin air,” the publishers said in a statement.
+“Behind every song is a vast network of people -- a songwriter,
+a publisher, a performer, a record label. They have robbed every
+individual in that chain.”  
+ Like the RIAA lawsuit, the music publishers are seeking
+damages and an order barring Lime Wire from infringing their
+works.  
+ “We have had many promising meetings with labels,
+publishers, songwriters and artists alike about our new music
+service and a business model that will compensate the entire
+industry,” Lime Wire said yesterday in a statement.
+“Publishers are absolutely a part of that solution, and we’re
+hopeful that this action will serve as a catalyst to help us get
+to there.”  
+ The case is EMI April Music Inc. v. Lime Wire, 10-cv-04695,
+U.S. District Court, Southern District of New York (Manhattan).  
+ To contact the reporters on this story:
+ David Glovin  in New York federal court at 
+ dglovin@bloomberg.net ;
+Andrew M Harris in Chicago federal court at 
+ aharris16@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     The EMI Music headquarters in London. Photographer: Chris Ratcliffe/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

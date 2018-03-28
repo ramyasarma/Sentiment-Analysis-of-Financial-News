@@ -1,0 +1,55 @@
+-- Fannie, Freddie Stock To Be Delisted From NYSE
+-- Bill Koenig
+-- 2010-06-16T12:11:35Z
+-- http://www.bloomberg.com/news/2010-06-16/fannie-mae-freddie-mac-stock-to-be-delisted-from-new-york-stock-exchange.html
+
+          
+          
+             The Federal Housing Finance Agency
+has directed Fannie Mae and Freddie Mac to delist their common
+and preferred stock from the New York Stock Exchange and any
+other national securities exchange.  
+ When completed, Fannie’s and Freddie’s common and preferred
+stock is expected to be quoted on the Over–the-Counter Bulletin
+Board, the agency said in an e-mailed statement.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Fannie Mae and Freddie Mac are directed to delist their common and preferred stock from the New York Stock Exchange and any other national securities exchange. Photographer: Ken Cedeno/Bloomberg  
+                   
+    
+
+                 
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          June 16 (Bloomberg) -- The Federal Housing Finance Agency has directed Fannie Mae and Freddie Mac to delist their common and preferred stock from the New York Stock Exchange and any other national securities exchange. Bloomberg's Jon Erlichman reports. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

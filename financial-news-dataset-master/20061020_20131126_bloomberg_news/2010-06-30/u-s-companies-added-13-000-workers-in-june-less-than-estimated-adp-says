@@ -1,0 +1,43 @@
+-- ADP: U.S. Firms Added 13K Workers in June, Trailing Estimates
+-- Shobhana Chandra
+-- 2010-06-30T12:17:23Z
+-- http://www.bloomberg.com/news/2010-06-30/u-s-companies-added-13-000-workers-in-june-less-than-estimated-adp-says.html
+
+          
+          
+             Companies in the U.S. expanded
+payrolls by 13,000 in June, according to figures from ADP
+Employer Services.  
+ The ADP figures were forecast to show a gain of 60,000
+jobs, according to the median estimate of 36 economists surveyed
+by Bloomberg. Projections ranged from 23,000 to 100,000.  
+ To contact the reporters on this story:
+ Shobhana Chandra  in Washington at 
+ schandra1@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     The lack of jobs will curtail consumer spending, slowing down U.S economic recovery. Photographer: Ronda Churchill/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

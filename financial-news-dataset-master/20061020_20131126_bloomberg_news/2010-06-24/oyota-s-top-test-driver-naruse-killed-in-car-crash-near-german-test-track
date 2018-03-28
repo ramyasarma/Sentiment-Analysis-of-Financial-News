@@ -1,0 +1,53 @@
+-- Toyota's Chief Test Driver Hiromu Naruse Killed in Car Accident in Germany
+-- Takako Iwatani
+-- 2010-06-24T04:54:53Z
+-- http://www.bloomberg.com/news/2010-06-24/toyota-s-top-test-driver-naruse-killed-in-car-crash-near-german-test-track.html
+
+          
+          
+             Toyota Motor Corp. ’s chief test
+driver, Hiromu Naruse, was killed in a car accident yesterday in
+Germany, the world’s largest automaker said.  
+ Naruse, 67, died following the accident near a test track,
+the New York Times reported yesterday, citing the German
+newspaper Rhein-Zeitung. A  Bayerische Motoren Werke AG  vehicle
+driven by another test driver was involved in the accident, the
+cause of which is still unclear, according to the report.  
+ “We are surprised by the sudden sad news,”  Mieko Iwasaki ,
+a Tokyo-based spokeswoman for Toyota, said by phone today. “We
+express our heartfelt sympathy to people who were in the
+accident.” Iwasaki declined to comment on the details of the
+accident pending an investigation.  
+ Naruse joined the Toyota City, Japan-based carmaker in 1963
+and was involved in developing sports cars including the 2000GT
+and Lexus LFA, according to the Times report.  
+ To contact the reporter on this story:
+ Takako Iwatani  in Tokyo at 
+ tiwatani@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A Lexus LFA. Less than 9 percent of 2009 model-year cars sold in the U.S. came with a stick, according to data from industry researcher Ward’s Automotive Group. Source: Lexus via Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

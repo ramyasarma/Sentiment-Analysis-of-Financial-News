@@ -1,0 +1,84 @@
+-- Google to Buy ITA Software for $700 Million in Cash
+-- Brian Womack
+-- 2010-07-01T23:04:06Z
+-- http://www.bloomberg.com/news/2010-07-01/google-will-buy-ita-software-for-700-million-to-add-flight-search-tools.html
+
+          
+          
+             Google Inc.  agreed to buy flight-
+information provider ITA Software Inc. for $700 million to get a
+bigger slice of the online travel business and make it easier
+for users to find trip information on the Web.  
+ The acquisition will help Google build flight-search tools,
+the companies said today in a joint statement. The all-cash deal
+is subject to adjustments, they said, without elaborating.  
+ “Search is even more important today than ever,” Google
+Chief Executive Officer  Eric Schmidt  said today on a conference
+call discussing the transaction. “In looking at travel, and
+airline travel in particular, I think you can see that airline
+travel and search are a perfect opportunity for more innovation,
+more investment, more interesting products.”  
+ ITA may help Google vie with travel-information services
+from rivals including  Microsoft Corp . and Kayak.com. Each wants
+more of the online travel market, which in the U.S. generated
+$88.4 billion in sales last year, according to PhoCusWright
+Inc., a consulting firm in Sherman, Connecticut.  
+ Google had more than five times the  online search share  of
+Microsoft’s Bing in the U.S. in May, according to ComScore Inc.
+in Reston, Virginia. Microsoft has lured users partly through
+travel-related tools including features that predict ticket-
+price changes.  
+ ITA , based in Cambridge, Massachusetts, provides software
+for online travel company  Orbitz Worldwide Inc.  and for
+Microsoft. Schmidt said Google will honor all existing
+agreements.  
+ ‘Significant Review’  
+ With the agreement, Google’s flight-search tools may help
+users more easily search for flights and compare flight options
+and prices, Schmidt said. Then, Google would push users to sites
+to buy tickets.  
+ “It’s a smart move,”  Henry Harteveldt , an analyst at
+Forrester Research Inc. in San Francisco, said of the
+acquisition. “You are dealing with a product that has very low
+loyalty or preference among travelers. It’s led by scheduling
+and the price of the airline ticket.”  
+ Google completed its $750 million acquisition of AdMob
+Inc., a provider of mobile ads, after the U.S. Federal Trade
+Commission cleared the deal in May. The deal was first disclosed
+by Google in November.  
+ Schmidt said he suspects there will be a “significant
+review” of the ITA deal. He declined to speculate on the timing
+of when the acquisition will close.  
+ Google , based in Mountain View, California, fell $5.46 to
+$439.49 at 4 p.m. New York time on the Nasdaq Stock Market. The
+shares have fallen 29 percent this year.  
+ To contact the reporter on this story:
+ Brian Womack  in San Francisco at 
+ Bwomack1@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Eric Schmidt, chairman and chief executive officer of Google Inc. Photographer: Peter Foley/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

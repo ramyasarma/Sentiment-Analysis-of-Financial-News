@@ -1,0 +1,88 @@
+-- Deutsche Bank to Close Three-Person Desk in Japan Following Trading Error
+-- Finbarr Flynn
+-- 2010-07-16T13:00:33Z
+-- http://www.bloomberg.com/news/2010-07-16/deutsche-bank-said-to-close-japanese-desk-responsible-for-trading-error.html
+
+          
+          
+             Deutsche Bank AG  will close a three-
+person operation in Japan after a probe of erroneous sell orders
+made in June that caused the Nikkei 225 Stock Average to plunge.  
+ Deutsche Bank announced the results of the investigation
+today in a  statement  on its website. The bank will continue to
+trade in Japan through other departments and closure of the
+Asian Quantitative Trading department in Japan will not affect
+clients, said  Seiko Adachi , a Tokyo-based spokeswoman.  
+ Automated sell orders for Japan’s  Nikkei 225 Stock Average 
+futures contracts sent the index into a brief dive on June 1
+seconds after trading opened at 9 a.m. The orders were sent
+after changes to an automated trading system resulted in  market
+data being misread, the bank said in the statement.    Deutsche
+Bank said it has since stopped using the automated trading
+system in Japan.  
+ The company “is reviewing the processes and governance of
+systems development, operations, upgrades and maintenance,”
+David Hatt, president of the local securities unit, said in the
+statement.  
+ About 180 sell orders, amounting to about 16 trillion yen
+($183 billion), were placed repeatedly at the start of trading
+ Michio Yoneda , president of Osaka Stock Exchange, said on June
+22. About 50 billion yen of those orders were executed and the
+transactions were canceled after the exchange contacted the
+bank, he said.  
+ Deutsche Bank  fell  as much as 2 percent to 48.20 euros in
+Frankfurt trading and was 1.2 percent lower at 48.60 euros as of
+2:33 p.m. local time. The stock is down 1.7 percent this year.  
+ To contact the reporter on this story:
+ Shingo Kawamoto  in Tokyo at 
+ skawamoto2@bloomberg.net ;
+ Finbarr Flynn  in Tokyo at 
+ fflynn3@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                                                 
+                     
+                     Enlarge image 
+                     
+                     
+                       A Deutsche Bank AG logo  
+                       
+                         
+                           Hannelore Foerster/Bloomberg 
+                         
+                         An employee passes a Deutsche Bank AG logo during a news conference in Frankfurt, on Feb. 4, 2010. 
+                       
+                     
+                                        
+           
+                     An employee passes a Deutsche Bank AG logo during a news conference in Frankfurt, on Feb. 4, 2010. Photographer: Hannelore Foerster/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     Deutsche Bank AG chief executive officer Josef Ackermann. Photographer: Hannelore Foerster/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

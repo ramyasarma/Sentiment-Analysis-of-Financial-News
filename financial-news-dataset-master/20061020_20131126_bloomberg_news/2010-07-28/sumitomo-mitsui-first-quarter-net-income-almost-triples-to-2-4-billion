@@ -1,0 +1,60 @@
+-- Sumitomo Mitsui Profit Triples on Declining Bad-Loan Costs, Trading Income
+-- Finbarr Flynn
+-- 2010-07-28T07:13:22Z
+-- http://www.bloomberg.com/news/2010-07-28/sumitomo-mitsui-first-quarter-net-income-almost-triples-to-2-4-billion.html
+
+          
+          
+             Sumitomo Mitsui Financial Group Inc. ,
+Japan’s third-largest traded bank by assets, said first-quarter
+profit tripled, beating analysts’ estimates as bad-loan charges 
+fell and trading income climbed.  
+  Net income  climbed to 211.8 billion yen ($2.4 billion) in
+the three months ended June 30, from 72.8 billion yen a year
+earlier, the company said in a statement to the Tokyo Stock
+Exchange today. That beat the 110 billion yen average estimate
+of five analysts surveyed by Bloomberg.  
+ Eleven months of declining corporate bankruptcies in Japan
+helped Chief Executive Officer  Teisuke Kitayama  cut bad-loan
+costs by 73 percent during the quarter. The Tokyo-based bank
+reiterated its full-year profit  forecast  of 340 billion yen
+after corporate sentiment in the world’s second-largest economy
+reached a two-year high.  
+ “Banks’ non-performing loans are likely to trend down this
+year on the improving economic outlook,” said  Ismael Pili , a
+Tokyo-based analyst at Macquarie Group Ltd., before today’s
+announcement. “It was a strong quarter, driven by lower loan
+provisions, and equity and bond related gains.”  
+ Sumitomo Mitsui  rose  3.6 percent to 2,679 yen on the Tokyo
+Stock Exchange before today’s earnings announcement. The shares
+have gained 1.3 percent this year.  
+ To contact the reporter on this story:
+ Finbarr Flynn  in Tokyo at 
+ fflynn3@bloomberg.net ;  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Sumitomo Mitsui Financial Group Inc chief executive officer Teisuke Kitayama. Photographer: Akio Kon/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

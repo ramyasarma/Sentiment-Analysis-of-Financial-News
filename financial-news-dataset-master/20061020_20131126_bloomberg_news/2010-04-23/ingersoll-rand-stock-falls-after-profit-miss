@@ -1,0 +1,67 @@
+-- Ingersoll-Rand Stock Falls After Profit Miss
+-- Edmond Lococo
+-- 2010-04-23T18:30:18Z
+-- http://www.bloomberg.com/news/2010-04-23/ingersoll-rand-stock-falls-after-profit-miss.html
+
+          
+          
+             Ingersoll-Rand Plc, the maker of
+Trane air conditioners, fell the most in two months after first-
+quarter profit missed analysts’ estimates amid declining demand
+from non-residential construction in the U.S. and Europe.  
+ Ingersoll dropped $2.52, or 6.5 percent, to $36.48 at 2:02
+p.m. in New York Stock Exchange composite trading. The shares
+earlier decreased as much as 8.5 percent, the largest intraday
+decline since Feb. 12.  
+ “The Trane commercial business continues to see equipment
+and systems revenue decline significantly,” Daniel Dowd, a New
+York-based analyst at Sanford C. Bernstein & Co., said today in
+a note to investors. “With continued pressure on commercial
+construction in 2010, and the possibility for weakness to extend
+into 2011, we believe this end market will continue to be a
+drag.”  
+ First-quarter profit excluding some items was 16 cents a
+share, Swords, Ireland-based Ingersoll said today in a
+statement. The company was projected to report per-share
+earnings of 20 cents, the average estimate of 17 analysts
+surveyed by Bloomberg.  
+ Revenue of $2.95 billion fell 1.6 percent short of the low
+end of the company’s February forecast. Ingersoll “has
+confidence” the revenue shortfall “was timing related,” Chief
+Executive Officer Michael Lamach, who became CEO in February,
+said today on a conference call.  
+ Ingersoll today forecast full-year profit of $1.88 to $2.23
+a share. That compares with the $2.22 average estimate from 18
+analysts surveyed by Bloomberg.  
+ To contact the reporters on this story:
+Will Daley in New York at 
+ wdaley2@bloomberg.net  or:
+Edmond Lococo in Boston at 
+ elococo@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A Trane logo hangs on a sign outside Trane Inc. headquarters in Parsippany, New Jersey, in this file photo. Photographer: Jeff Zelevansky/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

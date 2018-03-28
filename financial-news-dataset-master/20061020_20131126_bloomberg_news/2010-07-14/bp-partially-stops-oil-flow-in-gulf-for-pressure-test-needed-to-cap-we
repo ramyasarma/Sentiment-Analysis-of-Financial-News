@@ -1,0 +1,58 @@
+-- BP Partially Stops Macondo Well Oil Flow for Test
+-- Jim Polson
+-- 2010-07-14T23:15:50Z
+-- http://www.bloomberg.com/news/2010-07-14/bp-partially-stops-oil-flow-in-gulf-for-pressure-test-needed-to-cap-well.html
+
+          
+          
+             Some of the flow of oil from  BP
+Plc ’s Macondo well in the Gulf of Mexico has been stopped as the
+company prepares to begin a pressure test.  
+ The company will close valves to raise the pressure inside
+the well in six-hour intervals. The test will determine whether
+a containment cap can remain in place without causing the well
+to burst open elsewhere.  
+ “This is an important test,” BP Senior Vice President
+Kent Wells told reporters on the call today. “We’re proceeding
+with overabundance of caution,”  
+ BP may require 48 hours of test data to determine whether
+it can safely seal the leak and stop the spill, which began
+after an April 20 rig explosion.  
+ The procedure was delayed more than 24 hours after Energy
+Secretary  Steven Chu  and a team of experts said more analysis
+was needed, National Incident Commander  Thad Allen  said. Wells
+said earlier today the delay also pushed back the schedule for a
+relief well being drilled to plug the well by a day or two.  
+ The Macondo well has been leaking as much as 60,000 barrels
+of oil a day, according to a government estimate, since the
+drilling-rig blast that killed 11 workers.  
+ To contact the reporters on this story:
+ Katarzyna Klimasinska  in Houston at 
+ kklimasinska@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     The Transocean Ltd. Development Driller II, leased by BP Plc, works to drill a relief well at the site of the BP Plc Deepwater Horizon oil spill in the Gulf of Mexico off the coast of Louisiana . Photographer: Derick E. Hingle/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

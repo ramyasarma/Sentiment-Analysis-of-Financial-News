@@ -1,0 +1,86 @@
+-- Chavez Seeks to Join Obama, Castro in Adding Twitter to His Media Arsenal
+-- Daniel Cancel
+-- 2010-04-26T20:31:19Z
+-- http://www.bloomberg.com/news/2010-04-26/chavez-seeks-to-join-obama-castro-in-adding-twitter-to-his-media-arsenal.html
+
+          
+          
+             Venezuelan President Hugo Chavez,
+who already writes a weekly newspaper column, created a radio
+program and speaks for as many as seven hours every Sunday,
+plans to add a Twitter Inc. account to his media arsenal.  
+ “Comandante Chavez is going to open his Twitter account
+soon to wage the battle online,” Diosdado Cabello, head of the
+country’s telecommunications regulator, said today on state
+television. “I’m sure he’ll break records for numbers of
+followers.”  
+ Chavez will join world leaders including U.S. President
+Barack Obama (3.8 million followers), Israeli Prime Minister
+Benjamin Netanyahu (3,547 followers) and Chilean President
+Sebastian Pinera (88,978 followers) in reaching out to
+supporters and opponents alike via the social networking tool
+that limits users to 140 characters per post.  
+ Chavez, a former paratrooper who wants to convert Venezuela
+into a socialist state, says his government is waging a media
+war against conservative news organizations that vilify his
+presidency and follow orders from the U.S. to overthrow his
+administration. Chavez was praised last year by his mentor Fidel
+Castro, who has a Twitter site organized by newspaper
+Cubadebate.cu, for spending 1,536 hours over 10 years speaking
+during his “Alo Presidente” show.  
+ ‘Revolutionary Idea’  
+ “The case of Hugo Chavez is exceptional in the history of
+politics,” Castro wrote in a note published last year on the
+Cubadebate.com website. “Others have gained fame through the
+written press, radio and television, but never has a
+revolutionary idea made use of a communications media with such
+efficiency.”  
+ The announcement comes after Venezuela’s opposition said
+Chavez, 55, was trying to block social networking sites like
+Facebook Inc. and Twitter last month after he called for an
+investigation into a local news site for publishing false
+information about the death of Cabello, who is also Public Works
+and Housing Minister.  
+ Chavez rejected the accusations and said that he would soon
+be setting up his own website to publish news and participate in
+debates.  
+ “I’m going to have my online trench from the palace to
+wage the battle,” he said on March 21. “I’ll provide
+information and even respond to my enemies.”  
+ To contact the reporter on this story:
+Daniel Cancel in Caracas at 
+ dcancel@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          April 14 (Bloomberg) -- Chris Sacca, managing director of Lowercase Capital and a former executive at Google Inc., talks with Bloomberg's Cris Valerio about Twitter Inc.'s plan to seek international advertising partners and revenue.
+     Sacca also discusses Google's tool that lets users explore an archive of public posts on the Twitter site. Bloomberg's Carol Massar also speaks. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

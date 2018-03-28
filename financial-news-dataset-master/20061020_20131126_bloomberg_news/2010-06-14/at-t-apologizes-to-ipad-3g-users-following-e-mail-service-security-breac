@@ -1,0 +1,126 @@
+-- AT&T Apologizes to IPad 3G Users for Security Breach
+-- Greg Bensinger
+-- 2010-06-14T13:04:49Z
+-- http://www.bloomberg.com/news/2010-06-14/at-t-apologizes-to-ipad-3g-users-following-e-mail-service-security-breach.html
+
+          
+          
+             AT&T Inc. apologized to  Apple Inc. 
+iPad 3G tablet computer users whose e-mail addresses were
+exposed during a security breach disclosed last week.  
+ “No other information was exposed,”  Dorothy Attwood ,
+AT&T’s chief privacy officer, said in an e-mail sent yesterday
+to iPad accounts that may have been affected. “We apologize for
+the incident and any inconvenience it may have caused.”  
+ As many as 114,000 e-mail addresses were uncovered through
+a program on AT&T’s website by  Goatse Security , Escher
+Auernheimer, an analyst with the nine-person group, said on June
+11, after the leak was made public earlier in the week.  
+ The Federal Bureau of Investigation has begun an inquiry,
+Lindsay Godwin, a bureau spokeswoman, said in a June 11
+interview, declining to give more specifics. Goatse said it
+obtained access to the e-mail addresses of New York Times Chief
+Executive Officer  Janet Robinson  and New York Mayor  Michael Bloomberg , among others.  
+ “The hackers deliberately went to great efforts with a
+random program to extract” the information, Attwood said in the
+e-mail. “They then put together a list of these emails and
+distributed it for their own publicity.”  
+ Goatse, which helps Web firms close security gaps, said in
+ a blog posting  today that it uncovered the iPad flaw in about an
+hour and publicized it in the interest of user safety.  
+ “The potential for this sort of attack and the number of
+iPad users on the list we saw who were stewards of major public
+and commercial infrastructure necessitated our public
+disclosure,” Auernheimer said in the blog post.  
+ Cyber Threat Probe  
+ Gawker Media, whose Valleywag  website  was the first to
+report on the iPad breach after being sent the e-mail list, was
+contacted by the FBI and asked to save documents related to its
+report, said Editor-in-Chief Remy Stern in an interview. He said
+he didn’t know the nature of the FBI’s investigation.  
+ “The FBI is aware of these possible computer intrusions and
+has opened an investigation to address the potential cyber
+threat,” the FBI’s Godwin said June 11 in an e-mail. She didn’t
+provide further details.  
+ The addresses were released on condition that the website
+not publish them, Auernheimer said. The FBI hasn’t contacted
+anyone at Goatse Security, he said today in an e-mail.  
+ AT&T , the second-largest U.S. mobile-phone provider,
+corrected the flaw, the company said June 9 in an e-mailed
+statement. The e-mail yesterday to affected iPad users was
+provided by  Mark Siegel , a spokesman with AT&T.  
+ Addresses Exposed  
+ Valleywag said on its website on June 9 that about 114,000
+e-mail addresses of iPad users, including members of the U.S.
+military and executives at media, technology and finance
+companies, were exposed.  
+ Apple has sold more than 2 million iPads since releasing the
+device in April. Some models of the iPad tablet work with AT&T’s
+third-generation wireless network, and others only work on Wi-Fi
+networks. Apple doesn’t say how many of each model it has sold.  
+ AT&T fell 15 cents to $25.29 in New York Stock Exchange
+composite trading on June 11. The shares dropped 9.8 percent
+this year, compared with a 2.1 percent decline in the Dow Jones
+Industrial Average.  
+ Michael Bloomberg is the founder and majority owner of
+Bloomberg News parent Bloomberg LP.  
+ To contact the reporters on this story:
+ Greg Bensinger  in New York at 
+ gbensinger1@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Apple has sold more than 2 million iPads since releasing the device in April. Some models of the iPad tablet work with AT&T’s third-generation wireless network, and others only work on Wi-Fi networks. Photographer: Chris Ratcliffe/Bloomberg  
+                   
+    
+
+                 
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          June 10 (Bloomberg) -- Jeff Owens, an analyst for Goatse Security, talks with Bloomberg's Julie Hyman about his firm's investigation into an AT&T Inc. security flaw that exposed the e-mail addresses of some owners of Apple Inc.'s iPad 3G.
+     AT&T, the second-largest U.S. mobile-phone provider, corrected the flaw, the company said yesterday in an e-mailed statement. Bloomberg's Mark Crumpton and Gigi Stone also speak. (Source: Bloomberg)  
+                   
+    
+
+                 
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          June 14 (Bloomberg) -- Steve Case, chairman of Revolution LLC and co-founder of America Online Inc., talks about the need to focus on online privacy, Revolution's investment in Zipcar Inc. and the outlook for AOL Inc.
+     Case talks with Betty Liu on Bloomberg Television's "In the Loop." (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

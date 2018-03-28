@@ -1,0 +1,69 @@
+-- Gerald Ronson Is Said to Secure First Tenant for City of London Skyscraper
+-- Chris Bourke
+-- 2010-07-06T10:11:39Z
+-- http://www.bloomberg.com/news/2010-07-06/heron-said-to-its-secure-first-tenant-for-city-of-london-s-tallest-tower.html
+
+          
+          
+             Gerald Ronson ’s Heron International
+secured the first tenant for what will be the tallest tower in
+the City of London, a person with knowledge of the agreement
+said.  
+ McDermott Will & Emery LLP , a Chicago-based law firm, will
+occupy the eighth and ninth floors of the 46-story Heron Tower,
+according to the person, who declined to be identified because
+the information isn’t public. It will pay 55 pounds ($84) a
+square foot for space in the skyscraper near Liverpool Street
+railway station, the person said.  
+ Heron Tower is one of only two prime office buildings
+that’s due to be completed in London’s main financial district
+next year. The lack of space coming into the market caused the
+average rent for the best offices to increase by 5 percent in
+the second quarter to about 50 pounds a square foot, according
+to  Jones Lang LaSalle Inc .  
+ The tower forms part of a 1.5 billion-pound trio of City of
+London projects by London-based Heron, which includes a 36-story
+residential development next to the Barbican complex. The
+developer is also seeking permission for a 43-story building
+next to the Heron Tower that will include a Four Seasons hotel.  
+ Henry Columbine, a spokesman for Heron, declined to
+comment. No one at  McDermott Will & Emery ’s London office was
+immediately available to comment.  
+ To contact the reporter on this story:
+ Chris Bourke  in London at 
+ cbourke4@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Heron International CEO Gerald Ronson stands at the top of the Heron Tower during the completion ceremony in London. Photographer: Jason Alden/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     The Heron Tower, left, constructed by Heron International Ltd., stands in London. Photographer: Jason Alden/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

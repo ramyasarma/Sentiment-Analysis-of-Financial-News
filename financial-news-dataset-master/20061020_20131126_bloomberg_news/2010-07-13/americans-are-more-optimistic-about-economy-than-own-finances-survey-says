@@ -1,0 +1,78 @@
+-- Americans More Optimistic on Economy Than Their Own Finances, Survey Says
+-- Alexis Leondis
+-- 2010-07-13T16:17:35Z
+-- http://www.bloomberg.com/news/2010-07-13/americans-are-more-optimistic-about-economy-than-own-finances-survey-says.html
+
+          
+          
+             More Americans expect the U.S.
+economy to improve rather than decline in the next six months,
+according to a  survey  by a financial planning group.  
+ Forty-four percent of respondents said the economy will get
+better compared with 28 percent who believe it will get worse,
+said the survey, which was released today by the Washington-
+based Certified Financial Planner Board of Standards Inc., an
+organization that grants certification to financial advisers.  
+ “Americans are generally hopeful, and much of the economic
+news leads us to conclude that we are out of the recession and a
+double dip is unlikely,” said  Robert Glovsky , chair of the CFP
+Board and director of Boston University’s program for financial
+planners. “With that said, most Americans have not planned well
+for their futures.”  
+ The U.S. is struggling to recover from the worst recession
+since the 1930s, with 83,000 private jobs added in June.
+ Unemployment  was 9.5 percent last month, compared with 9.7
+percent in May and confidence among U.S. consumers rose in June
+to the highest level in more than two years, another survey
+showed. The Thomson Reuters/University of Michigan preliminary
+index of consumer sentiment increased to 75.5, the highest since
+January 2008, from 73.6 in May.  
+ The CFP Board survey was conducted by telephone in July
+among 1,002 adults age 18 and over by Penn Schoen Berland, a
+market research and consulting firm based in Washington. The
+margin of error was plus or minus 3 percent.  
+ Less Optimistic  
+ Americans remain less optimistic about their own finances,
+the CFP Board survey said. About 37 percent said they expect
+their finances to improve in the next six months and are more
+worried about their finances today than they were two years ago,
+with 65 percent saying they have financial concerns that are
+“much” or “somewhat” greater than they were at the beginning
+of the recession.  
+ The top three financial issues for respondents were
+retirement goals and planning, education funding and savings
+targets, the survey said.  
+ Eighty percent said they think that Congress and regulators
+haven’t done enough to deal with the financial market problems
+and their impact on investors. The U.S. Senate is expected to
+give final approval this week to legislation overhauling the
+financial-services industry.  
+ The bill creates a consumer bureau at the Federal Reserve,
+a council of regulators to monitor firms for systemic risk to
+the economy and a mechanism for liquidating large financial
+companies whose collapse would threaten the economy. The House
+of Representatives approved the bill on June 30.  
+ To contact the reporter on this story:
+ Alexis Leondis  in New York 
+ aleondis@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

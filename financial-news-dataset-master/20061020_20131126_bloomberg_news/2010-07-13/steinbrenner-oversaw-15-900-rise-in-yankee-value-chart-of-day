@@ -1,0 +1,56 @@
+-- Steinbrenner Oversaw 15,900% Rise in Yankee Value: Chart of Day
+-- Rodney Yap
+-- 2010-07-13T20:12:34Z
+-- http://www.bloomberg.com/news/2010-07-13/steinbrenner-oversaw-15-900-rise-in-yankee-value-chart-of-day.html
+
+          
+          
+             In  George Steinbrenner ’s 37-year
+tenure as owner, the value of the New York Yankees increased by
+about 15,900 percent.  
+ The CHART OF THE DAY shows the estimated value of the Major
+League Baseball franchise increased to about $1.6 billion from
+about $10 million when Steinbrenner, who died today at 80,
+bought the team in 1973, according to analysis by Forbes
+magazine.  
+ That change shows Steinbrenner’s success at using
+baseball’s free-agent market to transform the Yankees into a
+title-winning global brand, said  Andrew Zimbalist , an economics
+professor at Smith College in Northampton, Massachusetts.  
+ “He was a trailblazer,” Zimbalist said. “He came along
+just before the era of free agency and he realized that he was
+in the entertainment capital of the world and there was a lot of
+commercialization he could do.”  
+ The Yankees have won a record 27 World Series
+championships, including seven under Steinbrenner, most recently
+in 2009.  
+ To contact the reporter on this story:
+ Rodney Yap  in Los Angeles at   ryap@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+     
+         
+             Chart:  The Steinbrenner Legacy
+         
+     
+         
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

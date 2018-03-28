@@ -1,0 +1,106 @@
+-- Apple Plans Press Conference About IPhone 4
+-- Peter Burrows
+-- 2010-07-15T01:18:48Z
+-- http://www.bloomberg.com/news/2010-07-15/apple-plans-press-conference-about-iphone-4.html
+
+          
+          
+             Apple Inc. , facing complaints over
+the antenna reception of its new iPhone 4, will hold a press
+conference on July 16 to discuss the device.  
+ The meeting will be held at the company’s headquarters in
+Cupertino, California, said  Steve Dowling , an Apple spokesman.
+He declined to elaborate on what will be discussed.  
+ Since Apple released the iPhone 4 on June 24, users have
+complained about losing reception when they cover the lower-left
+corner of the device. Consumer Reports said this week it
+wouldn’t recommend the phone because of the problem, and some
+analysts have said Apple needs to address the concerns or risk
+harming sales.  
+ “Apple’s image -- and potentially iPhone sales -- could be
+compromised if Apples does not explicitly -- and constructively
+-- address the issue of what it believes is wrong with the
+phone,”  Toni Sacconaghi , an analyst at Sanford C. Bernstein &
+Co. in New York, wrote in a note to investors earlier this week.  
+ Apple can either issue free cases to owners of the iPhone 4
+to cover the antenna trouble spot or conduct a product recall,
+he said. While the recall isn’t likely, such a move could cost
+Apple $1.5 billion, Sacconaghi said.  
+ The iPhone, first introduced in 2007, is Apple’s top-
+selling product, accounting for about 40 percent of revenue. The
+company sold 1.7 million in the first three days after the
+release of the fourth-generation model. Apple reports earnings
+on July 20.  
+ The latest model has a new design that encases the antenna
+in a metal band surrounding the phone, instead of making it a
+separate piece. In response to the complaints, Apple has advised
+users to either not touch the phone in the lower-left corner or
+use a case.  
+ Apple  climbed 93 cents to $252.73 in Nasdaq Stock Market
+trading today. The  shares  have risen 20 percent this year.  
+ To contact the reporters on this story:
+ Adam Satariano  in San Francisco at 
+ asatariano1@bloomberg.net ;
+ Peter Burrows  in San Francisco at 
+ pburrows@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                                                 
+                     
+                     Enlarge image 
+                     
+                     
+                       Apple released the iPhone 4 on June 24  
+                       
+                         
+                           David Paul Morris/Bloomberg 
+                         
+                         Apple Inc. chief executive officer Steve Jobs. 
+                       
+                     
+                                        
+           
+                     Apple Inc. chief executive officer Steve Jobs. Photographer: David Paul Morris/Bloomberg  
+                   
+    
+
+                 
+           
+                                                 
+                     
+                     Enlarge image 
+                     
+                     
+                       The iPhone was first introduced in 2007  
+                       
+                         
+                           David Paul Morris/Bloomberg 
+                         
+                         Apple Inc.'s iPhone 4. 
+                       
+                     
+                                        
+           
+                     Apple Inc.'s iPhone 4. Photographer: David Paul Morris/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

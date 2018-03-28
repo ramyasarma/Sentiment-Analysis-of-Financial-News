@@ -1,0 +1,82 @@
+-- HIV Death Risk Reduced 75% With Early Antiretroviral Treatment, Study Says
+-- Kristine Aquino
+-- 2010-07-14T21:00:00Z
+-- http://www.bloomberg.com/news/2010-07-14/death-rate-from-hiv-falls-75-with-early-antiviral-treatment-study-finds.html
+
+          
+          
+             Early treatment for HIV cuts
+patients’ risk of death by about 75 percent, according to a
+study in the  New England Journal of Medicine .  
+ Researchers tested two groups of 408 adults with HIV, the
+AIDS-causing virus. Among patients given antiviral drugs after
+their infection-fighting cells fell below a certain level, 23
+people died, exceeding the 6 deaths in the group whose
+participants were provided earlier treatment, the study showed.  
+ The results support findings in a previous study of medical
+records published last year. The latest trial also shows early
+antiretroviral treatment reduces the likelihood of tuberculosis,
+a leading cause of death among HIV patients, by 50 percent.  
+ “Access to antiretroviral therapy should be expanded,”
+researchers including Daniel W. Fitzgerald at Weill Cornell
+Medical College in New York wrote in the study.  
+ In the latest trial, conducted in Haiti from 2005 to 2008,
+patients were given drugs based on their level of a white blood
+cell type known as CD4+. All participants had a CD4+ count of
+more than 200 and less than 350 per cubic millimeter of blood.  
+ The World Health Organization  recommends  patients start
+antiretroviral therapy when their CD4+ count drops to 350. A
+higher CD4+ count means greater infection-fighting ability
+because the immune system hasn’t yet been depressed by the
+virus.  
+ The early-treatment group began taking a combination of
+zidovudine, lamivudine and efavirenz within two weeks after
+enrollment, the researchers said. Patients in the standard-
+treatment group were given the therapy when their CD4+ count
+fell to 200 or when AIDS developed.  
+ $200 Per Year  
+ The antiretroviral drugs cost about $200 per person
+annually, according to the study.  
+ Zidovudine and lamivudine are sold as Combivir by a
+subsidiary of GlaxoSmithKline Plc, while Bristol-Myers Squibb
+Co. sells efavirenz as Sustiva.  
+ Truvada and Atripla, respectively a two- and three-drug
+combination, are the world’s biggest-selling AIDS medicines and
+are made by Foster City, California-based  Gilead Sciences Inc.   
+ A previous study, published in the same journal in April
+2009, reviewed 17,000 HIV patient records and found that people
+who received treatment at earlier stages of infection reduced
+the risk of early death by as much as 94 percent.  
+ Tuberculosis is the leading infectious killer of HIV
+patients and accounts for about 13 percent of AIDS deaths
+globally, the United Nations AIDS agency said on its  website .  
+ To contact the reporter on this story:
+Kristine Aquino in Singapore at 
+ kaquino@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Tablets of Plavix heart medicine and Sustiva HIV treatment. Photographer: J B Reed/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

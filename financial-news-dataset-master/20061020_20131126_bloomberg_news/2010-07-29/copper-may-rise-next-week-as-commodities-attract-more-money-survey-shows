@@ -1,0 +1,66 @@
+-- Copper May Rise Next Week as Commodities Attract More Money, Survey Shows
+-- Anna Stablum
+-- 2010-07-29T23:01:00Z
+-- http://www.bloomberg.com/news/2010-07-29/copper-may-rise-next-week-as-commodities-attract-more-money-survey-shows.html
+
+          
+          
+             Copper, up 11 percent this month in
+London, may rise next week as investors allot more money to
+commodities, according to a survey.  
+ Eleven of 21 analysts, investors and traders surveyed by
+Bloomberg, or 52 percent, said the metal will gain next week.
+Eight predicted lower prices and two forecast little change.
+Copper for delivery in three months was up 3.2 percent for this
+week at $7,255 a metric ton on the London Metal Exchange at 3:45
+p.m. yesterday.  
+ Hedge funds and other large speculators boosted their net-
+long position, or bets on higher prices, for New York copper
+futures to 3,915 contracts as of July 20 from 2,862 contracts on
+June 29, according to U.S. Commodity Futures Trading Commission
+data. Investors put $15.4 billion of new money into raw
+materials in the second quarter, up from the prior three months,
+Barclays Capital said July 16.  
+ “We would not be surprised to see fresh money hitting
+commodities as we head into August, given the rally seen so far
+in July,”  Randy North , a trader at RBC Capital Markets in
+London, wrote in a report yesterday. “This buying, in turn,
+will likely trigger further technically driven buying.”  
+ The red bars on the attached chart are derived by
+subtracting bearish forecasts from bullish estimates, with
+readings below zero signaling the majority of respondents expect
+a decline. The green line shows the copper price. The survey
+data shown are as of July 23.  
+ The weekly copper survey has forecast prices accurately in
+47 of the past 97 weeks, or 48 percent of the time.  
+ This week’s survey results:  Bullish : 11  Bearish : 8 Hold: 2  
+ To contact the reporter on this story:
+ Anna Stablum  in London at 
+ astablum@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A shopper looks at copper fittings for pipes at a Home Depot store in Atlanta. Photographer: Chris Rank/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

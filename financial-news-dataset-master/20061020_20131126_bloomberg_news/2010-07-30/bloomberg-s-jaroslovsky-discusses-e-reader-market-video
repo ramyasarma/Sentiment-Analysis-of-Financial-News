@@ -1,0 +1,49 @@
+-- Bloomberg's Jaroslovsky Discusses E-Reader Market: Video
+-- 
+-- 2010-07-30T21:45:38Z
+-- http://www.bloomberg.com/news/2010-07-30/bloomberg-s-jaroslovsky-discusses-e-reader-market-video.html
+
+          
+          
+             Bloomberg's Rich Jaroslovsky talks 
+about the outlook for the electronic-reader market including 
+Amazon.com's Kindle and Apple Inc.'s iPad.  
+ Jaroslovsky speaks with Matt Miller on Bloomberg 
+Television's "Street Smart." (Source: Bloomberg)  
+ Running time 03:17  
+ -0- Jul/30/2010 21:45 GMT
+  
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 30 (Bloomberg) -- Bloomberg's Rich Jaroslovsky talks about the outlook for the electronic-reader market including Amazon.com's Kindle and Apple Inc.'s iPad.
+     Jaroslovsky speaks with Matt Miller on Bloomberg Television's "Street Smart." (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

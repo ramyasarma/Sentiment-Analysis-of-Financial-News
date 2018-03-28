@@ -1,0 +1,74 @@
+-- Somali Pirate Court Sought by Security Council as Kenya Ends Prosecutions
+-- Bill Varner
+-- 2010-04-27T14:12:49Z
+-- http://www.bloomberg.com/news/2010-04-27/somali-pirate-court-sought-by-security-council-as-kenya-ends-prosecutions.html
+
+          
+          
+             The United Nations Security Council
+pressed today for tougher prosecution of pirates operating off
+the coast of Somalia, adopting a Russian proposal to consider
+creation of a new court for that purpose.  
+ The council voted 15-0 to ask UN Secretary-General Ban Ki-
+moon to report within three months on options for “a regional
+tribunal or an international tribunal and corresponding
+imprisonment arrangements.”  
+ Russia circulated the text following Kenya’s decision to
+stop prosecuting suspected Somali pirates and cancel agreements
+with several naval powers. Kenya has accords with the European
+Union, U.S., Britain, Canada, China and Denmark to prosecute
+brigands captured by them.  
+ Piracy and armed robbery at sea reached a six-year peak in
+2009 with Somalia accounting for more than half of the 406
+attacks, according to the UN International Maritime Bureau.
+Somali pirates mounted 217 attacks last year, hijacking 47 ships
+and taking 867 crew members hostage, the London-based bureau
+said in January.  
+ Eleven men were indicted by a U.S. federal grand jury last
+week on piracy charges in connection with attacks on U.S. Navy
+ships off the coast of Africa.  
+ The men, identified as Somalis by the U.S., were captured
+within the past month after attacking or exchanging fire with
+Navy vessels, according to authorities. They face charges of
+piracy, conspiracy and assault with a dangerous weapon under
+indictments unsealed in federal court in Norfolk, Virginia.  
+ The U.S. warships were operating as part of an
+international flotilla protecting shipping in the region.  
+ To contact the reporter on this story:
+Bill Varner at the United Nations at 
+ wvarner@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A file photo shows Ban Ki-moon, United Nation's secretary general, speaking at a news conference at EU headquarters in Brussels.. Photographer: Jock Fistick/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     Photo made on January 7, 2010 shows an armed Somali pirate along the coastline while the Greek cargo ship, MV Filitsa, is seen anchored just off the shores of Hobyo town in northeastern Somalia where its being held by pirates. Photographer: Mohamed Dahir/AFP/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

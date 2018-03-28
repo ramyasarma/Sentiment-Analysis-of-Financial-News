@@ -1,0 +1,82 @@
+-- Mitsubishi All-Wheel Drives Tested on Icy Roads: Video
+-- 
+-- 2010-03-04T15:21:06Z
+-- http://www.bloomberg.com/news/2010-03-04/mitsubishi-all-wheel-drives-tested-on-icy-roads-video.html
+
+          
+          
+             Mitsubishi Motors Corp. all-wheel 
+drive vehicles are tested on ice-slicked woodland roads in 
+northern New Hampshire in this video provided by Mitsubishi. 
+(Source: Mitsubishi Motors North America)  
+ Running time 00:45  
+ -0- Mar/04/2010 15:21 GMT
+  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Tim O'Neil, owner of Team O'Neil Rally School, drives a 2010 Mitsubishi Lancer Evolution MR on a snowy track at Team O'Neil Rally School in Dalton, New Hampshire. The school is set in a private 560-acre valley and consists of a 6.5-mile forest road course, separate skid pad and braking zone, obstacle avoidance area and a slalom course. Photographer: Herb Swanson/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     A 2010 Mitsubishi Lancer Evolution MR on a snowy track at Team O'Neil Rally School in Dalton, New Hampshire. This year’s brutal winter in much of the U.S. and Europe
+shows all drivers can use snow-surviving, slip-sliding skills. Photographer: Herb Swanson/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     A 2010 Mitsubishi Lancer Evolution MR on a snowy track at Team O'Neil Rally School in Dalton, New Hampshire. Rally racing is a popular motorsport worldwide that is set on real roads with little traction like gravel, ice or dirt. Photographer: Herb Swanson/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     A Subaru rally car on a snowy track at Team O'Neil Rally School in Dalton, New Hampshire. The school is set in a private 560-acre valley and consists of a 6.5-mile forest road course, separate skid pad and braking zone, obstacle avoidance area, and a slalom course. Photographer: Herb Swanson/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     A 2010 Mitsubishi Lancer Evolution MR is driven on a snowy skid pad at Team O'Neil Rally School in Dalton, New Hampshire. Mitsubishi’s goal was to show that its AWD technology is as sharp as better-known competitors like Audi and Subaru. Photographer: Herb Swanson/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     A 2010 Mitsubishi Lancer Evolution MR on a snowy skid pad at Team O'Neil Rally School in Dalton, New Hampshire. Photographer: Herb Swanson/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

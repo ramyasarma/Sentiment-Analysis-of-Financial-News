@@ -1,0 +1,43 @@
+-- New Zealand Ties 1-1 With Slovakia After Goal in Last Minute of Added Time
+-- Bob Bensch
+-- 2010-06-15T13:24:14Z
+-- http://www.bloomberg.com/news/2010-06-15/new-zealand-ties-1-1-with-slovakia-after-goal-in-last-minute-of-added-time.html
+
+          
+          
+             New Zealand came from behind to tie
+Slovakia 1-1 their soccer World Cup Group F match in Rustenburg,
+South Africa.  
+ Winston Reid scored in second-half injury time to give New
+Zealand the tie. Robert Vittek scored in the 50th minute for
+Slovakia.  
+ Ivory Coast plays Portugal and 5-time champion Brazil faces
+North Korea later today in Group G. Defending champion Italy
+tied Paraguay 1-1 in the opening Group F game yesterday.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     New Zealand's defender Winston Reid heads the ball to score a goal during their Group F first round 2010 World Cup football match. Photographer: Vincenzo Pinto/AFP/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,54 @@
+-- Pugs, Bulldogs More Likely to Die on U.S. Flights
+-- Angela Greiling Keane
+-- 2010-07-16T14:39:47Z
+-- http://www.bloomberg.com/news/2010-07-16/pugs-bulldogs-more-likely-to-die-on-plane-flights-u-s-government-says.html
+
+          
+          
+             Bulldogs, pugs and other short-faced
+breeds are more likely than other dogs to die on airplanes,
+according to U.S. Transportation Department data.  
+ In the past five years, 122 dogs have died on flights in
+the U.S., with about half of them short-faced breeds, which also
+include the American Staffordshire terrier, the agency said
+today in an e-mailed statement without offering an explanation.  
+ “People, if they’re concerned, should check with their
+veterinarian before flying,” said  Bill Mosley , a Transportation
+Department spokesman. Most of the dogs that died were being
+transported in cargo holds rather than in passenger
+compartments, he said today in a telephone interview.  
+ About 2 million pets are transported each year in the U.S.
+by plane, according to the agency, which collects monthly
+reports of deaths, injuries and losses of pets in air transport.
+In the past five years, 22 pets other than dogs died in air
+transport, according to the data.  
+ To contact the reporter on this story:
+ Angela Greiling Keane  in Washington at 
+ agreilingkea@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Cody the Pug waits backstage during the first day of the 134th Westminster Kennel Club Dog Show at Madison Square Garden in New York. Photographer: Timothy A. Clary/AFP/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

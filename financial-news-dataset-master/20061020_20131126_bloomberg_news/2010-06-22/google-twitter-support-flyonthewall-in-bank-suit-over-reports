@@ -1,0 +1,77 @@
+-- Google, Twitter Support Flyonthewall in Bank Suit Over Reports
+-- Edvard Pettersson
+-- 2010-06-22T02:10:58Z
+-- http://www.bloomberg.com/news/2010-06-22/google-twitter-support-flyonthewall-in-bank-suit-over-reports.html
+
+          
+          
+             Google Inc.  asked a federal appeals
+court to reverse a lower court’s order blocking online financial
+news service Theflyonthewall.com Inc. from issuing immediate
+reports of banks’ stock upgrades and downgrades.  
+ The March ruling by U.S. District Judge  Denise Cote  in New
+York could impair the distribution of factual information over
+the Internet and have a negative impact on a wide variety of
+online services, Google, joined by Twitter Inc., said today in a
+so-called friend-of-the-court brief filed with the U.S. Court of
+Appeals in New York.  
+ “In a world of modern communications technology, where
+anyone with a cell phone may disseminate news throughout the
+world even as it is occurring, the notion that a single media
+outlet should have a monopoly on time-sensitive facts is not
+only contrary to law, it is, as a practical matter, futile,”
+ Google  and Twitter said in the filing.  
+ The appeals court in May granted a request by
+Theflyonthewall.com, based in Summit, New Jersey, to delay the
+lower court’s order while its appeal is pending. The appeals
+court last month also granted expedited consideration of the
+lawsuit filed by  Barclays Plc , Bank of  America Corp. ’s Merrill
+Lynch and  Morgan Stanley .  
+ The banks accused Theflyonthewall.com of “free riding” on
+their research reports by sending headlines on upgrades and
+downgrades. Cote ruled Theflyonthewall.com must wait until after
+the financial exchanges open in New York before repeating pre-
+market reports by the banks. For reports issued when the market
+is open, Cote ordered a two-hour delay.  
+ ‘Protected’ Speech  
+ Google , owner of the world’s most popular search engine,
+and Twitter, the microblogging service with 190 million users,
+said in their filing that reporting of truthful information is
+“one of the most protected forms of speech” under the U.S.
+Constitution.  
+ Benjamin E. Marks, a lawyer representing the banks, didn’t
+immediately return a call seeking comment after regular business
+hours.  
+ The case is Barclays Capital Inc. v. Theflyonthewall.com.,
+10-1372, U.S. Court of Appeals for the Second District (New
+York.)  
+ To contact the reporter on this story:
+ Edvard Pettersson  in Los Angeles at 
+ epettersson@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     The homepage of Theflyonthewall.com Web site.  Photographer: Keyur Khamar/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

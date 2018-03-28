@@ -1,0 +1,103 @@
+-- Trades Dumped on Exchanges Blamed for Intensifying May 6 Crash
+-- B y   N i n a   M e h t a
+-- 2010-10-04T06:25:56Z
+-- http://www.bloomberg.com/news/2010-10-04/trades-dumped-on-exchanges-blamed-for-broadening-may-6-crash-report-says.html
+Brokerages overwhelmed by plunging
+prices on May 6 were forced to send sell orders from individuals
+to public exchanges instead of processing them internally,
+causing at least 50 percent of the canceled trades that day,
+according to U.S. regulators.  “Internalizers instead routed orders to the exchanges,
+putting further pressure on the liquidity that remained in those
+venues,” the Securities and Exchange Commission and Commodity
+Futures Trading Commission said in a report released Oct. 1 that
+detailed the causes of the rout. They did this because of
+selling pressure from retail customers, an unwillingness to
+trade and questions about the accuracy of market data given the
+speed of the decline, the document added.  More than 20,000 trades representing 5.5 million shares
+were executed at prices 60 percent or more away from levels from
+before the crash, the SEC and CFTC said. Of the broken
+transactions, one brokerage and a single market maker accounted
+for about half of the executions, they added. The firms weren’t
+identified.  The 104-page report on the crash that briefly erased $862
+billion from U.S. shares in less than 20 minutes before they
+recovered most of their losses explains for the first time the
+degree of involvement by brokers called internalizers. They
+usually trade in their own accounts against orders from so-
+called discount brokerages.  ‘Pretty Aberrant’  “Internalizers pulling back their services and dumping
+orders on exchanges changes the mix of flow exchanges receive,”
+said  Jamie Selway , a managing director at Investment Technology
+Group Inc. in  New York . “When exchanges get orders that are
+less precisely priced than what they’re used to getting, the
+results can be pretty aberrant.”  Five months after the plunge spurred calls in Congress for
+an overhaul of U.S. equities trading, the Oct. 1 report stopped
+short of giving fresh prescriptions for how to prevent another
+crash from happening. Instead, regulators honed their original
+findings to focus on how a single trade in the futures market
+created panic that bled into stocks, overwhelming human beings
+and computers alike before order was restored minutes later.  The crash prompted exchanges to implement circuit breakers
+that pause trading in more than 1,300 securities during periods
+of volatility. Uniform policies for canceling trades and
+eliminating stub quotes, or bids and offers at prices far away
+from the stock’s last sale, have also been proposed or adopted.  Declines in index futures convinced traders a “cataclysmic
+event” was pushing down equities on May 6, leading them to
+abandon the market and triggering the biggest crash in a quarter
+century, U.S. federal regulators said last week in their second
+report on the retreat.  E-Mini Futures  One trader’s routine attempt to hedge losses by selling
+75,000 of  CME Group Inc .’s E-mini futures contracts on the
+Standard & Poor’s 500 Index -- valued at about $4.1 billion --
+helped set off a chain of events that sent the  Dow Jones
+Industrial Average  down as much as 998.50 points, according to
+the SEC and CFTC. The measure then rebounded to end the day down
+347.80 points, or 3.2 percent.  The computer program the firm picked to execute the order
+gave no regard to prices or the speed that it was trading, the
+report says. Two people with knowledge of regulators’ findings
+identified the firm as Waddell & Reed Financial Inc., an  Overland Park , Kansas-based mutual-fund company with about $68
+billion in assets.  ‘Absorbed Easily’  “We believe we were one of 250 firms engaging in E-mini
+trading during the period of the market selloff,” Waddell &
+Reed said in a statement in May. “We believe that trades of the
+size we initiated normally are absorbed easily in the market.”  Roger Hoadley, a spokesman for the company, said last week
+that the statement was “still accurate and relevant.”  Losses in the E-mini futures seeped into equities as
+arbitragers bought the contracts while selling S&P 500 stocks
+and an exchange-traded fund linked to the measure known as the
+SPDR S&P 500 ETF Trust, the report says.  The SEC and CFTC said market makers and high-frequency
+trading firms that facilitate the majority of U.S. stock trades,
+concerned the price data they were receiving was wrong or
+incomplete, curtailed their bidding on equities. On the public
+markets where internalizers sent orders, placeholder bids known
+as stub quotes were triggered, causing executions at
+“unrealistically low bids” such as 1 cent, the report says.  Retail Customers  The SEC said in a January study that almost all market
+orders from eight brokers with “significant retail customer
+accounts” are sent to wholesalers who guarantee executions for
+at least the national best bid or offer available on public
+venues. Orders that an over-the-counter market maker, or so-
+called internalizing broker, chooses not to trade with may be
+sent to exchanges.  Firms trading against the orders from individual investors
+usually pay discount brokers a fee, which the SEC said is
+typically less than a tenth of a cent per share.  The report also cleared up questions about why more than 70
+percent of transactions at less than 5 cents were marked as
+short sales, or bets that shares will fall. Those orders were
+marked this way because they were sent by an over-the-counter
+market maker even though the customer may have owned the shares,
+the report said.  Almost 90 percent of the broken trades on May 6 also had
+price limits on them, countering speculation that market orders
+had produced the bulk of executions against stub quotes. The
+report said internalizing brokers often automatically convert
+market orders into buy and sell requests with limit prices
+intended to execute at the NBBO, or national best bid or offer.  Stub Quotes  The report also highlighted trading practices that led to
+executions against stub quotes. Some brokers told regulators
+they routed buy and sell requests to exchanges even when they
+knew they’d execute against stub quotes because they’re obliged
+to fill customer market orders at the best price. Others did so
+to avoid orders piling up in their systems, expecting the trades
+to eventually be canceled.  “Wholesalers could be forgiven in a data-driven world for
+doing what they did,” Selway said. They guarantee executions at
+the best prices, and if that is of “questionable quality,”
+they can route orders to exchanges, where the NBBO is created,
+he said. While these firms aren’t allowed to delay the execution
+of the orders, the securities industry could “work toward a
+standard a discount broker can use to let customers know their
+orders may not get executed with the usual amount of dispatch
+when there are unusual conditions,” Selway said.  To contact the reporter on this story:
+Nina Mehta in New York at 
+ nmehta24@bloomberg.net .  To contact the editor responsible for this story:
+Nick Baker at   nbaker7@bloomberg.net . 

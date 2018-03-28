@@ -1,0 +1,82 @@
+-- Spill Investigator Sees Role for Self-Policing Agency
+-- Alison Fitzgerald
+-- 2010-07-08T18:00:52Z
+-- http://www.bloomberg.com/news/2010-07-08/oil-industry-needs-self-policing-agency-bp-spill-investigator-reilly-says.html
+
+          
+          
+             William Reilly , co-chairman of
+President  Barack Obama ’s commission investigating the  BP Plc  oil
+spill, said the  oil industry  could benefit from a self-policing
+agency similar to one that monitors the safety of nuclear power
+plants.  
+ “I’m very interested in using that approach, as an
+addition, not as a substitute for regulation, but as a way to
+raise the bar,” Reilly, former administrator of the
+Environmental Protection Agency, said in an interview today.  
+ Proposing self-regulation may be a hard sell to an angry
+Congress and public, Reilly acknowledged.  
+ Since BP’s exploratory, deep-water well in the Gulf of
+Mexico exploded on April 20, killing 11 workers and leaving an
+open wellhead, millions of gallons of oil have spilled.  
+ Reilly said he presented the idea of a self-policing agency
+to Obama, who was skeptical.  
+ “He said, ‘I wonder if the country would accept that,’”
+Reilly said. “The public did accept it,” he said, when the
+idea came from “an even more reviled industry in the 1980s.”  
+ The model Reilly has in mind is the Institute for Nuclear
+Power Operations, an industry group created after the Three-Mile
+Island nuclear power generator accident to establish and enforce
+industry best practices. The institute inspects all nuclear
+plants every 18 to 24 months.  
+ Insurance Costs  
+ “They descend on these reactors and spend two weeks, and
+they just take the place apart. They look at training,
+practices, adequacy and modernity of the equipment,” Reilly
+said. “Then they give them a grade when they leave and that
+grade is communicated to the Nuclear Regulatory Commission and
+the insurance industry, and it affects their insurance costs.”  
+ Obama named Reilly, a Republican, and Democrat  Bob Graham ,
+a former U.S. senator and Florida governor, to lead a commission
+charged with finding the “root cause” of the Gulf oil spill.
+The commission will examine what was going on at BP long before
+April 20, Reilly said.  
+ He said the commission also will examine the federal agency
+formerly known as the Minerals Management Service and
+inadequacies in its oversight and cleanup capabilities.  
+ “The response capability is so primitive relative to the
+breathtaking tech advances that characterize this industry,” he
+said.  
+ Reilly was administrator of the U.S. EPA in 1989 when the
+Exxon Valdez ran aground in Prince William Sound, spilling
+262,000 barrels of oil into the waters off Alaska.  
+ To contact the reporter on this story:
+ Alison Fitzgerald  in Washington at 
+ Afitzgerald2@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     William Reilly, co-chair of the commission investigating the deepwater oil spill catastrophe in the Gulf of Mexico. Photographer: Mark Wilson/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

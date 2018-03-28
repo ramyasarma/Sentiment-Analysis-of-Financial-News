@@ -1,0 +1,46 @@
+-- China Stocks Fluctuate; Industrial Companies Drop, Financial Shares Gain
+-- Richard Frost
+-- 2010-07-08T02:31:06Z
+-- http://www.bloomberg.com/news/2010-07-08/china-stocks-gain-for-third-day-on-earnings-prospects-u-s-retail-sales.html
+
+          
+          
+             China’s stocks erased gains, as
+losses by industrial and health-care companies countered
+advances by banks and developers. The Shanghai Composite Index
+was little changed at 2,421.66 at 10:30 a.m., after rising 0.6
+percent.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 8 (Bloomberg) -- Paul Ramscar, director wealth management at Financial Partners, talks with Bloomberg's Rishaad Salamat about the outlook for global economy.
+     Ramscar also discusses the outlook for gold, and U.S. and China stocks. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,40 @@
+-- Sarkozy's 2007 Election-Campaign Funding to Be Probed by French Prosecutor
+-- Heather Smith
+-- 2010-07-07T10:31:48Z
+-- http://www.bloomberg.com/news/2010-07-07/sarkozy-s-2007-election-campaign-funding-to-be-probed-by-french-prosecutor.html
+
+          
+          
+             The French prosecutor in Nanterre
+confirmed the opening of a preliminary investigation into claims
+made about donations to Nicolas Sarkozy’s presidential election
+campaign in 2007.  
+ Astrid Granoux, a spokeswoman for the Nanterre prosecutor,
+confirmed the probe by telephone.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     France's president Nicolas Sarkozy. Photographer: Andrew Harrer/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

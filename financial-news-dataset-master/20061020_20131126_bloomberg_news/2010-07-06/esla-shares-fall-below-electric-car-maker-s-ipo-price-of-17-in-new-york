@@ -1,0 +1,47 @@
+-- Tesla Shares Fall Below Electric-Car Maker's IPO Price of $17 in New York
+-- Daniel Hauck
+-- 2010-07-06T19:06:11Z
+-- http://www.bloomberg.com/news/2010-07-06/tesla-shares-fall-below-electric-car-maker-s-ipo-price-of-17-in-new-york.html
+
+          
+          
+             Tesla Motors Inc., the first U.S.
+automaker to complete an initial public offering in more than a
+half century, retreated for a fourth straight day to fall below
+its IPO price of $17 a share.  
+ The maker of the $109,000 electric Roadster bought by Brad
+Pitt and George Clooney slid 13 percent to $16.75 at 3:04 p.m.
+New York time in Nasdaq Stock Market trading. The Palo Alto,
+California-based company had rallied 41 percent on June 29 after
+selling shares above the forecast price range for its $260
+million offering.  
+ To contact the reporter on this story:
+Daniel Hauck in New York at 
+ dhauck1@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Elon Musk, chairman and chief executive officer of Tesla Motors. Photographer: Daniel Acker/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

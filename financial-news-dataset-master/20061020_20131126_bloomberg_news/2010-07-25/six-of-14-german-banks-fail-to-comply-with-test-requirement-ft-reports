@@ -1,0 +1,64 @@
+-- Six of 14 German Banks Fail to Comply With Test Requirement, FT Reports
+-- John Simpson
+-- 2010-07-25T23:02:12Z
+-- http://www.bloomberg.com/news/2010-07-25/six-of-14-german-banks-fail-to-comply-with-test-requirement-ft-reports.html
+
+          
+          
+             Six of 14 German banks did not
+disclose a breakdown of sovereign debt holdings as stipulated by
+the Committee of European Banking Supervisors, the Financial
+Times reported, citing Arnoud Vossen, secretary-general of the
+regulator.  
+ Every other European bank except Greece’s Agricultural Bank
+of Greece, which failed the test, complied with the required
+disclosure, the FT said.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 26 (Bloomberg) -- David Forrester, a currency economist at Barclays Capital in Singapore, talks with Bloomberg's Linzie Janis about the outlook for the euro. 
+     The combination of growing confidence in Europe’s economy and mounting evidence of a slowdown in the U.S. is driving euro bears into hiding. After tracking the euro’s slide from about $1.45 at the beginning of 2010, the median forecast of currency strategists has stayed within two cents of $1.20 since the start of June, according to data compiled by Bloomberg. Forrester, speaking from Singapore, also discusses the results of stress tests on European banks released last week. (Source: Bloomberg)  
+                   
+    
+
+                 
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 26 (Bloomberg) -- Hans-Guenter Redeker, global head of currency strategy at BNP Paribas SA, talks about the results of the European bank stress tests. 
+     He speaks from London with Maryam Nemazee on Bloomberg Television's "Countdown." (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

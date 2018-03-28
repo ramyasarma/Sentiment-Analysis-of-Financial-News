@@ -1,0 +1,91 @@
+-- Facebook in Bottom 5% of Customer-Satisfaction Survey on Privacy Concerns
+-- Brian Womack
+-- 2010-07-20T05:38:28Z
+-- http://www.bloomberg.com/news/2010-07-20/facebook-ranks-in-bottom-5-of-customer-satisfaction-index-of-companies.html
+
+          
+          
+             Facebook Inc. scored in the bottom 5
+percent of a customer-satisfaction survey, below Internet rivals
+Google Inc. and Yahoo! Inc., as the social-networking site’s
+frequent changes rankled users.  
+ Facebook received 64 on a 100-point scale, while  Google 
+scored 80 and  Yahoo  got 76, according to a report based on the
+American Customer Satisfaction Index, which was developed by the
+University of Michigan’s business school. Concerns about privacy,
+design changes and aggressive advertising hurt Facebook’s status,
+the report found.  
+ Facebook  has grappled with user complaints this year, while
+still attracting advertisers and millions of new members. In May,
+the company simplified privacy settings to make it easier for
+people to protect their personal data. Its U.S. users climbed to
+141.6 million last month, up 84 percent from a year earlier,
+according to Reston, Virginia-based ComScore Inc.  
+ “They’ve had this great growth -- you can’t say anything
+negative about that,” said  Larry Freed , chief executive officer
+of Ann Arbor, Michigan-based ForeSee Results Inc., a sponsor of
+the survey. “Low satisfaction means you’re starting to put that
+growth at risk.”  
+ Facebook ranked in the same range as airlines and cable
+companies, two groups that typically score low on satisfaction
+surveys, according to the report.  
+ ‘Room to Improve’  
+ “We haven’t reviewed the survey methodology in detail, but
+clearly we have room to improve,” Facebook said in a statement.
+“Building a simple, useful service is the best way to earn and
+sustain the trust people put in us. That’s why we spend so much
+of our time and energy focused on improving the products we
+offer and introducing new ones.”  
+ The nonprofit site Wikipedia.org ranked the highest among
+social-media companies, with a score of 77.  Google ’s YouTube
+site got a rating of 73, and  News Corp. ’s MySpace came in below
+Facebook, with a score of 63.  
+ Facebook, which started as a college-networking site, is
+now attracting older users. They may not be as comfortable with
+the site’s frequent changes, Freed said.  
+ “Satisfaction is a combination of what you get and what
+you expect,” he said. “Expectations play a major, major role
+in satisfaction.”  
+ To contact the reporter on this story:
+ Brian Womack  in San Francisco at 
+ bwomack1@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                                                 
+                     
+                     Enlarge image 
+                     
+                     
+                       Facebook Customer Satisfaction  
+                       
+                         
+                           Daniel Acker/Bloomberg 
+                         
+                         Facebook Inc. scored in the bottom 5 percent of a customer-satisfaction survey. 
+                       
+                     
+                                        
+           
+                     Facebook Inc. scored in the bottom 5 percent of a customer-satisfaction survey. Photographer: Daniel Acker/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,65 @@
+-- Facebook to Keep Applications From Sharing Private Information
+-- B y   B r i a n   W o m a c k
+-- 2010-10-19T02:09:50Z
+-- http://www.bloomberg.com/news/2010-10-18/facebook-to-keep-applications-from-sharing-private-information.html
+Facebook Inc. , facing criticism
+about how it handles private data, said it’s taking steps to
+keep user-identification information from being passed on to
+advertisers and other outside companies.  Games and similar applications that are popular on Facebook
+are providing key information to networks that handle online-ad
+placement and companies that track Web surfing, the Wall Street
+Journal reported yesterday. The software passed along “Facebook
+ID” numbers, or UIDs, which can be used to obtain user names, in
+a way that violated company policy, Facebook  said .  The practice adds to pressure on Facebook to do a better
+job handling private information as it looks for ways to make
+money from the more than 500 million people who use its pages to
+play games, post photos and communicate with each other. Many
+app makers probably violated their own privacy policies as well
+as those of Facebook unintentionally, said Erica Newland, an
+analyst at the  Center for Democracy & Technology .  “Ignorance is no excuse for playing fast and loose with
+users’ personal information and for violating promises that you
+make,” said Newland, whose nonprofit Internet policy group is
+based in Washington.  “In most cases, developers did not intend to pass this
+information, but did so because of the technical details of how
+browsers work,” Mike Vernal, an engineer at Facebook, wrote in
+the company’s blog for software programmers.  While outside companies couldn’t use the UIDs to access
+data without a user’s consent, Vernal said, “we are committed to
+ensuring that even the inadvertent passing of UIDs is prevented
+and all applications are in compliance with our policy.”  ‘Cause for Concern’  Reports on the data breaches prompted Representatives
+ Edward Markey , a Massachusetts Democrat, and  Joe Barton , a
+Republican from Texas, to write a letter to Facebook Chief
+Executive Officer  Mark Zuckerberg , asking for details on who
+likely has been affected and how the company aims to change its
+policies.  “Given the number of current users, the rate at which that
+number grows worldwide, and the age range of Facebook users,
+combined with the amount and the nature of information these
+users place in Facebook’s trust, this series of breaches of
+consumer privacy is a cause for concern,” the lawmakers wrote.  Regulators and consumer advocates have previously urged the
+company to prevent unauthorized leaks to marketers that can use
+personal data to target ads at specific audiences.  “We’re happy to work with Reps. Markey and Barton to answer
+any questions they may have,”  Andrew Noyes , a Facebook
+spokesman, said in an e-mailed statement. He took issue with the
+idea that passing along user information is a “breach.”  Zynga, Lolapps  Zynga Game Network Inc. and Lolapps Inc., makers of widely
+used Facebook apps, were among companies whose software
+transmitted IDs, the Wall Street Journal reported. They may not
+have intentionally shared the data, according to Facebook.  Lolapps said that its software violated Facebook policies.
+“We have worked closely with the Facebook team to ensure that
+our applications and games are in compliance with their policies
+and look forward to continuing to partner with them to bring the
+safest possible experience to our users,” the company said in a
+statement.  Dani Dudeck , a spokeswoman for Zynga, didn’t respond to
+requests for comment.  Rapleaf , a San Francisco-based startup that helps
+businesses learn about what potential customers are doing
+online, was among companies that transmitted Facebook user IDs,
+according to the Wall Street Journal. Rapleaf said in a  blog
+posting  that the transmissions were not the result of “any
+purposefully engineered process” of its own making and that it
+has stopped passing on information to advertising providers.  “When we discovered that Facebook IDs were being passed to
+ad networks by applications that we work with, we immediately
+researched the cause and implemented a solution to cease the
+transmissions,” the company said. “As of last week, no
+Facebook IDs are being transmitted to ad networks in conjunction
+with the use of any Rapleaf service.”  To contact the reporter on this story:
+ Brian Womack  in San Francisco at 
+ bwomack1@bloomberg.net .  To contact the editors responsible for this story:
+Tom Giles at   tgiles5@bloomberg.net . 

@@ -1,0 +1,58 @@
+-- Sikorsky, Lockheed Team to Bid for Presidential Helicopters
+-- Gopal Ratnam
+-- 2010-04-19T14:59:01Z
+-- http://www.bloomberg.com/news/2010-04-19/sikorsky-lockheed-will-make-joint-bid-for-presidential-helicopter-program.html
+
+          
+          
+             Sikorsky Aircraft Corp., a
+subsidiary of United Technologies Corp., and Lockheed Martin
+Corp. signed an agreement to compete jointly for the U.S. Navy’s
+revived presidential-helicopter program.  
+ The team will offer Sikorsky’s H-92 medium-lift helicopter,
+the commercial variant of its S-92 aircraft, and Lockheed will
+be the systems integrator, the companies said today in a
+statement.  
+ Lockheed, based in Bethesda, Maryland, earlier had
+partnered with AgustaWestland, a subsidiary of Italy’s
+Finmeccanica SpA, for the VH-71 presidential helicopter program.
+In April 2009, Defense Secretary Robert Gates canceled the 28-
+helicopter program because its cost had more than doubled to $13
+billion since the team won the contract in January 2005.  
+ The current fleet of presidential helicopters includes some
+aircraft from Sikorsky that are 40 years old.  
+ The U.S. House of Representatives tried to restore funds
+for the canceled VH-71 in the 2010 defense budget. The Senate
+rejected the measure.  
+ Spokesman for Lockheed and Sikorsky didn’t immediately have
+details on the value and number of aircraft the Navy would buy.  
+ To contact the reporters on this story:
+Gopal Ratnam in Washington at 
+ gratnam1@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A file photo of the Sikorsky Aircraft Corp. S-92 Helibus helicopter in flight. Source: Sikorsky Aircraft Corp. via Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,75 @@
+-- Let People Vote When Polling Stations Close, U.K. Election Watchdog Says
+-- Eddie Buckle
+-- 2010-07-26T23:01:00Z
+-- http://www.bloomberg.com/news/2010-07-26/let-people-vote-when-polling-stations-close-u-k-election-watchdog-says.html
+
+          
+          
+             The U.K.’s Electoral Commission
+urged the government to pass new legislation as soon as possible
+after more than 1,200 people standing in line when polling
+stations closed in the May general election were denied a vote.  
+ “We want the government to change the law to make clear
+that eligible electors who are entitled to vote at a polling
+station and who are in the queue to enter the polling station at
+the close of poll will be allowed to vote,” the  independent
+watchdog  said in its report on the election today.  
+ Voters were denied the chance to vote in 16 of 649
+electoral districts when the polls closed at 10 p.m. on May 6,
+the London-based commission said in an e-mailed statement. It
+said the main reasons why lines formed were “poor planning, the
+use of unsuitable buildings, inadequate staffing arrangements
+and the failure of contingency plans.”  
+ As the results came in on election night, television
+stations showed footage of  angry voters  who’d been turned away.
+Turnout in England, Scotland and Wales rose to 65.1 percent from
+61.4 percent at the last elections in 2005 after a campaign that
+produced the first coalition government since World War II.  
+ Among the districts affected was Hallam in Sheffield, where
+Liberal Democrat leader  Nick Clegg , now the deputy prime
+minister, was re-elected.  
+ “In the vast majority of constituencies elections were
+well run, but this is despite the system, not because of it,”
+ Jenny Watson , who heads the commission, said in the statement.
+“Voter confidence is fragile and may take time to rebuild.”  
+ Three out of 10 voters were not very or not at all
+confident that the elections were well run, the watchdog said,
+citing an Ipsos Mori survey it commissioned. That compared with
+just 4 percent at local elections held the previous year. There
+was no comparable survey in 2005.  
+ The commission said the government should look at extending
+the timetable for elections from the current 17 working days to
+reduce officials’ workload. It also suggested considering
+whether people should be allowed to vote in advance in person to
+help increase turnout and whether voters should have to produce
+some form of identification to reduce fraud.  
+ To contact the reporter on this story:
+ Eddie Buckle  in London at 
+ ebuckle@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Voters standing in line during the general election were denied a chance to cast their ballot when the polls closed. Photographer: Simon Dawson/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

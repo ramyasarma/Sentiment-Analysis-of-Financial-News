@@ -1,0 +1,67 @@
+-- Disney Buys Web Game-Maker Playdom for $563.2 Million
+-- Ronald Grover
+-- 2010-07-27T21:07:13Z
+-- http://www.bloomberg.com/news/2010-07-27/disney-buys-web-game-maker-playdom-for-563-2-million.html
+
+          
+          
+             Walt Disney Co.  agreed to buy
+Playdom Inc. for $563.2 million, acquiring the second-biggest
+maker of games played on Facebook and MySpace websites.  
+ Playdom’s owners may receive an additional $200 million if
+performance goals are met, Burbank, California-based Disney, the
+world’s largest media company, said today in a statement.  
+ The purchase extends Disney’s drive into online and mobile
+games. This month, the company  bought  Tapulous Inc., a developer
+of music-related games for Apple Inc.’s iPod and iPad. Playdom
+has the talent Disney needs to expand in social media, Chief
+Executive Officer  Bob Iger  said in an interview.  
+ “I want to be bold and aggressive,” Iger said. “You
+don’t get the kind of growth that we want by building from the
+inside.”  
+ Disney plans to make more acquisitions, Iger said, without
+being specific.  
+ “We don’t intend to stand still as we migrate this
+company’s great wealth of content to new technology,” he said.  
+ Playdom, based in Mountain View, California, raised $33
+million in June from venture capital groups including Disney-
+backed Steamboat Ventures, which invests in digital media,
+consumer and technology companies. The funding brought the total
+raised by the closely held company to $76 million.  
+ Playdom announced a content partnership with Disney’s ESPN
+sports cable channel in May.  
+ Disney fell 12 cents to $34.28 at 4:15 p.m. in New York
+Stock Exchange composite  trading . The shares have gained 6.3
+percent this year.  
+ To contact the reporter on this story:
+ Andy Fixmer  in Los Angeles at 
+ afixmer@bloomberg.net ;
+ Ronald Grover  in Los Angeles at 
+ Rgrover5@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Robert Iger, president and chief executive officer of Walt Disney Co. Photographer: Matthew Staver/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

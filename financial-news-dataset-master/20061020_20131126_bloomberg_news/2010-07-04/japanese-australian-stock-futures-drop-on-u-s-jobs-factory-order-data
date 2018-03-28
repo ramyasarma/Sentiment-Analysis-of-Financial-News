@@ -1,0 +1,80 @@
+-- Japanese, Australian Stock Futures Drop on U.S. Jobs, Factory Order Data
+-- Toshiro Hasegawa
+-- 2010-07-04T23:30:37Z
+-- http://www.bloomberg.com/news/2010-07-04/japanese-australian-stock-futures-drop-on-u-s-jobs-factory-order-data.html
+
+          
+          
+             Japanese and Australian  stock  futures
+fell after employment in the U.S. slid and factory orders slid,
+spurring concerns the global economic recovery will falter.  
+ American depositary receipts of Toyota Motor Corp., the
+world’s largest automaker, closed 0.8 percent down from the
+Tokyo close on July 2. Those of  Sharp Corp. , which receives more
+than half of its sales overseas, fell 1.1 percent. Credit Suisse
+Group AG rated the electronics maker “underperform” in new
+coverage. ADRs of  Woodside Petroleum Ltd. , Australia’s second-
+largest oil and gas producer, slid 0.2 percent from the closing
+price in Sydney after crude oil prices declined.  
+ “The U.S. economy is slowing down,” said  Tomochika Kitaoka , a senior strategist at Mizuho Securities Co. in Tokyo.
+“The employment data was as bad as expected.”  
+ Yen-denominated futures on Japan’s  Nikkei 225 Stock Average 
+expiring in September closed at 9,170 in Chicago on July 2,
+compared with 9,210 in Osaka. They were  bid  in the pre-market at
+9,180 as of 8:05 a.m. in Osaka. The Nikkei 225 closed at 9203.71,
+on July 2.  
+ Futures on Australia’s  S&P/ASX 200 Index  fell 0.7 percent.
+New Zealand’s  NZX 50 Index  gained 0.2 percent today in
+Wellington.  
+ The  MSCI Asia Pacific Index  dropped 3.4 percent last week,
+as weaker manufacturing growth in the U.S., Europe and China
+added to signs the global economic recovery is slowing.
+Companies in the gauge trade at 13.6 times estimated earnings,
+the lowest since December 2008.  
+ U.S. Jobs Data  
+ Futures on the  Standard & Poor’s 500 Index  declined 0.7
+percent. The gauge retreated 0.5 percent in New York on July 2,
+after the U.S. Labor Department said payrolls decreased by
+125,000 last month, the first drop this year, and after factory
+orders declined more than forecast.  
+ Crude oil for August delivery fell 1.1 percent in New York
+on July 2, the lowest settlement since June 8.  
+ Fast Retailing Co.  may be active today after Nomura Holdings
+Inc. cut the clothing retailer’s rating to “neutral” from
+“buy.”  
+ HSBC Holdings Plc , Europe’s biggest bank, said it has
+agreed to acquire The Royal Bank of Scotland Group Plc’s retail
+and commercial banking businesses in India for as much as $95
+million.  
+ To contact the reporters for this story:
+ Kana Nishizawa  in Tokyo at 
+ knishizawa5@bloomberg.net ;
+ Toshiro Hasegawa  in Tokyo at 
+ thasegawa6@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Yen-denominated futures on Japan’s Nikkei 225 Stock Average expiring in September closed at 9,170 in Chicago on July 2, compared with 9,210 in Osaka. Photographer: Haruyoshi Yamaguchi/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

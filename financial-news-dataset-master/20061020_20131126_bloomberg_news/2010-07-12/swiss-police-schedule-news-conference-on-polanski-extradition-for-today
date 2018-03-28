@@ -1,0 +1,78 @@
+-- Switzerland to Make Announcement on Polanski Extradition for Unlawful Sex
+-- Simone Meier
+-- 2010-07-12T11:18:45Z
+-- http://www.bloomberg.com/news/2010-07-12/swiss-police-schedule-news-conference-on-polanski-extradition-for-today.html
+
+          
+          
+             The Swiss government will hold a
+press conference on the possible extradition of fugitive film
+director  Roman Polanski , who fled California in 1978.  
+ Swiss Justice Minister  Eveline Widmer-Schlumpf  will hold a
+briefing at 2 p.m. in Bern, which will be  broadcast live  on the
+government’s website, the ministry said today in an e-mailed
+statement without elaborating. Polanski, whose films include
+“The Pianist” and “Chinatown,” is wanted in the U.S. for
+unlawful sexual conduct with a 13-year-old girl.  
+ The Oscar-winning director was arrested at Zurich airport
+on Sept. 26, as he arrived to collect an award at the city’s
+film festival. Polanski, 76, was held in a Swiss jail before
+being placed under house arrest at his holiday home in the
+Alpine village of Gstaad, Switzerland. Polanski has since been
+forced to wear an electronic monitoring tag while awaiting the
+government’s decision on the U.S. extradition request.  
+ The film director was initially charged on six felony
+counts alleging he drugged and raped the teenager in 1977. He
+later pleaded guilty to one count of unlawful sexual conduct
+with a minor after the lawyer for the girl’s family asked
+prosecutors to avoid a jury trial.  
+ The Justice Ministry declined to give details before the
+press conference.  Herve Temime , one of Polanski’s lawyers in
+Paris, and his Swiss attorney Lorenz Erni, couldn’t be reached
+to comment.  
+ Sentencing Questions  
+ His lawyers have previously said that under the U.S.
+extradition treaty with Switzerland, a convict may only be
+extradited if he faces at least six months in prison.  
+ In May, Polanski lost a bid to have a California court
+release testimony by a former prosecutor that he claims shows
+the Los Angeles District Attorney is misleading the Swiss
+government about the sentence he faces. Prosecutors say he faces
+as long as two years in jail.  
+ Polanski is married to French actress  Emmanuelle Seigner 
+and has two children. The French-Polish dual citizen won the
+Oscar for best director for the “The Pianist” in 2003.  
+ The case is People of the State of California v. Roman
+Polanski, A334139, California Superior Court (Los Angeles).  
+ To contact the reporters on this story:
+ Paul Verschuur  in Zurich at 
+ pverschuur@bloomberg.net ;
+ Simone Meier  in Zurich at 
+ smeier@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Director Roman Polanski who is under house arrest in his holiday home in Gstaad, Switzerland. Photographer: Pascal Le Segretain/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

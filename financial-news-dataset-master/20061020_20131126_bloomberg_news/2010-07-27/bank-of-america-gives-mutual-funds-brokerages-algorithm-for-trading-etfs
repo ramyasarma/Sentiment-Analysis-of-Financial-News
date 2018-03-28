@@ -1,0 +1,101 @@
+-- Bank of America Offers Mutual Funds Algorithm for Exchange Traded Funds
+-- Nina Mehta
+-- 2010-07-27T04:01:00Z
+-- http://www.bloomberg.com/news/2010-07-27/bank-of-america-gives-mutual-funds-brokerages-algorithm-for-trading-etfs.html
+
+          
+          
+             Bank of America Corp. , the largest
+U.S. lender by assets, is offering clients an electronic trading
+strategy that can automatically create shares of exchange-traded
+funds by buying and selling stocks and hedging with futures.  
+ The Charlotte, North Carolina-based bank estimates that
+more than a third of its electronic clients will adopt the
+algorithm, which seeks liquidity in ETF shares and related
+securities at the best price, said  Charlie Whitlock , a director
+in the bank’s execution services team. The ETF-aX product is
+aimed at mutual and hedge fund managers and broker-dealers.  
+ “This is part of the changeover from institutions sending
+orders to brokers to doing more self-execution,” said  Paul Zubulake , a senior analyst at research firm Aite Group in
+Boston. “More customers are taking execution into their own
+hands and brokers want to provide tools directly to them.”
+Commission costs also shrink “when you take a human being out
+of the equation,” he said.  
+ U.S. ETFs had $783 billion of assets in May, up from $582
+billion a year earlier,  according  to the Investment Company
+Institute in Washington. The number of ETFs rose to 860 from 712
+over the same period, the trade group said. ETFs accounted for
+about 17 percent of U.S. equities volume in the first half of
+this year, data compiled by Bloomberg show.  
+ “The overall ETF market has grown and clients who
+historically weren’t investing in these types of derivatives are
+expanding the types of products they trade for hedging purposes
+or to get exposure to a particular sector,” Whitlock said.  
+ Automated Strategy  
+ Bank of America is giving clients access to an automated
+strategy it uses on its own ETF desk to handle customer orders,
+Whitlock said. The strategy can buy or sell the ETF, shares of
+companies tracked by the product, and futures, depending on the
+best tactic at the time. It returns ETF shares to the client.  
+ “As we build out our electronic offering, there’s been
+demand from our client base for more sophisticated tools to
+trade these asset classes,” Whitlock said. Bank of America,
+like other brokers, gives customers algorithms tailored to
+particular types of trading or stocks to meet their execution
+goals. Customers often use strategies that sweep liquidity
+across markets to trade ETFs, he said.  
+ They can now employ the algorithm instead of going to a
+human sales trader at a broker-dealer, Whitlock said. Such
+intermediaries make decisions about how to transact blocks for
+institutions, including when to commit the firm’s capital to
+facilitate a customer trade that would move the market or
+couldn’t be executed rapidly enough.  
+ Anonymity Concern  
+ “Customers have more concerns about anonymity and they
+want more control over their order flow,” he said. “This is a
+product customers can use to trade ETFs themselves.” He said
+clients would still use sales traders for difficult or large
+transactions that couldn’t readily be executed.  
+ ETF-aX is the first product Bank of America is offering
+clients that was specifically designed to trade across asset
+classes, Whitlock said. It does so because shares in some ETFs
+don’t have enough daily volume to meet institutional demand even
+though companies in the index may be actively traded.  
+ Beyond some of the most popular ETFs including the  SPDR S&P
+500 ETF Trust  and  PowerShares QQQ , “many names don’t trade as
+well as the underlying stocks do,” said  Justin Davda , a
+director at Bank of America’s ETF desk. “So there may not be
+enough liquidity for institutions.” Broker-dealer trading desks
+can hedge in related futures contracts or the underlying
+securities and turn those trades into an ETF for the customer.
+“With this algo, we’ve wrapped that process into a tool and put
+it on the electronic trading platform, expanding the universe of
+algorithmically tradable ETFs for clients,” he said.  
+ Electronic Strategies  
+ The ETF algorithm is considered a premium product and will
+cost more per share for customers to use than some of the Bank
+of America’s other trading strategies, Whitlock said.  
+ Brokers such as Chicago-based Fox River Execution, which
+SunGard Data Systems Inc. said on July 22 that it acquired,
+offer customers electronic strategies to buy and sell ETFs.
+ Credit Suisse Group AG  handled the most U.S. stock trading based
+on commissions paid by asset managers and hedge funds, according
+to a June report by research firm Greenwich Associates. Bank of
+America was tied for third with Goldman Sachs Group Inc. while
+JPMorgan Chase & Co. was second.  
+ “Electronic trading has become an increasingly important
+part of the market, but up until now people traded ETFs with
+algorithms designed for individual stocks,” Davda said. “Now
+they can do it themselves with a product designed specifically
+for ETFs,” he said.  
+ To contact the reporter on this story:
+ Nina Mehta  in New York at 
+ nmehta24@bloomberg.net .  
+          
+          
+
+
+  
+
+
+        

@@ -1,0 +1,44 @@
+-- National Bank of Greece Will Pass EU's Stress Test, Chairman Rapanos Says
+-- Natalie Weeks
+-- 2010-07-21T14:59:17Z
+-- http://www.bloomberg.com/news/2010-07-21/national-bank-of-greece-will-pass-eu-s-stress-test-chairman-rapanos-says.html
+
+          
+          
+             National Bank of Greece SA Chairman
+Vassilios T. Rapanos said the country’s biggest lender will pass
+stress tests being conducted on the European banking system.  
+ “For National Bank of Greece I can tell you that it will
+pass the stress tests,” Rapanos said in a telephone interview
+from his Athens office today. The results of the stress tests
+will be released on July 23.  
+ To contact the reporter on this story:
+Natalie Weeks in Athens at 
+ nweeks2@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     National Bank of Greece SA Chairman Vassilios Rapanos. Photographer: Kostas Tsironis/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

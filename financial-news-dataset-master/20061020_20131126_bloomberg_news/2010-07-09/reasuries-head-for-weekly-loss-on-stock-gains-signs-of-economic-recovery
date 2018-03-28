@@ -1,0 +1,51 @@
+-- Treasury Futures Rise a Fourth Day as Slowing Growth Boosts Safety Demand
+-- Wes Goodman
+-- 2010-07-18T23:56:27Z
+-- http://www.bloomberg.com/news/2010-07-09/treasuries-head-for-weekly-loss-on-stock-gains-signs-of-economic-recovery.html
+
+          
+          
+             Treasury 10-year futures contracts
+gained for a fourth day as economists said reports this week
+will show housing starts and a measure of the outlook for
+economic growth fell.  
+ The implied yield fell two basis points to 3.25 percent as
+of 7:52 a.m. in Singapore, according to data compiled by
+Bloomberg.  
+ To contact the reporters on this story:
+ Wes Goodman  in Singapore at 
+ wgoodman@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 14 (Bloomberg) -- Intel Corp. Chief Financial Officer Stacy Smith talks with Bloomberg's Susan Li from Santa Clara, California, about the outlook for sales.
+     Intel, the world's biggest chipmaker, reported record second-quarter sales and topped analysts' estimates with its forecast for this period, allaying concern that a rebound in technology spending is losing steam. Smith also discusses the company's investments in China. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

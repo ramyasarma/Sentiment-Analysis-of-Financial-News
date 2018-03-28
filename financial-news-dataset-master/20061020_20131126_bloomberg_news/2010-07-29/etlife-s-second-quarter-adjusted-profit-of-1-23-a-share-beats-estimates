@@ -1,0 +1,44 @@
+-- MetLife's Second-Quarter Adjusted Profit of $1.23 a Share Beats Estimates
+-- Greg Chang
+-- 2010-07-29T20:05:13Z
+-- http://www.bloomberg.com/news/2010-07-29/metlife-s-second-quarter-adjusted-profit-of-1-23-a-share-beats-estimates.html
+
+          
+          
+             MetLife Inc. said it had second-
+quarter operating profit of $1.23 a share. The average analyst
+estimate from a Bloomberg survey was $1.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 29 (Bloomberg) -- Bloomberg's David Evans talks about New York Attorney General Andrew Cuomo's fraud probe into the life insurance industry.
+     Cuomo's office subpoenaed Prudential Financial Inc. and MetLife Inc. for information about profits on death benefits retained from the families of deceased policyholders including military personnel. Cuomo’s investigation was prompted by a Bloomberg Markets magazine report and follows a review by the New York State Insurance Department. Evans speaks with Margaret Brennan and Scarlet Fu on Bloomberg Television's "InBusiness". (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

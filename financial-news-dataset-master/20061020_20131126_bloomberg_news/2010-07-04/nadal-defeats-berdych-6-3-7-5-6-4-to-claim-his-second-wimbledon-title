@@ -1,0 +1,41 @@
+-- Nadal Defeats Berdych 6-3, 7-5, 6-4 to Claim His Second Wimbledon Title
+-- Rob Gloster
+-- 2010-07-04T15:31:11Z
+-- http://www.bloomberg.com/news/2010-07-04/nadal-defeats-berdych-6-3-7-5-6-4-to-claim-his-second-wimbledon-title.html
+
+          
+          
+             Rafael Nadal won his second Wimbledon
+title and his eighth Grand Slam championship, defeating Tomas
+Berdych 6-3, 7-5, 6-4.  
+ Nadal, 24, from Spain, also won the Wimbledon title in
+2008. He was unable to defend his crown last year because of
+sore knees. Berdych, a 24-year-old Czech, was playing in his
+first Grand Slam final.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Rafael Nadal of Spain reacts during the Men's Singles Final match against Tomas Berdych of Czech Republic. Photographer: Julian Finney/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

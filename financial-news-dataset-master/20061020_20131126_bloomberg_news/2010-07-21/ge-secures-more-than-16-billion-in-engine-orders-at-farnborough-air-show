@@ -1,0 +1,70 @@
+-- GE Wins More Than $16 Billion in Engine Orders at Air Show
+-- Rachel Layne
+-- 2010-07-21T20:50:33Z
+-- http://www.bloomberg.com/news/2010-07-21/ge-secures-more-than-16-billion-in-engine-orders-at-farnborough-air-show.html
+
+          
+          
+             General Electric Co. , the world’s
+largest maker of jet engines, led the order tally with more than
+$16.1 billion in equipment and service deals in the first three
+days of the Farnborough Air Show as demand rebounds.  
+ About $3 billion came from Emirates’ order for Boeing 777-
+ERs, which exclusively use the GE90 engine. Emirates also placed
+a $4.8 billion-order for Engine Alliance’s GP7200 to power the
+32 A380s the carrier ordered last month. Engine Alliance is co-
+owned by GE and  United Technologies Corp. ’s Pratt & Whitney.  
+ “The level of activity at the show demonstrates that the
+aviation industry is beginning to emerge from the economic
+downturn,” GE Aviation Chief Executive Officer  David Joyce 
+said.  
+ GE beat its own prediction for the show, which began this
+week, of securing $13 billion in orders. The total includes
+partners Safran SA, which makes CFM International engines with
+GE, and the Engine Alliance. GE’s orders, which peaked in 2007,
+have been stoked by record backlogs of engines for narrow-body
+planes such as  Boeing Co.’s 737  and  Airbus SAS’s A320 .  
+ This week, lessors including GE’s plane-leasing unit and
+ Steven Udvar-Hazy ’s Air Lease Corp., ordered more than 200
+narrow-body aircraft. Emirates was the largest airline to order
+new planes.  
+ Pratt’s orders along with partners totaled $3.65 billion to
+customers such as Malaysia Airlines, which ordered engines
+valued at $680 million for 17 Airbus A330s. Rolls-Royce Group
+Plc announced about $1.61 billion in deals. Both Pratt & Whitney
+and Rolls-Royce account for about one-third of the International
+Aero Engines partnership for engines on Airbus’s A320.  
+ The GE-Safran partnership provides engines exclusively for
+737s and competes with IAE on the A320, while the Engine
+Alliance with Pratt & Whitney provides turbines for Airbus’s
+A380 model, competing with a solo offering from Rolls-Royce.  
+ To contact the reporter on this story:
+ Rachel Layne  in London via 
+ rlayne@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A visitor looks at a General Electric Aviation (GEAE) GEnx airplane engine at the Farnborough International Airshow. Photographer: Simon Dawson/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

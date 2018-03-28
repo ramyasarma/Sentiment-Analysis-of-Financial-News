@@ -1,0 +1,81 @@
+-- Connecticut Investigates WellPoint Security Breach That May Affect 500,000
+-- Karen Freifeld
+-- 2010-07-02T16:28:51Z
+-- http://www.bloomberg.com/news/2010-07-02/connecticut-investigates-wellpoint-security-breach-that-may-affect-500-000.html
+
+          
+          
+             Connecticut Attorney General  Richard Blumenthal  said he is investigating “a massive security
+breach” at  WellPoint Inc.  that may have compromised financial
+and health information on almost 500,000 people.  
+ Blumenthal wrote to the Indianapolis-based company, the
+largest U.S. health insurer, asking for information on how the
+breach occurred, what’s being done to protect those affected and
+how to prevent future incidents, he said today in a statement.  
+ “This information breach is only the latest in a
+disturbing series of cases where nonpublic personal information
+has been subjected to unauthorized access,” Blumenthal said in
+his statement.  
+ WellPoint should provide affected consumers with two years
+of credit monitoring services and at least $25,000 of identity-
+theft protection, Blumenthal said.  
+ WellPoint notified 470,000 consumers last month about the
+breach, which affected people who applied for individual
+insurance, said Cindy Sanders, a spokeswoman.  
+ Fewer than 940 of those notified had their actual
+applications accessed, which could have revealed medical history
+and credit card information, she said.  
+ The problem was fixed in March, and WellPoint gave everyone
+notified a year of free credit protection, she said.  
+ The company is considering Blumenthal’s requests for
+additional monitoring and identity-theft protection, Sanders
+said. She couldn’t immediately confirm receipt of his letter.  
+ October Upgrade  
+ The breach resulted from an upgrade to WellPoint’s online
+application tracker performed by an outside company last
+October, Sanders said in a telephone interview. The insurer
+learned of it in March when a California woman sued, saying she
+could obtain confidential information by manipulating the Web
+address.  
+ “Within 12 hours of discovering the issue, we corrected
+it,” Sanders said. The company tried to identify whose
+information was affected, then decided to notify everyone whose
+data could be affected, she said.  
+ Attorneys for the woman who sued were among those who
+gained access to the information, she said.  
+ Blumenthal said he wanted the name of the computer company
+that did the upgrade in October, how someone would be able to
+manipulate the URL address to obtain the information, and how
+WellPoint determined how many computers did so.  
+ WellPoint fell 48 cents, or 1 percent, to $47.31 at 12:27
+p.m. in New York 31tock Exchange composite trading.  
+ To contact the reporter on this story:
+ Karen Freifeld  in New York
+at   kfreifeld@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Richard Blumenthal, Connecticut attorney general, speaks during a hearing on Capitol Hill in Washington. Photographer: Carol T. Powers/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

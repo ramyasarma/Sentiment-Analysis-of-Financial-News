@@ -1,0 +1,102 @@
+-- Apple Responds to IPhone Complaints With Signal Software Fix
+-- Adam Satariano
+-- 2010-07-02T20:48:06Z
+-- http://www.bloomberg.com/news/2010-07-02/apple-responds-to-iphone-reception-complaints-by-offering-a-software-fix.html
+
+          
+          
+             Apple Inc., following complaints
+about reception problems with its iPhone 4, discovered a
+software problem that has displayed inaccurately high signal
+strength since the original device was introduced in 2007.  
+ Some iPhones have been showing more bars of signal strength
+than merited, leading users to believe they had better
+reception. A software update to fix the problem on its 3G, 3GS
+and 4 models will be released “within a few weeks,” Apple said
+today in a statement.  
+ “We were stunned to find that the formula we use to
+calculate how many bars of signal strength to display is totally
+wrong,” Cupertino, California-based Apple said. After the fix,
+“the real signal strength remains the same, but the iPhone’s
+bars will report it far more accurately.”  
+ Customers have complained about poor reception from the
+network of  AT&T Inc. , the iPhone’s exclusive U.S. carrier, since
+it debuted three years ago.  
+ “This is really surprising that something as simple as this
+is what is causing the problem and that it’s been around for so
+long,” said Francis Sideco, an analyst at iSuppli Corp. in El
+Segundo, California, which analyzes the engineering of wireless
+devices.  
+ Apple fell $1.54 to $246.94 at 4 p.m. New York time in
+Nasdaq Stock Market  trading . The shares have gained 17 percent
+this year.  
+ IPhone Antenna  
+ The iPhone is Apple’s top-selling product, accounting for
+40 percent of its revenue last quarter. The company sold 1.7
+million of the devices in its first three days on sale.  
+ Verizon Wireless, the largest U.S. mobile-phone carrier, is
+set to begin sales of the iPhone in the U.S. in January, two
+people with knowledge of the plan said this week.  
+ Apple said some users reported they lost four or five bars
+of signal strength when they held the iPhone in a certain way, a
+bigger drop than normal. The company has suggested customers
+hold the phone differently or use a case.  
+ Apple’s rivals have been trying to take advantage of the
+antenna problem.  Motorola Inc.  released an  ad  highlighting that
+its new Droid X phone has a double antenna design, “the kind
+that allows you to hold the phone any way you like and use it
+just about anywhere to make crystal clear calls.”  
+ Apple also has been  sued  for the reception problem by two
+users who accuse the company of unfair business practices and
+false and misleading advertising.  
+ With the software fix, Apple said it’s adopting AT&T’s
+recommended formula to more accurately calculate how many bars
+to display. The change will result in the first three bars being
+easier to see, Apple said.  
+ Reception Problems  
+ Complaints about the reliability of AT&T’s network will
+probably persist, said  Tavis McCourt , an analyst at Morgan
+Keegan & Co. in Nashville, Tennessee.  
+ “It’s a software fix, but it doesn’t really seem to address
+the reception problems the iPhone has had,” McCourt said today
+in an interview. Given the sales, “consumers seem to be willing
+to forgive the iPhone for any reception problems for the
+experience of using it,” he said.  
+ To contact the reporters on this story:
+ Greg Bensinger  in New York at 
+ gbensinger1@bloomberg.net ;
+ Adam Satariano  in San Francisco at   asatariano1@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          June 30 (Bloomberg) -- John Hodulik, an analyst at UBS Securities LLC, talks about the outlook for AT&T Inc. losing exclusive rights to carry Apple Inc.'s iPhone and the impact on the wireless industry.
+     Hodulik talks with Margaret Brennan on Bloomberg Television's "InBusiness." (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,101 @@
+-- Foursquare to Decide on Sale in Weeks, CEO Says
+-- Tim Mullaney
+-- 2010-04-23T20:35:07Z
+-- http://www.bloomberg.com/news/2010-04-23/foursquare-will-decide-between-sale-financing-in-weeks-ceo-crowley-says.html
+
+          
+          
+             Foursquare Labs Inc., the location-
+based Web service that reached 1 million users this week, will
+decide whether to sell itself or raise more venture capital
+within weeks, Chief Executive Officer Dennis Crowley said.  
+ The New York-based startup is debating the right way to
+finance its growth, Crowley, 33, said in an interview today. He
+declined to identify any suitors or comment on how much the
+company might be worth.  
+ “We’ll do whatever is best for the product,” Crowley said.
+“We’ll have it resolved in a couple of weeks. I want to end the
+distractions and get back to work.”  
+ Foursquare, which has grown from 170,000 users at the end
+of last year, would help an acquirer expand in the wireless
+local-advertising market. Services like Foursquare, which
+deliver coupons and offers to users based on where their phones
+say they are, may account for as much as $4.1 billion in yearly
+advertising spending by 2015, said Kip Cassino, research
+director at consulting firm Borrell Associates in Williamsburg,
+Virginia.  
+ Yahoo! Inc. was considering buying Foursquare for about
+$100 million, Business Insider reported this month. The Silicon
+Valley blog TechCrunch reported yesterday that Microsoft Corp.
+and Facebook Inc. are or have been in talks with the company.  
+ Foursquare has also held talks with several venture-capital
+firms, TechCrunch reported March 25. Proposed valuations ranged
+as high as $80 million, the blog reported.  
+ Checking In  
+ Dana Lengkeek, a spokeswoman for Yahoo, and Jonathan Thaw,
+a spokesman for Facebook, said their companies don’t comment on
+rumor or speculation. Frank Shaw, a spokesman for Microsoft,
+also declined to comment.  
+ Crowley said many of the reports aren’t accurate, and that
+Foursquare hadn’t been a source for them.  
+ “People are just making stuff up at this point,” he said
+today. “We’re just as surprised as anyone else.”  
+ Foursquare, founded last year, lets users “check in” using
+mobile phones when they visit a specific place or business,
+earning rewards and letting advertisers target them for special
+offers. Users can also see who else has checked in at locations
+near them, review businesses and get suggestions on things to do
+near where they are.  
+ New Features  
+ The 20-employee company offers free advertising, for now,
+to small shops and restaurants, while generating revenue from
+selling ads to chain businesses, Crowley said. Ultimately, it
+plans to offer targeted advertising for local businesses, by
+crunching data about where users check in to guess what kinds of
+offers they want to see, he said.  
+ The company is rolling out new features, including a self-
+service platform to let small businesses create Foursquare ads,
+and may begin services to introduce users to each other, Crowley
+said. The number of users is growing 50 percent a month and is
+on pace to reach 3 million by the end of the summer, he said.  
+ “I’m like, ‘That’s impossible,’ and Harry’s like, ‘That’s
+the curve, dude,’” Crowley said, referring to Foursquare lead
+engineer Harry Heymann. “When you get to a million people you
+can start introducing people to other people. You can do a lot
+of interesting things.”  
+ To contact the reporter on this story:
+Tim Mullaney in New York at 
+ tmullaney1@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          April 26 (Bloomberg) -- Bloomberg's Deirdre Bolton reports on breaking media news in today's edition of Media Monday. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

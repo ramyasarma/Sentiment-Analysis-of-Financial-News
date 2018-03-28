@@ -1,0 +1,54 @@
+-- U.S. Stocks Advance on Banks Rally, Consumer Sentiment Topping Estimates
+-- Nick Baker
+-- 2010-06-25T14:06:47Z
+-- http://www.bloomberg.com/news/2010-06-25/stocks-in-u-s-rise-as-banks-advance-consumer-sentiment-exceeds-estimates.html
+
+          
+          
+             U.S. stocks rallied, trimming weekly
+losses, after a gauge of consumer confidence topped projections
+and banks advanced as Congress diluted financial-reform
+legislation.  
+ The Standard & Poor’s 500 Index climbed 0.3 percent to
+1,076.41 at 10:04 a.m. in New York, paring its weekly loss to
+3.7 percent.  
+ Confidence among U.S. consumers rose in June to the highest
+level in more than two years, a private survey showed. The
+Thomson Reuters/University of Michigan final index of consumer
+sentiment increased to 76, the highest since January 2008, from
+73.6 in May. The gauge was projected to rise to 75.5, according
+to the median forecast of economists surveyed by Bloomberg News.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          June 25 (Bloomberg) -- Richard Bove, an analyst at Rochdale Securities LLC, discusses the impact of legislation overhauling the financial regulatory system on U.S. banks.
+     Lawmakers from the House and Senate worked through the night in a 20-hour session to reach deals on a ban on proprietary trading by banks and oversight of the derivatives market. Bove talks with Betty Liu and Jon Erlichman on Bloomberg Television’s “In the Loop.”  (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

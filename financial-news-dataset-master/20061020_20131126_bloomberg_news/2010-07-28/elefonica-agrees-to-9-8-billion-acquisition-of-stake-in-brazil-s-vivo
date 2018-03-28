@@ -1,0 +1,38 @@
+-- Telefonica Agrees to $9.8 Billion Acquisition of Stake in Brazil's Vivo
+-- Anabela Reis
+-- 2010-07-28T12:01:50Z
+-- http://www.bloomberg.com/news/2010-07-28/telefonica-agrees-to-9-8-billion-acquisition-of-stake-in-brazil-s-vivo.html
+
+          
+          
+             Portugal Telecom SGPS SA agreed to
+sell its stake in a joint venture that controls Vivo
+Participacoes SA to Telefonica SA for 7.5 billion euros, the
+company said in a regulatory filing  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Portugal Telecom SGPS SA chief executive officer Zeinal Bava. Photographer: Mario Proenca/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

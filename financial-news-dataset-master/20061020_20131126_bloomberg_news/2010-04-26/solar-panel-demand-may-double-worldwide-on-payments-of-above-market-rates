@@ -1,0 +1,51 @@
+-- Global Solar-Panel Demand May Double as Countries Set Above-Market Rates
+-- Jeremy van Loon
+-- 2010-04-26T12:36:07Z
+-- http://www.bloomberg.com/news/2010-04-26/solar-panel-demand-may-double-worldwide-on-payments-of-above-market-rates.html
+
+          
+          
+             Global demand for solar panels may
+double this year as Germany and other European countries offer
+guaranteed, above-market rates for the power produced.  
+ Solar-panel installations will probably rise to between
+11.5 gigawatts and 14.8 gigawatts this year from 7.3 gigawatts
+in 2009, Bloomberg New Energy Finance said in its photovoltaic
+industry outlook.  
+ State support in most European countries drives investment
+in photovoltaic equipment, NEF said. In Italy, the prices paid
+for solar power are as high as 43 euro cents (57 U.S. cents) for
+each kilowatt-hour generated. That’s about six times the
+wholesale rate earned by fossil-fuel-burning plants.  
+ Operators of solar power stations in France, the U.K. and
+the Czech Republic are paid similar rates. Spain and Germany,
+the biggest solar equipment market, are reducing rates.  
+ To contact the reporter on this story:
+Jeremy Van Loon in Berlin at 
+ jvanloon@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+     
+         Audio Download:  New Energy Finance's Bullard on Demand for Solar Panels 
+     
+         
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

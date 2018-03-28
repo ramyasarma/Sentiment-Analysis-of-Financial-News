@@ -1,0 +1,106 @@
+-- SEC Said to Investigate Marketing of Principal-Protected Structured Notes
+-- Joshua Gallu
+-- 2010-07-02T16:51:00Z
+-- http://www.bloomberg.com/news/2010-07-02/sec-said-to-investigate-marketing-of-principal-protected-structured-notes.html
+
+          
+          
+             The U.S. Securities and Exchange
+Commission has asked several financial firms how they market
+“principal-protected” notes after investors said they lost
+more than $1 billion on the securities when  Lehman Brothers
+Holdings Inc.  collapsed, according to people familiar with the
+matter.  
+ The agency’s Division of Corporation Finance is looking at
+how companies describe the products’ risks and whether the term
+“principal protected” misleadingly implies the investment is
+guaranteed not to decline in value, said one of the people, who
+declined to be identified because the inquiry isn’t public.  
+ Citigroup Inc., which used the phrase in its May marketing
+materials, removed it from a brochure filed June 15 with the
+SEC. “Citi is working with other banks and industry
+participants regarding the description of these products,” said
+spokesman  Alexander Samuelson , who declined to comment on the
+inquiry.  
+ Barclays Plc, Morgan Stanley and Bank of America Corp. are
+among banks that in offering documents filed with the SEC
+describe some structured notes, which are bonds packaged with
+derivatives, as “principal protected.” Individual investors in
+the U.S. bought $34 billion of all types of structured notes
+last year, according to StructuredRetailProducts.com, a database
+used by the industry.  
+ Findings made by the SEC’s corporation finance division may
+be referred to the enforcement division, which investigates
+fraud.  Kenneth Lench , head of the agency’s Structured and New
+Products enforcement unit, declined to comment on whether the
+enforcement division is looking into the securities.  John Heine ,
+an SEC spokesman, also declined to comment.  
+ ‘Marketing Materials’  
+ Firms must include “full and accurate” disclosures of
+risks when marketing complex products, such as principal-
+protected notes, to individual investors, Lench said in a June
+25 telephone interview.  
+ “You’ve got these long disclosure documents, but
+oftentimes there are marketing materials and those have to be
+accurate as well,” Lench said.  
+ Kristin Friel , a spokeswoman for Barclays, Mark Lake, a
+spokesman for Morgan Stanley, and  Selena Morris , a spokeswoman
+for Bank of America, declined to comment.  
+ Issuers of principal-protected notes combine bonds with
+derivatives to offer investors bets on stocks and commodities,
+with a promise to return their initial outlay regardless of
+performance. That still leaves counterparty risk, or the danger
+of not being fully repaid because the issuer itself goes out of
+business, which is generally spelled out in the prospectuses.  
+ ‘Properly Sold’  
+ When Lehman Brothers went bankrupt in September 2008, the
+principal-protected notes that it had guaranteed plummeted in
+value. A group of investors said in a lawsuit seeking class-
+action status that the firm sold at least $1.7 billion of the
+securities. The investors also claimed that UBS AG brokers
+provided “misleading” information when using the term “100
+percent principal protection” to market the notes.  
+ Allison Chin-Leong , a spokeswoman for UBS, said that the
+Zurich-based bank “properly sold” the Lehman products,
+“following all regulatory requirements, well-established sales
+practices and client disclosure guidelines.”  
+ In April, Citigroup offered to compensate more than 2,700
+Spanish investors who lost money on Lehman structured notes,
+without admitting liability. Some buyers of Lehman principal-
+protected notes have won restitution from their brokers in
+Financial Industry Regulatory Authority arbitration cases.
+Finra, the industry-funded brokerage regulator, sent a  notice  to
+brokers last year telling them to ensure that marketing
+materials for the securities are “fair and balanced.”  
+ To contact the reporters on this story:
+ Zeke Faux  in New York at 
+ zfaux@bloomberg.net ;
+ Joshua Gallu  in Washington at 
+ jgallu@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     The headquarters building of the U.S. Securities and Exchange Commission stands in Washington. Photographer: Joshua Roberts/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

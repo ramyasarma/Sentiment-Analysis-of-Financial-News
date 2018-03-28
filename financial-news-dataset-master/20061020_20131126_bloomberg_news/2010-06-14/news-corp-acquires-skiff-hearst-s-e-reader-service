@@ -1,0 +1,74 @@
+-- News Corp. Acquires Skiff, Hearst's E-Reader Service
+-- Sarah Rabil
+-- 2010-06-14T20:12:18Z
+-- http://www.bloomberg.com/news/2010-06-14/news-corp-acquires-skiff-hearst-s-e-reader-service.html
+
+          
+          
+             News Corp. , the owner of the Wall
+Street Journal, boosted its investment in digital journalism
+with the acquisition of Skiff LLC, Hearst Corp.’s e-reading
+service, which transmits news articles to portable devices.  
+ Skiff delivers newspapers and magazines to devices such as
+tablets, smartphones and e-readers, New York-based News Corp.
+said today in a statement. The company also announced an
+investment in  Journalism Online LLC , a venture that helps
+publishers collect revenue from online readers. Terms weren’t
+disclosed for either deal.  
+ News Corp. Chairman and Chief Executive Officer  Rupert Murdoch  is pushing his newspapers, including the Times of London
+and the New York Post, to join the Journal in charging consumers
+for access to articles on the Web. Murdoch has become an
+advocate for pay walls across the journalism industry and has
+also criticized  Amazon.com Inc. ’s Kindle for taking too big a
+share of the revenue from publishers.  
+ The reader Skiff had been developing to compete with the
+Kindle and Apple Inc.’s iPad, isn’t part of the purchase, News
+Corp. spokeswoman Julie Henderson said.  
+ Journalism Online, co-founded by  Steven Brill  and  Gordon Crovitz , runs Press+, a service that provides online readers a
+universal account to access news. It also helps publishers
+adjust pricing and offerings for paid access to their content,
+including managing the so-called meter model, which grants free
+access until a reader surpasses a certain threshold.  
+ Jon Housman , an adviser at the company, was named president
+of News Corp.’s digital journalism efforts, reporting to  Jon Miller , the chief digital officer.  
+ News Corp. fell 25 cents to $13.12 at 4 p.m. in Nasdaq
+Stock Market  trading . The shares have fallen 4.2 percent this
+year.  
+ To contact the reporter on this story:
+ Sarah Rabil  in New York at 
+ srabil@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     The Reader Development Kit for the upcoming Skiff e-reader displayed at the 2010 International Consumer Electronics Show in Las Vegas. Photographer: Daniel Acker/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     News Corp. headquarters in New York. Photographer: Daniel Acker/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

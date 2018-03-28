@@ -1,0 +1,55 @@
+-- Reid Ready to Move on Climate Bill Before Immigration
+-- James Rowley
+-- 2010-04-27T19:35:52Z
+-- http://www.bloomberg.com/news/2010-04-27/reid-ready-to-move-on-climate-bill-before-taking-up-immigration-measure.html
+
+          
+          
+             Senate Democratic Leader Harry Reid
+said he’s ready to move forward with a climate-change bill
+before taking up the issue of overhauling U.S. immigration laws.  
+ “The energy bill is ready, we will move that more quickly
+than a bill we don’t have,” Reid told reporters today in
+Washington. “I don’t have an immigration bill.”  
+ Reid said he told Republican Senator Lindsey Graham of
+South Carolina last week that he wanted to proceed with climate-
+change legislation before taking up immigration. Graham, working
+on both issues, pulled out of talks to proceed with a global-
+warming bill on April 24 to protest that President Barack Obama
+and Senate leaders may act first on immigration laws.  
+ “I don’t know why Senator Graham has decided that he wants
+out of what he’s doing,” Reid, a Nevada Democrat, said.  
+ Immigration and energy are “equally vital” to economic
+and national security, Reid said. “We’ve ignored both of them
+for far too long. I’m committed to doing both this session of
+Congress.”  
+ To contact the reporter on this story:
+Kim Chipman in Washington at 
+ kchipman@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Senate Majority Leader Harry Reid, a Democrat from Nevada, speaks in Washington in this file photo. Photographer: Andrew Harrer/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

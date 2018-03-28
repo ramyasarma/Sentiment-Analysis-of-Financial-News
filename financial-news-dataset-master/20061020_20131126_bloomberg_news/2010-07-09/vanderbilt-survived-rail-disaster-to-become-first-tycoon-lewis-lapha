@@ -1,0 +1,39 @@
+-- Vanderbilt Survived Rail Disaster to Become First Tycoon: Lewis Lapham
+-- 
+-- 2010-07-09T04:17:40Z
+-- http://www.bloomberg.com/news/2010-07-09/vanderbilt-survived-rail-disaster-to-become-first-tycoon-lewis-lapham.html
+
+          
+          
+             T.J. Stiles talks with Bloomberg's 
+Lewis Lapham about his book ``The First Tycoon: The Epic Life of
+Cornelius Vanderbilt.'' (Source: Bloomberg)  
+ Running time 20:58  
+ -0- Jul/09/2010 04:17 GMT
+  
+          
+          
+
+
+  
+     
+       
+     
+     
+         Audio Download:  T.J. Stiles Discusses `The First Tycoon': Lewis Lapham 
+     
+         
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

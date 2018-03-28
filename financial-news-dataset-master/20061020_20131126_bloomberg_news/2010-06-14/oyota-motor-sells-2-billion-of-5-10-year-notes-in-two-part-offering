@@ -1,0 +1,59 @@
+-- Toyota Motor Sells $2 Billion in Notes, First U.S. Offering in Four Years
+-- Alan Ohnsman
+-- 2010-06-15T00:43:09Z
+-- http://www.bloomberg.com/news/2010-06-14/toyota-motor-sells-2-billion-of-5-10-year-notes-in-two-part-offering.html
+
+          
+          
+             Toyota Motor Corp. ’s U.S. finance
+unit sold $2 billion of 5- and 10-year notes, the first such
+sale in the U.S. by the world’s largest automaker in four years.  
+ Toyota Motor Credit Corp. yesterday issued $1.25 billion of
+five-year notes that yield 120 basis points more than similar-
+maturity U.S. Treasuries, and $750 million of 10-year debt with
+a spread of 130 basis points, Bloomberg data show. A basis point
+is 0.01 percentage point.  
+ “We always try to keep a diverse source of funding,” said
+ Justin Leach , a spokesman for the finance unit in Torrance,
+California. “It had been a while since we were in the market,
+and the timing was right.”  
+ The sale is Toyota’s first benchmark offering of dollar-
+denominated debt since 2006 and comes after the Toyota City,
+Japan-based company recalled more than 8 million vehicles
+worldwide this year to fix sticky gas pedals and misshapen floor
+mats.  
+ Funds raised from the sale aren’t earmarked for a specific
+program, Leach said, without elaborating.  
+ Toyota’s U.S. sales unit is also based in Torrance.  
+ To contact the reporters on this story:
+ Craig Trudell  in New York at 
+ ctrudell1@bloomberg.net ;
+ Alan Ohnsman  in Los Angeles at 
+ aohnsman@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     The logo for Toyota Motor Corp. is polished at the company's showroom in Tokyo. Photographer: Tomohiro Ohsumi/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,93 @@
+-- Apple IPhone 4 Sets Sales Record of 1.7 Million Units
+-- Adam Satariano
+-- 2010-06-28T14:02:07Z
+-- http://www.bloomberg.com/news/2010-06-28/apple-iphone-4-sets-debut-sales-record-of-1-7-million-units-in-three-days.html
+
+          
+          
+             Apple Inc.  sold 1.7 million iPhone
+4s in its first three days, a record for the newest iteration of
+its top-selling product featuring video calling and an updated
+body.  
+ The iPhone 4 made its debut in the U.S., U.K., Japan,
+France and Germany on June 24. Many stores, including retailer
+ Best Buy Co. , sold out. The previous 3GS model sold 1 million
+during its first weekend.  
+ Chief Executive Officer  Steve Jobs  added new features
+including a high-definition video camera, a sharper screen and
+multitasking that allows the use of several programs at once.
+Apple is competing against  Research In Motion Ltd. ’s BlackBerry
+and phones made by companies such as HTC Corp. that use  Google
+Inc. ’s Android operating system.  
+ Analysts  including  Colin Gillis  of BGC Partners LP in New
+York and  Andy Hargreaves  of Pacific Crest Securities in
+Portland, Oregon, projected Apple would sell 2 million iPhone 4s
+by June 26, the end of the company’s fiscal quarter.  Gene Munster , an analyst at Piper Jaffray Cos. in Minneapolis,
+estimated 1 million to 1.5 million.  
+ Apple had a difficult time getting enough touch screens to
+meet demand for the device, said  Ashok Kumar , an analyst at
+Rodman & Renshaw Inc. in New York, so the early sales figures
+may not be an accurate reflection of demand.  
+ “It’s too early to say if this is negative,” said Kumar.
+While Apple has some production constraints, the company “has a
+captive audience,” he said. “Demand for the iPhone 4 is not yet
+satiated so it just gets pushed out into subsequent quarters.”  
+ IPhone, IPad  
+ Apple , based in Cupertino, California, rose 80 cents to
+$267.50 at 10:01 a.m. New York time in Nasdaq Stock Market
+trading. The shares had risen 27 percent  this year  before today.
+Hargreaves rates Apple “outperform” and Munster rates it
+“overweight.” Gillis recommends buying the stock and Kumar rates
+it “market outperform.”  
+ The iPhone sales results follow Apple’s statement last week
+that it sold more than 3 million of its iPad tablet computing
+device in the first 80 days.  
+ With the iPad, introduced April 3, and the three-year-old
+iPhone, Apple has widened its business beyond the Macintosh
+computer and iPod media player. IPhone sales accounted for 40
+percent of revenue last quarter.  
+ Apple’s  share price  has more than doubled since the
+original iPhone’s release on June 29, 2007. The company is now
+the world’s largest technology company by  market value .  
+ Reception Problems  
+ Some iPhone 4 customers reported trouble with the new
+antenna design. The phone signal drops when users cover the
+bottom left corner of the device with their palm. Apple
+recommended holding the phone differently or using a case to
+solve the problem.  
+ Customers in the five countries began lining up days in
+advance to buy the device. Users have access to more than
+225,000 applications for playing games, listening to music or
+finding a nearby restaurant.  
+ Apple said the iPhone will be available in 88 countries by
+the end of September.  
+ To contact the reporter on this story:
+ Adam Satariano  in San Francisco at 
+ asatariano1@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Apple Inc. CEO Steve Jobs pictured with the iPhone 4. Photographer: David Paul Morris/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

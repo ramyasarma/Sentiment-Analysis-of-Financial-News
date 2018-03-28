@@ -1,0 +1,51 @@
+-- Agricultural Bank IPO Draws $1 Billion From Japan Investors, Oriental Says
+-- Marco Lui
+-- 2010-07-05T00:56:48Z
+-- http://www.bloomberg.com/news/2010-07-05/agricultural-bank-ipo-draws-1-billion-from-japan-investors-oriental-says.html
+
+          
+          
+             Agricultural Bank of China Ltd. has
+attracted about $1 billion from Japanese investors for its Hong
+Kong initial public offering, the Oriental Daily News reported,
+citing people it didn’t identify.  
+ Nomura Holdings Inc. and Daiwa Securities Group Inc. are
+the distributors in Japan for Agricultural Bank’s international
+placing shares, the Hong Kong-based Chinese newspaper said.  
+ To contact the reporter on this story:
+Marco Lui in Hong Kong at 
+ mlui11@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 5 (Bloomberg) -- Bloomberg's Paul Gordon reports on Agricultural Bank of China Ltd.'s planned initial public offering.
+     Agricultural Bank’s valuation discount to its closest rivals has halved in seven trading days, making the world’s biggest initial public offering in almost four years less appealing to investors. Shares in the Hong Kong part of Agricultural Bank’s IPO are valued at an average 5.3 percent less than its three biggest competitors as measured by book value, based on the top end of the IPO price range and data compiled by Bloomberg. When the bank priced the offering on June 24, the gap was 10.5 percent. Bloomberg's Susan Li also speaks. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

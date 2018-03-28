@@ -1,0 +1,70 @@
+-- Japan Unemployment Rate Unexpectedly Increased to Seven-Month High in June
+-- Aki Ito
+-- 2010-07-29T23:42:17Z
+-- http://www.bloomberg.com/news/2010-07-29/japan-unemployment-rate-unexpectedly-increased-to-seven-month-high-in-june.html
+
+          
+          
+             Japan’s unemployment rate
+unexpectedly rose to a seven-month high in June, adding to
+concern consumer spending will stall.  
+ The  jobless rate  climbed to 5.3 percent, the statistics
+bureau said today in Tokyo. The median  forecast  of 26
+economists surveyed by Bloomberg News was for the rate to stay
+at 5.2 percent. Household spending rose 0.5 percent from a year
+earlier, a separate report showed.  
+ Recent data indicate the world’s second-largest economy
+continued to expand last quarter, albeit at a slower pace as
+export growth moderated. Companies are still reluctant to
+increase their personnel costs, according to economist
+ Yoshimasa Maruyama .  
+ “Because young people aren’t getting hired, I expect
+unemployment to remain at a high level for the coming year,”
+Maruyama, a senior economist at Itochu Corp. in Tokyo, said
+before the report.  
+ Household spending has been buoyed by government
+incentives to buy energy-efficient cars and electronics. The
+programs are scheduled to expire this year.  
+ Renesas Electronics Corp.  will eliminate 5,000 jobs by the
+end of fiscal 2012, the company said yesterday. Japan’s second-
+largest chipmaker forecasts a net loss of 80 billion yen ($920
+million) for the 12 months ending March 31.  
+ A separate report today showed that the  job-to-applicant
+ratio  rose to 0.52 in June, meaning there are 52 job openings
+for every 100 candidates, the most since March 2009.  
+ Wages  have gained for three months, an indication
+consumers may begin to spend on a wider array of goods and
+services, and not just cars and household appliances. Summer
+bonuses at large companies rose for the first time in three
+years, according to business lobby Keidanren. The money is
+often equivalent to several months of pay.  
+ To contact the reporter on this story:
+ Aki Ito  in Tokyo at 
+ aito16@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Pedestrians walk through a street in Tokyo, Japan, on Wednesday, July 14, 2010. Photographer: Kiyoshi Ota/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

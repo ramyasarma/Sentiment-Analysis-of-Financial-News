@@ -1,0 +1,48 @@
+-- U.S. Stocks Fluctuate as Options Expiration Spurs Price Swing
+-- Michael P. Regan
+-- 2010-06-18T16:26:33Z
+-- http://www.bloomberg.com/news/2010-06-18/u-s-stocks-fluctuate-as-futures-options-expirations-lead-to-price-swings.html
+
+          
+          
+             U.S. stocks swung between gains and
+losses as the expiration of equity futures and options and the
+quarterly rebalancing of the Standard & Poor’s 500 Index spurred
+price swings.  
+ The Standard & Poor’s 500 Index slipped less than 0.1
+percent to 1,115.8 at 12:25 p.m. in New York after rallying as
+much as 0.5 percent and slipping 0.2 percent.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          June 18 (Bloomberg) -- Liam Dalton, chief executive officer of Axiom Capital Management, talks about the outlook for U.S. equities and his stock picks of Comcast Corp. and JPMorgan Chase & Co.
+     Dalton speaks in an interview on Bloomberg Television's "InBusiness With Margaret Brennan." (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

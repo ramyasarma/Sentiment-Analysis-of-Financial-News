@@ -1,0 +1,69 @@
+-- Frank Seeks to Keep Debit-Card Fee Caps in Overhaul Bill
+-- Peter Eichenbaum
+-- 2010-06-21T17:43:59Z
+-- http://www.bloomberg.com/news/2010-06-21/frank-seeks-to-keep-debit-card-fee-limits-in-u-s-financial-overhaul-bill.html
+
+          
+          
+             U.S. Representative  Barney Frank ,
+the leader of talks to produce a final regulatory overhaul bill,
+will seek to maintain the Senate’s proposed cap on debit-card
+“swipe” fees with some changes, according Frank’s office.  
+ The proposal by U.S. Senator  Richard Durbin  would empower
+the Federal Reserve to set  interchange  fees that are
+“reasonable and proportional” to the cost of processing debit
+transactions. His plan also would let  retailers  offer discounts
+based on payment method or network, and set minimums and
+maximums for credit-card purchases.  
+ The House would exempt government-issued prepaid cards and
+reloadable prepaid cards and allow the Fed to consider the costs
+of combating fraud in determining interchange, or swipe fees,
+according to the text of the House proposal. A bipartisan
+committee is scheduled to debate the proposed changes tomorrow.  
+ “We were able to reach an agreement which makes minor
+changes to strengthen consumer protections and bring competition
+to a market where there is none,” Durbin said in a statement.
+“We’ve addressed the concerns of states regarding their ability
+to provide services to the unemployed and the concerns of small
+financial firms regarding their ability to provide services to
+the unbanked.”  
+ Interchange fees are set by  Visa Inc.  and  MasterCard Inc. ,
+which pass the money to card-issuing banks including  JPMorgan
+Chase & Co. ,  Bank of America Corp.  and  Citigroup Inc.  The fees
+U.S. merchants paid last year to accept Visa and MasterCard
+debit cards totaled $19.7 billion and averaged 1.63 percent of
+each sale, according to the Nilson Report, an industry
+newsletter.  
+ Mastercard, based in Purchase, New York, rose 4.4 percent
+in New York trading to $223.60 as of 1:41 p.m. San Francisco-
+based Visa advanced 4.5 percent to $80.53.  
+ To contact the reporter on this story:
+ Peter Eichenbaum  in New York at 
+ peichenbaum@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     The fees U.S. merchants paid last year to accept Visa and MasterCard debit cards totaled $19.7 billion and averaged 1.63 percent of each sale. Photographer: Andrew Harrer/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

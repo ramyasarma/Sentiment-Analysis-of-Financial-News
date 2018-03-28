@@ -1,0 +1,66 @@
+-- Japan Reduces Currency Risk on Rising Asian Trade: Chart of Day
+-- Minh Bui
+-- 2010-07-26T21:00:00Z
+-- http://www.bloomberg.com/news/2010-07-26/japan-s-currency-risk-diminished-as-asia-buyers-opt-for-yen-chart-of-day.html
+
+          
+          
+             More of Japan’s exports are
+denominated in yen than any time in at least a decade, thanks to
+rising sales to Asia, reducing the risk that the currency’s
+appreciation will erode exporters’ profits.  
+ The CHART OF THE DAY shows that 41 percent of Japan’s
+exports were sold in yen in the first half of 2010, the biggest
+proportion in data going back to 2000, a Finance Ministry report
+showed yesterday in Tokyo. By contrast, 48.6 percent of Japanese
+shipments abroad were made in dollars, a two-year low.  
+ Over half of Japanese exports now go to Asian countries,
+which pay for them in yen 48.1 percent of the time, more than
+the proportions for the U.S. and Europe. By keeping the deals in
+their own currency, exporters avoid the value of their
+repatriated earnings being curtailed by a yen that has gained
+about 8 percent against the dollar in the past three months.  
+ “The increase in the yen ratio is good news for Japan as
+it reduces the vulnerability to currency fluctuations,” said
+ Azusa Kato , an economist at BNP Paribas in Tokyo. “There’s a
+tendency that the more exports to Asia increase, the more the
+yen ratio increases, and that will reduce currency risks.”  
+ Kato said another reason why the percentage of exports
+traded in yen is increasing is that more Japanese companies are
+making the transactions using their offshore subsidiaries.  
+ Komatsu Ltd. , the world’s second-biggest construction-
+equipment maker, estimates it loses about 2.8 billion yen ($32
+million) of annual operating profit for every 1 yen gain against
+the dollar. China surpassed Japan as Komatsu’s largest market
+last fiscal year, accounting for 19 percent of sales.  
+ To contact the reporters on this story:
+ Keiko Ujikane  in Tokyo at 
+ kujikane@bloomberg.net ;
+ Minh Bui  in Tokyo at 
+ mbui@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+     
+         Attachment:  
+     
+         
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

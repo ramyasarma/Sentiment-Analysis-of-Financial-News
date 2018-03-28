@@ -1,0 +1,73 @@
+-- Google Says Web Search, Advertising Being Blocked in China
+-- Brian Womack
+-- 2010-07-29T22:07:52Z
+-- http://www.bloomberg.com/news/2010-07-29/google-says-web-search-advertising-among-services-being-blocked-in-china.html
+
+          
+          
+             Google Inc.  said some services,
+including Internet search, mobile and advertising, are being
+fully blocked in China, raising concern that the government may
+still be dissatisfied with how the company provides information.  
+ At least two other services, including news and images,
+were being partially blocked, Google said today on its  website .
+Web search, images, news and ads had been fully or mostly
+accessible in the previous days. The Gmail e-mail service
+remains fully or mostly accessible.  
+ Google had its license renewed earlier this month after it
+stopped automatically sending Chinese users to its separate  Hong
+Kong  site. A conflict with China erupted in January after the
+company said it would no longer self-censor search results to
+comply with government rules.  
+ Jill Hazelbaker , a spokeswoman for Mountain View,
+California-based Google, didn’t immediately respond to an e-mail
+seeking comment.  
+ Google fell as much as 2.3 percent to $473.75 in  extended
+trading . The stock had gained 64 cents to $484.99 during regular
+trading on the Nasdaq Stock Market. The shares have fallen 22
+percent this year.  
+ To contact the reporter on this story:
+ Brian Womack  in San Francisco at 
+ bwomack1@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Chairman and CEO of Google Inc. Eric Schmidt. Photographer: Jin Lee/Bloomberg  
+                   
+    
+
+                 
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 29 (Bloomberg) -- Bloomberg's Ari Levy talks about Google Inc.'s announcement that some of its services, including Web search, mobile and advertising, are being fully blocked in China.
+     Levy speaks with Pimm Fox on Bloomberg Television's "Taking Stock." (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

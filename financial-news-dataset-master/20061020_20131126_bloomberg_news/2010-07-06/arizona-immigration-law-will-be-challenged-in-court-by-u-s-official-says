@@ -1,0 +1,61 @@
+-- U.S. Challenging Arizona Immigration Law
+-- Justin Blum
+-- 2010-07-06T15:31:51Z
+-- http://www.bloomberg.com/news/2010-07-06/arizona-immigration-law-will-be-challenged-in-court-by-u-s-official-says.html
+
+          
+          
+             The Justice Department plans to
+challenge the new Arizona immigration law on the grounds that it
+encroaches on the federal government’s responsibilities,
+according to a U.S. official.  
+ The department expects to file a lawsuit today, said the
+official, who spoke on condition of anonymity because the matter
+isn’t yet public. The lawsuit will say that federal law sets
+U.S. immigration policy and doesn’t permit states to create
+conflicting statutes, the official said.  
+ A legal challenge steps up the battle between the Obama
+administration and Arizona. Secretary of State  Hillary Clinton 
+last month said the administration planned to challenge the law.  
+ The Arizona law requires that local law enforcement
+officials check the immigration status of anyone they suspect is
+in the country illegally. The law, which takes effect in late
+July, makes it a crime to be in Arizona without proper
+documents.  
+ Overhauling immigration laws is one of President  Barack Obama ’s highest priorities. In 2007, Congress failed in an
+attempt to rewrite immigration legislation for the first time in
+20 years. Obama said in April that lawmakers may lack the
+“appetite” to try again this year. Democratic leaders are
+focusing on measures to improve border security before
+addressing the 11 million undocumented immigrants now in the
+U.S.  
+ To contact the reporter on this story:
+ Justin Blum  in Washington at 
+ jblum4@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Overhauling immigration laws is one of President Barack Obama’s highest priorities. Photographer: Mark Wilson/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

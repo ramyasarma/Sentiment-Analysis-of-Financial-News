@@ -1,0 +1,60 @@
+-- Facebook Passes 500 Million User Milestone, CEO Says
+-- Brian Womack
+-- 2010-07-21T17:14:31Z
+-- http://www.bloomberg.com/news/2010-07-21/facebook-passes-500-million-user-milestone-ceo-says.html
+
+          
+          
+             Facebook Inc., the world’s most
+popular social-networking service, reached 500 million users
+today, up from about 400 million in February, Chief Executive
+Officer  Mark Zuckerberg  said.  
+ The company is marking the milestone with a new application
+called Facebook Stories, which lets users share their
+experiences on the site, Zuckerberg said today on the company’s
+ blog . The service, which supplanted News Corp.’s MySpace as the
+No. 1 social network two years ago, started in 2004 at Harvard
+University, where Zuckerberg was a student.  
+ “I could have never imagined all of the ways people would
+use Facebook when we were getting started six years ago,”
+Zuckerberg wrote.  
+ Facebook has overcome privacy concerns and increased
+competition from companies like  Google Inc.  to stay on the
+growth track. In May, the company simplified privacy settings to
+make it easier for people to protect their personal data. The
+millions of users have helped Facebook attract big-name
+advertising, such as Starbucks Corp. and JetBlue Airways Corp.  
+ Market researchers had already estimated that Facebook had
+more than 500 million users. Reston, Virginia-based ComScore
+Inc. pegged its users at more than 519 million in April, up from
+411 million in September.  
+ To contact the reporter on this story:
+ Brian Womack  in San Francisco at 
+ bwomack1@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Mark Zuckerberg, chief executive officer and founder of Facebook Inc. Photographer: Antoine Antoniol/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

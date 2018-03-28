@@ -1,0 +1,50 @@
+-- U.S. Stocks Trim Advance as Tech Shares, Oil Turn Lower
+-- Michael P. Regan
+-- 2010-06-21T17:46:43Z
+-- http://www.bloomberg.com/news/2010-06-21/u-s-stocks-trim-advance-as-technology-companies-oil-producers-turn-lower.html
+
+          
+          
+             U.S. stocks trimmed gains as
+technology companies erased an early advance and oil turned
+lower.  
+ The Standard & Poor’s 500 Index increased 0.2 percent to
+1,120.16 at 1:43 p.m. in New York after surging as much as 1.2
+percent in early trading. The Dow Jones Industrial Average rose
+39.94, or 0.4 percent, to 10,490.58, paring most of a 144 point
+rally. Oil slipped 0.2 percent to $77 a barrel after jumping as
+much as 2.3 percent to $78.92  
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          June 21 (Bloomberg) -- Donald Straszheim, senior managing director of China research at International Strategy & Investment Group, talks about the People's Bank of China's decision to end the two-year currency peg to the dollar and the impact on the stock market.
+     Straszheim talks with Margaret Brennan and Scarlet Fu on Bloomberg Television's "In Business." (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

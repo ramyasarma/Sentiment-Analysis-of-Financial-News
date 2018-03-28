@@ -1,0 +1,73 @@
+-- Euro Is `Vulnerable' on U.K.-German Spread, Citi Says: Technical Analysis
+-- Ben Levisohn
+-- 2010-04-21T23:00:01Z
+-- http://www.bloomberg.com/news/2010-04-21/euro-is-vulnerable-on-u-k-german-spread-citi-says-technical-analysis.html
+
+          
+          
+             The euro may fall to its lowest
+level in more than a year versus the pound on the biggest yield
+advantage of U.K. government debt over German securities in more
+than 17 months, according to Citigroup Inc.  
+ The yield spread between U.K. and German two-year
+government bonds widened yesterday past 0.30 percentage point.
+That technical level was breached in favor of German yields in
+November 2008, pushing the euro to a record high against the
+pound the following month.  
+ “This was a key pivot towards the end of 2008,” Citigroup
+Inc. technical analysts including Tom Fitzpatrick in New York
+and Shyam Devani in London wrote in a note to clients yesterday.
+“We suspect the opposite may be seen in the near future. Euro-
+sterling is vulnerable.”  
+ The euro may fall to 84 pence, a level last seen in
+December 2008, if it breaks support in a range of 86.75 to 87
+pence, according to Citigroup. Support is an area where buy
+orders may cluster.  
+ The 16-nation currency fell 0.6 percent to 86.94 pence
+yesterday, from 87.47 on April 20. The euro has dropped 1.8
+percent against the pound this year.  
+ The Bank of England will raise its 0.50 percent main
+interest rate by a quarter-percentage point by the fourth
+quarter of 2010, according to the weighted average of 50
+economists in a Bloomberg News survey. The European Central Bank
+won’t follow suit with its 1 percent target rate until the first
+quarter of 2011, according to a separate survey.  
+ Greek officials joined counterparts from the euro region,
+the International Monetary and the ECB to discuss deficit-
+cutting measures that Greece will have to accept to be able to
+tap a 45 billion euro ($61 billion) aid package.  
+ The yield on two-year U.K. government debt increased to
+1.20 percent, from 1.16 percent yesterday. The yield on
+comparable German notes fell to 0.88 percent, from 0.89 percent.  
+ Technical analysts study charts of trading patterns to
+forecast price changes.  
+ To contact the reporter on this story:
+Ben Levisohn in New York at 
+ blevisohn@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Euro notes and coins are arranged for a photograph in London, on Feb. 10, 2010. Photographer: Chris Ratcliffe/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

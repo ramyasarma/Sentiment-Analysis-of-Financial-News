@@ -1,0 +1,49 @@
+-- U.S. Stocks Erase Loss, Treasuries Pare Gain on Confidence Data
+-- Michael P. Regan
+-- 2010-07-30T14:45:03Z
+-- http://www.bloomberg.com/news/2010-07-30/u-s-stocks-erase-loss-treasuries-pare-gain-on-confidence-data.html
+
+          
+          
+             U.S. stocks and commodities erased
+losses, while Treasuries pared their advance, as higher-than-
+estimated readings on consumer confidence and American business
+activity tempered concern the economic rebound is slowing.  
+ The Standard & Poor’s 500 Index rose less than 0.1 percent
+to 1,102.51 at 10:43 a.m. in New York after tumbling as much as
+1.2 percent earlier. The 10-year Treasury yield lost 4 basis
+points to 2.94 percent after dropping 7 basis points earlier.
+The Reuters/Jefferies CRB Index of commodities erased a 0.7
+percent slide and climbed to an almost three-month high.  
+ Equities recovered from an early selloff after the
+Institute for Supply Management-Chicago Inc. said its business
+barometer expanded in July at a faster pace than projected and
+the Thomson Reuters/University of Michigan index of consumer
+sentiment declined less than forecast.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A trader works on the floor of the New York Stock Exchange in New York. Photographer: Jin Lee/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

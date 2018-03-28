@@ -1,0 +1,58 @@
+-- U.S. Tells BP to Prepare for Reopening Oil Well After Seep Found
+-- Jeran Wittenstein
+-- 2010-07-19T01:24:59Z
+-- http://www.bloomberg.com/news/2010-07-19/u-s-s-allen-tells-bp-to-prepare-for-reopening-oil-well-after-seep-found.html
+
+          
+          
+             Thad Allen, the U.S. official in
+charge of the response to the Gulf of Mexico oil spill, ordered
+BP Plc to prepare for reopening the company’s Macondo well after
+a “seep” was detected.  
+ Allen said a “seep” was found “a distance” from the
+well and anomalies had been observed at the well head, in a
+letter sent today to BP Chief Managing Director Bob Dudley that
+was posted on a government website about the spill.  
+ “I direct you to provide me a written procedure for
+opening the choke valve as quickly as possible without damaging
+the well should hydrocarbon seepage near the well head be
+confirmed,” Allen wrote.  
+ Three days of tests on the capped well showed no signs that
+would prompt BP to reopen the well, Doug Suttles, chief
+operating officer for exploration and production for BP, said
+earlier today in a conference call from Houston.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Admiral Thad Allen, National Incident Commander, briefs the media on the progess of tests on the Oil Spill Containment Cap on July 15. Photographer: Sean Gardner/Getty Images  
+                   
+    
+
+                 
+           
+                            
+                     
+                     Oil sheen is seen with vessels assisting near the source of the BP Deepwater Horizon oil spill. Photographer: Mario Tama/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

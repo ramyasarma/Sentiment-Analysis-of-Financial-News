@@ -1,0 +1,41 @@
+-- GE Boosts Quarterly Dividend 20% to 12 Cents a Share, Extends Buyback Plan
+-- Bill Koenig
+-- 2010-07-23T16:28:21Z
+-- http://www.bloomberg.com/news/2010-07-23/ge-boosts-quarterly-dividend-20-to-12-cents-a-share-extends-buyback-plan.html
+
+          
+          
+             General Electric Co. said it’s
+raising its quarterly dividend 20 percent to 12 cents a share
+from 10 cents a share.  
+ The dividend is payable Oct. 25 to shareowners of record on
+Sept. 20.   
+ GE also extended the existing share-repurchase plan, which
+would have otherwise expired on Dec. 31, through 2013.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Jeffrey Immelt, chairman and chief executive officer of General Electric Co., speaks during a "Captains of Industry" event in New York. Photographer: Jin Lee/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

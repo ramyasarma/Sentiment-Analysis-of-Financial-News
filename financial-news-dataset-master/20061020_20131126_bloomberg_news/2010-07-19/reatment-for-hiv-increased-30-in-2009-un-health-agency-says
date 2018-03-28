@@ -1,0 +1,70 @@
+-- Treatment for HIV Increased 30% in 2009, UN Says
+-- Iona Craig
+-- 2010-07-19T11:00:00Z
+-- http://www.bloomberg.com/news/2010-07-19/treatment-for-hiv-increased-30-in-2009-un-health-agency-says.html
+
+          
+          
+             The number of people receiving
+treatment for  HIV  rose 30 percent in 2009, the biggest leap in a
+single year, according to the World Health Organization.  
+ About 5.2 million people were receiving treatment for the
+AIDS-causing virus in 2009, up from 4 million in 2008, the
+United Nations health agency, also known as  WHO , said today in
+an e-mailed  statement .  
+ WHO is pushing for earlier treatment of HIV at this week’s
+International AIDS Conference in Vienna, stating that early use
+of medicines also acts as a preventative measure by reducing
+levels of the virus in the body, so carriers are less likely to
+pass on the disease. HIV-related deaths could be reduced by 20
+percent in the next five years if guidelines for early treatment
+are implemented, according to WHO.  
+ “Starting treatment earlier gives us an opportunity to
+enable people living with HIV to stay healthier and live
+longer,” said Gottfried Hirnschall, WHO director of HIV and
+AIDS, in the statement.  
+ Results last week from a study of 816 HIV patients by the
+New England Journal of Medicine showed that early treatment of
+HIV cut the risk of death by 75 percent.  
+ To contact the reporter on this story:
+ Iona Craig  in London at   icraig2@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                                                 
+                     
+                     Enlarge image 
+                     
+                     
+                       HIV Clinid in South Africa  
+                       
+                         
+                           Naashon Zalk/Bloomberg 
+                         
+                         A nurse takes blood from a patient for an HIV test at Nthabiseng Clinic in South Africa. 
+                       
+                     
+                                        
+           
+                     A nurse takes blood from a patient for an HIV test at Nthabiseng Clinic in South Africa.   Photographer: Naashon Zalk/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,53 @@
+-- Berezovsky's Wife Has Initial Divorce Request Granted in London Hearing
+-- James Lumley
+-- 2010-07-22T13:45:20Z
+-- http://www.bloomberg.com/news/2010-07-22/billionaire-berezovsky-s-wife-granted-first-stage-of-divorce-by-u-k-court.html
+
+          
+          
+             Boris Berezovsky , the billionaire
+Russian businessman granted asylum in the U.K., had the first
+stage of his divorce approved by a London judge.  
+ In a hearing that lasted about five minutes at the Family
+Court in London, a judge approved a “Decree Nisi” requested by
+Berezovsky’s wife of 18 years, Galina Besharova. Parties in a
+divorce can apply for a Decree Nisi to be converted to  a full
+divorce  after six weeks, according to the court  service website .  
+ Today’s decree didn’t decide any financial aspects of the
+divorce. The pair are separating because of Berezovsky’s
+“unreasonable behavior,” according to court papers. Berezovsky
+doesn’t intend to defend the divorce, and has agreed to pay all
+the costs of the proceedings, according to the documents.  
+ Berezovsky’s spokesman Tim Bell and Penny Jones,
+spokeswoman for  Mishcon de Reya , the law firm representing
+Berezovsky’s wife, both declined to comment.  
+ To contact the reporter on this story:
+ James Lumley  in London at 
+ jlumley1@bloomberg.net ;  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Billionaire Russian businessman Boris Berezovsky. Photographer:  Suzanne Plunkett/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

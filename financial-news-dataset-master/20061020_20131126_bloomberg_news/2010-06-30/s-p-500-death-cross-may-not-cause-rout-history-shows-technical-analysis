@@ -1,0 +1,82 @@
+-- S&P 500 Death Cross May Not Cause Rout, History Shows: Technical Analysis
+-- Alexis Xydias
+-- 2010-06-30T17:31:45Z
+-- http://www.bloomberg.com/news/2010-06-30/s-p-500-death-cross-may-not-cause-rout-history-shows-technical-analysis.html
+
+          
+          
+             Traders are wrong to suspect that
+the price-graph pattern known as a death cross would lead to a
+rout in the  Standard & Poor’s 500 Index , according to Brockhouse
+& Cooper Inc.  
+ The  S&P 500 ’s 50-day average dropped to 1,122.48 yesterday,
+compared with the 200-day mean of 1,112.22. Death crosses happen
+when the first number drops below the second. Since 1970, death
+crosses in the stock index preceded an average decline of 0.4
+percent in the next month and three- and six-month gains of 2.5
+percent and 4.8 percent, respectively, according to the
+Montreal-based brokerage. Eleven of the 21 occurrences preceded
+a one-month rally, the firm found.  
+ “The technical analysis world is abuzz again,”  Pierre Lapointe , Brockhouse & Cooper’s global strategist, wrote in a
+report today. Technical analysts use patterns in price charts to
+make investment decisions. “But the truth of the matter is that
+death crosses have little predictive value,” he added.  
+ The benchmark index for U.S. stocks dropped 7.7 percent in
+the six months following the last death cross, on Dec. 19, 2007,
+Brockhouse & Cooper said. After the one before that, on July 14,
+2006, the S&P 500 posed a six-month rally of 15 percent, the
+data show. The biggest six-month gain was the 31 percent rally
+after April 21, 1980, and the largest drop was the 18 percent
+slump following May 17, 2002. The U.K.’s  FTSE 100 Index  formed a
+death cross on June 25 and has fallen 2.6 percent since then.  
+ To contact the reporter on this story:
+ Alexis Xydias  in London at 
+ axydias@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          June 30 (Bloomberg) -- Jack Ablin, chief investment officer at Chicago-based Harris Private Bank, talks with Bloomberg's Julie Hyman and Marc Crumpton about the U.S. stock market, economy and labor market. (This report is an excerpt. Source: Bloomberg)  
+                   
+    
+
+                 
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 1 (Bloomberg) -- Jeffrey Saut, chief investment strategist at Raymond James & Associates, talks with Bloomberg's Susan Li about the outlook for U.S. stocks and the nation's economy.
+     Saut, speaking from St. Petersburg, Florida, also discusses U.S. House of Representatives' approval of the financial-overhaul bill and its implications for the banking industry. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

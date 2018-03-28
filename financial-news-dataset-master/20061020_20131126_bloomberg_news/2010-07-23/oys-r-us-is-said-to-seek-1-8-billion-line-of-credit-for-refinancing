@@ -1,0 +1,67 @@
+-- Toys `R' Us Said to Seek $1.8 Billion Credit Line Ahead of Public Offering
+-- Krista Giovacco
+-- 2010-07-23T19:55:21Z
+-- http://www.bloomberg.com/news/2010-07-23/toys-r-us-is-said-to-seek-1-8-billion-line-of-credit-for-refinancing.html
+
+          
+          
+             Toys “R” Us Inc. , the retailer
+acquired by KKR & Co., Bain Capital Partners LLC and Vornado
+Realty Trust in 2005 for $7.5 billion, is said to seek a $1.8
+billion revolving line of credit, people familiar with the
+matter said.  
+ The largest U.S. toy-store will use the revolver to
+refinance a $1.61 billion credit line that matures in May 2012,
+the people said, who declined to be identified because the terms
+are private. The financing will be secured by the company’s
+receivables and inventory.  
+ Toys “R” Us is seeking to extend the maturity on its
+credit line as the Wayne, New Jersey-based company tries to
+improve its credit profile since the 2005 leveraged buyout added
+debt to its balance sheet. The company, which had long-term debt
+of $4.9 billion as of May 1, plans to raise as much as $800
+million in an initial public offering.  
+ Bank of America Corp. is arranging the financing, one of
+the people said.  
+ Kathleen Waugh , a Toys “R” Us spokeswoman, declined to
+comment.  
+ The company’s existing credit line is part of a $2.12
+billion loan that was arranged by Bank of America in July 2005.
+Toys “R” Us also has a $804 million term loan of which $798
+million is outstanding, according to data compiled by Bloomberg.
+The interest on the loan is 4.25 percentage points more than the
+London interbank offered rate, Bloomberg data show. Libor is the
+rate banks charge to lend to each other.  
+ Moody’s Investors Service put the retailer’s B2 rating on
+review for possible upgrade after Toys “R” Us said it would use
+the proceeds to retire debt.  
+ To contact the reporter on this story:
+ Krista Giovacco  in New York at 
+ kgiovacco1@bloomberg.net .8  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A sign marks the entrance to the Toys "R" Us store in Times Square in New York. Photographer: Ramin Talaie/Bloomberg News  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

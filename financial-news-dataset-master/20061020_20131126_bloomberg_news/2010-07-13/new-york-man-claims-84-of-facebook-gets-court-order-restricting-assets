@@ -1,0 +1,64 @@
+-- NY Man Claims 84% of Facebook, Gets Order Blocking Assets
+-- Bob Van Voris
+-- 2010-07-13T01:00:15Z
+-- http://www.bloomberg.com/news/2010-07-13/new-york-man-claims-84-of-facebook-gets-court-order-restricting-assets.html
+
+          
+          
+             A Western New York man who claims he
+owns 84 percent of Facebook Inc., the world’s biggest social
+networking service, sued and won a state court order temporarily
+restricting Facebook from transferring assets.  
+ Paul Ceglia, of Wellsville, New York, sued Facebook and its
+founder and Chief Executive Officer  Mark Elliot Zuckerberg  in
+state court in New York’s Allegany County on June 30. In the
+suit, Ceglia claims that a contract he and Zuckerberg signed in
+April 2003 entitles Ceglia to ownership of most of the privately
+held company.  
+ The day of Ceglia’s filing, without notice to Palo Alto,
+California-based Facebook, Acting New York Supreme Court Justice
+Thomas P. Brown signed an order blocking Zuckerberg and Facebook
+“from transferring, selling, assigning any assets, stocks,
+bonds, owned, possessed and/or controlled by the defendants,”
+at least until a hearing set for July 9.  
+ Facebook transferred the case to federal court in Buffalo,
+New York, and is trying to get the order annulled. In court
+papers, the company points to the “outlandishness” of Ceglia’s
+claim to ownership of Facebook. The company also claims that a
+suit over a contract allegedly broken in 2003 is “almost
+certainly barred” by the statute of limitation for such claims.  
+ Barry Schnitt , a Facebook spokesman, said the company
+believes the suit is frivolous and will defend itself
+vigorously.  
+ The case is Ceglia v. Zuckerberg, 10-CV-00569, U.S.
+District Court, Western District of New York (Buffalo).  
+ To contact the reporter on this story:
+ Bob Van Voris  in New York at 
+ rvanvoris@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Mark Zuckerberg, chief executive officer and founder of Facebook Inc.. Photographer: Antoine Antoniol/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

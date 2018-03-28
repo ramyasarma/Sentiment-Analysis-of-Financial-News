@@ -1,0 +1,63 @@
+-- Typhoon Conson Kills 23 in Philippines, Damages Houses, Schools
+-- Stuart Biggs
+-- 2010-07-15T01:27:23Z
+-- http://www.bloomberg.com/news/2010-07-15/typhoon-conson-kills-23-in-philippines-damages-houses-bridges-schools.html
+
+          
+          
+             Typhoon Conson killed 23 people,
+left 59 missing and injured 14 others in the Philippines after
+crossing the main island of Luzon from July 13.  
+ The typhoon damaged 3,274 houses, bridges and schools in
+seven provinces around the capital, Manila, according to the
+latest situation report posted on the website of the National
+ Disaster Coordinating Council . Power has been restored in some
+areas hit by the typhoon and damages to infrastructure,
+fisheries, agriculture and schools amount to 22.3 million pesos
+($482,000), it said.  
+ Conson, now a tropical storm, was located about 550
+kilometers (342 miles) west northwest of Manila at 2 a.m.
+Philippines time today, the  U.S. Navy Joint Typhoon Warning
+Center  said. Sustained winds were 93 kilometers per hour near
+the center with the storm moving northwest at 22 kph, it said.  
+ The storm’s winds are forecast to decrease in strength to
+74 kph tomorrow as it approaches China’s Hainan island,
+southwest of Hong Kong, the center said.  
+ Conson is the name of a picturesque mountain region in
+Vietnam, according to the website of the Hong Kong Observatory,
+which lists  names  assigned to cyclones in the Pacific.  
+ Last year, three typhoons left about 1,000 people dead and
+40,000 homes destroyed, mostly in Luzon, the largest Philippine
+island and where capital Manila is located.  
+ To contact the reporters on this story:
+ Ian C. Sayson  in Manila at 
+ isayson@bloomberg.net ;
+Stuart Biggs in Tokyo at 
+ sbiggs3@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Residents repair their damaged shanty house along coastal road. Photographer: Ted Aljibe/AFP/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

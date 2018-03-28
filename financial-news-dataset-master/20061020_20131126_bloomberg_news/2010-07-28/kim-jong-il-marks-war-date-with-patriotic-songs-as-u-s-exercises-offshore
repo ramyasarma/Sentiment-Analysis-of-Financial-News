@@ -1,0 +1,67 @@
+-- Kim Jong Il Marks War Date With Patriotic Songs as U.S. Exercises Offshore
+-- Bomi Lim
+-- 2010-07-28T00:58:31Z
+-- http://www.bloomberg.com/news/2010-07-28/kim-jong-il-marks-war-date-with-patriotic-songs-as-u-s-exercises-offshore.html
+
+          
+          
+             North Korean leader  Kim Jong Il 
+attended a concert yesterday celebrating the 57th anniversary of
+the Korean War as the two main adversaries from that conflict
+conducted war drills off his country’s eastern coast.  
+ The State Merited Chorus performed numbers such as “Our
+General is the Best” and “My Song in the Trench,” state-run
+Korean Central News Agency reported today. The audience gave
+“enthusiastic cheers” to Kim, the Supreme Commander of the
+Korean People’s Army, who “heartily congratulated them on the
+victory” in the Fatherland Liberation War.  
+ As Kim took part in celebrations to mark the cease-fire
+that ended open hostility on the Korean peninsula, U.S. and
+South Korean forces were putting on a display of military might
+that included anti-submarine maneuvers intended as a deterrent
+to the North.  
+ The four-day drills, which end today, are being held after
+a South Korean-led investigation team in May blamed North Korea
+for torpedoing the South’s warship Cheonan, killing 46 sailors.  
+ The three-year Korean War ended in a cease-fire after
+China’s entry pushed back the U.S. and United Nations forces.
+South Korea remains technically at war with the North, with 
+the two sides separated by one of the world’s most-fortified
+borders.  
+ To contact the reporter on this story:
+Bomi Lim in Seoul at 
+ blim30@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 26 (Bloomberg) -- Bloomberg's Zeb Eckert reports on joint naval exercises by the U.S. and South Korea that began yesterday off the eastern coast of the Korean Peninsula, maneuvers North Korea threatened to "counter."
+     The drills involve 20 vessels and 200 aircraft, including the USS George Washington, a nuclear-powered aircraft carrier, and will be held until July 28. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

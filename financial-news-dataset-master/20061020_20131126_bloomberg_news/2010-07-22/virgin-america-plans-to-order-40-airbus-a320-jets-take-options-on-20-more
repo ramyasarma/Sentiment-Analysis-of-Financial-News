@@ -1,0 +1,37 @@
+-- Virgin America Plans to Order 40 Airbus A320 Jets, Take Options on 20 More
+-- Benjamin Purvis
+-- 2010-07-22T09:37:18Z
+-- http://www.bloomberg.com/news/2010-07-22/virgin-america-plans-to-order-40-airbus-a320-jets-take-options-on-20-more.html
+
+          
+          
+             Virgin America plans to order 40
+Airbus A320 aircraft, with options for a further 20 planes, the
+company said in a statement today.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Virgin America Inc. CEO David Cush pauses during a news conference on the fourth day of the Farnborough International Airshow. Photographer: Chris Ratcliffe/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

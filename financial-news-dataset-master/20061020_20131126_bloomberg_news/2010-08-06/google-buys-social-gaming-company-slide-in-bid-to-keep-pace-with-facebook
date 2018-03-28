@@ -1,0 +1,93 @@
+-- Google Acquires Social-Gaming Company Called Slide
+-- Brian Womack
+-- 2010-08-06T21:12:41Z
+-- http://www.bloomberg.com/news/2010-08-06/google-buys-social-gaming-company-slide-in-bid-to-keep-pace-with-facebook.html
+
+          
+          
+             Google Inc. , owner of the world’s
+most popular search engine, acquired social-gaming company Slide
+Inc., part of an effort to keep pace with Facebook Inc. by
+offering social networking and entertainment.  
+ The acquisition will help  Google  make its services more
+“socially aware,” the company said in a blog posting. While
+terms weren’t disclosed, the price was about $200 million,
+according to two people familiar with the deal. They declined to
+be identified because the agreement is private.  
+ Google faces mounting competition from Facebook, owner of
+the world’s largest social-networking site, and Twitter Inc.,
+the microblogging service. Both rivals are attracting a growing
+number of online advertisers, threatening to siphon Google’s
+main source of revenue. To keep pace, Google is making more
+acquisitions and adding social features to existing services.  
+ “For  Google , the Web is about people, and we’re working to
+develop open, transparent and interesting (and fun!) ways to
+allow our users to take full advantage of how technology can
+bring them closer to friends and family,” David Glazer,
+engineering director at Google, said in  the blog post .  
+ Google , based in Mountain View, California, fell $7.88 to
+$500.22 at 4:30 p.m. New York time on the Nasdaq Stock Market.
+The shares have fallen 19 percent this year.  
+ Slide’s applications, including “SPP Ranch!” and
+“SuperPoke! Pets,” are available on Facebook and other social
+networks.  
+ ‘Shared Vision’  
+ “Google is committed to building new, open and better ways
+for users to connect with others,”  Max Levchin , chief executive
+officer of San Francisco-based Slide, said on the company’s
+site. “Given our shared vision and values, this is a tremendous
+opportunity for the two companies to come together to change the
+way people socialize on the Web.”  
+ Levchin co-founded payment provider PayPal Inc. in 1998.
+The company was acquired by EBay Inc. in 2002.  
+ Slide, founded in 2005, raised $50 million from investors
+that valued the company at more than $500 million,
+BusinessWeek.com reported in 2008. The backers included T. Rowe
+Price Group Inc. and Fidelity Investments.  
+ Slide, which has about 125 employees, lets users care for
+online pets or send virtual gifts to their friends.  
+ The TechCrunch blog reported on the Slide purchase earlier
+this week, pegging the price at as much as $228 million.  
+ To contact the reporter on this story:
+ Brian Womack  in San Francisco at 
+ bwomack1@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                                                 
+                     
+                     Enlarge image 
+                     
+                     
+                       Google  
+                       
+                         
+                           Tony Avelar/Bloomberg 
+                         
+                         A sign for Google Inc. stands at the company's headquarters in Mountain View, California. 
+                       
+                     
+                                        
+           
+                     A sign for Google Inc. stands at the company's headquarters in Mountain View, California. Photographer: Tony Avelar/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

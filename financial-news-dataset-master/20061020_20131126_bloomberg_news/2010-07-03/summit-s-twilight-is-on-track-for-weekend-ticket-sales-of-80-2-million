@@ -1,0 +1,63 @@
+-- Summit's `Twilight' Is on Track for Weekend Ticket Sales of $80.2 Million
+-- Michael White
+-- 2010-07-03T18:12:15Z
+-- http://www.bloomberg.com/news/2010-07-03/summit-s-twilight-is-on-track-for-weekend-ticket-sales-of-80-2-million.html
+
+          
+          
+             “ The Twilight Saga: Eclipse ,” the
+latest film in the teen-vampire series, had sales of $28.6
+million yesterday, putting it on track to make about $80.2
+million in its opening weekend July 2-4,  Hollywood.com Box-
+Office  said.  
+ The movie, from Summit Entertainment LLC, is the third in a
+series based on  Stephenie Meyer ’s books and is opening in a
+record 4,416 theaters. The first two “Twilight” films earned
+more than $1.1 billion in global ticket sales, according to
+research Box Office Mojo.  
+ The weekly film rankings are based off receipts for the
+Friday-Saturday-Sunday period.  
+ Summit opened “Eclipse” on June 30, and sales since
+Wednesday have totaled $121.3 million. It had sales of $68.5
+million on Wednesday, according to box-office tracker
+Hollywood.com Box-Office, and a record $30 million in midnight
+showings that day.  
+ Summit plans two more movies based on Meyer’s fourth book,
+“Breaking Dawn.”  
+ The films focus on Bella Swan, a teenager whose move to a
+small town puts her in the company of vampires and werewolves.
+In “Eclipse,” Swan, played by  Kristen Stewart , must choose
+between two suitors, vampire Edward Cullen and werewolf Jacob
+Black.  
+ To contact the reporters on this story:
+ Dan Hart  in Washington at 
+ dahart@bloomberg.net ;
+ Michael White  in Los Angeles at 
+ mwhite8@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Actors Taylor Lautner and Kristen Stewart perform in a scene from the movie "The Twilight Saga: Eclipse" Photographer: Kimberley French/Summit Entertainment via Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

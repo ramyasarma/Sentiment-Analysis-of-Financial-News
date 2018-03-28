@@ -1,0 +1,88 @@
+-- Adafruit Targets Tinkerers With ’Open-Source’ Electronics Kits
+-- B y   J o h n   T o z z i
+-- 2010-12-06T19:20:57Z
+-- http://www.bloomberg.com/news/2010-12-06/adafruit-targets-tinkerers-with-open-source-electronics-kits.html
+Last month, when Microsoft launched
+Kinect, an accessory that lets players control Xbox 360 games by
+moving their bodies, Limor Fried posted a  challenge  on her
+company’s blog. Adafruit Industries, which sells do-it-yourself
+electronics kits, would give $1,000 to the first person to
+unlock Kinect’s sophisticated motion sensors from the Xbox so
+that any tinkerer could repurpose the technology for such
+projects as building robots. In a week Adafruit had a winner, a
+Spanish engineer who got Kinect to work with his laptop just
+hours after it was released in  Europe . “Now it’s unlocked for
+creativity,” Fried  wrote .  That could be the tagline for Adafruit, the company Fried
+founded in 2005 while getting her masters in electrical
+engineering and computer science at the  Massachusetts Institute
+of Technology . The electronics kits she sells are “open-source
+hardware,” meaning that Adafruit shares the designs that
+companies usually keep secret. “We’re giving away all our
+intellectual property for free,” says Fried, 31. The eight-
+employee company will ship more than $3 million worth of kits
+this year from its top-floor loft four blocks north of  Wall
+Street  in New York’s financial district.  The  software industry  has embraced open source over the past
+decade, with such companies as Red Hat built around code that is
+public and free for others to modify. The idea is newer to
+manufacturing. About 50 companies worldwide are selling open-
+source hardware, estimates Ayah Bdeir, who helped organize the
+first  Open Hardware Summit  in September at the  New York  Hall of
+Science. The business case for publishing product designs is
+“counterintuitive for any person [who] invests or works in
+product development,” she says. These companies succeed by
+providing support and service to customers that distinguishes
+them from competitors who could make identical products using
+their designs. “The world knows they are experts in what they
+do, and [customers] want to purchase from them,” Bdeir says.  LEANING TOWARD THE FANCIFUL  The strategy helped Adafruit double its revenue from 2009 to
+2010, and Fried projects it nearly to double again next year, to
+$5 million to $6 million. With no outside investment, Fried
+launched the company with $10,000 her parents designated for her
+MIT tuition to buy parts for her first kit, a synthesizer. “As
+soon as we made a profit, I had to take it out to pay tuition,”
+she says. Adafruit now sells two dozen unique electronics kits
+to hobbyists and students and ships some 100 orders a day. The
+projects, which range from about $20 to $100, tend to be
+fanciful, such as the MintyBoost, a portable charger for cell
+phones and other devices that fits inside an Altoids tin, and
+the TV-B-Gone, a remote that can shut off televisions in a 150-
+foot radius.  For each kit, the company publishes the computer-aided design
+files, schematics for circuit boards, and the firmware or
+software code that runs inside a device. Anyone can use this
+material under a  Creative Commons  license, provided they credit
+the source and publish any related works under a similar open-
+source license.  In addition to publishing designs, the company offers online
+tutorials, and Fried co-hosts a weekly video chat with Adafruit
+designer Phillip Torrone to teach lessons and answer questions.
+“She’s really educating people. It’s almost like she’s running a
+school in addition to everything else she’s doing,” says Alicia
+Gibb, another organizer of the Open Hardware Summit who works as
+“gadget wrangler” at Bug Labs, an open-source hardware company
+developing wireless devices.  BORN OF FRUSTRATION  Fried’s first kit was born of frustration with a company that
+would not sell her the design for a synthesizer she wanted to
+build, even though the product was no longer on the market.
+“This is completely nonsensical,” she says. “You’re not selling
+it, you’re not building it, but you won’t let us build our own.
+... We said fine. We’re going to design our own. We’re going to
+design it much better than yours. And we’re going to release it
+open source so that nobody ever has to go through that again.”  A similar spirit animated Adafruit’s campaign to unlock the
+Kinect, a move Microsoft initially condemned with a statement
+saying the company “does not condone the modification of its
+products.” In response, Adafruit raised its reward for unlocking
+Kinect to $3,000. Microsoft later changed its tone, noting that
+Kinect had not been modified. “Someone has created drivers that
+allow other devices to display the raw data that is output from
+Kinect for  Xbox 360 . We are perfectly comfortable with hobbyists
+taking advantage of that raw data,” the company said in a
+statement to Bloomberg.  Adafruit’s effort resonated with engineers, who have used Kinect
+to power virtual  puppet shows , record video in  three dimensions ,
+and control vintage Super Mario Brothers  games . Instead of
+investing thousands of dollars and hours to develop
+sophisticated sensors that detect light, depth, motion, and
+sound, they can take Kinect off the shelf for $150. Fried says
+her mission as an entrepreneur is to spread the kind of
+innovation that flows from opening up electronics and learning
+how they work. “We have so little connection to what’s in these
+plastic boxes,” she says. “The point of the company is to teach
+people and to learn. It’s not just to buy and consume.”  To contact the reporter on this story: John Tozzi at
+ jtozzi2@bloomberg.net   To contact the editor responsible for this story: Nick Leiber at
+ nleiber@bloomberg.net  

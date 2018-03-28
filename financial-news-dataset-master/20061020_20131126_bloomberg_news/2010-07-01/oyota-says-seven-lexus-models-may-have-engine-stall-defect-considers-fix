@@ -1,0 +1,44 @@
+-- Toyota Says Seven Lexus Models May Have Problem Causing Engines to Stall
+-- Takako Iwatani
+-- 2010-07-01T02:47:16Z
+-- http://www.bloomberg.com/news/2010-07-01/toyota-says-seven-lexus-models-may-have-engine-stall-defect-considers-fix.html
+
+          
+          
+             Seven Toyota Motor Corp. Lexus-brand
+models may have an engine-stall problem, spokeswoman Ririko
+Takeuchi said by phone from Tokyo.  
+ Toyota is considering its  next step to fix the problem,
+which may also affect Toyota Crown models, she said. The stall
+issue may affect 90,000 vehicles in Japan out of  a total of
+270,000 worldwide.  
+ To contact the reporter on this story:
+Takako Iwatani in Tokyo at 
+ tiwatani@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Toyota Motor Corp.'s 2010 Lexus LS460 luxury sport sedan is photographed during a media unveiling in San Diego. Photographer: Mark Elias/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

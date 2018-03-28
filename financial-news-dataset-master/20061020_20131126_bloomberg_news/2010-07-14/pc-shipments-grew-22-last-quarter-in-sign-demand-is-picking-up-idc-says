@@ -1,0 +1,64 @@
+-- PC Shipments Grew 22% in Second Quarter, IDC Says
+-- Adam Satariano
+-- 2010-07-14T22:03:35Z
+-- http://www.bloomberg.com/news/2010-07-14/pc-shipments-grew-22-last-quarter-in-sign-demand-is-picking-up-idc-says.html
+
+          
+          
+             Global personal-computer shipments
+rose 22 percent in the second quarter, a sign consumer demand is
+picking up even amid lingering concerns about the pace of
+economic recovery, according to research firm IDC.  
+ Hewlett-Packard Co.  remained the market leader, though its
+share fell to 18.1 percent from 19.7 percent a year earlier,
+Framingham, Massachusetts-based IDC said in a statement today.
+ Dell Inc.  recaptured the No. 2 spot, pushing Acer Inc. to third.  
+ The replacement of aging systems, the introduction of
+lower-cost machines and the fact that much of the world doesn’t
+own a computer are all driving growth, said Jay Chou, an
+analyst at IDC. The results allayed concerns that a rebound in
+technology spending might slow, partly because of the European
+debt crisis. The increase was in line with IDC’s projection of
+23 percent.  
+ “The PC vendors can pat themselves on the back a little
+bit,” Chou said in an interview. “Given the uncertainty in
+Europe and fears of slowdown in places like China, we still did
+pretty well.”  
+ Dell, based in Round Rock, Texas, had 13 percent of the
+market, while Taiwan’s Acer had 12.6 percent. Both companies
+lost market share from a year earlier.  Dell  benefited from
+improving business demand and strong growth in the Asia-Pacific
+region and Latin America, IDC said.  
+ Beijing-based  Lenovo Group Ltd. , in fourth place, posted 47
+percent growth to give it 10.2 percent of the market, according
+to IDC.  
+ To contact the reporter on this story:
+ Adam Satariano  in San Francisco at 
+ asatariano1@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Hewlett-Packard Co. remained the market leader, though its share fell to 18.1 percent from 19.7 percent a year earlier. Photographer: Daniel Acker/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

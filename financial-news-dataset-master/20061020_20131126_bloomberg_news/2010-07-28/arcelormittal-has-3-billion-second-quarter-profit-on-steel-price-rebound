@@ -1,0 +1,43 @@
+-- ArcelorMittal Has $3 Billion Second-Quarter Profit on Steel Price Rebound
+-- Thomas Biesheuvel
+-- 2010-07-28T05:02:35Z
+-- http://www.bloomberg.com/news/2010-07-28/arcelormittal-has-3-billion-second-quarter-profit-on-steel-price-rebound.html
+
+          
+          
+             ArcelorMittal, the world’s biggest
+steelmaker, posted a second-quarter profit as higher metal
+prices and increased demand boosted sales.  
+ Earnings before interest, tax, depreciation and
+amortization were $3 billion, compared with the $2.94
+billion average of 16 analysts’ estimates Bloomberg compiled.  
+ To contact the reporter on this story:
+Thomas Biesheuvel in ?? at 
+ tbiesheuvel@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Lakshmi Mittal, chairman and chief executive officer of ArcelorMittal, speaks during a conference in Sao Paulo. Photographer: Paolo Fridman  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

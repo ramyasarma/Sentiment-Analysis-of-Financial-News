@@ -1,0 +1,85 @@
+-- Apple Sued Over New IPhone Reception Problems by Consumers
+-- Edvard Pettersson
+-- 2010-07-01T13:09:11Z
+-- http://www.bloomberg.com/news/2010-07-01/apple-sued-over-new-iphone-reception-problems-by-consumers.html
+
+          
+          
+             Apple Inc.  was sued over reception
+problems with its new iPhone 4 by consumers who accused the
+company of unfair business practices and false and misleading
+advertising.  
+ A New Jersey resident and a Massachusetts resident who had
+bought the new mobile phone filed separate complaints yesterday
+in federal court in San Francisco, each seeking to represent
+other iPhone buyers in a class-action, or group, lawsuit. A
+separate complaint was filed this morning in Maryland, alleging
+Apple and wireless carrier AT&T Inc. were negligent in marketing
+the phone.  
+ The June 24 introduction of the iPhone 4 was marred by
+criticism that signal strength diminishes when users cover the
+bottom left corner of the phone with their palm. The iPhone,
+which debuted in 2007, has become Apple’s top-selling product
+even after users reported glitches and dropped calls with
+previous versions of the device.  
+ “Apple’s sale of the iPhone with this unannounced defect,
+assuming Apple’s prior knowledge of the defect, constitutes
+misrepresentation and fraud,” Christopher Dydyk of Cambridge,
+Massachusetts, said in his complaint. “In omitting to disclose
+the defect in the iPhone 4, Apple perpetrated a massive fraud
+upon hundreds of thousands of unsuspecting customers.”  
+ Bumper Solution  
+ Apple, which sold more than 1.7 million of the new phones
+in its first three days, has recommended users hold the phone
+differently or use a case to solve the problem. Apple is selling
+its own iPhone 4 cases in six colors for $29 each. They’re made
+of a piece of rubber known as a “bumper,” which surrounds the
+outer rim of the phone.  
+ Dydyk, in his complaint, asked that Apple ship a bumper for
+free to customers who pre-ordered an iPhone 4 before its release
+or that the company be ordered to pay for customers’ bumpers.  
+ Natalie Harrison , a spokeswoman for Cupertino, California,
+based Apple, didn’t immediately return a call to her office or
+respond to an e-mailed request for comment after regular
+business hours.  
+ Maryland residents Kevin McCaffrey and Linda Wrinn claim in
+their complaint that Apple and AT&T “actively suppressed and
+concealed the fact that the iPhone 4 could not be held in a
+manner consistent with the normal usage of wireless
+communication devices.” They seek unspecified damages and a
+jury trial.  
+ The California cases are Alan Benvenisty v. Apple, 10-2885,
+and Christopher Dydyk v. Apple, 10-2897, U.S. District Court,
+Northern District of California (San Francisco). The Maryland
+case is Kevin McCaffrey and Linda Wrinn v. Apple Inc. and AT&T
+INC., U.S. District Court, District of Maryland (Baltimore).  
+ To contact the reporter on this story:
+ Edvard Pettersson  in Los Angeles at 
+ epettersson@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A customer holds an Apple Inc. iPhone 4 smartphone as he looks for a protective case in New York. Photographer: Daniel Acker/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

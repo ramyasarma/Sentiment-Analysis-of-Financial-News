@@ -1,0 +1,38 @@
+-- Best Buy's First-Quarter Earnings Miss Estimates
+-- JoAnne Norton
+-- 2010-06-15T12:00:55Z
+-- http://www.bloomberg.com/news/2010-06-15/best-buy-s-first-quarter-eps-of-36-cents-misses-estimates-shares-retreat.html
+
+          
+          
+             Best Buy Co., the world’s largest
+electronics retailer, had first-quarter profit of 36 cents a
+share on an adjusted basis. Analysts surveyed by Bloomberg had
+estimated profit of 50 cents on average.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Best Buy earnings missed estimates for the first-quarter. Photographer: Daniel Acker/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

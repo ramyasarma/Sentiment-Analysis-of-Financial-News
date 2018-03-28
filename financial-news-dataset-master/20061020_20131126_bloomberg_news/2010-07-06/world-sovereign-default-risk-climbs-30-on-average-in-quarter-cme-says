@@ -1,0 +1,79 @@
+-- Sovereign Default Risk Rose 30% as European Debt Crisis Deepened, CMA Says
+-- Katrina Nicholas
+-- 2010-07-06T08:50:31Z
+-- http://www.bloomberg.com/news/2010-07-06/world-sovereign-default-risk-climbs-30-on-average-in-quarter-cme-says.html
+
+          
+          
+             The cost of insuring sovereign debt
+against default climbed 30 percent on average last quarter amid
+Europe’s escalating fiscal crisis, according to CMA DataVision.  
+ Credit-default swaps on 93 percent of the 70 governments
+tracked by CMA rose, with Greece temporarily overtaking
+Venezuela as the country with the world’s highest bond risk, the
+CME Group Inc. unit said in a report published today.  
+ “The major widening action in European sovereign credits
+indicates that the eurozone remains the hub and focus of the
+global debt crisis,” according to CMA’s Global Sovereign Credit
+Risk report. “None of the Western European sovereign credit-
+default swaps tightened.”  
+ European Central Bank President  Jean-Claude Trichet  this
+week urged governments to trim deficits to improve consumer and
+investor confidence. The European Union in May hammered out a
+750 billion euro ($939 billion) rescue package to help ease a
+regional debt crisis sparked by Greece’s budget deficit.  
+ Protection costs for the quarter’s worst European
+performers more than doubled, with swaps on Greece soaring 190
+percent, Belgium climbing 168 percent, Spain 129 percent and
+Portugal 127 percent, the report said.  
+ Credit-default swaps are contracts for protecting bonds
+against default and traders use them to speculate on credit
+quality. An increase suggests deteriorating perceptions of
+credit quality and a drop shows improvement.  
+ Korean Tensions  
+ Swaps on South Korea climbed 65 percent as tensions with
+neighboring North Korea mounted when a warship sank, making it
+Asia’s worst-performing sovereign. With a 2 percent increase
+Vietnam was Asia’s best performer.  
+ The cost of insuring Australia’s debt increased 52 percent
+after a new mining tax was levied on resource companies.  
+ The U.S. was one of eight nations whose default swaps
+showed improvement in the quarter, falling 2.4 percent,
+according to CMA. U.K. credit-default swaps were little changed
+as the country’s new coalition government announced a reduction
+in the “scale of state spending and tax increases to help bring
+public debt under control,” the report said.  
+ Norway, Finland, the U.S., Denmark and Sweden have the
+lowest probability of sovereign default, according to the swaps
+market. Venezuela, Greece, Argentina, Pakistan and Ukraine are
+the riskiest states.  
+ To contact the reporter on this story:
+ Katrina Nicholas  in Singapore at 
+ knicholas2@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     ECB President Jean-Claude Trichet arrives at the Cercle des Economistes' Rencontres Economiques meeting in Aix-en-Provence, France. Photographer: Antoine Antoniol/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,44 @@
+-- Greece Asks for EU Aid
+-- Maria Petrakis
+-- 2010-04-23T10:08:59Z
+-- http://www.bloomberg.com/news/2010-04-23/greece-plans-to-ask-for-eu-imf-aid-package-immediately-papandreou-says.html
+
+          
+          
+             Greek Prime Minister George
+Papandreou said his government needs to trigger a European
+Union-led rescue plan.  
+ "It is a matter of national need to ask officially" for a
+rescue, Papandreou said on state television. Papandreou spoke
+to Greek Finance Minister George Papaconstantinou and gave
+him the mandate to proceed with procedures for activation.  
+ To contact the reporter on this story:
+Maria Petrakis in Athens at 
+ mpetrakis@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     George Papandreou, Greece's prime minister, speaks at a press conference following the European Union Summit in Brussels, on March 26, 2010. Photographer: Jock Fistick/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

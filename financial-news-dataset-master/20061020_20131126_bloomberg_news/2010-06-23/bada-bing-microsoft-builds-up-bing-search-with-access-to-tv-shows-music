@@ -1,0 +1,85 @@
+-- Microsoft Enhances Bing Search With Access to TV, Music to Take on Google
+-- Andy Fixmer
+-- 2010-06-23T04:01:00Z
+-- http://www.bloomberg.com/news/2010-06-23/bada-bing-microsoft-builds-up-bing-search-with-access-to-tv-shows-music.html
+
+          
+          
+             Microsoft Corp. ’s Bing search engine
+is adding an  entertainment page  that allow users to watch
+television shows, play games and listen to music without leaving
+the website.  
+ Bing is providing local TV times, movie listings and access
+to song lyrics,  Yusuf Mehdi , senior vice president of
+Microsoft’s online audience business, said yesterday in an e-
+mailed statement. The company invited press to an event in West
+Hollywood, California, to announce the updates.  
+ The features may help Microsoft gain ground on  Google
+Inc. ’s dominant search engine. A survey of Bing users found that
+76 percent want one online destination for entertainment options
+to eliminate clutter, Redmond, Washington-based Microsoft said.
+Bing organizes search results into TV shows, music, video games
+and movies.  
+ “As the content on the Web has exploded, it has become
+difficult to navigate and find what you are looking for,” Mehdi
+said in the statement. “So we see a great opportunity to help
+customers make important entertainment decisions.”  
+ Microsoft, the world’s biggest software maker, fell 18
+cents to $25.77 yesterday in Nasdaq Stock Market  trading . The
+shares have declined 15 percent this year.  
+ Using Microsoft’s Zune music service, Bing provides one-
+time access to 5 million full-length songs and then 30-second
+clips afterwards, according to  Adam Sohn , a spokesman. Listeners
+will also be able to buy the track, read the lyrics and find
+concert information.  
+ The service also lets users watch 1,500 TV shows and 20,000
+full-length episodes of programs posted at  Hulu.com , YouTube.com
+and at the websites of cable and TV networks, without ever
+actually leaving the Microsoft website.  
+ Reviews, Program Times  
+ Bing also provides reviews, program times and the ability
+to invite friends to watch together on Facebook, Twitter and
+other social networks, Microsoft said. Users will also be able
+to find movie times and buy tickets, and watch trailers and
+clips with search results.  
+ Consumers can use the site to find video-game reviews and
+tips. The site is providing 100 casual games, including
+“Bejeweled” and “Bubble Town,” that can be played on the
+search results page. Friends can also be invited to play along
+through Facebook.  
+ To contact the reporter on this story:
+ Andy Fixmer  in Los Angeles at 
+ afixmer@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          June 23 (Bloomberg) -- Bloomberg's Deirdre Bolton reports on the latest breaking news and top stories in today's Business Briefs. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

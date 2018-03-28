@@ -1,0 +1,188 @@
+-- Boeing Blocks GE, Philips Wireless Spectrum for Patient Monitoring Device
+-- Christopher Flavelle
+-- 2010-07-22T04:01:00Z
+-- http://www.bloomberg.com/news/2010-07-22/boeing-blocks-ge-philips-wireless-spectrum-for-patient-monitoring-device.html
+
+          
+          
+             Technology companies led by  General
+Electric Co.  want to revolutionize the nascent medical-
+monitoring industry by taking to the airwaves. Standing in the
+way is Boeing Co.  
+ GE’s health-care unit has asked the Federal Communications
+Commission to allow devices that transmit patients’ vital signs
+to share the 2360MHz to 2400MHz range of the electromagnetic
+spectrum, now used by Chicago-based Boeing to test the safety of
+planes. It’s the only section of the spectrum where remote
+monitoring would be cost-effective, according to GE Healthcare.  
+ Boeing , the largest U.S. aircraft maker, is urging the FCC
+not to allow new uses of the space. Transmitting medical signals
+on the spectrum would interfere with flight-test data, causing
+delays that would cost $50,000 an hour, said Audrey Allison, the
+company’s frequency-management services director. The disputed
+bandwidth may bring the U.S. as much as $6 billion should the
+FCC decide to auction it, said Coleman Bazelon, an industry
+consultant at  Brattle Group  in Cambridge, Massachusetts.  
+ “This is a technical issue, and they’ll have to battle it
+out,” said  Robert Litan , an economist and Internet policy
+expert at the Brookings Institution in Washington. “It might
+look like a fight about spectrum, but at the end of the day,
+it’s all about money.”  
+ U.S. airwaves transmit everything from television signals
+and mobile-phone calls to FM radio and military communications.
+The airwaves are sliced into different frequencies, or bands,
+for specific uses so your phone call doesn’t interfere with a
+top-secret spy mission, for example.  
+ Public Safety  
+ The FCC is reallocating portions of the spectrum to unclog
+wireless communications networks and enhance public safety,
+selling off large chunks in auctions that have yielded billions
+of dollars for the U.S. Treasury.  
+ The band used by Boeing and coveted by GE may be worth $3
+billion to $6 billion at auction, Bazelon said. Whether the FCC
+will even hold an auction isn’t known.  
+ The agency will hold a public meeting with the Food and
+Drug Administration July 26 and 27 to discuss using the airwaves
+for remote monitoring. The systems wirelessly register vital
+statistics, such as heart rate or blood-oxygen saturation.  
+ The technology, already used in some hospitals, promises to
+cut costly doctor visits for millions of patients by allowing
+blood pressure, heart rates and other vital signs to be checked
+at a distance, potentially saving lives and billions of dollars.  
+ The devices “measure physiological signals continuously,”
+said Munesh Makhija, general manager of systems and wireless at
+ GE Healthcare , based in Chalfont St. Giles, in the U.K. near
+London. They would “make work flow a lot more productive for
+the hospital,” he said in an interview.  
+ Cost Savings  
+ Wireless monitoring would make it simpler to keep tabs on
+patients, especially those who can’t or won’t report on their
+own, Makhija said. Such systems have the potential to generate
+cost savings for the health system, he said.  
+ Cutting down on the equipment used to monitor health also
+can aid infection control, since “you would not have to clean
+and re-clean cables, tubes and connectors,” Makhija said.  
+ An analysis by Litan of Brookings estimated that remote
+monitoring technologies may save as much as $197 billion in
+health-care costs over 25 years.  
+ “It’s a really enticing technology,” said Bernie Liebler,
+director of technology and regulatory affairs at the  Advanced
+Medical Technology Association , a Washington-based industry
+group. “This would allow that kind of continuous monitoring
+while people are walking around” and carrying out normal day-
+to-day activities, he said.  
+ Question of Power  
+ When the agency first opened discussion on use of the
+spectrum, it suggested alternative bands for medical monitoring.
+GE Healthcare said those options are unworkable.  
+ “Chips operating at those frequencies consume too much
+power,” making them too costly to develop and implement widely,
+said Neal Seidl, a wireless architect at GE Healthcare.  
+ Boeing, which says it needs exclusive use of the spectrum
+to ensure the safety of millions of travelers who fly on its
+airplanes, expects a decision from the FCC “in the next few
+months,” Allison said in a May interview.  
+ The FCC has no set date on deciding on GE Healthcare’s
+request,  Julius Knapp , chief of the commission’s office of
+engineering and technology, said in an interview.  
+ International Business Machines Corp.  of Armonk, New York,
+Royal Philips Electronics NV of Amsterdam, and Nordic
+Semiconductor ASA of Trondheim, Norway, are also developing
+technologies to transmit a continuous flow of health information
+using the spectrum space.  
+ Monitoring Market  
+ An FCC decision to make the spectrum available for medical
+use would boost development of remote monitoring, a market
+expected to reach $4.6 billion in annual revenue by 2014,
+according to  TMNG Global , a consulting company based in Overland
+Park, Kansas.  
+ If the FCC rules in favor of GE Healthcare, Boeing would
+pursue its legal options, Allison said. She declined to say what
+those choices might be. Agency decisions can be challenged in
+court.  
+ “We’re optimistic that we will find a workable solution,
+because it’s so important to protect our ability to do flight
+tests in the U.S.,” Allison said.  
+ Remote-monitoring devices have potential for widespread use
+and significant savings for the U.S. health-care system,
+compared with only a limited use in aircraft testing, said
+Preston Marshall, director of wireless networking at the
+University of Southern California’s  Viterbi School of
+Engineering , in Los Angeles.  
+ “We’re talking a few people who do telemetry or testing,
+versus potentially everyone’s grandmother,” Marshall said.  
+ To contact the reporters on this story:
+ Sophia Yan  at   sophiayan@bloomberg.net ;
+ Christopher Flavelle  at 
+ cflavelle@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                                                 
+                     
+                     Enlarge image 
+                     
+                     
+                       Bandwidth Spectrum  
+                       
+                         
+                           
+                         
+                         A specific bandwidth spectrum could be used for wireless medical monitoring. Illustration: David Rogowski/Bloomberg 
+                       
+                     
+                                        
+           
+                     A specific bandwidth spectrum could be used for wireless medical monitoring. Illustration: David Rogowski/Bloomberg  
+                   
+    
+
+
+ 
+     
+         
+             Chart:  Savings From Remote Monitoring
+         
+     
+ 
+
+
+                 
+           
+                                                 
+                     
+                     Enlarge image 
+                     
+                     
+                       Boeing 777 Test Flight  
+                       
+                         
+                           Stephen Brashear/Getty Images 
+                         
+                         The 2360Mh to 2400Mh range of spectrum is currently used almost exclusively by Boeing to transmit flight test data. 
+                       
+                     
+                                        
+           
+                     The 2360Mh to 2400Mh range of spectrum is currently used almost exclusively by Boeing to transmit flight test data. Photographer: Stephen Brashear/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

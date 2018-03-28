@@ -1,0 +1,85 @@
+-- Oil Spills Raise Ocean's Arsenic Level in `Toxic Time Bomb,' Study Shows
+-- Michelle Fay Cortez
+-- 2010-07-02T13:50:00Z
+-- http://www.bloomberg.com/news/2010-07-02/oil-spills-raise-ocean-s-arsenic-level-in-toxic-time-bomb-study-shows.html
+
+          
+          
+             Oil spills like the one in the Gulf
+of Mexico interfere with the ocean’s natural filtration system,
+allowing  arsenic  levels to build up and threaten the long-term
+health of marine plants and animals, researchers found.  
+ Minerals on the ocean floor attract arsenic found in
+seawater, latching onto the poison and burying it under layers
+of sand, silt and sediment, according to a new study released
+today by scientists from  Imperial College London . The study was
+published today in the journal Water Research.  
+ Arsenic is also found in oil. Leaks from underground
+reservoirs, spills and wastewater from rigs all increase levels
+of the chemical in the ocean and threaten the marine ecosystem
+as well as the food chain, the researchers said.  
+ “The real danger lies in arsenic’s ability to accumulate,
+which means that each subsequent spill raises the levels of this
+pollutant in seawater,” said  Mark Sephton , a professor at
+Imperial’s department of earth science and engineering. “Our
+study is a timely reminder that oil spills could create a toxic
+ticking time bomb, which could threaten the fabric of the marine
+ecosystem in the future.”  
+ Oil creates a barrier between positively charged sediment
+in seawater and negatively charged arsenic, and weakens the
+magnetic attraction between them, researchers found. The result
+is a one-two punch with more arsenic in the water and a clogged
+filtration system that traditionally keeps the poison in check,
+they said.  
+ There is no way to know how much arsenic is currently being
+pumped into the Gulf of Mexico from the oil spill at  BP Plc ’s
+Macondo well, Sephton said. It started leaking after an April 20
+explosion on the Deepwater Horizon killed 11 crew members and
+sank the rig.  
+ Additional arsenic from the oil and the damaged filtration
+system will concentrate in the marine ecosystem, creating ever
+more dangerous levels of the poison the further it moves up the
+food chain, the researchers said.  
+ To contact the reporter on this story:
+Michelle Fay Cortez in London at 
+ mcortez@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                                                 
+                     
+                     Enlarge image 
+                     
+                     
+                       Oil floats on the surface of the Gulf of Mexico  
+                       
+                         
+                           Kari Goodnough/Bloomberg 
+                         
+                         A sheen of oil floats on the surface of the Gulf of Mexico near Gulf Shores, Alabama. 
+                       
+                     
+                                        
+           
+                     A sheen of oil floats on the surface of the Gulf of Mexico near Gulf Shores, Alabama. Photographer: Kari Goodnough/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,49 @@
+-- Stocks in U.S. Drop, Led by Energy Producers as Oil Falls on Storm Outlook
+-- Michael P. Regan
+-- 2010-06-28T14:15:17Z
+-- http://www.bloomberg.com/news/2010-06-28/u-s-stocks-drop-as-oil-falls-on-speculation-storm-won-t-hurt-gulf-output.html
+
+          
+          
+             U.S. stocks dropped, led by energy
+producers as oil retreated from a seven-week high on speculation
+Gulf of Mexico production won’t be affected by a tropical storm.  
+ The Standard & Poor’s 500 Index slipped 0.3 percent to
+1,073.15 at 10:12 a.m. in New York. The Dow Jones Industrial
+Average lost 23.58 points, or 0.2 percent, to 10,120.23. The
+yield on the 10-year Treasury note slipped six basis points to
+3.05 percent. The Dollar Index gained 0.2 percent to 85.483.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          June 28 (Bloomberg) -- Jeffrey Palma, global equity strategist at UBS AG, discusses his investment strategy.
+     Palma, talking with Betty Liu, Jon Erlichman and Sheila Dharmarajan on Bloomberg Television's "In the Loop," also discusses the U.S. economy and bond market. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,75 @@
+-- Amazon, Beckman, E*Trade, QLogic, SanDisk: U.S. Equity Preview
+-- Lu Wang
+-- 2010-07-23T04:00:00Z
+-- http://www.bloomberg.com/news/2010-07-22/amazon-beckman-e-trade-qlogic-sandisk-u-s-equity-preview.html
+
+          
+          
+             Shares of the following companies
+may have unusual moves in U.S. trading. Stock symbols
+are in parentheses.  
+ Align Technology Inc.  (ALGN US): The maker of a system to
+straighten teeth forecast sales of at least $92 million in the
+third quarter, beating the average analyst estimate of $89.5
+million in a Bloomberg survey.  
+ Amazon.com Inc.  (AMZN US): The largest Internet retailer
+posted second-quarter profit that missed analysts’ estimates as
+some consumers curbed online spending and falling European
+currencies may have eroded overseas sales.  
+ Beckman Coulter Inc.  (BEC US): The maker of laboratory
+equipment reduced its full-year forecast after second-quarter
+earnings missed analysts’ estimates.  
+ E*Trade Financial Corp.  (ETFC US): The online brokerage
+unexpectedly reported its first quarterly profit in almost three
+years as the company set aside less for future defaults at its
+retail banking unit.  
+ Microsoft Corp.  (MSFT US): The world’s largest software
+maker reported fourth-quarter profit topped analysts’ estimates
+after customers purchased more personal computers running the
+Windows operating system.  
+ QLogic Corp.  (QLGC US): The supplier of chips and switches
+for corporate networks reported first-quarter sales of $142.6
+million, trailing the average analyst estimate of $144.1
+million.  
+ SanDisk Corp.  (SNDK US): The biggest maker of flash-memory
+cards reported second-quarter profit excluding some items that
+topped the average analyst estimate by 20 percent, the smallest
+beat since the first quarter of 2009.  Daniel Berenbaum , an
+analyst at Auriga Securities in New York, said investors were
+looking for more upside.  
+ To contact the reporter on this story:
+ Lu Wang  in New York at   lwang8@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 22 (Bloomberg) -- Cliff Remily, a portfolio manager at Thornburg Investment Management Inc., talks about his investment strategy for dividend-paying stocks.
+     Remily talks with Pimm Fox on Bloomberg Television's "Street Smart."  (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

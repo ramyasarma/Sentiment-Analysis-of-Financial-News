@@ -1,0 +1,53 @@
+-- Google Says Its Web Search Partially Blocked in China
+-- Mark Lee
+-- 2010-07-09T08:45:40Z
+-- http://www.bloomberg.com/news/2010-07-09/google-says-its-internet-search-service-is-partially-blocked-in-china.html
+
+          
+          
+             Google Inc.  said its Internet search
+service has been partially blocked in China, where the company
+is seeking the renewal of its license following a standoff with
+the government on online censorship.  
+ The search service in China has been partially interrupted
+since yesterday, according to the company’s latest  accessibility
+report . The last such blockage was on June 20.  
+ Google’s “suggest” function has been blocked in China since
+June 30, after the operator of the world’s most-popular search
+engine filed a revised application to renew its Internet license.
+The company expects the Chinese government to approve its
+application, Chief Executive Officer  Eric Schmidt  said yesterday.  
+ The company stopped redirecting users of its Google.cn
+service automatically to an unfiltered Hong Kong site as part of
+its  revised application . The Chinese government objected to the
+automatic redirection practice, Google said.  
+ To contact the reporter on this story:
+ Mark Lee  in Hong Kong at 
+ wlee37@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Google CEO Eric Schmidt speaks during a news conference. Photographer: Matthew Staver/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

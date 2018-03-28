@@ -1,0 +1,78 @@
+-- Nestle Sues Sara Lee Over Nespresso Patents
+-- Thomas Mulier
+-- 2010-06-15T13:44:00Z
+-- http://www.bloomberg.com/news/2010-06-15/nestle-takes-legal-action-against-sara-lee-for-nespresso-patent-violation.html
+
+          
+          
+             Nestle SA , the world’s biggest
+foodmaker, said it began legal action against  Sara Lee Corp.  in
+France for alleged patent violations on its Nespresso coffee-
+making system.  
+ Nestle “will always take appropriate steps to defend our
+intellectual property rights when these have been infringed,”
+the Vevey, Switzerland-based company said today in an e-mailed
+response to questions, without giving details. Ferhat Soygenis,
+a spokesman, declined to comment further on the proceedings.  
+ Sara Lee started selling L’OR Espresso capsules that are
+compatible with Nespresso single-serving coffee machines in
+French stores in April. The Downers Grove, Illinois-based
+company is “confident our product complies with all applicable
+legal and regulatory requirements,” spokesman  Ernesto Duran 
+said today by phone.  
+ “Sara Lee and the others are now trying to piggyback the
+system that Nestle has taken decades to establish with the
+associated high investment costs,” said  James Amoroso , a food-
+industry consultant based in Walchwil, Switzerland.  
+ Nestle  first sold single-serve espresso for machines that
+don’t need cleaning 24 years ago. The Swiss company cultivates
+an exclusive image for Nespresso through boutiques that boast
+tasting salons in locations such as Paris’s Champs-Elysees and
+via a magazine sent to the homes of some of its 7 million
+Nespresso Club members twice a year.  
+ French Sales  
+ Sara Lee  has sold 12 million capsules since it introduced
+the product in France two months ago, Duran said.  
+ “We see no reason why Nespresso would take legal action
+against us and are confident about the outcome of the
+proceedings,” he said.  
+ Ethical Coffee Co., which also started selling a compatible
+version in France last month, and Sara Lee are the first to
+offer alternatives to Nespresso capsules. Consumers who bought a
+Nespresso machine previously were committed to using Nestle’s 16
+“Grand Cru” and limited-edition varieties, sold only in the
+boutiques and online.  
+ Ethical Coffee capsules use a water seal that doesn’t
+infringe Nespresso’s patents, Chief Executive Officer  Jean-Paul Gaillard  said today by phone.  
+ Nestle hasn’t taken legal action against Fribourg,
+Switzerland-based Ethical Coffee, spokesman Soygenis said.  
+ To contact the reporter on this story:
+ Thomas Mulier  in Geneva at 
+ tmulier@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A Nespresso coffee machine. Photographer: Antoine Antoniol/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

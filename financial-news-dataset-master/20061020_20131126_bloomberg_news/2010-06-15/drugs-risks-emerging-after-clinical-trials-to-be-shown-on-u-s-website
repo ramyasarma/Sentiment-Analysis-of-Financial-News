@@ -1,0 +1,82 @@
+-- Drugs' Risks Emerging After Clinical Trials to Be Shown on U.S. Website
+-- Molly Peterson
+-- 2010-06-15T19:00:00Z
+-- http://www.bloomberg.com/news/2010-06-15/drugs-risks-emerging-after-clinical-trials-to-be-shown-on-u-s-website.html
+
+          
+          
+             Doctors and patients will be able to
+track drugs’ safety on an Internet-based system introduced today
+by the U.S. Food and Drug Administration, the result of law
+aimed at reducing injuries and deaths from adverse effects.  
+ The agency will review approved prescription medicines
+after they reach the market to provide “early detection” of
+any risks or adverse effects that weren’t identified in trials,
+ Gerald Dal Pan , director of the FDA’s  Office of Surveillance and
+Epidemiology , said today in a statement. The FDA will summarize
+the findings on a page that will be added to its website today.  
+ The reviews are required under a 2007 law that gave the FDA
+more power to police approved medications. Lawmakers had
+questioned the agency’s performance in handling Vioxx, the  Merck
+& Co.  painkiller withdrawn worldwide in 2004 after being linked
+to heart attacks and strokes, and  GlaxoSmithKline  Plc’s diabetes
+pill Avandia, linked in studies to a risk of heart attacks.
+While drugmakers must complete clinical safety trials as part of
+the FDA approval process, adverse effects may not become
+apparent until medicines are used more widely, the FDA said in
+its statement.  
+ “These summaries will provide clear and useful information
+in a timely manner that can be used by providers and patients to
+make informed decisions about an individual’s health,” Robert
+Ball, director of the FDA’s Office of Biostatistics and
+Epidemiology, said in the statement.  
+ The agency, based in Silver Spring, Maryland, will
+summarize what it learns about the safety of products 18 months
+after they have been approved or after at least 10,000 patients
+have used them, whichever occurs later. The first reports will
+focus on drugs and biologics cleared since September 2007,
+including medications for infections, hypertension and
+depression, the FDA said.  
+ To contact the reporter on this story:
+ Molly Peterson  in Washington at 
+ mpeterson9@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                                                 
+                     
+                     Enlarge image 
+                     
+                     
+                       FDA website  
+                       
+                         
+                           
+                         
+                         Photo Illustration: Bloomberg 
+                       
+                     
+                                        
+           
+                     Photo Illustration: Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

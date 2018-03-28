@@ -1,0 +1,68 @@
+-- Obama Thanks Military Families for Service at Fourth of July Celebration
+-- Nicholas Johnston
+-- 2010-07-05T00:24:58Z
+-- http://www.bloomberg.com/news/2010-07-05/obama-thanks-military-families-for-service-at-fourth-of-july-celebration.html
+
+          
+          
+             President  Barack Obama  today thanked
+military families for their service at an Independence Day
+celebration on the South Lawn of the White House.  
+ “You are the men and women who toil to defend these
+states,” Obama told about 1,200 members of the U.S. Armed
+Forces and their families. “And you have earned your place
+among the greatest of generations.”  
+ For the second year in a row, Obama welcomed members of the
+Army, Navy, Marine Corps, Air Force and Coast Guard and their
+families to the White House to view the annual fireworks display
+on the  National Mall .  
+ He told them to “relax and have some fun today,” the
+234th anniversary of the signing of the Declaration of
+Independence.  
+ Obama said the principles of liberty in that document have
+helped make the U.S. “a beacon to the world.”  
+ “We constantly have to work in order to perfect our
+union,” he said. “And that work is never truly done.”  
+ Vice President  Joe Biden , in his Fourth of July remarks
+during a visit with U.S. troops and Iraqi leaders in Baghdad,
+said America stands with the Iraqis as they build a new country.  
+ “My plea to you is, finish what you’ve started, a truly
+legitimate and representative government that meets the needs
+and aspirations of all Iraqi people,” Biden said at a Fourth of
+July reception. “ We have nothing more than to want you to grow
+as an independent, prosperous democracy.”  
+ The U.S. is preparing to reduce its forces in Iraq to
+50,000 from 86,000 later this year, before a full withdrawal
+next year. Obama pledged to keep to that timetable.  
+ “We are poised to end our combat mission in Iraq this
+summer, on schedule,” he said.  
+ To contact the reporter on this story:
+ Nicholas Johnston  in Washington at 
+ njohnston3@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     U.S. President Barack Obama speaks during a Fourth of July barbecue at the White House in Washington. Photographer: Mandel Ngan/AFP/Getty Images  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

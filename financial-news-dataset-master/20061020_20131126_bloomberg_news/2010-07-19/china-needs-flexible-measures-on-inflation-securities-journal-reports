@@ -1,0 +1,49 @@
+-- China Needs `Flexible Measures' on Inflation, Securities Journal Reports
+-- Bloomberg News
+-- 2010-07-19T23:39:26Z
+-- http://www.bloomberg.com/news/2010-07-19/china-needs-flexible-measures-on-inflation-securities-journal-reports.html
+
+          
+          
+             China should use “flexible
+measures”, such as providing more subsidies for the poor and
+reducing tax duties to curb inflation, the China Securities
+Journal reported today, citing Li Daokui, an advisor to the
+central bank.  
+ To contact the reporter on this story:
+Huiwen Yang in Shanghai at 
+ hyang66@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 20 (Bloomberg) -- Robert Doll, vice chairman and chief equity strategist at BlackRock Inc., the world’s largest asset manager, talks with Bloomberg's Susan Li about the outlook for the U.S. economy and stocks.
+     Doll, speaking from Princeton, New Jersey, also discusses his investment strategy for emerging market stocks, and China's economy. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

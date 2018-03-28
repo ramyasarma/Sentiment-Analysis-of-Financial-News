@@ -1,0 +1,93 @@
+-- Quanto Swaps Signal 9 Percent Euro Drop on Greek Default, Citigroup Says
+-- Abigail Moses
+-- 2010-06-21T07:12:08Z
+-- http://www.bloomberg.com/news/2010-06-21/quanto-swaps-indicate-euro-may-slump-9-if-greece-defaults-citigroup-says.html
+
+          
+          
+             The euro will fall 9 percent against
+the dollar should Greece default, according to Citigroup Inc.
+prices for quanto credit swaps that allow investors to bet on
+currency volatility and sovereign debt risk.  
+ So-called quanto swaps on European government bonds give
+investors the chance to bet the 16-nation currency will decline
+as governments struggle to finance budget deficits. Profit can
+be made from buying insurance on a euro-area government in
+dollars and selling protection on the same bonds in the common
+currency, according to Citigroup.  
+ “Everybody knows the euro will be punished if a country
+defaults, but nobody knows by how much,” said  Mikhail Foux , a
+credit strategist at Citigroup in New York. Quanto credit-
+default swaps provide a “decent approximation,” he said.  
+ An emergency ban on default swaps is being considered by
+the European Union after German Chancellor  Angel Merkel  and
+French President  Nicholas Sarkozy  blamed the derivatives for
+worsening the fiscal crisis. Germany curbed trading of some debt
+and euro-currency derivatives last month to ease selling
+pressure on the region’s bonds and currency.  
+ Credit-default swaps signal there’s a 50 percent chance
+Greece will renege on its debt commitments within five years,
+according to CMA DataVision. Swaps pay the buyer face value less
+the value of the defaulted debt should a borrower fail to adhere
+to its obligations. The contracts allow investors to hedge
+against losses on debt or speculate on creditworthiness.  
+ The euro may fall as much as 28 percent if France fails to
+repay investors, while a default by the Spanish government would
+trigger a 20 percent currency devaluation, Italy a 17 percent
+drop and Germany a 25 percent decline, according to Citigroup.  
+ SovX Index  
+ The euro has fallen 13 percent against the dollar this year
+and dropped to a four-year low of $1.1877 on June 7. At the same
+time, the Markit iTraxx SovX Western Europe Index of credit-
+default swaps on 15 governments surged to 168.5 basis points
+June 4, compared with 62.5 basis points Jan. 6, CMA prices show.
+“Investors who believe the current volatile environment is here
+to stay should be selling sovereign quanto CDS,” Foux said.
+“Quanto CDS is a great tool to mitigate one’s FX exposures.”  
+ The impact of a sovereign default on the euro is calculated
+by the quanto spread, the gap between the cost of protecting
+against default in different currencies, divided by the
+benchmark credit-default swap level. Swaps on European
+sovereigns typically trade in dollars so the value of protection
+isn’t eroded by weakening of the euro in case of default.  
+ The ratio between the Greek quanto, or the 75 basis-point
+difference between the cost of dollar- and euro-denominated
+swaps on the nation, and the cost of dollar swaps at 795 basis
+points is 9.4. Investors can profit from changes in spreads and
+currency as they rebalance their holdings and Citigroup said a
+quanto trade on Greece over the past six months would have
+yielded about 200 basis points.  
+ The euro rose 0.5 percent to $1.2454 as of 8:04 a.m. in
+London. A basis point on a credit-default swap contract
+protecting $10 million of debt from default for five years is
+equivalent to $1,000 a year.  
+ To contact the reporter on this story:
+ Abigail Moses  in London at 
+ Amoses5@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Twenty euro notes pass through a counting machine in a currency exchange store in Lisbon Photographer: Mario Proenca/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

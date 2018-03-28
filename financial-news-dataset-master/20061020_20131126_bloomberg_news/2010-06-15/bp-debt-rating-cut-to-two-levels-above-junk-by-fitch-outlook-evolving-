@@ -1,0 +1,75 @@
+-- BP Debt Rating Cut to Two Levels Above Junk by Fitch, Outlook `Evolving'
+-- Stephen Cunningham
+-- 2010-06-15T10:20:45Z
+-- http://www.bloomberg.com/news/2010-06-15/bp-debt-rating-cut-to-two-levels-above-junk-by-fitch-outlook-evolving-.html
+
+          
+          
+             BP Plc’s long-term issuer default
+rating snd senior unsecured rating were cut to BBB from AA at
+Fitch Ratings. The rating watch was changed to Evolving from
+Negative.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          June 15 (Bloomberg) -- Jane Coffey, head of equities at Royal London Asset Management Ltd., talks about the firm's investment in BP Plc shares.
+     Coffey speaks with Francine Lacqua on Bloomberg Television's "Countdown." (Source: Bloomberg)  
+                   
+    
+
+                 
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          June 14 (Bloomberg) -- Alex Sink, chief financial officer for the state of Florida, speaks about the financial impact of the BP Plc oil leak in the Gulf of Mexico on her state and her desire that the federal government lead the process for claims against BP.
+     Sink speaks with Margaret Brennan and Lizzie O'Leary on Bloomberg Television's "InBusiness." (Source: Bloomberg)  
+                   
+    
+
+                 
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          June 15 (Bloomberg) -- Greg Smith, managing director of stock market research firm Fat Prophets, talks about BP Plc's efforts to halt the Gulf of Mexico oil leak and the damage to its reputation.
+     He speaks with Mark Barton on Bloomberg Television's "Global Connection." (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

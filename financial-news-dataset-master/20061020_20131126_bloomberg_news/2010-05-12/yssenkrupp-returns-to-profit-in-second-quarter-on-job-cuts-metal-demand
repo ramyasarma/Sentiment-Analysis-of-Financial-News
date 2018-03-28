@@ -1,0 +1,60 @@
+-- ThyssenKrupp to Reduce Steel Processing Next Quarter as Work Done at Mills
+-- Nicholas Comfort
+-- 2010-06-15T14:00:01Z
+-- http://www.bloomberg.com/news/2010-05-12/thyssenkrupp-returns-to-profit-in-second-quarter-on-job-cuts-metal-demand.html
+
+          
+          
+             ThyssenKrupp AG , Germany’s largest
+steelmaker, said it will reduce output at some steel-processing
+facilities in the third quarter.  
+ So-called hot-strip capacity will be about 10 percent lower
+in the quarter, mainly because of work at mills in Duisburg and
+Bochum following upgrades, company spokesman  Dietmar Stamm  said
+today in Duisburg.  
+ ThyssenKrupp will carry out a “multi-week” shutdown at
+its hot-dip coating line at Finnentrop for repairs after an
+explosion in an aluminum bath, and will halt the continuous
+annealing line in Dortmund for pollution-control upgrades.  
+ The company said it will coordinate restrictions to
+delivery capabilities with its customers. Steelmaking operations
+will continue to run at full production because of “tight”
+slab capacities, it said.  
+ To contact the reporter on this story:
+ Nicholas Comfort  in Duisburg, via the Frankfurt newsroom
+at   ncomfort1@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     The ThyssenKrupp headquarters in Duisburg. Photographer: Wolfgang von Brauchitsch/Bloomberg  
+                   
+    
+
+                 
+           
+                            
+                     
+                     An employee inspects steel rolls at a ThyssenKrupp plant in Duisburg. Photographer: Wolfgang von Brauchitsch/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

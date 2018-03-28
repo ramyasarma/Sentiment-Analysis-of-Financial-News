@@ -1,0 +1,155 @@
+-- Windmill Boom Cuts Electricity Prices in Europe
+-- Jeremy van Loon
+-- 2010-04-23T14:45:50Z
+-- http://www.bloomberg.com/news/2010-04-22/windmill-boom-curbs-electric-power-prices.html
+
+          
+          
+             On windy nights in northern
+Germany, consumers are paid to keep the lights on.  
+ Twice this year, the nation’s 21,000 wind turbines pumped
+out so much power that utilities reduced customer bills for
+using the surplus electricity. Since the first rebate came with
+little fanfare at 5 a.m. one October day in 2008, payments have
+risen as high as 500.02 euros ($665) a megawatt-hour, about as
+much as a small factory or 1,000 homes use in 60 minutes.  
+ The wind-energy boom in Europe and parts of Texas has begun
+to reduce bills for consumers. Electricity-network managers have
+even ordered windmills offline at times to trim supplies. That
+hurts profit for wind-farm operators, said Christian Kjaer, head
+of the European Wind Energy Association, which represents RWE AG
+of Germany, Spain’s Iberdrola SA and Dong Energy A/S of Denmark.  
+ “We’re seeing that wind energy lowers prices, which is
+great for the consumers,” Kjaer said at his group’s conference
+in Warsaw this week. “We as producers have to acknowledge that
+this means operating the existing plant fewer hours a year, and
+this has an effect on investors” and profit.  
+ After years of getting government incentives to install
+windmills, operators in Europe may have become their own worst
+enemy, reducing the total price paid for electricity in Germany,
+Europe’s biggest power market, by as much as 5 billion euros
+some years, according to a study this week by Poeyry, a
+Helsinki-based industry consultant.  
+ Wind Capacity  
+ Germany has doubled capacity to generate power from wind
+since 2002 and has turbines producing about 7.5 percent of the
+nation’s electricity, according to the German Wind Energy
+Association. That compares with 4.8 percent for the European
+Union and about 1 percent in the U.S. The turbines operate about
+a third of the time and are idle in calm weather.  
+ “Wind is playing an important role in spot-price
+volatility because it’s very difficult to predict when more
+power is coming on line,” said Ruxandra Haradau-Doeser, an
+analyst at Bankhaus Metzler in Frankfurt.  
+ The erratic nature of weather makes it difficult for
+utilities to estimate by how much wind power pushes down revenue
+they earn from competing energy sources such as natural gas. A
+spokeswoman at Bilbao, Spain-based Iberdrola, the world’s
+largest wind-power operator, declined to estimate.  
+ Spanish power prices fell an annual 26 percent in the first
+quarter because of the surge in supplies from wind and
+hydroelectric production, the Spanish wind-industry trade group
+said in a statement yesterday on its Web site.  
+ Negative Prices  
+ RWE, Germany’s second-largest utility, minimizes the risks
+of having to pay consumers to use power by using a “broad”
+range of different generation technologies in different markets,
+a spokesman for the company said. Rebates, or negative prices,
+do not have a big negative effect on the company, he said.  
+ “Negative electricity prices happen when supply outstrips
+demand and we literally don’t know where to put it,” Peter
+Smits, head of central Europe at Swiss power-equipment maker ABB
+Ltd., said in an interview on April 20 in Hanover. “We will see
+this happen more often in the future.”  
+ One solution is more investment in transmission systems to
+move power from northern Germany wind farms to heavy industry in
+the south, he said. “Power transmission is the bottleneck.”  
+ Power trading needs to be expanded further, Kjaer said.
+Tying European markets together, already done among France, the
+Netherlands and Belgium, lets temporary surpluses flow toward
+electricity-poor zones. Germany plans to join them on Sept. 7.  
+ Price Volatility  
+ Trading more electricity across markets reduces price
+volatility, spreading any excess capacity from wind and solar
+power plants across a broader area, he said.  
+ Storing electricity may be another fix. In Scandinavia,
+Danish wind power is used to pump water into Norwegian and
+Swedish reservoirs and later released to drive hydroelectric
+plants when the wind is not blowing.  
+ Nord Pool, the Nasdaq OMX Group Inc.-owned Scandinavian
+power bourse, last year took steps to encourage generators to
+limit production by implementing a minimum price. The most
+generators would pay users to take their power is 200 euros per
+megawatt hour if there is excess electricity from too much wind.  
+ The measures are meant to “increase the effectiveness of
+the market forcing power generators to consider reducing their
+electricity generation or having to pay for delivering
+electricity,” the company said on its Web site.  
+ Wind’s impact on prices results from its “low marginal
+costs,” which pushes more expensive technologies including
+natural gas and coal out of the market, the Poeyry study said.
+Fossil-fuel burning relies on fuel, which can boost the price of
+electricity from those sources.  
+ Negative Power Prices  
+ Texas had so-called negative power prices in the first half
+of 2008 because wind turbines in the western part of the state
+weren’t adequately linked with more populated regions in the
+east, according to the Electricity Reliability Council of Texas.  
+ Until there’s more integration and better transmission
+grids, prices probably will fluctuate, leading to negative
+prices, in which payment to consumers is reflected as a discount
+on their monthly bills.  
+ That hasn’t yet stopped the expansion of wind power.
+Britain now has wind turbines with the capacity to generate 1
+gigawatt of power offshore, enough for 653,000 homes, the
+industry group RenewableUK said today.  
+ China WindPower Group Ltd., Iberdrola and Duke Energy Corp.
+will lead development of an estimated $65 billion of wind farms,
+according to Bloomberg New Energy Finance. Around the world, the
+potential output of electricity from wind is already 157.9
+gigawatts, according to the Global Wind Energy Council, a
+Brussels-based industry group.  
+ Projects in Danger?  
+ “I haven’t yet seen that negative pricing is a danger to
+new projects,” said Andrew Garrad, chief executive officer of
+GL Garrad Hassan, a wind consulting company. “We do need to get
+the right market mechanisms in place” to better integrate wind
+power into energy grids.  
+ Wind power is as cheap as electricity made from burning
+coal on windy days, and those lower costs drive down power
+prices. In parts of Texas, some utilities are using wind power
+because it’s the cheapest form of energy, said Garrad.  
+ China is the most attractive nation for developing wind
+energy, followed by the U.S. and Germany, Ernst & Young said
+yesterday in a study. The consultant surveyed factors such as
+unexploited energy resources, power rates, taxes and financing.  
+ To contact the reporter on this story:
+Jeremy van Loon in Warsaw via 
+ jvanloon@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     A flock of birds flies by smokestacks and cooling towers emitting smoke and water vapor next to wind turbines at the RWE AG owned coal-fired Weisweiler power station near Aachen, Germany, on Nov. 26, 2009. Photographer: Wolfgang von Brauchitsch/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

@@ -1,0 +1,59 @@
+-- Viniar Says Goldman Sachs Didn't Negotiate With Treasury on AIG Payments
+-- Christine Harper
+-- 2010-04-27T20:51:50Z
+-- http://www.bloomberg.com/news/2010-04-27/viniar-says-goldman-sachs-didn-t-negotiate-with-treasury-on-aig-payments.html
+
+          
+          
+             Goldman Sachs Group Inc. received a
+100 percent payout on its collateral from American International
+Group Inc. because “it was what they owed us,” Chief Financial
+Officer David Viniar said.  
+ Viniar, who spoke today at a Permanent Subcommittee on
+Investigations hearing in Washington, said there was no
+negotiation with the U.S. Treasury Department over the payout.
+Viniar said Goldman Sachs received about $12.9 billion in 2008
+related to securities-lending and credit-default swap contracts
+with AIG.  
+ The New York-based insurer, as part of a bailout
+orchestrated by the Federal Reserve Bank of New York, paid 100
+cents on the dollar on credit-default swaps purchased by bank
+counterparties including New York-based Goldman Sachs. The New
+York Fed said it had to make the payments after banks refused to
+accept so-called haircuts, according to a November audit from
+Neil Barofsky, the special inspector of the U.S. Troubled Asset
+Relief Program.  
+ Goldman Sachs Chief Executive Officer Lloyd Blankfein
+testified at a hearing of the Financial Crisis Inquiry
+Commission in January that he was never asked by U.S. regulators
+to accept a discount on the AIG contracts.  
+ To contact the reporter on this story:
+Michael J. Moore in New York at 
+ mmoore55@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     David Viniar, executive vice president and chief financial officer of Goldman Sachs Group Inc., left, and Craig Broderick, chief risk officer of Goldman Sachs Group Inc., are sworn in before a Senate Homeland Security and Governmental Affairs subcommittee hearing on Wall Street and the financial crisis in Washington, D.C., on April 27, 2010. Photographer: Joshua Roberts/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

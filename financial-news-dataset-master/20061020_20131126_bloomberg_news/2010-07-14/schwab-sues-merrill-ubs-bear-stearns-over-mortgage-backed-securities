@@ -1,0 +1,69 @@
+-- Schwab Sues Securities Dealers Over Mortgage-Backed Securities
+-- Joel Rosenblatt
+-- 2010-07-14T04:01:01Z
+-- http://www.bloomberg.com/news/2010-07-14/schwab-sues-merrill-ubs-bear-stearns-over-mortgage-backed-securities.html
+
+          
+          
+             Units of  Bank of America Corp. ’s
+Merrill Lynch & Co.,  UBS AG  and Bear Stearns Cos. were sued by
+ Charles Schwab Corp.  over claims they lied or omitted
+information on mortgage-backed securities it bought from them.  
+ Schwab, an independent online broker, claims it paid the
+firms $130 million for three securities, and that more dubious
+securities are likely to turn up if the suit is allowed to go
+forward. The complaint was filed June 29 in state court in San
+Francisco, where Schwab is based.  
+ The securities dealers lied or didn’t disclose information
+about loans underlying the bonds they sold, including the loan-
+to-value ratios of mortgages and the number of properties that
+were not primary residences, according to the complaint.  
+ Bill Halldin , a Bank of America spokesman, said the
+securities Merrill Lynch issued that are identified in the suit
+are “performing well, are not in default, and therefore we
+don’t believe there’s any basis for the complaint.” Merrill
+Lynch is the world’s largest brokerage.  
+ Schwab said that when the dealers offered and sold the
+securities, they “made numerous statements to Schwab about the
+certificates and the credit quality of the mortgage loans that
+back them” that were “untrue” or “omitted,” according to
+the complaint. Schwab also said the firms weren’t truthful about
+how much they departed from their own standards in making the
+loans.  
+ JPMorgan Chase declined to comment, spokesman  Joe Evangelisti  said in an e-mail.  
+ UBS spokeswoman  Karina Byrne  didn’t immediately return a
+call seeking comment after regular business hours yesterday.  
+ Wells Fargo & Co.  and  JPMorgan Chase & Co. , which acquired
+Bear Stearns in 2008, are also named in the complaint.  
+ The case is Charles Schwab v. Merrill Lynch, Pierce, Fenner
+& Smith, 10-501151, California Superior Court (San Francisco).  
+ To contact the reporter on this story:
+ Joel Rosenblatt  in San Francisco at 
+ jrosenblatt@bloomberg.net .  
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Charles Schwab, chairman, chief executive officer and founder of Charles Schwab Corp., speaks during an interview in San Francisco. Photographer: Erin Lubin/Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

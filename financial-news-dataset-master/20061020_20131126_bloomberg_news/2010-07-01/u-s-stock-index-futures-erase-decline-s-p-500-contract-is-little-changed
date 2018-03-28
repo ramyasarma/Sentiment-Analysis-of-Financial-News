@@ -1,0 +1,49 @@
+-- U.S. Stock Futures Erase Loss; S&P 500 Contract Little Changed
+-- Michael P. Regan
+-- 2010-07-01T13:05:15Z
+-- http://www.bloomberg.com/news/2010-07-01/u-s-stock-index-futures-erase-decline-s-p-500-contract-is-little-changed.html
+
+          
+          
+             U.S. stock-index futures were little
+changed, erasing earlier declines triggered by an unexpected
+jump in jobless claims and signs that global manufacturing
+growth is slowing.  
+ Standard & Poor’s 500 Index futures expiring in September
+lost less than 0.1 percent to 1,025.7 at 9:03 a.m. in New York
+after reversing a 1 percent slump. Dow Jones Industrial Average
+futures rose 2 points, or less than 0.1 percent, to 9,718 after
+slumping as much as 71 points earlier.  
+          
+          
+
+
+  
+     
+       
+     
+           
+                           
+                 
+                 
+                                       
+                                   
+               
+                        
+           
+                          July 1 (Bloomberg) -- Tobias Levkovich, chief U.S. equity strategist at Citigroup Inc., talks with Bloomberg's Erik Schatzker about the outlook for the U.S. stock market and the potential implications of the country's mid-term elections for the economy. (Source: Bloomberg)  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>

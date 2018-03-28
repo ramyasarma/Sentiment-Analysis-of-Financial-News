@@ -1,0 +1,90 @@
+-- Intel's Martz Bucks Bosses to Turn TVs Into Computer Monitors
+-- Ian King
+-- 2010-06-17T17:26:42Z
+-- http://www.bloomberg.com/news/2010-06-17/intel-s-martz-bucks-bosses-to-turn-tvs-into-computer-monitors.html
+
+          
+          
+             Imagine sitting on your couch with a
+notebook PC on your lap, chuckling at a Saturday Night Live clip
+on NBC.com. You hit a button and a crisp, high-definition
+version of the sketch plays on the TV across the room.  
+ Gary Martz, a senior product manager in Intel Corp.’s
+wireless products unit, championed that idea, though Intel’s top
+brass tried to deep-six the concept. Then major PC makers and
+retailers lined up behind it. Today, Intel executives say they
+have come up with the next must-have feature in personal
+computing, Bloomberg Businessweek reports in its June 21 issue.  
+ Wireless Display, or Wi-Di, uses the Wi-Fi technology that
+connects computers to the Internet without a cord. Martz’s team
+repurposed radio chips and antennas to send and receive data
+simultaneously and transmit whatever a computer is displaying to
+a receiver plugged into the back of a TV. He also needed to
+change the attitude of his bosses.  
+ “They literally laughed me out of the room,” said Martz,
+38, an industrial engineer with an MBA from the University of
+Michigan. Martz considered such obstacles surmountable and bet
+consumers would embrace Wi-Di if it were easy to use.  
+ Dell Inc., Toshiba Corp., and Sony Corp. now offer the
+feature on some of their laptops, which come with a free TV
+adapter made by Netgear Inc.  
+ Intel almost killed off Wi-Di because engineers weren’t
+confident that a Wi-Fi radio, already busy transmitting and
+receiving data, would also deliver high-quality video. They were
+concerned it would require extra chips, which would make the
+computers more expensive and less attractive to consumers.  
+ Household Interference  
+ Wi-Fi is also susceptible to interference from household
+devices such as microwaves, and its quality drops when signals
+have to travel through walls.  
+ Martz said Intel, whose chips run more than 80 percent of
+computers, is far more comfortable talking to IT managers about
+geeky stuff than making technology consumer-friendly.  
+ So he decided to take his technology on the road to build
+support among potential customers. Martz’s associates took early
+(and barely tested) versions of their invention to PC makers in
+Taiwan and Tokyo and then to Richfield, Minnesota-based retailer
+Best Buy Co.  
+ After demonstrations that they were never entirely sure
+would work, the group won the positive feedback needed to
+persuade top Intel executives to fund the project.  
+ Intel formally unveiled its Wi-Di feature in January, and
+Martz said it may eventually show up on tablet PCs and
+handhelds, though he wouldn’t discuss timing or which companies
+plan to use the technology.  
+ Wi-Di’s success may depend on how quickly Intel can get TV
+makers to build the technology into their sets, said Jim
+McGregor, an analyst at market researcher In-Stat. “It’s got to
+be an invisible cost to the consumer.”  
+ None of the five TV makers contacted by Bloomberg
+Businessweek would comment.  
+ To contact the reporter on this story:
+Ian King in San Francisco at 
+ ianking@bloomberg.net   
+          
+          
+
+
+  
+     
+       
+     
+           
+                            
+                     
+                     Gary Martz championed the idea of turning TVs into computer monitors. Photographer: John W. Clark/Businessweek via Bloomberg  
+                           
+
+     
+//<![CDATA[
+
+            $(document).ready(function () {
+        $(".view_story #story_content .attachments img.small_img").each(function(){
+          var self = $(this);
+          if (self.width() != 190){
+            self.width(190);
+        }
+        });
+      });
+    
+//]]>
